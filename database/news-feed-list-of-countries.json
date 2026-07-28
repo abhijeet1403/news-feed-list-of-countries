@@ -691,7 +691,7 @@
       ]
     },
     {
-      "publication_name": "Sydney Morning Herald - Latest News",
+      "publication_name": "Sydney Morning Herald",
       "publication_website_uri": "https://www.smh.com.au/",
       "publication_rss_feed_uris": [
         {
@@ -709,7 +709,7 @@
       ]
     },
     {
-      "publication_name": "The Age - Latest News",
+      "publication_name": "The Age",
       "publication_website_uri": "https://www.theage.com.au/",
       "publication_rss_feed_uris": [
         {
@@ -727,7 +727,7 @@
       ]
     },
     {
-      "publication_name": "The Canberra Times - Local News",
+      "publication_name": "The Canberra Times",
       "publication_website_uri": "https://www.canberratimes.com.au/",
       "publication_rss_feed_uris": [
         {
@@ -736,7 +736,7 @@
       ]
     },
     {
-      "publication_name": "Brisbane Times - Latest News",
+      "publication_name": "Brisbane Times",
       "publication_website_uri": "https://www.brisbanetimes.com.au/",
       "publication_rss_feed_uris": [
         {
@@ -745,7 +745,7 @@
       ]
     },
     {
-      "publication_name": "Business News - Latest Headlines",
+      "publication_name": "Business News",
       "publication_website_uri": "https://www.businessnews.com.au/",
       "publication_rss_feed_uris": [
         {
@@ -1484,7 +1484,7 @@
   ],
   "BGD": [
     {
-      "publication_name": "jagonews24.com | rss Feed",
+      "publication_name": "Jagonews24.com",
       "publication_website_uri": "https://www.jagonews24.com/",
       "publication_rss_feed_uris": [
         {
@@ -2512,7 +2512,7 @@
       ]
     },
     {
-      "publication_name": "NotiBol ivia",
+      "publication_name": "NotiBolivia",
       "publication_website_uri": "https://notibolivia.com",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -2941,7 +2941,7 @@
       ]
     },
     {
-      "publication_name": "barbados Today",
+      "publication_name": "Barbados Today",
       "publication_website_uri": "http://barbadostoday.bb/",
       "publication_rss_feed_uris": [
         {
@@ -3914,7 +3914,7 @@
       ]
     },
     {
-      "publication_name": "China News Service - Greater Bay Area",
+      "publication_name": "China News Service",
       "publication_website_uri": "https://www.chinanews.com.cn",
       "category": "Regional News: Greater Bay Area (Guangdong)",
       "publication_rss_feed_uris": [
@@ -4289,7 +4289,7 @@
       ]
     },
     {
-      "publication_name": "RTNC - Radio Television Nationale Congolaise",
+      "publication_name": "Radio Television Nationale Congolaise",
       "publication_website_uri": "https://rtnc.cd/",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -4481,7 +4481,7 @@
       ]
     },
     {
-      "publication_name": "Radio Okapi - Journal Swahili",
+      "publication_name": "Radio Okapi",
       "publication_website_uri": "https://www.radiookapi.net/journal-swahili",
       "category": "News (Swahili)",
       "publication_rss_feed_uris": [
@@ -5330,7 +5330,7 @@
       ]
     },
     {
-      "publication_name": "Aktuell - FAZ.NET",
+      "publication_name": "FAZ.NET",
       "publication_website_uri": "https://www.faz.net/",
       "publication_rss_feed_uris": [
         {
@@ -5560,7 +5560,7 @@
   ],
   "DNK": [
     {
-      "publication_name": "Borsen.",
+      "publication_name": "Borsen",
       "publication_website_uri": "http://borsen.dk/",
       "publication_rss_feed_uris": [
         {
@@ -6098,7 +6098,7 @@
       ]
     },
     {
-      "publication_name": "SIWEL - Agence Kabyle d'Information",
+      "publication_name": "SIWEL",
       "publication_website_uri": "https://siwel.info",
       "category": "News (Tamazight, Kabyle)",
       "publication_rss_feed_uris": [
@@ -6122,7 +6122,7 @@
       ]
     },
     {
-      "publication_name": "TSA - Tout sur l'Algérie",
+      "publication_name": "TSA",
       "publication_website_uri": "https://www.tsa-algerie.com/",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -7178,7 +7178,7 @@
       ]
     },
     {
-      "publication_name": "Elu24 meelelahutusuudised",
+      "publication_name": "Elu24",
       "publication_website_uri": "http://elu24.ee/",
       "publication_rss_feed_uris": [
         {
@@ -8006,7 +8006,7 @@
       ]
     },
     {
-      "publication_name": "france24.com",
+      "publication_name": "France 24",
       "publication_website_uri": "https://www.france24.com/",
       "publication_rss_feed_uris": [
         {
@@ -8024,7 +8024,7 @@
       ]
     },
     {
-      "publication_name": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
+      "publication_name": "La Dépêche du Midi",
       "publication_website_uri": "https://www.ladepeche.fr/",
       "publication_rss_feed_uris": [
         {
@@ -8033,7 +8033,7 @@
       ]
     },
     {
-      "publication_name": "L&#039;essentiel",
+      "publication_name": "L'essentiel",
       "publication_website_uri": "https://www.sudouest.fr/",
       "publication_rss_feed_uris": [
         {
@@ -8468,7 +8468,7 @@
       ]
     },
     {
-      "publication_name": "World news | The Guardian",
+      "publication_name": "The Guardian",
       "publication_website_uri": "https://www.theguardian.com/",
       "publication_rss_feed_uris": [
         {
@@ -8477,7 +8477,7 @@
       ]
     },
     {
-      "publication_name": "Home | Mail Online",
+      "publication_name": "Mail Online",
       "publication_website_uri": "https://www.dailymail.co.uk/",
       "publication_rss_feed_uris": [
         {
@@ -8495,7 +8495,7 @@
       ]
     },
     {
-      "publication_name": "Daily Express :: News Feed",
+      "publication_name": "Daily Express",
       "publication_website_uri": "http://feeds.feedburner.com/",
       "publication_rss_feed_uris": [
         {
@@ -8504,7 +8504,7 @@
       ]
     },
     {
-      "publication_name": "World news | The Guardian",
+      "publication_name": "The Guardian",
       "publication_website_uri": "https://www.theguardian.com/",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -9399,7 +9399,7 @@
       ]
     },
     {
-      "publication_name": "NDTV Sports - Cricket",
+      "publication_name": "NDTV Sports",
       "publication_website_uri": "https://sports.ndtv.com/cricket",
       "publication_rss_feed_uris": [
         {
@@ -9519,7 +9519,7 @@
       ]
     },
     {
-      "publication_name": "GSMArena.com - Latest articles",
+      "publication_name": "GSMArena.com",
       "publication_website_uri": "https://www.gsmarena.com/",
       "publication_rss_feed_uris": [
         {
@@ -9609,7 +9609,7 @@
       ]
     },
     {
-      "publication_name": "Architecture – Dezeen",
+      "publication_name": "Dezeen",
       "publication_website_uri": "https://www.dezeen.com/",
       "publication_rss_feed_uris": [
         {
@@ -9623,7 +9623,7 @@
       ]
     },
     {
-      "publication_name": "Design MilkArchitecture – Design Milk",
+      "publication_name": "Design Milk",
       "publication_website_uri": "https://design-milk.com/",
       "publication_rss_feed_uris": [
         {
@@ -9647,7 +9647,7 @@
       ]
     },
     {
-      "publication_name": "architecture – designboom | architecture & design magazine",
+      "publication_name": "designboom",
       "publication_website_uri": "https://www.designboom.com/",
       "publication_rss_feed_uris": [
         {
@@ -9657,7 +9657,7 @@
       ]
     },
     {
-      "publication_name": "Beauty - ELLE",
+      "publication_name": "ELLE",
       "publication_website_uri": "https://www.elle.com/",
       "publication_rss_feed_uris": [
         {
@@ -9671,7 +9671,7 @@
       ]
     },
     {
-      "publication_name": "Beauty - Fashionista",
+      "publication_name": "Fashionista",
       "publication_website_uri": "https://fashionista.com/",
       "publication_rss_feed_uris": [
         {
@@ -9715,7 +9715,7 @@
       ]
     },
     {
-      "publication_name": "Page Array – NewInBooks",
+      "publication_name": "NewInBooks",
       "publication_website_uri": "https://www.newinbooks.com/",
       "publication_rss_feed_uris": [
         {
@@ -9725,7 +9725,7 @@
       ]
     },
     {
-      "publication_name": "All News",
+      "publication_name": "Investing.com",
       "publication_website_uri": "https://www.investing.com/",
       "publication_rss_feed_uris": [
         {
@@ -9735,7 +9735,7 @@
       ]
     },
     {
-      "publication_name": "Breaking News on Seeking Alpha",
+      "publication_name": "Seeking Alpha",
       "publication_website_uri": "https://seekingalpha.com/",
       "publication_rss_feed_uris": [
         {
@@ -9745,7 +9745,7 @@
       ]
     },
     {
-      "publication_name": "Startup Stories - Mixergy",
+      "publication_name": "Mixergy",
       "publication_website_uri": "https://mixergy.com/",
       "publication_rss_feed_uris": [
         {
@@ -9775,7 +9775,7 @@
       ]
     },
     {
-      "publication_name": "Autocar RSS Feed",
+      "publication_name": "Autocar",
       "publication_website_uri": "https://www.autocar.co.uk/",
       "publication_rss_feed_uris": [
         {
@@ -9815,7 +9815,7 @@
       ]
     },
     {
-      "publication_name": "Latest Content - Car and Driver",
+      "publication_name": "Car and Driver",
       "publication_website_uri": "https://www.caranddriver.com/",
       "publication_rss_feed_uris": [
         {
@@ -9835,7 +9835,7 @@
       ]
     },
     {
-      "publication_name": "The best vintage and classic cars for sale online | Bring a Trailer",
+      "publication_name": "Bring a Trailer",
       "publication_website_uri": "https://bringatrailer.com/",
       "publication_rss_feed_uris": [
         {
@@ -9845,7 +9845,7 @@
       ]
     },
     {
-      "publication_name": "BBC Sport - Cricket",
+      "publication_name": "BBC Sport",
       "publication_website_uri": "http://feeds.bbci.co.uk/",
       "publication_rss_feed_uris": [
         {
@@ -9871,7 +9871,7 @@
       ]
     },
     {
-      "publication_name": "Cricket news from ESPN Cricinfo.com",
+      "publication_name": "ESPN Cricinfo",
       "publication_website_uri": "http://www.espncricinfo.com/",
       "publication_rss_feed_uris": [
         {
@@ -9881,7 +9881,7 @@
       ]
     },
     {
-      "publication_name": "Cricket | The Guardian",
+      "publication_name": "The Guardian",
       "publication_website_uri": "https://www.theguardian.com/",
       "publication_rss_feed_uris": [
         {
@@ -9949,7 +9949,7 @@
       ]
     },
     {
-      "publication_name": "Apartment Therapy| Saving the world, one room at a time",
+      "publication_name": "Apartment Therapy",
       "publication_website_uri": "https://www.apartmenttherapy.com/",
       "publication_rss_feed_uris": [
         {
@@ -9963,7 +9963,7 @@
       ]
     },
     {
-      "publication_name": "Blog – Hackaday",
+      "publication_name": "Hackaday",
       "publication_website_uri": "https://hackaday.com/",
       "publication_rss_feed_uris": [
         {
@@ -9983,7 +9983,7 @@
       ]
     },
     {
-      "publication_name": "MUO - Feed",
+      "publication_name": "MUO",
       "publication_website_uri": "https://www.makeuseof.com/",
       "publication_rss_feed_uris": [
         {
@@ -9993,7 +9993,7 @@
       ]
     },
     {
-      "publication_name": "FashionBeans Men's Fashion and Style Feed",
+      "publication_name": "FashionBeans",
       "publication_website_uri": "https://www.fashionbeans.com/",
       "publication_rss_feed_uris": [
         {
@@ -10033,7 +10033,7 @@
       ]
     },
     {
-      "publication_name": "Kitchn | Inspiring cooks, nourishing homes",
+      "publication_name": "Kitchn",
       "publication_website_uri": "https://www.thekitchn.com/",
       "publication_rss_feed_uris": [
         {
@@ -10133,7 +10133,7 @@
       ]
     },
     {
-      "publication_name": "GameSpot - All Content",
+      "publication_name": "GameSpot",
       "publication_website_uri": "https://www.gamespot.com/",
       "publication_rss_feed_uris": [
         {
@@ -10143,7 +10143,7 @@
       ]
     },
     {
-      "publication_name": "IGN All",
+      "publication_name": "IGN",
       "publication_website_uri": "http://feeds.ign.com/",
       "publication_rss_feed_uris": [
         {
@@ -10163,7 +10163,7 @@
       ]
     },
     {
-      "publication_name": "Polygon -  All",
+      "publication_name": "Polygon",
       "publication_website_uri": "https://www.polygon.com/",
       "publication_rss_feed_uris": [
         {
@@ -10173,7 +10173,7 @@
       ]
     },
     {
-      "publication_name": "Steam RSS News Feed",
+      "publication_name": "Steam",
       "publication_website_uri": "https://store.steampowered.com/",
       "publication_rss_feed_uris": [
         {
@@ -10203,7 +10203,7 @@
       ]
     },
     {
-      "publication_name": "The Design Files | Australia's most popular design blog.The Design Files | Australia's most popular design blog.",
+      "publication_name": "The Design Files",
       "publication_website_uri": "https://thedesignfiles.net/",
       "publication_rss_feed_uris": [
         {
@@ -10293,7 +10293,7 @@
       ]
     },
     {
-      "publication_name": "RSS: News",
+      "publication_name": "Pitchfork",
       "publication_website_uri": "http://pitchfork.com/",
       "publication_rss_feed_uris": [
         {
@@ -10343,7 +10343,7 @@
       ]
     },
     {
-      "publication_name": "Canon Rumors – Your best source for Canon rumors, leaks and gossip",
+      "publication_name": "Canon Rumors",
       "publication_website_uri": "https://www.canonrumors.com/",
       "publication_rss_feed_uris": [
         {
@@ -10457,7 +10457,7 @@
       ]
     },
     {
-      "publication_name": "Latest Science News -- ScienceDaily",
+      "publication_name": "ScienceDaily",
       "publication_website_uri": "https://www.sciencedaily.com/",
       "publication_rss_feed_uris": [
         {
@@ -10467,7 +10467,7 @@
       ]
     },
     {
-      "publication_name": "Phys.org - latest science and technology news stories",
+      "publication_name": "Phys.org",
       "publication_website_uri": "https://phys.org/",
       "publication_rss_feed_uris": [
         {
@@ -10477,7 +10477,7 @@
       ]
     },
     {
-      "publication_name": "Sawbones: A Marital Tour of Misguided Medicine",
+      "publication_name": "Sawbones",
       "publication_website_uri": "https://feeds.simplecast.com/",
       "publication_rss_feed_uris": [
         {
@@ -10487,7 +10487,7 @@
       ]
     },
     {
-      "publication_name": "Science Latest",
+      "publication_name": "Wired",
       "publication_website_uri": "https://www.wired.com/",
       "publication_rss_feed_uris": [
         {
@@ -10517,7 +10517,7 @@
       ]
     },
     {
-      "publication_name": "New Scientist - Space",
+      "publication_name": "New Scientist",
       "publication_website_uri": "https://www.newscientist.com/",
       "publication_rss_feed_uris": [
         {
@@ -10537,7 +10537,7 @@
       ]
     },
     {
-      "publication_name": "Sports News - Latest Sports and Football News | Sky News",
+      "publication_name": "Sky News",
       "publication_website_uri": "http://feeds.skynews.com/",
       "publication_rss_feed_uris": [
         {
@@ -10547,7 +10547,7 @@
       ]
     },
     {
-      "publication_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "publication_name": "Yahoo! Sports",
       "publication_website_uri": "https://sports.yahoo.com/",
       "publication_rss_feed_uris": [
         {
@@ -10557,7 +10557,7 @@
       ]
     },
     {
-      "publication_name": "www.espn.com - TOP",
+      "publication_name": "ESPN",
       "publication_website_uri": "https://www.espn.com/",
       "publication_rss_feed_uris": [
         {
@@ -10571,7 +10571,7 @@
       ]
     },
     {
-      "publication_name": "Hacker News: Front Page",
+      "publication_name": "Hacker News",
       "publication_website_uri": "https://hnrss.org/",
       "publication_rss_feed_uris": [
         {
@@ -10591,7 +10591,7 @@
       ]
     },
     {
-      "publication_name": "Product Hunt — The best new products, every day",
+      "publication_name": "Product Hunt",
       "publication_website_uri": "https://www.producthunt.com/",
       "publication_rss_feed_uris": [
         {
@@ -10701,7 +10701,7 @@
       ]
     },
     {
-      "publication_name": "The Verge -  All Posts",
+      "publication_name": "The Verge",
       "publication_website_uri": "https://www.theverge.com/",
       "publication_rss_feed_uris": [
         {
@@ -10711,7 +10711,7 @@
       ]
     },
     {
-      "publication_name": "https://www.engadget.com/",
+      "publication_name": "Engadget",
       "publication_website_uri": "https://www.engadget.com/",
       "publication_rss_feed_uris": [
         {
@@ -10741,7 +10741,7 @@
       ]
     },
     {
-      "publication_name": "Atlas Obscura - Latest Articles and Places",
+      "publication_name": "Atlas Obscura",
       "publication_website_uri": "https://www.atlasobscura.com/",
       "publication_rss_feed_uris": [
         {
@@ -10751,7 +10751,7 @@
       ]
     },
     {
-      "publication_name": "UX Collective - Medium",
+      "publication_name": "UX Collective",
       "publication_website_uri": "https://uxdesign.cc/",
       "publication_rss_feed_uris": [
         {
@@ -11299,7 +11299,7 @@
       ]
     },
     {
-      "publication_name": "香港新聞RSS - 香港經濟日報 hket.com",
+      "publication_name": "香港經濟日報",
       "publication_website_uri": "https://www.hket.com/",
       "publication_rss_feed_uris": [
         {
@@ -11308,7 +11308,7 @@
       ]
     },
     {
-      "publication_name": "hongkongnews.net latest rss headlines",
+      "publication_name": "Hongkongnews.net",
       "publication_website_uri": "http://feeds.hongkongnews.net/",
       "publication_rss_feed_uris": [
         {
@@ -11682,7 +11682,7 @@
       ]
     },
     {
-      "publication_name": "Republika Online RSS Feed",
+      "publication_name": "Republika Online",
       "publication_website_uri": "https://www.republika.co.id/",
       "publication_rss_feed_uris": [
         {
@@ -13526,7 +13526,7 @@
       ]
     },
     {
-      "publication_name": "India | The Guardian",
+      "publication_name": "The Guardian",
       "publication_website_uri": "https://www.theguardian.com/",
       "publication_rss_feed_uris": [
         {
@@ -13535,7 +13535,7 @@
       ]
     },
     {
-      "publication_name": "SEBI RSS Feed",
+      "publication_name": "SEBI",
       "publication_website_uri": "https://www.sebi.gov.in/",
       "publication_rss_feed_uris": [
         {
@@ -13599,7 +13599,7 @@
       ]
     },
     {
-      "publication_name": "Business Line - Home",
+      "publication_name": "Business Line",
       "publication_website_uri": "https://www.thehindubusinessline.com/",
       "publication_rss_feed_uris": [
         {
@@ -13617,7 +13617,7 @@
       ]
     },
     {
-      "publication_name": "Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala",
+      "publication_name": "अमर उजाला",
       "publication_website_uri": "https://www.amarujala.com/",
       "publication_rss_feed_uris": [
         {
@@ -13626,7 +13626,7 @@
       ]
     },
     {
-      "publication_name": "ઈન્ડિયા | દિવ્ય ભાસ્કર",
+      "publication_name": "દિવ્ય ભાસ્કર",
       "publication_website_uri": "https://www.divyabhaskar.co.in/",
       "publication_rss_feed_uris": [
         {
@@ -13635,7 +13635,7 @@
       ]
     },
     {
-      "publication_name": "NDTV News - World",
+      "publication_name": "NDTV News",
       "publication_website_uri": "https://www.ndtv.com/world-news",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -13647,7 +13647,7 @@
       ]
     },
     {
-      "publication_name": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "publication_name": "Times of India",
       "publication_website_uri": "https://timesofindia.indiatimes.com/",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -15590,7 +15590,7 @@
       ]
     },
     {
-      "publication_name": "All: BreakingNews.ie",
+      "publication_name": "BreakingNews.ie",
       "publication_website_uri": "https://feeds.breakingnews.ie/",
       "publication_rss_feed_uris": [
         {
@@ -15617,7 +15617,7 @@
       ]
     },
     {
-      "publication_name": "Irish Mirror - Home",
+      "publication_name": "Irish Mirror",
       "publication_website_uri": "https://www.irishmirror.ie/",
       "publication_rss_feed_uris": [
         {
@@ -15817,7 +15817,7 @@
       ]
     },
     {
-      "publication_name": "خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC",
+      "publication_name": "خبرگزاری باشگاه خبرنگاران",
       "publication_website_uri": "https://www.yjc.ir/",
       "publication_rss_feed_uris": [
         {
@@ -15826,7 +15826,7 @@
       ]
     },
     {
-      "publication_name": "خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency",
+      "publication_name": "خبرگزاری مهر",
       "publication_website_uri": "https://www.mehrnews.com/",
       "publication_rss_feed_uris": [
         {
@@ -15835,7 +15835,7 @@
       ]
     },
     {
-      "publication_name": "خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline",
+      "publication_name": "خبرگزاری خبرآنلاین",
       "publication_website_uri": "https://www.khabaronline.ir/",
       "publication_rss_feed_uris": [
         {
@@ -16349,7 +16349,7 @@
       ]
     },
     {
-      "publication_name": "RSS di   - ANSA.it",
+      "publication_name": "ANSA.it",
       "publication_website_uri": "https://www.ansa.it/",
       "publication_rss_feed_uris": [
         {
@@ -16421,7 +16421,7 @@
       ]
     },
     {
-      "publication_name": "Italy | The Guardian",
+      "publication_name": "The Guardian",
       "publication_website_uri": "https://www.theguardian.com/",
       "publication_rss_feed_uris": [
         {
@@ -16918,7 +16918,7 @@
       ]
     },
     {
-      "publication_name": "BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報",
+      "publication_name": "BRIDGE（ブリッジ）",
       "publication_website_uri": "https://thebridge.jp/",
       "publication_rss_feed_uris": [
         {
@@ -19991,7 +19991,7 @@
       ]
     },
     {
-      "publication_name": "Mexico | The Guardian",
+      "publication_name": "The Guardian",
       "publication_website_uri": "https://www.theguardian.com/",
       "publication_rss_feed_uris": [
         {
@@ -20009,7 +20009,7 @@
       ]
     },
     {
-      "publication_name": "Lo último en Vanguardia MX",
+      "publication_name": "Vanguardia MX",
       "publication_website_uri": "https://vanguardia.com.mx/",
       "publication_rss_feed_uris": [
         {
@@ -20018,7 +20018,7 @@
       ]
     },
     {
-      "publication_name": "Portada, El Siglo de Torreón",
+      "publication_name": "El Siglo de Torreón",
       "publication_website_uri": "https://www.elsiglodetorreon.com.mx/",
       "publication_rss_feed_uris": [
         {
@@ -20036,7 +20036,7 @@
       ]
     },
     {
-      "publication_name": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+      "publication_name": "El Informador",
       "publication_website_uri": "https://www.informador.mx/",
       "publication_rss_feed_uris": [
         {
@@ -23485,7 +23485,7 @@
       ]
     },
     {
-      "publication_name": "The Nation - Top Stories",
+      "publication_name": "The Nation",
       "publication_website_uri": "https://nation.com.pk/",
       "publication_rss_feed_uris": [
         {
@@ -24312,7 +24312,7 @@
       ]
     },
     {
-      "publication_name": "philstar.com - RSS Headlines",
+      "publication_name": "Philstar.com",
       "publication_website_uri": "https://www.philstar.com/",
       "publication_rss_feed_uris": [
         {
@@ -24396,7 +24396,7 @@
       ]
     },
     {
-      "publication_name": "Philippine Daily Inquirer - General Feed",
+      "publication_name": "Philippine Daily Inquirer",
       "publication_website_uri": "https://www.inquirer.net",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -24966,7 +24966,7 @@
       ]
     },
     {
-      "publication_name": "Dziennik.pl Dziennik - dziennik.pl",
+      "publication_name": "Dziennik.pl",
       "publication_website_uri": "http://rss.dziennik.pl/",
       "publication_rss_feed_uris": [
         {
@@ -24975,7 +24975,7 @@
       ]
     },
     {
-      "publication_name": "www.wirtualnemedia.pl",
+      "publication_name": "Wirtualnemedia.pl",
       "publication_website_uri": "https://www.wirtualnemedia.pl/",
       "publication_rss_feed_uris": [
         {
@@ -24984,7 +24984,7 @@
       ]
     },
     {
-      "publication_name": "GazetaPrawna.pl - biznes, podatki, prawo, finanse, wiadomości, praca",
+      "publication_name": "GazetaPrawna.pl",
       "publication_website_uri": "http://rss.gazetaprawna.pl/",
       "publication_rss_feed_uris": [
         {
@@ -24993,7 +24993,7 @@
       ]
     },
     {
-      "publication_name": "https://www.rp.pl",
+      "publication_name": "Rzeczpospolita",
       "publication_website_uri": "https://www.rp.pl/",
       "publication_rss_feed_uris": [
         {
@@ -25447,7 +25447,7 @@
       ]
     },
     {
-      "publication_name": "Diário de Notícias Madeira (dnoticias.pt)",
+      "publication_name": "Diário de Notícias Madeira",
       "publication_website_uri": "https://www.dnoticias.pt/",
       "publication_rss_feed_uris": [
         {
@@ -25484,7 +25484,7 @@
       ]
     },
     {
-      "publication_name": "Sapo Notícias (Destaques)",
+      "publication_name": "Sapo Notícias",
       "publication_website_uri": "https://sapo.pt/",
       "publication_rss_feed_uris": [
         {
@@ -25632,7 +25632,7 @@
       ]
     },
     {
-      "publication_name": "France Info - Polynésie française",
+      "publication_name": "France Info",
       "publication_website_uri": "https://www.franceinfo.fr/monde/polynesie-francaise",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -25993,7 +25993,7 @@
       ]
     },
     {
-      "publication_name": "Lenta.ru : Новости",
+      "publication_name": "Lenta.ru",
       "publication_website_uri": "https://lenta.ru/",
       "publication_rss_feed_uris": [
         {
@@ -26002,7 +26002,7 @@
       ]
     },
     {
-      "publication_name": "Все материалы - Московский Комсомолец",
+      "publication_name": "Московский Комсомолец",
       "publication_website_uri": "https://www.mk.ru/",
       "publication_rss_feed_uris": [
         {
@@ -26021,7 +26021,7 @@
       ]
     },
     {
-      "publication_name": "RT - Daily news",
+      "publication_name": "RT",
       "publication_website_uri": "https://www.rt.com/",
       "publication_rss_feed_uris": [
         {
@@ -26048,7 +26048,7 @@
       ]
     },
     {
-      "publication_name": "The Moscow Times - Independent News From Russia",
+      "publication_name": "The Moscow Times",
       "publication_website_uri": "https://www.themoscowtimes.com/",
       "publication_rss_feed_uris": [
         {
@@ -27791,7 +27791,7 @@
       ]
     },
     {
-      "publication_name": "SANA - Syrian Arab News Agency",
+      "publication_name": "Syrian Arab News Agency",
       "publication_website_uri": "https://sana.sy/",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -28047,7 +28047,7 @@
   ],
   "THA": [
     {
-      "publication_name": "news.sanook.com",
+      "publication_name": "Sanook",
       "publication_website_uri": "http://news.sanook.com/",
       "publication_rss_feed_uris": [
         {
@@ -29015,7 +29015,7 @@
       ]
     },
     {
-      "publication_name": "Последние новости на сайте korrespondent.net",
+      "publication_name": "Корреспондент.net",
       "publication_website_uri": "http://k.img.com.ua/",
       "publication_rss_feed_uris": [
         {
@@ -29024,7 +29024,7 @@
       ]
     },
     {
-      "publication_name": "Цензор.НЕТ - Новости",
+      "publication_name": "Цензор.НЕТ",
       "publication_website_uri": "https://censor.net.ua/",
       "publication_rss_feed_uris": [
         {
@@ -29033,7 +29033,7 @@
       ]
     },
     {
-      "publication_name": "Новини на tsn.ua",
+      "publication_name": "ТСН.ua",
       "publication_website_uri": "https://tsn.ua/",
       "publication_rss_feed_uris": [
         {
@@ -29069,7 +29069,7 @@
       ]
     },
     {
-      "publication_name": "Еспресо - український погляд на світ!",
+      "publication_name": "Еспресо",
       "publication_website_uri": "https://espreso.tv/",
       "publication_rss_feed_uris": [
         {
@@ -29470,7 +29470,7 @@
       ]
     },
     {
-      "publication_name": "World News - Breaking News, Top Stories",
+      "publication_name": "World News",
       "publication_website_uri": "https://www.huffpost.com/",
       "publication_rss_feed_uris": [
         {
@@ -29488,7 +29488,7 @@
       ]
     },
     {
-      "publication_name": "Yahoo News - Latest News & Headlines",
+      "publication_name": "Yahoo News",
       "publication_website_uri": "https://news.yahoo.com/",
       "publication_rss_feed_uris": [
         {
@@ -29515,7 +29515,7 @@
       ]
     },
     {
-      "publication_name": "Forbes - Business",
+      "publication_name": "Forbes",
       "publication_website_uri": "https://www.forbes.com/",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -29806,7 +29806,7 @@
       ]
     },
     {
-      "publication_name": "Washington Post - National",
+      "publication_name": "Washington Post",
       "publication_website_uri": "https://www.washingtonpost.com",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -29818,7 +29818,7 @@
       ]
     },
     {
-      "publication_name": "Washington Post - Business",
+      "publication_name": "Washington Post",
       "publication_website_uri": "https://www.washingtonpost.com",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -29830,7 +29830,7 @@
       ]
     },
     {
-      "publication_name": "Washington Post - Politics",
+      "publication_name": "Washington Post",
       "publication_website_uri": "https://www.washingtonpost.com",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -29842,7 +29842,7 @@
       ]
     },
     {
-      "publication_name": "Washington Post - World",
+      "publication_name": "Washington Post",
       "publication_website_uri": "https://www.washingtonpost.com",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -29998,7 +29998,7 @@
       ]
     },
     {
-      "publication_name": "HuffPost - Politics",
+      "publication_name": "HuffPost",
       "publication_website_uri": "https://www.huffpost.com",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -30010,7 +30010,7 @@
       ]
     },
     {
-      "publication_name": "HuffPost - US News",
+      "publication_name": "HuffPost",
       "publication_website_uri": "https://www.huffpost.com",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -30034,7 +30034,7 @@
       ]
     },
     {
-      "publication_name": "NPR - National",
+      "publication_name": "NPR",
       "publication_website_uri": "https://www.npr.org",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -30046,7 +30046,7 @@
       ]
     },
     {
-      "publication_name": "NPR - World",
+      "publication_name": "NPR",
       "publication_website_uri": "https://www.npr.org",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -31366,7 +31366,7 @@
       ]
     },
     {
-      "publication_name": "IOL section feed for News",
+      "publication_name": "IOL",
       "publication_website_uri": "http://rss.iol.io/",
       "publication_rss_feed_uris": [
         {
@@ -33357,7 +33357,7 @@
   ],
   "CCK": [
     {
-      "publication_name": "The Guardian - Australia",
+      "publication_name": "The Guardian",
       "publication_website_uri": "https://www.theguardian.com/world/australia",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -33469,7 +33469,7 @@
       ]
     },
     {
-      "publication_name": "Jeune Afrique - République du Congo",
+      "publication_name": "Jeune Afrique",
       "publication_website_uri": "https://jeuneafrique.com/pays/republique-du-congo",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -36139,7 +36139,7 @@
   ],
   "REU": [
     {
-      "publication_name": "Clicanoo - Le Journal de l'île de La Réunion",
+      "publication_name": "Clicanoo",
       "publication_website_uri": "https://www.clicanoo.re",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -36467,7 +36467,7 @@
       ]
     },
     {
-      "publication_name": "SNN - Sudanese News Network",
+      "publication_name": "SNN",
       "publication_website_uri": "https://snn-news.net",
       "category": "News (Arabic)",
       "publication_rss_feed_uris": [
@@ -37206,7 +37206,7 @@
   ],
   "TLS": [
     {
-      "publication_name": "Tatoli - Agencia Noticiosa de Timor-Leste",
+      "publication_name": "Tatoli",
       "publication_website_uri": "https://tatoli.tl/",
       "category": "News",
       "publication_rss_feed_uris": [
@@ -37247,7 +37247,7 @@
       ]
     },
     {
-      "publication_name": "RTTL - Radio e Televisao de Timor-Leste",
+      "publication_name": "Radio e Televisao de Timor-Leste",
       "publication_website_uri": "https://rttlep.tl/",
       "category": "News",
       "publication_rss_feed_uris": [
