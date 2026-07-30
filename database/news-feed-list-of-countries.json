@@ -23099,6 +23099,224 @@
           "category": "Regional News: Anyksta"
         }
       ]
+    },
+    {
+      "publication_name": "Government of the Republic of Lithuania (Lietuvos Respublikos Vyriausybė)",
+      "publication_website_uri": "https://lrv.lt",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lrv.lt/lt/naujienos/rss",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://lrv.lt/en/news/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Finance of Lithuania (Finansų ministerija)",
+      "publication_website_uri": "https://finmin.lrv.lt",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://finmin.lrv.lt/lt/naujienos/rss",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://finmin.lrv.lt/en/news/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of the Interior of Lithuania (Vidaus reikalų ministerija)",
+      "publication_website_uri": "https://vrm.lrv.lt",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://vrm.lrv.lt/lt/naujienos/rss",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://vrm.lrv.lt/en/news/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Culture of Lithuania (Kultūros ministerija)",
+      "publication_website_uri": "https://lrkm.lrv.lt",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://lrkm.lrv.lt/lt/naujienos/rss",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://lrkm.lrv.lt/en/news/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Social Security and Labour of Lithuania (Socialinės apsaugos ir darbo ministerija)",
+      "publication_website_uri": "https://socmin.lrv.lt",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://socmin.lrv.lt/lt/naujienos/rss",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://socmin.lrv.lt/en/news/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Transport and Communications of Lithuania (Susisiekimo ministerija)",
+      "publication_website_uri": "https://sumin.lrv.lt",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sumin.lrv.lt/lt/naujienos/rss",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://sumin.lrv.lt/en/news/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Environment of Lithuania (Aplinkos ministerija)",
+      "publication_website_uri": "https://am.lrv.lt",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://am.lrv.lt/lt/naujienos/rss",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://am.lrv.lt/en/news/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Agriculture of Lithuania (Žemės ūkio ministerija)",
+      "publication_website_uri": "https://zum.lrv.lt",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://zum.lrv.lt/lt/naujienos/rss",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://zum.lrv.lt/en/news/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Energy of Lithuania (Energetikos ministerija)",
+      "publication_website_uri": "https://enmin.lrv.lt",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://enmin.lrv.lt/lt/naujienos/rss",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://enmin.lrv.lt/en/news/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "State Data Agency of Lithuania (Valstybės duomenų agentūra)",
+      "publication_website_uri": "https://vda.lrv.lt",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://vda.lrv.lt/lt/naujienos/rss",
+          "gated": false,
+          "category": "Official Statistics"
+        },
+        {
+          "uri": "https://vda.lrv.lt/en/news/rss",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Public Health Centre of Lithuania (Nacionalinis visuomenės sveikatos centras, NVSC)",
+      "publication_website_uri": "https://nvsc.lrv.lt",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nvsc.lrv.lt/lt/naujienos/rss",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lithuanian Police (Lietuvos policija)",
+      "publication_website_uri": "https://policija.lrv.lt",
+      "category": "Police Reports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://policija.lrv.lt/lt/naujienos/rss",
+          "gated": false,
+          "category": "Police Reports"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Kaunas (Kauno miesto savivaldybė)",
+      "publication_website_uri": "https://www.kaunas.lt",
+      "category": "Government News: Kaunas",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kaunas.lt/feed/",
+          "gated": false,
+          "category": "Government News: Kaunas"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lithuanian Hydrometeorological Service (Lietuvos hidrometeorologijos tarnyba, LHMT)",
+      "publication_website_uri": "https://www.meteo.lt",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.meteo.lt/feed/",
+          "gated": false,
+          "category": "Weather Service"
+        }
+      ]
     }
   ],
   "LUX": [
@@ -23902,6 +24120,164 @@
           "uri": "https://baltictimes.com/rss",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Foreign Affairs of Latvia (Ārlietu ministrija)",
+      "publication_website_uri": "https://www.mfa.gov.lv",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mfa.gov.lv/lv/rss/articles",
+          "gated": true,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://www.mfa.gov.lv/lv/rss/events",
+          "gated": true,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://www.mfa.gov.lv/en/rss/articles",
+          "gated": true,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://www.mfa.gov.lv/en/rss/events",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of the Interior of Latvia (Iekšlietu ministrija)",
+      "publication_website_uri": "https://www.iem.gov.lv",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.iem.gov.lv/lv/rss/articles",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Economics of Latvia (Ekonomikas ministrija)",
+      "publication_website_uri": "https://www.em.gov.lv",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.em.gov.lv/lv/rss/articles",
+          "gated": true,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://www.em.gov.lv/lv/rss/events",
+          "gated": true,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://www.em.gov.lv/en/rss/articles",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "CERT.LV (Latvian Computer Emergency Response Team)",
+      "publication_website_uri": "https://www.cert.lv",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cert.lv/lv/feed/rss/viss",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Saeima (Parliament of Latvia)",
+      "publication_website_uri": "https://www.saeima.lv",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.saeima.lv/lv/feeds/news.rss",
+          "gated": false,
+          "category": "Parliament"
+        },
+        {
+          "uri": "https://www.saeima.lv/en/feeds/news.rss",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Rīga City Council (Rīgas dome)",
+      "publication_website_uri": "https://www.riga.lv",
+      "category": "Government News: Rīga",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.riga.lv/lv/rss/articles",
+          "gated": false,
+          "category": "Government News: Rīga"
+        },
+        {
+          "uri": "https://www.riga.lv/lv/rss/events",
+          "gated": false,
+          "category": "Government News: Rīga"
+        },
+        {
+          "uri": "https://www.riga.lv/en/rss/articles",
+          "gated": false,
+          "category": "Government News: Rīga"
+        },
+        {
+          "uri": "https://www.riga.lv/en/rss/events",
+          "gated": false,
+          "category": "Government News: Rīga"
+        }
+      ]
+    },
+    {
+      "publication_name": "Jūrmala City Council (Jūrmalas valstspilsētas pašvaldība)",
+      "publication_website_uri": "https://www.jurmala.lv",
+      "category": "Government News: Jūrmala",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.jurmala.lv/lv/rss/articles",
+          "gated": false,
+          "category": "Government News: Jūrmala"
+        },
+        {
+          "uri": "https://www.jurmala.lv/lv/rss/events",
+          "gated": false,
+          "category": "Government News: Jūrmala"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ventspils City Council (Ventspils valstspilsētas pašvaldība)",
+      "publication_website_uri": "https://www.ventspils.lv",
+      "category": "Government News: Ventspils",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ventspils.lv/feed/",
+          "gated": false,
+          "category": "Government News: Ventspils"
+        }
+      ]
+    },
+    {
+      "publication_name": "Jelgava City Council (Jelgavas valstspilsētas pašvaldība)",
+      "publication_website_uri": "https://www.jelgava.lv",
+      "category": "Government News: Jelgava",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.jelgava.lv/feed/",
+          "gated": false,
+          "category": "Government News: Jelgava"
         }
       ]
     }
