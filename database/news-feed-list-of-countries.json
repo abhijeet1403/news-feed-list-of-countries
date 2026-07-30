@@ -7609,6 +7609,304 @@
           "category": "Regional News: Andalusia"
         }
       ]
+    },
+    {
+      "publication_name": "La Moncloa (Government of Spain)",
+      "publication_website_uri": "https://www.lamoncloa.gob.es",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lamoncloa.gob.es/paginas/rss.aspx?tipo=1",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://www.lamoncloa.gob.es/paginas/rss.aspx?tipo=2",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministerio de Defensa",
+      "publication_website_uri": "https://www.defensa.gob.es",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.defensa.gob.es/comun/rssChannel/rssNotasPrensa.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Agencia Tributaria (Spanish Tax Agency)",
+      "publication_website_uri": "https://sede.agenciatributaria.gob.es",
+      "category": "Tax Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sede.agenciatributaria.gob.es/Sede/sala-prensa/notas-prensa.xml",
+          "gated": false,
+          "category": "Tax Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO)",
+      "publication_website_uri": "https://www.miteco.gob.es",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.miteco.gob.es/es/prensa/ultimas-noticias.newsfeed.rss.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministerio de Agricultura, Pesca y Alimentación (MAPA)",
+      "publication_website_uri": "https://www.mapa.gob.es",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mapa.gob.es/es/prensa/noticiasrss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministerio de Transportes y Movilidad Sostenible",
+      "publication_website_uri": "https://www.transportes.gob.es",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.transportes.gob.es/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Instituto Nacional de Estadística (INE)",
+      "publication_website_uri": "https://www.ine.es",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ine.es/dyngs/Prensa/es/rssNovedades.xml",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Banco de España",
+      "publication_website_uri": "https://www.bde.es",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bde.es/wbe/es/inicio/rss/rss-noticias/",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Agencia Española de Medicamentos y Productos Sanitarios (AEMPS)",
+      "publication_website_uri": "https://www.aemps.gob.es",
+      "category": "Medicines Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aemps.gob.es/feed/",
+          "gated": false,
+          "category": "Medicines Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Agencia Estatal de Meteorología (AEMET)",
+      "publication_website_uri": "https://www.aemet.es",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aemet.es/es/noticias.rss",
+          "gated": false,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Instituto Geográfico Nacional (IGN)",
+      "publication_website_uri": "https://www.ign.es",
+      "category": "Geographic Survey Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ign.es/ign/rss",
+          "gated": false,
+          "category": "Geographic Survey Authority"
+        },
+        {
+          "uri": "https://www.ign.es/ign/RssTools/sismologia.xml",
+          "gated": false,
+          "category": "Geographic Survey Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Instituto Nacional de Ciberseguridad (INCIBE)",
+      "publication_website_uri": "https://www.incibe.es",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.incibe.es/rss.xml",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Comisión Nacional de los Mercados y la Competencia (CNMC)",
+      "publication_website_uri": "https://www.cnmc.es",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cnmc.es/feed/all",
+          "gated": false,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Junta de Andalucía",
+      "publication_website_uri": "https://www.juntadeandalucia.es",
+      "category": "Government News: Andalucía",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.juntadeandalucia.es/noticias/ultimas-noticias.xml",
+          "gated": false,
+          "category": "Government News: Andalucía"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gobierno de Canarias",
+      "publication_website_uri": "https://www.gobiernodecanarias.org",
+      "category": "Government News: Canarias",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www3.gobiernodecanarias.org/noticias/feed/",
+          "gated": false,
+          "category": "Government News: Canarias"
+        }
+      ]
+    },
+    {
+      "publication_name": "Junta de Comunidades de Castilla-La Mancha",
+      "publication_website_uri": "https://www.castillalamancha.es",
+      "category": "Government News: Castilla-La Mancha",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.castillalamancha.es/notas-de-prensa/rss.xml",
+          "gated": false,
+          "category": "Government News: Castilla-La Mancha"
+        }
+      ]
+    },
+    {
+      "publication_name": "Govern de les Illes Balears",
+      "publication_website_uri": "https://www.caib.es",
+      "category": "Government News: Illes Balears",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.caib.es/pidip2front/pidipRSS?opcio=getRSS&grup=salaDePremsa&lang=es",
+          "gated": false,
+          "category": "Government News: Illes Balears"
+        }
+      ]
+    },
+    {
+      "publication_name": "Comunidad de Madrid",
+      "publication_website_uri": "https://www.comunidad.madrid",
+      "category": "Government News: Madrid",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.comunidad.madrid/rss.xml",
+          "gated": false,
+          "category": "Government News: Madrid"
+        }
+      ]
+    },
+    {
+      "publication_name": "Xunta de Galicia",
+      "publication_website_uri": "https://www.xunta.gal",
+      "category": "Government News: Galicia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.xunta.gal/novas_rss.htm",
+          "gated": false,
+          "category": "Government News: Galicia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ciudad Autónoma de Ceuta",
+      "publication_website_uri": "https://www.ceuta.es",
+      "category": "Government News: Ceuta",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ceuta.es/ceuta/?format=feed&type=rss",
+          "gated": false,
+          "category": "Government News: Ceuta"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gobierno Vasco - Irekia (Basque Government open government portal)",
+      "publication_website_uri": "https://www.irekia.euskadi.eus",
+      "category": "Government News: País Vasco",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.irekia.euskadi.eus/es/news.rss",
+          "gated": false,
+          "category": "Government News: País Vasco"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ayuntamiento de Madrid",
+      "publication_website_uri": "https://www.madrid.es",
+      "category": "Government News: Madrid",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.madrid.es/ContentPublisher/jsp/apl/obtenerRSS.jsp?tipoContenido=Noticia&idCanal=e40362215c483510VgnVCM2000001f4a900aRCRD",
+          "gated": false,
+          "category": "Government News: Madrid"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ayuntamiento de Alicante",
+      "publication_website_uri": "https://www.alicante.es",
+      "category": "Government News: Alicante",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.alicante.es/es/rss.xml",
+          "gated": false,
+          "category": "Government News: Alicante"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ertzaintza (Basque Country Police)",
+      "publication_website_uri": "https://www.ertzaintza.euskadi.eus",
+      "category": "Police Reports: País Vasco",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ertzaintza.euskadi.eus/lfr/o/B56/rss/ertzaintza/com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kRiDaff6wlvj/62347/eu_ES",
+          "gated": false,
+          "category": "Police Reports: País Vasco"
+        }
+      ]
     }
   ],
   "EST": [
