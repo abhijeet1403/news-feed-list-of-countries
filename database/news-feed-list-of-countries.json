@@ -18856,6 +18856,71 @@
           "category": "News (Sundanese)"
         }
       ]
+    },
+    {
+      "publication_name": "Sekretariat Kabinet Republik Indonesia (Cabinet Secretariat)",
+      "publication_website_uri": "https://setkab.go.id",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://setkab.go.id/feed/",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kementerian Imigrasi dan Pemasyarakatan (Ministry of Immigration and Corrections)",
+      "publication_website_uri": "https://kemenimipas.go.id",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kemenimipas.go.id/rss/rss-newsimipas",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Direktorat Jenderal Pajak (DJP)",
+      "publication_website_uri": "https://www.pajak.go.id",
+      "category": "Tax Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pajak.go.id/rss.xml",
+          "gated": false,
+          "category": "Tax Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bappeda Provinsi Jawa Timur (East Java Regional Development Planning Agency)",
+      "publication_website_uri": "https://bappeda.jatimprov.go.id",
+      "category": "Government News: Jawa Timur",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bappeda.jatimprov.go.id/read/berita/feed/",
+          "gated": true,
+          "category": "Government News: Jawa Timur"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pemerintah Provinsi Jawa Tengah (Central Java Provincial Government)",
+      "publication_website_uri": "https://jatengprov.go.id",
+      "category": "Government News: Jawa Tengah",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://jatengprov.go.id/feed/",
+          "gated": true,
+          "category": "Government News: Jawa Tengah"
+        },
+        {
+          "uri": "https://jatengprov.go.id/rilis/feed/",
+          "gated": true,
+          "category": "Government News: Jawa Tengah"
+        }
+      ]
     }
   ],
   "IMN": [
@@ -25844,6 +25909,115 @@
           "category": "Government News: Seoul"
         }
       ]
+    },
+    {
+      "publication_name": "Ministry of the Interior and Safety (MOIS, 행정안전부)",
+      "publication_website_uri": "https://www.mois.go.kr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mois.go.kr/gpms/view/jsp/rss/rss.jsp?ctxCd=1012",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://www.mois.go.kr/gpms/view/jsp/rss/rss.jsp?ctxCd=1001",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Employment and Labor (MOEL, 고용노동부)",
+      "publication_website_uri": "https://www.moel.go.kr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.moel.go.kr/rss/notice.do",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://www.moel.go.kr/rss/policy.do",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://www.moel.go.kr/rss/lawinfo.do",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Climate, Energy and Environment (환경부, formerly Ministry of Environment)",
+      "publication_website_uri": "https://me.go.kr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://me.go.kr/home/web/board/rss.do?menuId=286&boardMasterId=1",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://me.go.kr/home/web/board/rss.do?menuId=290&boardMasterId=39",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Agriculture, Food and Rural Affairs (MAFRA, 농림축산식품부)",
+      "publication_website_uri": "https://www.mafra.go.kr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mafra.go.kr/bbs/home/792/rssList.do?row=50",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://www.mafra.go.kr/bbs/home/793/rssList.do?row=50",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Korea Disease Control and Prevention Agency (KDCA, 질병관리청)",
+      "publication_website_uri": "https://www.kdca.go.kr",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kdca.go.kr/bbs/kdca/41/rssList.do?row=50",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Busan Metropolitan City",
+      "publication_website_uri": "https://www.busan.go.kr",
+      "category": "Government News: Busan",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.busan.go.kr/nbtnewsBU.rss",
+          "gated": false,
+          "category": "Government News: Busan"
+        }
+      ]
+    },
+    {
+      "publication_name": "Daegu Metropolitan City",
+      "publication_website_uri": "https://www.daegu.go.kr",
+      "category": "Government News: Daegu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://info.daegu.go.kr/rss/rss.php?sgidx=1",
+          "gated": false,
+          "category": "Government News: Daegu"
+        }
+      ]
     }
   ],
   "LBR": [
@@ -30343,6 +30517,42 @@
           "uri": "https://www.utusan.com.my/feed/",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kementerian Pengajian Tinggi (Ministry of Higher Education, MOHE)",
+      "publication_website_uri": "https://www.mohe.gov.my",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mohe.gov.my/hebahan/kenyataan-media?format=feed&type=rss",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kerajaan Negeri Johor (Johor State Government)",
+      "publication_website_uri": "https://www.johor.gov.my",
+      "category": "Government News: Johor",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.johor.gov.my/feed",
+          "gated": true,
+          "category": "Government News: Johor"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kerajaan Negeri Kedah (Kedah State Government)",
+      "publication_website_uri": "https://www.kedah.gov.my",
+      "category": "Government News: Kedah",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kedah.gov.my/index.php/feed/",
+          "gated": true,
+          "category": "Government News: Kedah"
         }
       ]
     }
@@ -37692,6 +37902,45 @@
           "uri": "https://sg.news.yahoo.com/rss",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Environment Agency (NEA)",
+      "publication_website_uri": "https://www.nea.gov.sg",
+      "category": "Environmental Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nea.gov.sg/rss/news_update",
+          "gated": true,
+          "category": "Environmental Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Meteorological Service Singapore (MSS)",
+      "publication_website_uri": "http://www.weather.gov.sg",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "http://www.weather.gov.sg/files/rss/rss24HrForecast.xml",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "http://www.weather.gov.sg/files/rss/rss2HrForecast.xml",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "http://www.weather.gov.sg/files/rss/rss4day.xml",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "http://www.weather.gov.sg/files/rss/rssHeavyRain_new.xml",
+          "gated": true,
+          "category": "Weather Service"
         }
       ]
     }
