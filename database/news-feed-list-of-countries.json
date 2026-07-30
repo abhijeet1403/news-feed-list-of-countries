@@ -25437,6 +25437,198 @@
           "category": "News (Kikuyu, Luo, Kalenjin)"
         }
       ]
+    },
+    {
+      "publication_name": "The National Treasury (Kenya)",
+      "publication_website_uri": "https://www.treasury.go.ke",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.treasury.go.ke/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Health (Kenya)",
+      "publication_website_uri": "https://www.health.go.ke",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.health.go.ke/rss.xml",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Energy and Petroleum (Kenya)",
+      "publication_website_uri": "https://www.energy.go.ke",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.energy.go.ke/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Lands, Public Works, Housing and Urban Development (Kenya)",
+      "publication_website_uri": "https://www.lands.go.ke",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lands.go.ke/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Roads and Transport (Kenya)",
+      "publication_website_uri": "https://www.transport.go.ke",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.transport.go.ke/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Investments, Trade and Industry (Kenya)",
+      "publication_website_uri": "https://www.industrialization.go.ke",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.industrialization.go.ke/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Central Bank of Kenya (CBK)",
+      "publication_website_uri": "https://www.centralbank.go.ke",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.centralbank.go.ke/feed/",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Capital Markets Authority (Kenya)",
+      "publication_website_uri": "https://www.cma.or.ke",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cma.or.ke/feed/",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Data Protection Commissioner (ODPC, Kenya)",
+      "publication_website_uri": "https://www.odpc.go.ke",
+      "category": "Data Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.odpc.go.ke/feed/",
+          "gated": false,
+          "category": "Data Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Drought Management Authority (NDMA, Kenya)",
+      "publication_website_uri": "https://ndma.go.ke",
+      "category": "Disaster Management Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ndma.go.ke/feed/",
+          "gated": false,
+          "category": "Disaster Management Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kisumu County Government",
+      "publication_website_uri": "https://www.kisumu.go.ke",
+      "category": "Government News: Kisumu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kisumu.go.ke/feed/",
+          "gated": false,
+          "category": "Government News: Kisumu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nakuru County Government",
+      "publication_website_uri": "https://www.nakuru.go.ke",
+      "category": "Government News: Nakuru",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nakuru.go.ke/feed/",
+          "gated": false,
+          "category": "Government News: Nakuru"
+        }
+      ]
+    },
+    {
+      "publication_name": "Uasin Gishu County Government",
+      "publication_website_uri": "https://www.uasingishu.go.ke",
+      "category": "Government News: Uasin Gishu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.uasingishu.go.ke/?feed=rss2",
+          "gated": false,
+          "category": "Government News: Uasin Gishu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Laikipia County Government",
+      "publication_website_uri": "https://www.laikipia.go.ke",
+      "category": "Government News: Laikipia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.laikipia.go.ke/?feed=rss2",
+          "gated": false,
+          "category": "Government News: Laikipia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bomet County Government",
+      "publication_website_uri": "https://www.bomet.go.ke",
+      "category": "Government News: Bomet",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bomet.go.ke/feed/",
+          "gated": false,
+          "category": "Government News: Bomet"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kakamega County Government",
+      "publication_website_uri": "https://www.kakamega.go.ke",
+      "category": "Government News: Kakamega",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kakamega.go.ke/feed/",
+          "gated": false,
+          "category": "Government News: Kakamega"
+        }
+      ]
     }
   ],
   "KGZ": [
@@ -31856,6 +32048,354 @@
           "uri": "https://oyonews.com.ng/feed/",
           "gated": false,
           "category": "Regional News: Oyo State"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Agriculture and Food Security (Nigeria)",
+      "publication_website_uri": "https://www.agriculture.gov.ng",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.agriculture.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Education (Nigeria)",
+      "publication_website_uri": "https://www.education.gov.ng",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.education.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Environment (Nigeria)",
+      "publication_website_uri": "https://www.environment.gov.ng",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.environment.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Finance (Nigeria)",
+      "publication_website_uri": "https://www.finance.gov.ng",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.finance.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Health (Nigeria)",
+      "publication_website_uri": "https://www.health.gov.ng",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.health.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Interior (Nigeria)",
+      "publication_website_uri": "https://www.interior.gov.ng",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.interior.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Labour and Employment (Nigeria)",
+      "publication_website_uri": "https://www.labour.gov.ng",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.labour.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Industry, Trade and Investment (Nigeria)",
+      "publication_website_uri": "https://www.fmiti.gov.ng",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fmiti.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Power (Nigeria)",
+      "publication_website_uri": "https://www.power.gov.ng",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.power.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Water Resources and Sanitation (Nigeria)",
+      "publication_website_uri": "https://www.waterresources.gov.ng",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.waterresources.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Information and National Orientation (Nigeria)",
+      "publication_website_uri": "https://www.fmino.gov.ng",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fmino.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Innovation, Science and Technology (Nigeria)",
+      "publication_website_uri": "https://www.scienceandtech.gov.ng",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.scienceandtech.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Youth Development (Nigeria)",
+      "publication_website_uri": "https://www.fmyd.gov.ng",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fmyd.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Communications, Innovation and Digital Economy (Nigeria)",
+      "publication_website_uri": "https://www.fmcide.gov.ng",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fmcide.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Agency for Food and Drug Administration and Control (NAFDAC)",
+      "publication_website_uri": "https://www.nafdac.gov.ng",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nafdac.gov.ng/feed/",
+          "gated": true,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Emergency Management Agency (NEMA, Nigeria)",
+      "publication_website_uri": "https://www.nema.gov.ng",
+      "category": "Disaster Management Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nema.gov.ng/feed/",
+          "gated": true,
+          "category": "Disaster Management Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Capital Territory Administration (Abuja)",
+      "publication_website_uri": "https://www.fcda.gov.ng",
+      "category": "Government News: Abuja",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fcda.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News: Abuja"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kano State Government",
+      "publication_website_uri": "https://www.kanostate.gov.ng",
+      "category": "Government News: Kano",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kanostate.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News: Kano"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kaduna State Government",
+      "publication_website_uri": "https://www.kdsg.gov.ng",
+      "category": "Government News: Kaduna",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kdsg.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News: Kaduna"
+        }
+      ]
+    },
+    {
+      "publication_name": "Oyo State Government",
+      "publication_website_uri": "https://www.oyostate.gov.ng",
+      "category": "Government News: Oyo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.oyostate.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News: Oyo"
+        }
+      ]
+    },
+    {
+      "publication_name": "Anambra State Government",
+      "publication_website_uri": "https://www.anambrastate.gov.ng",
+      "category": "Government News: Anambra",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.anambrastate.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News: Anambra"
+        }
+      ]
+    },
+    {
+      "publication_name": "Delta State Government",
+      "publication_website_uri": "https://deltastate.gov.ng",
+      "category": "Government News: Delta",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://deltastate.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News: Delta"
+        }
+      ]
+    },
+    {
+      "publication_name": "Osun State Government",
+      "publication_website_uri": "https://www.osunstate.gov.ng",
+      "category": "Government News: Osun",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.osunstate.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News: Osun"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kwara State Government",
+      "publication_website_uri": "https://www.kwarastate.gov.ng",
+      "category": "Government News: Kwara",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kwarastate.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News: Kwara"
+        }
+      ]
+    },
+    {
+      "publication_name": "Yobe State Government",
+      "publication_website_uri": "https://www.yobestate.gov.ng",
+      "category": "Government News: Yobe",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.yobestate.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News: Yobe"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kogi State Government",
+      "publication_website_uri": "https://www.kogistate.gov.ng",
+      "category": "Government News: Kogi",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kogistate.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News: Kogi"
+        }
+      ]
+    },
+    {
+      "publication_name": "Adamawa State Government",
+      "publication_website_uri": "https://www.adamawastate.gov.ng",
+      "category": "Government News: Adamawa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.adamawastate.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News: Adamawa"
+        }
+      ]
+    },
+    {
+      "publication_name": "Enugu State Government",
+      "publication_website_uri": "https://www.enugustate.gov.ng",
+      "category": "Government News: Enugu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.enugustate.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News: Enugu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ekiti State Government",
+      "publication_website_uri": "https://www.ekitistate.gov.ng",
+      "category": "Government News: Ekiti",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ekitistate.gov.ng/feed/",
+          "gated": true,
+          "category": "Government News: Ekiti"
         }
       ]
     }
@@ -44945,6 +45485,150 @@
           "uri": "https://theguard.co.za/feed/",
           "gated": false,
           "category": "News (Sesotho, Setswana, Sepedi)"
+        }
+      ]
+    },
+    {
+      "publication_name": "South African Reserve Bank (SARB)",
+      "publication_website_uri": "https://www.resbank.co.za",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.resbank.co.za/bin/sarb/solr/publications/rss",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Council for Geoscience",
+      "publication_website_uri": "https://www.geoscience.org.za",
+      "category": "Geological Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.geoscience.org.za/feed/",
+          "gated": false,
+          "category": "Geological Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Institute for Communicable Diseases (NICD)",
+      "publication_website_uri": "https://www.nicd.ac.za",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nicd.ac.za/feed/",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Eskom",
+      "publication_website_uri": "https://www.eskom.co.za",
+      "category": "Energy Regulatory Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.eskom.co.za/feed/",
+          "gated": false,
+          "category": "Energy Regulatory Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "South African Government - Speeches",
+      "publication_website_uri": "https://www.gov.za",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.za/speeches-feed",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department of Justice and Constitutional Development (South Africa)",
+      "publication_website_uri": "https://www.justice.gov.za",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.justice.gov.za/rssjustice.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department of Transport (South Africa)",
+      "publication_website_uri": "https://www.transport.gov.za",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.transport.gov.za/?feed=rss2",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "South African Revenue Service (SARS)",
+      "publication_website_uri": "https://www.sars.gov.za",
+      "category": "Tax Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sars.gov.za/feed/?post_type=latest_news",
+          "gated": true,
+          "category": "Tax Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Limpopo Provincial Government",
+      "publication_website_uri": "https://www.limpopo.gov.za",
+      "category": "Government News: Limpopo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.limpopo.gov.za/?feed=rss2",
+          "gated": true,
+          "category": "Government News: Limpopo"
+        }
+      ]
+    },
+    {
+      "publication_name": "Free State Provincial Government",
+      "publication_website_uri": "https://www.fsonline.fs.gov.za",
+      "category": "Government News: Free State",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fsonline.fs.gov.za/?feed=rss2",
+          "gated": true,
+          "category": "Government News: Free State"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mpumalanga Provincial Government",
+      "publication_website_uri": "https://www.mpg.gov.za",
+      "category": "Government News: Mpumalanga",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mpg.gov.za/rss.xml",
+          "gated": true,
+          "category": "Government News: Mpumalanga"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Ekurhuleni",
+      "publication_website_uri": "https://www.ekurhuleni.gov.za",
+      "category": "Government News: Ekurhuleni",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ekurhuleni.gov.za/feed/",
+          "gated": true,
+          "category": "Government News: Ekurhuleni"
         }
       ]
     }
