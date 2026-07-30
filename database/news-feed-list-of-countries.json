@@ -14746,6 +14746,306 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Government of the Republic of Croatia (Vlada Republike Hrvatske)",
+      "publication_website_uri": "https://vlada.gov.hr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://vlada.gov.hr/rss",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of the Interior (Ministarstvo unutarnjih poslova)",
+      "publication_website_uri": "https://mup.gov.hr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mup.gov.hr/rss.aspx?ID=8",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Economy (Ministarstvo gospodarstva)",
+      "publication_website_uri": "https://mingo.gov.hr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mingo.gov.hr/rss.aspx?ID=8",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Justice, Administration and Digital Transformation (Ministarstvo pravosuđa, uprave i digitalne transformacije)",
+      "publication_website_uri": "https://mpudt.gov.hr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mpudt.gov.hr/rss.aspx?ID=8",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Science, Education and Youth (Ministarstvo znanosti, obrazovanja i mladih)",
+      "publication_website_uri": "https://mzom.gov.hr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mzom.gov.hr/rss.aspx?ID=8",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Croatian War Veterans (Ministarstvo hrvatskih branitelja)",
+      "publication_website_uri": "https://branitelji.gov.hr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://branitelji.gov.hr/rss.aspx?ID=8",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Health (Ministarstvo zdravstva)",
+      "publication_website_uri": "https://zdravlje.gov.hr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://zdravlje.gov.hr/rss.aspx?ID=8",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Tourism and Sports (Ministarstvo turizma i sporta)",
+      "publication_website_uri": "https://mint.gov.hr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mint.gov.hr/rss.aspx?ID=8",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Regional Development and EU Funds (Ministarstvo regionalnoga razvoja i fondova Europske unije)",
+      "publication_website_uri": "https://razvoj.gov.hr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://razvoj.gov.hr/rss.aspx?ID=8",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Environmental Protection and Green Transition (Ministarstvo zaštite okoliša i zelene tranzicije)",
+      "publication_website_uri": "https://mzozt.gov.hr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mzozt.gov.hr/rss.aspx?ID=8",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Demography and Immigration (Ministarstvo demografije i useljeništva)",
+      "publication_website_uri": "https://mdu.gov.hr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mdu.gov.hr/rss.aspx?ID=4693",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Spatial Planning, Construction and State Property (Ministarstvo prostornoga uređenja, graditeljstva i državne imovine)",
+      "publication_website_uri": "https://mpgi.gov.hr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mpgi.gov.hr/rss.aspx?ID=8",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Croatian Parliament (Hrvatski sabor)",
+      "publication_website_uri": "https://www.sabor.hr",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sabor.hr/sabor-rss-feed/press/priopcenja?v=popisi_sadrzaja&d=priopcenja&t=6502",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Croatian Financial Services Supervisory Agency (HANFA)",
+      "publication_website_uri": "https://hanfa.hr",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.hanfa.hr/rss",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Croatian Competition Agency (AZTN)",
+      "publication_website_uri": "https://www.aztn.hr",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aztn.hr/rss",
+          "gated": false,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "National CERT (CERT.hr)",
+      "publication_website_uri": "https://www.cert.hr",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cert.hr/feed/",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Croatian Personal Data Protection Agency (AZOP)",
+      "publication_website_uri": "https://azop.hr",
+      "category": "Data Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://azop.hr/feed/",
+          "gated": false,
+          "category": "Data Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Croatian Meteorological and Hydrological Service (DHMZ)",
+      "publication_website_uri": "https://meteo.hr",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://meteo.hr/rss.xml",
+          "gated": false,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Croatian Agency for Agriculture and Food (HAPIH)",
+      "publication_website_uri": "https://www.hapih.hr",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.hapih.hr/feed/",
+          "gated": false,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Virovitičko-podravska County (Virovitičko-podravska županija)",
+      "publication_website_uri": "https://www.vpz.hr",
+      "category": "Government News: Virovitičko-podravska",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vpz.hr/feed/",
+          "gated": false,
+          "category": "Government News: Virovitičko-podravska"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vukovar-Srijem County (Vukovarsko-srijemska županija)",
+      "publication_website_uri": "https://www.vusz.hr",
+      "category": "Government News: Vukovarsko-srijemska",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vusz.hr/feed/",
+          "gated": false,
+          "category": "Government News: Vukovarsko-srijemska"
+        }
+      ]
+    },
+    {
+      "publication_name": "Međimurje County (Međimurska županija)",
+      "publication_website_uri": "https://www.medjimurska-zupanija.hr",
+      "category": "Government News: Međimurska",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.medjimurska-zupanija.hr/feed/",
+          "gated": false,
+          "category": "Government News: Međimurska"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Rijeka (Grad Rijeka)",
+      "publication_website_uri": "https://www.rijeka.hr",
+      "category": "Government News: Rijeka",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rijeka.hr/feed/",
+          "gated": false,
+          "category": "Government News: Rijeka"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Osijek (Grad Osijek)",
+      "publication_website_uri": "https://www.osijek.hr",
+      "category": "Government News: Osijek",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.osijek.hr/feed/",
+          "gated": false,
+          "category": "Government News: Osijek"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Zadar (Grad Zadar)",
+      "publication_website_uri": "https://www.grad-zadar.hr",
+      "category": "Government News: Zadar",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.grad-zadar.hr/rss/vijesti-s-pocetne-stranice-0.xml",
+          "gated": false,
+          "category": "Government News: Zadar"
+        }
+      ]
     }
   ],
   "HTI": [
@@ -14979,6 +15279,376 @@
           "uri": "https://www.economx.hu/feed",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hungarian Central Statistical Office (KSH)",
+      "publication_website_uri": "https://www.ksh.hu",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ksh.hu/rss/hirek",
+          "gated": false,
+          "category": "Official Statistics"
+        },
+        {
+          "uri": "https://www.ksh.hu/rss/gyorstajekoztatok",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Cybersecurity Institute (Nemzeti Kiberbiztonsági Intézet, NKI)",
+      "publication_website_uri": "https://nki.gov.hu",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nki.gov.hu/it-biztonsag/hirek/feed/",
+          "gated": true,
+          "category": "Cyber Security Authority"
+        },
+        {
+          "uri": "https://nki.gov.hu/intezet/kozlemenyek/feed/",
+          "gated": true,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Authority for Data Protection and Freedom of Information (NAIH)",
+      "publication_website_uri": "https://www.naih.hu",
+      "category": "Data Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.naih.hu/hirek?format=feed&type=rss",
+          "gated": false,
+          "category": "Data Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hungarian Police (Rendőrség) — national newsroom",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/feed",
+          "gated": false,
+          "category": "Police Reports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bács-Kiskun County Police Headquarters (Bács-Kiskun Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Bács-Kiskun",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/B%C3%A1cs-Kiskun%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Bács-Kiskun"
+        }
+      ]
+    },
+    {
+      "publication_name": "Békés County Police Headquarters (Békés Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Békés",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/B%C3%A9k%C3%A9s%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Békés"
+        }
+      ]
+    },
+    {
+      "publication_name": "Baranya County Police Headquarters (Baranya Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Baranya",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/Baranya%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Baranya"
+        }
+      ]
+    },
+    {
+      "publication_name": "Borsod-Abaúj-Zemplén County Police Headquarters (Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Borsod-Abaúj-Zemplén",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/Borsod-Aba%C3%BAj-Zempl%C3%A9n%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Borsod-Abaúj-Zemplén"
+        }
+      ]
+    },
+    {
+      "publication_name": "Budapest Police Headquarters (Budapesti Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Budapest",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/Budapesti%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Budapest"
+        }
+      ]
+    },
+    {
+      "publication_name": "Csongrád County Police Headquarters (Csongrád Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Csongrád",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/Csongr%C3%A1d%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Csongrád"
+        }
+      ]
+    },
+    {
+      "publication_name": "Fejér County Police Headquarters (Fejér Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Fejér",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/Fej%C3%A9r%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Fejér"
+        }
+      ]
+    },
+    {
+      "publication_name": "Győr-Moson-Sopron County Police Headquarters (Győr-Moson-Sopron Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Győr-Moson-Sopron",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/Gy%C5%91r-Moson-Sopron%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Győr-Moson-Sopron"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hajdú-Bihar County Police Headquarters (Hajdú-Bihar Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Hajdú-Bihar",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/Hajd%C3%BA-Bihar%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Hajdú-Bihar"
+        }
+      ]
+    },
+    {
+      "publication_name": "Heves County Police Headquarters (Heves Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Heves",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/Heves%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Heves"
+        }
+      ]
+    },
+    {
+      "publication_name": "Jász-Nagykun-Szolnok County Police Headquarters (Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Jász-Nagykun-Szolnok",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/J%C3%A1sz-Nagykun-Szolnok%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Jász-Nagykun-Szolnok"
+        }
+      ]
+    },
+    {
+      "publication_name": "Komárom-Esztergom County Police Headquarters (Komárom-Esztergom Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Komárom-Esztergom",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/Kom%C3%A1rom-Esztergom%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Komárom-Esztergom"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nógrád County Police Headquarters (Nógrád Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Nógrád",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/N%C3%B3gr%C3%A1d%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Nógrád"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pest County Police Headquarters (Pest Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Pest",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/Pest%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Pest"
+        }
+      ]
+    },
+    {
+      "publication_name": "Somogy County Police Headquarters (Somogy Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Somogy",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/Somogy%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Somogy"
+        }
+      ]
+    },
+    {
+      "publication_name": "Szabolcs-Szatmár-Bereg County Police Headquarters (Szabolcs-Szatmár-Bereg Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Szabolcs-Szatmár-Bereg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/Szabolcs-Szatm%C3%A1r-Bereg%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Szabolcs-Szatmár-Bereg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tolna County Police Headquarters (Tolna Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Tolna",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/Tolna%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Tolna"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vas County Police Headquarters (Vas Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Vas",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/Vas%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Vas"
+        }
+      ]
+    },
+    {
+      "publication_name": "Veszprém County Police Headquarters (Veszprém Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Veszprém",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/Veszpr%C3%A9m%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Veszprém"
+        }
+      ]
+    },
+    {
+      "publication_name": "Zala County Police Headquarters (Zala Megyei Rendőr-főkapitányság)",
+      "publication_website_uri": "https://www.police.hu",
+      "category": "Police Reports: Zala",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.hu/hu/rss/Zala%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g",
+          "gated": false,
+          "category": "Police Reports: Zala"
+        }
+      ]
+    },
+    {
+      "publication_name": "HungaroMet Hungarian Meteorological Service (OMSZ)",
+      "publication_website_uri": "https://www.met.hu",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.met.hu/methu/rss/rss.php?categoryid=1",
+          "gated": false,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Honvédelem.hu (Ministry of Defence military news portal, domain owned by the Honvédelmi Minisztérium, operated by HM Zrínyi Nonprofit Kft.)",
+      "publication_website_uri": "https://honvedelem.hu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://honvedelem.hu/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Békés County Government (Békés Vármegyei Önkormányzat)",
+      "publication_website_uri": "https://www.bekesmegye.hu",
+      "category": "Government News: Békés",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bekesmegye.hu/feed/",
+          "gated": false,
+          "category": "Government News: Békés"
+        }
+      ]
+    },
+    {
+      "publication_name": "Komárom-Esztergom County Government (Komárom-Esztergom Vármegye Önkormányzata)",
+      "publication_website_uri": "https://www.kemoh.hu",
+      "category": "Government News: Komárom-Esztergom",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kemoh.hu/feed/",
+          "gated": false,
+          "category": "Government News: Komárom-Esztergom"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vas County Government (Vas Vármegye)",
+      "publication_website_uri": "https://www.vasmegye.hu",
+      "category": "Government News: Vas",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vasmegye.hu/feed/",
+          "gated": false,
+          "category": "Government News: Vas"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Győr (Győr Megyei Jogú Város)",
+      "publication_website_uri": "https://www.gyor.hu",
+      "category": "Government News: Győr",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gyor.hu/feed/",
+          "gated": false,
+          "category": "Government News: Győr"
         }
       ]
     }
