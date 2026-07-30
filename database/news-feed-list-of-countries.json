@@ -17694,6 +17694,88 @@
           "category": "Regional News: Maharashtra"
         }
       ]
+    },
+    {
+      "publication_name": "Reserve Bank of India (RBI)",
+      "publication_website_uri": "https://rbi.org.in",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rbi.org.in/pressreleases_rss.xml",
+          "gated": false,
+          "category": "Financial Regulator"
+        },
+        {
+          "uri": "https://rbi.org.in/notifications_rss.xml",
+          "gated": false,
+          "category": "Financial Regulator"
+        },
+        {
+          "uri": "https://rbi.org.in/speeches_rss.xml",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Telecom Regulatory Authority of India (TRAI)",
+      "publication_website_uri": "https://www.trai.gov.in",
+      "category": "Telecom Regulatory Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.trai.gov.in/rss.xml",
+          "gated": true,
+          "category": "Telecom Regulatory Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Home Affairs",
+      "publication_website_uri": "https://mha.gov.in",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mha.gov.in/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Culture",
+      "publication_website_uri": "https://culture.gov.in",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://culture.gov.in/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Heavy Industries",
+      "publication_website_uri": "https://heavyindustries.gov.in",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://heavyindustries.gov.in/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Jal Jeevan Mission (Department of Drinking Water and Sanitation)",
+      "publication_website_uri": "https://jaljeevanmission.gov.in",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://jaljeevanmission.gov.in/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
     }
   ],
   "IRL": [
