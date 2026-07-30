@@ -25585,6 +25585,1063 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Autoriteit Financiële Markten (AFM)",
+      "publication_website_uri": "https://www.afm.nl",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.afm.nl/rss",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Autoriteit Persoonsgegevens",
+      "publication_website_uri": "https://www.autoriteitpersoonsgegevens.nl",
+      "category": "Data Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.autoriteitpersoonsgegevens.nl/rss",
+          "gated": false,
+          "category": "Data Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Cyber Security Centre (NCSC)",
+      "publication_website_uri": "https://www.ncsc.nl",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://feeds.ncsc.nl/nieuws.rss",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        },
+        {
+          "uri": "https://advisories.ncsc.nl/rss/advisories",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Institute for Public Health and the Environment (RIVM)",
+      "publication_website_uri": "https://www.rivm.nl",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rivm.nl/nieuws/rss.xml",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Statistics Netherlands (CBS)",
+      "publication_website_uri": "https://www.cbs.nl",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cbs.nl/nl-nl/rss-feeds/alle-nieuwsberichten",
+          "gated": false,
+          "category": "Official Statistics"
+        },
+        {
+          "uri": "https://www.cbs.nl/nl-nl/rss-feeds/economie",
+          "gated": false,
+          "category": "Official Statistics"
+        },
+        {
+          "uri": "https://www.cbs.nl/nl-nl/rss-feeds/maatschappij",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "De Nederlandsche Bank (DNB)",
+      "publication_website_uri": "https://www.dnb.nl",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dnb.nl/nl/rss/13039/4612",
+          "gated": false,
+          "category": "Financial Regulator"
+        },
+        {
+          "uri": "https://www.dnb.nl/en/rss/13039/4612",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tweede Kamer (House of Representatives)",
+      "publication_website_uri": "https://www.tweedekamer.nl",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tweedekamer.nl/rss.xml",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gemeente Utrecht",
+      "publication_website_uri": "https://www.utrecht.nl",
+      "category": "Government News: Utrecht",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.utrecht.nl/rss.xml",
+          "gated": false,
+          "category": "Government News: Utrecht"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gemeente Rotterdam",
+      "publication_website_uri": "https://www.rotterdam.nl",
+      "category": "Government News: Rotterdam",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rotterdam.nl/feed/rss/nieuws",
+          "gated": false,
+          "category": "Government News: Rotterdam"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gemeente Breda",
+      "publication_website_uri": "https://www.breda.nl",
+      "category": "Government News: Breda",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.breda.nl/feed/rss/nieuws",
+          "gated": false,
+          "category": "Government News: Breda"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gemeente Tilburg",
+      "publication_website_uri": "https://www.tilburg.nl",
+      "category": "Government News: Tilburg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tilburg.nl/rss.xml",
+          "gated": false,
+          "category": "Government News: Tilburg"
+        },
+        {
+          "uri": "https://www.tilburg.nl/bewonersbrieven.xml",
+          "gated": false,
+          "category": "Government News: Tilburg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gemeente Almere",
+      "publication_website_uri": "https://www.almere.nl",
+      "category": "Government News: Almere",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.almere.nl/nieuws/rss.xml",
+          "gated": false,
+          "category": "Government News: Almere"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gemeente Nijmegen",
+      "publication_website_uri": "https://www.nijmegen.nl",
+      "category": "Government News: Nijmegen",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nijmegen.nl/rss.xml",
+          "gated": false,
+          "category": "Government News: Nijmegen"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincie Noord-Holland",
+      "publication_website_uri": "https://www.noord-holland.nl",
+      "category": "Government News: Noord-Holland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.noord-holland.nl/pnhnieuws",
+          "gated": false,
+          "category": "Government News: Noord-Holland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincie Zeeland",
+      "publication_website_uri": "https://www.zeeland.nl",
+      "category": "Government News: Zeeland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.zeeland.nl/rss",
+          "gated": false,
+          "category": "Government News: Zeeland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincie Groningen",
+      "publication_website_uri": "https://www.provinciegroningen.nl",
+      "category": "Government News: Groningen",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.provinciegroningen.nl/feed",
+          "gated": false,
+          "category": "Government News: Groningen"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincie Drenthe",
+      "publication_website_uri": "https://www.provincie.drenthe.nl",
+      "category": "Government News: Drenthe",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.provincie.drenthe.nl/actueel/nieuwsberichten/?rss=true",
+          "gated": false,
+          "category": "Government News: Drenthe"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincie Noord-Brabant",
+      "publication_website_uri": "https://www.brabant.nl",
+      "category": "Government News: Noord-Brabant",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.brabant.nl/actueel/nieuws/?rss=true",
+          "gated": false,
+          "category": "Government News: Noord-Brabant"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincie Zuid-Holland",
+      "publication_website_uri": "https://www.zuid-holland.nl",
+      "category": "Government News: Zuid-Holland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.zuid-holland.nl/actueel/nieuws/?rss=true",
+          "gated": false,
+          "category": "Government News: Zuid-Holland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincie Limburg",
+      "publication_website_uri": "https://www.limburg.nl",
+      "category": "Government News: Limburg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.limburg.nl/actueel/nieuws/?rss=true",
+          "gated": false,
+          "category": "Government News: Limburg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincie Fryslân",
+      "publication_website_uri": "https://www.fryslan.frl",
+      "category": "Government News: Fryslân",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fryslan.frl/rss/content-list?type%5B%5D=news&type%5B%5D=overview_page&tags%5B%5D=8&sort_by=published_at&sort_order=DESC",
+          "gated": false,
+          "category": "Government News: Fryslân"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gemeente Haarlem",
+      "publication_website_uri": "https://www.haarlem.nl",
+      "category": "Government News: Haarlem",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://haarlem.nl/feed/rss/nieuws",
+          "gated": false,
+          "category": "Government News: Haarlem"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gemeente Amersfoort",
+      "publication_website_uri": "https://www.amersfoort.nl",
+      "category": "Government News: Amersfoort",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.amersfoort.nl/feed/rss/nieuws",
+          "gated": false,
+          "category": "Government News: Amersfoort"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gemeente Zaanstad",
+      "publication_website_uri": "https://www.zaanstad.nl",
+      "category": "Government News: Zaanstad",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.zaanstad.nl/actueel-feed/",
+          "gated": false,
+          "category": "Government News: Zaanstad"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gemeente Arnhem",
+      "publication_website_uri": "https://www.arnhem.nl",
+      "category": "Government News: Arnhem",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.arnhem.nl/feed/",
+          "gated": false,
+          "category": "Government News: Arnhem"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gemeente Alkmaar",
+      "publication_website_uri": "https://www.alkmaar.nl",
+      "category": "Government News: Alkmaar",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.alkmaar.nl/nieuws/feed/",
+          "gated": false,
+          "category": "Government News: Alkmaar"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gemeente Delft",
+      "publication_website_uri": "https://www.delft.nl",
+      "category": "Government News: Delft",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.delft.nl/feed/rss/nieuws",
+          "gated": false,
+          "category": "Government News: Delft"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gemeente Maastricht",
+      "publication_website_uri": "https://www.gemeentemaastricht.nl",
+      "category": "Government News: Maastricht",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gemeentemaastricht.nl/rss.xml",
+          "gated": false,
+          "category": "Government News: Maastricht"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gemeente Helmond",
+      "publication_website_uri": "https://www.helmond.nl",
+      "category": "Government News: Helmond",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.helmond.nl/rss.rss",
+          "gated": false,
+          "category": "Government News: Helmond"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gemeente Dordrecht",
+      "publication_website_uri": "https://www.dordrecht.nl",
+      "category": "Government News: Dordrecht",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cms.dordrecht.nl/rss.jsp?objectid=610edfc6-53c9-4c23-963f-2109d27fc886",
+          "gated": false,
+          "category": "Government News: Dordrecht"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie (Dutch National Police) - National",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/algemeen/nb/alle-nieuwsberichten.xml",
+          "gated": false,
+          "category": "Police Reports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Noord-Holland (Province)",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Noord-Holland (Province)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/provincies/noord-holland.xml",
+          "gated": false,
+          "category": "Police Reports: Noord-Holland (Province)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Drenthe (Province)",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Drenthe (Province)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/provincies/drenthe.xml",
+          "gated": false,
+          "category": "Police Reports: Drenthe (Province)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Flevoland (Province)",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Flevoland (Province)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/provincies/flevoland.xml",
+          "gated": false,
+          "category": "Police Reports: Flevoland (Province)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Fryslân (Province)",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Fryslân (Province)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/provincies/fryslan.xml",
+          "gated": false,
+          "category": "Police Reports: Fryslân (Province)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Gelderland (Province)",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Gelderland (Province)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/provincies/gelderland.xml",
+          "gated": false,
+          "category": "Police Reports: Gelderland (Province)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Groningen (Province)",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Groningen (Province)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/provincies/groningen.xml",
+          "gated": false,
+          "category": "Police Reports: Groningen (Province)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Limburg (Province)",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Limburg (Province)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/provincies/limburg.xml",
+          "gated": false,
+          "category": "Police Reports: Limburg (Province)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Noord-Brabant (Province)",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Noord-Brabant (Province)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/provincies/noord-brabant.xml",
+          "gated": false,
+          "category": "Police Reports: Noord-Brabant (Province)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Overijssel (Province)",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Overijssel (Province)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/provincies/overijssel.xml",
+          "gated": false,
+          "category": "Police Reports: Overijssel (Province)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Utrecht (Province)",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Utrecht (Province)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/provincies/utrecht-provincie.xml",
+          "gated": false,
+          "category": "Police Reports: Utrecht (Province)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Zeeland (Province)",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Zeeland (Province)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/provincies/zeeland.xml",
+          "gated": false,
+          "category": "Police Reports: Zeeland (Province)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Zuid-Holland (Province)",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Zuid-Holland (Province)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/provincies/zuid-holland.xml",
+          "gated": false,
+          "category": "Police Reports: Zuid-Holland (Province)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Amsterdam",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Amsterdam",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/noord-holland/amsterdam.xml",
+          "gated": false,
+          "category": "Police Reports: Amsterdam"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Rotterdam",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Rotterdam",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/zuid-holland/rotterdam.xml",
+          "gated": false,
+          "category": "Police Reports: Rotterdam"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Utrecht",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Utrecht",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/utrecht.xml",
+          "gated": false,
+          "category": "Police Reports: Utrecht"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Eindhoven",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Eindhoven",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/noord-brabant/eindhoven.xml",
+          "gated": false,
+          "category": "Police Reports: Eindhoven"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Groningen",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Groningen",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/groningen/groningen.xml",
+          "gated": false,
+          "category": "Police Reports: Groningen"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Almere",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Almere",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/flevoland/almere.xml",
+          "gated": false,
+          "category": "Police Reports: Almere"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Tilburg",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Tilburg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/noord-brabant/tilburg.xml",
+          "gated": false,
+          "category": "Police Reports: Tilburg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Breda",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Breda",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/noord-brabant/breda.xml",
+          "gated": false,
+          "category": "Police Reports: Breda"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Nijmegen",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Nijmegen",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/gelderland/nijmegen.xml",
+          "gated": false,
+          "category": "Police Reports: Nijmegen"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Arnhem",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Arnhem",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/gelderland/arnhem.xml",
+          "gated": false,
+          "category": "Police Reports: Arnhem"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Apeldoorn",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Apeldoorn",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/gelderland/apeldoorn.xml",
+          "gated": false,
+          "category": "Police Reports: Apeldoorn"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Haarlem",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Haarlem",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/noord-holland/haarlem.xml",
+          "gated": false,
+          "category": "Police Reports: Haarlem"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Haarlemmermeer",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Haarlemmermeer",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/noord-holland/haarlemmermeer.xml",
+          "gated": false,
+          "category": "Police Reports: Haarlemmermeer"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Zaanstad",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Zaanstad",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/noord-holland/zaanstad.xml",
+          "gated": false,
+          "category": "Police Reports: Zaanstad"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Amersfoort",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Amersfoort",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/utrecht/amersfoort.xml",
+          "gated": false,
+          "category": "Police Reports: Amersfoort"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Enschede",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Enschede",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/overijssel/enschede.xml",
+          "gated": false,
+          "category": "Police Reports: Enschede"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie 's-Hertogenbosch",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: 's-Hertogenbosch",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/noord-brabant/den-bosch.xml",
+          "gated": false,
+          "category": "Police Reports: 's-Hertogenbosch"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Zwolle",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Zwolle",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/overijssel/zwolle.xml",
+          "gated": false,
+          "category": "Police Reports: Zwolle"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Zoetermeer",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Zoetermeer",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/zuid-holland/zoetermeer.xml",
+          "gated": false,
+          "category": "Police Reports: Zoetermeer"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Leiden",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Leiden",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/zuid-holland/leiden.xml",
+          "gated": false,
+          "category": "Police Reports: Leiden"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Leeuwarden",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Leeuwarden",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/fryslan/leeuwarden.xml",
+          "gated": false,
+          "category": "Police Reports: Leeuwarden"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Maastricht",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Maastricht",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/limburg/maastricht.xml",
+          "gated": false,
+          "category": "Police Reports: Maastricht"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Ede",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Ede",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/gelderland/ede.xml",
+          "gated": false,
+          "category": "Police Reports: Ede"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Dordrecht",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Dordrecht",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/zuid-holland/dordrecht.xml",
+          "gated": false,
+          "category": "Police Reports: Dordrecht"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Westland",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Westland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/zuid-holland/westland.xml",
+          "gated": false,
+          "category": "Police Reports: Westland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Alkmaar",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Alkmaar",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/noord-holland/alkmaar.xml",
+          "gated": false,
+          "category": "Police Reports: Alkmaar"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Delft",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Delft",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/zuid-holland/delft.xml",
+          "gated": false,
+          "category": "Police Reports: Delft"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Emmen",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Emmen",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/drenthe/emmen.xml",
+          "gated": false,
+          "category": "Police Reports: Emmen"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Deventer",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Deventer",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/overijssel/deventer.xml",
+          "gated": false,
+          "category": "Police Reports: Deventer"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Venlo",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Venlo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/limburg/venlo.xml",
+          "gated": false,
+          "category": "Police Reports: Venlo"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Helmond",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Helmond",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/noord-brabant/helmond.xml",
+          "gated": false,
+          "category": "Police Reports: Helmond"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Purmerend",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Purmerend",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/noord-holland/purmerend.xml",
+          "gated": false,
+          "category": "Police Reports: Purmerend"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Amstelveen",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Amstelveen",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/noord-holland/amstelveen.xml",
+          "gated": false,
+          "category": "Police Reports: Amstelveen"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Oss",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Oss",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/noord-brabant/oss.xml",
+          "gated": false,
+          "category": "Police Reports: Oss"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Hilversum",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Hilversum",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/noord-holland/hilversum.xml",
+          "gated": false,
+          "category": "Police Reports: Hilversum"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Sittard-Geleen",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Sittard-Geleen",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/limburg/sittard-geleen.xml",
+          "gated": false,
+          "category": "Police Reports: Sittard-Geleen"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Hoeksche Waard",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Hoeksche Waard",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/zuid-holland/hoeksche-waard.xml",
+          "gated": false,
+          "category": "Police Reports: Hoeksche Waard"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Dijk en Waard",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Dijk en Waard",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/noord-holland/dijk-en-waard.xml",
+          "gated": false,
+          "category": "Police Reports: Dijk en Waard"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Nissewaard",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Nissewaard",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/zuid-holland/nissewaard.xml",
+          "gated": false,
+          "category": "Police Reports: Nissewaard"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Heerlen",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Heerlen",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/limburg/heerlen.xml",
+          "gated": false,
+          "category": "Police Reports: Heerlen"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Lelystad",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Lelystad",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/flevoland/lelystad.xml",
+          "gated": false,
+          "category": "Police Reports: Lelystad"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Schiedam",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Schiedam",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/zuid-holland/schiedam.xml",
+          "gated": false,
+          "category": "Police Reports: Schiedam"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politie Roosendaal",
+      "publication_website_uri": "https://www.politie.nl",
+      "category": "Police Reports: Roosendaal",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rss.politie.nl/rss/ab/gemeenten/noord-brabant/roosendaal.xml",
+          "gated": false,
+          "category": "Police Reports: Roosendaal"
+        }
+      ]
     }
   ],
   "NOR": [
