@@ -23119,6 +23119,23 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Israel Meteorological Service (IMS)",
+      "publication_website_uri": "https://ims.gov.il",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ims.gov.il/en/rss.xml",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://ims.gov.il/rss.xml",
+          "gated": true,
+          "category": "Weather Service"
+        }
+      ]
     }
   ],
   "ITA": [
@@ -50374,6 +50391,23 @@
           "uri": "https://arriyadiyah.com/rss",
           "gated": false,
           "category": "Sports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Saudi Food and Drug Authority (SFDA)",
+      "publication_website_uri": "https://www.sfda.gov.sa",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sfda.gov.sa/en/news.xml",
+          "gated": true,
+          "category": "Food Safety Authority"
+        },
+        {
+          "uri": "https://www.sfda.gov.sa/ar/news.xml",
+          "gated": true,
+          "category": "Food Safety Authority"
         }
       ]
     }
