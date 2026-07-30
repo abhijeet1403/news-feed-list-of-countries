@@ -610,6 +610,126 @@
           "category": "Government News: Córdoba"
         }
       ]
+    },
+    {
+      "publication_name": "Gobierno de la Provincia de Santa Fe",
+      "publication_website_uri": "https://www.santafe.gov.ar",
+      "category": "Government News: Santa Fe",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "http://www.santafe.gov.ar/rss_noticias.php",
+          "gated": false,
+          "category": "Government News: Santa Fe"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gobierno de la Provincia de Jujuy (Prensa)",
+      "publication_website_uri": "https://prensa.jujuy.gob.ar",
+      "category": "Government News: Jujuy",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://prensa.jujuy.gob.ar/rss/ultimas-noticias.xml",
+          "gated": false,
+          "category": "Government News: Jujuy"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gobierno de la Provincia del Neuquén (Neuquén Informa)",
+      "publication_website_uri": "https://www.neuqueninforma.gob.ar",
+      "category": "Government News: Neuquén",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.neuqueninforma.gob.ar/rss/noticias",
+          "gated": false,
+          "category": "Government News: Neuquén"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipalidad de la Ciudad de Mendoza (Prensa)",
+      "publication_website_uri": "https://prensa.ciudaddemendoza.gob.ar",
+      "category": "Government News: Mendoza",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://prensa.ciudaddemendoza.gob.ar/feed/",
+          "gated": false,
+          "category": "Government News: Mendoza"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipalidad de Rosario",
+      "publication_website_uri": "https://www.rosarionoticias.gob.ar",
+      "category": "Government News: Rosario",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rosarionoticias.gob.ar/rss/rss.php",
+          "gated": false,
+          "category": "Government News: Rosario"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gobierno de la Provincia del Chaco",
+      "publication_website_uri": "https://chaco.gob.ar",
+      "category": "Government News: Chaco",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://chaco.gob.ar/ultimas-noticias/rss-noticias",
+          "gated": false,
+          "category": "Government News: Chaco"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gobierno de la Provincia de Santa Cruz (Prensa Santa Cruz)",
+      "publication_website_uri": "https://noticias.santacruz.gob.ar",
+      "category": "Government News: Santa Cruz",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://noticias.santacruz.gob.ar/?format=feed&type=rss",
+          "gated": false,
+          "category": "Government News: Santa Cruz"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gobierno de la Provincia de Santiago del Estero",
+      "publication_website_uri": "https://sde.gob.ar",
+      "category": "Government News: Santiago del Estero",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sde.gob.ar/feed/",
+          "gated": false,
+          "category": "Government News: Santiago del Estero"
+        }
+      ]
+    },
+    {
+      "publication_name": "Secretaría de Estado de Comunicación Pública - Gobierno de Tucumán",
+      "publication_website_uri": "https://www.comunicaciontucuman.gob.ar",
+      "category": "Government News: Tucumán",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.comunicaciontucuman.gob.ar/rss",
+          "gated": false,
+          "category": "Government News: Tucumán"
+        }
+      ]
+    },
+    {
+      "publication_name": "INTA Informa (Instituto Nacional de Tecnología Agropecuaria)",
+      "publication_website_uri": "https://intainforma.inta.gob.ar",
+      "category": "Agriculture Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://intainforma.inta.gob.ar/feed/",
+          "gated": false,
+          "category": "Agriculture Authority"
+        }
+      ]
     }
   ],
   "ARM": [
