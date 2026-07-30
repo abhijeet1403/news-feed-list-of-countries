@@ -1868,6 +1868,191 @@
           "category": "Sports"
         }
       ]
+    },
+    {
+      "publication_name": "National Assembly of Bulgaria (Народно събрание)",
+      "publication_website_uri": "https://www.parliament.bg",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.parliament.bg/feed/news",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Regional Development and Public Works (Министерство на регионалното развитие и благоустройството)",
+      "publication_website_uri": "https://www.mrrb.bg",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mrrb.bg/bg/rss/",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Tourism (Министерство на туризма)",
+      "publication_website_uri": "https://www.tourism.government.bg",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tourism.government.bg/bg/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Energy (Министерство на енергетиката)",
+      "publication_website_uri": "https://www.me.government.bg",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.me.government.bg/rss.html",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Agriculture and Food (Министерство на земеделието и храните)",
+      "publication_website_uri": "https://www.mzh.government.bg",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mzh.government.bg/bg/press-center/novini/rss/",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Statistical Institute (Национален статистически институт, НСИ)",
+      "publication_website_uri": "https://www.nsi.bg",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nsi.bg/pressreleases.xml",
+          "gated": false,
+          "category": "Official Statistics"
+        },
+        {
+          "uri": "https://www.nsi.bg/news.xml",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bulgarian National Bank (Българска народна банка, БНБ)",
+      "publication_website_uri": "https://www.bnb.bg",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bnb.bg/AboutUs/PressOffice/PORSS/index.htm?getRSS=1&lang=BG&cat=1",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "CERT Bulgaria - National Reaction Center for Computer Security Incidents (Национален екип за реагиране при инциденти с компютърната сигурност)",
+      "publication_website_uri": "https://www.govcert.bg",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.govcert.bg/feed/",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Central Election Commission (Централна избирателна комисия, ЦИК)",
+      "publication_website_uri": "https://www.cik.bg",
+      "category": "Elections Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cik.bg/bg/rss",
+          "gated": false,
+          "category": "Elections Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Yambol Regional Administration (Областна администрация Ямбол)",
+      "publication_website_uri": "https://yambol.government.bg",
+      "category": "Government News: Yambol",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://yambol.government.bg/?feed=rss2",
+          "gated": false,
+          "category": "Government News: Yambol"
+        }
+      ]
+    },
+    {
+      "publication_name": "Burgas Regional Administration (Областна администрация Бургас)",
+      "publication_website_uri": "https://bs.government.bg",
+      "category": "Government News: Burgas Region",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bs.government.bg/?feed=rss2",
+          "gated": false,
+          "category": "Government News: Burgas Region"
+        }
+      ]
+    },
+    {
+      "publication_name": "Veliko Tarnovo Regional Administration (Областна администрация Велико Търново)",
+      "publication_website_uri": "https://vt.government.bg",
+      "category": "Government News: Veliko Tarnovo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://vt.government.bg/?feed=rss2",
+          "gated": false,
+          "category": "Government News: Veliko Tarnovo"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sofia Municipality (Столична община)",
+      "publication_website_uri": "https://www.sofia.bg",
+      "category": "Government News: Sofia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sofia.bg/en/news/-/asset_publisher/1ZlMReQfODHE/rss",
+          "gated": false,
+          "category": "Government News: Sofia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Plovdiv Municipality (Община Пловдив)",
+      "publication_website_uri": "https://www.plovdiv.bg",
+      "category": "Government News: Plovdiv",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.plovdiv.bg/feed/",
+          "gated": false,
+          "category": "Government News: Plovdiv"
+        }
+      ]
+    },
+    {
+      "publication_name": "Varna Municipality (Община Варна)",
+      "publication_website_uri": "https://www.varna.bg",
+      "category": "Government News: Varna",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.varna.bg/bg/rss",
+          "gated": false,
+          "category": "Government News: Varna"
+        }
+      ]
     }
   ],
   "BHS": [
@@ -30116,6 +30301,179 @@
           "uri": "https://www.bzi.ro/feed/",
           "gated": true,
           "category": "Regional News: Iasi"
+        }
+      ]
+    },
+    {
+      "publication_name": "Government of Romania (Guvernul României)",
+      "publication_website_uri": "https://gov.ro",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gov.ro/ro/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Internal Affairs (Ministerul Afacerilor Interne)",
+      "publication_website_uri": "https://www.mai.gov.ro",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mai.gov.ro/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Environment, Waters and Forests (Ministerul Mediului, Apelor și Pădurilor)",
+      "publication_website_uri": "https://mmediu.ro",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mmediu.ro/feed/",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Finance (Ministerul Finanțelor)",
+      "publication_website_uri": "https://mfinante.gov.ro",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mfinante.gov.ro/ro/despre-minister?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_uwgr&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=getRSS&p_p_cacheability=cacheLevelPage",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Meteorological Administration (Administrația Națională de Meteorologie, ANM)",
+      "publication_website_uri": "https://www.meteoromania.ro",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.meteoromania.ro/feed/",
+          "gated": false,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://www.meteoromania.ro/avertizari-rss.php",
+          "gated": false,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Sanitary Veterinary and Food Safety Authority (Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor, ANSVSA)",
+      "publication_website_uri": "https://www.ansvsa.ro",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ansvsa.ro/feed/",
+          "gated": false,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Competition Council (Consiliul Concurenței)",
+      "publication_website_uri": "https://www.consiliulconcurentei.ro",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.consiliulconcurentei.ro/feed/",
+          "gated": false,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Cyber Security Directorate (Directoratul Național de Securitate Cibernetică, DNSC)",
+      "publication_website_uri": "https://dnsc.ro",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dnsc.ro/feed",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Institute of Public Health (Institutul Național de Sănătate Publică, INSP)",
+      "publication_website_uri": "https://www.insp.gov.ro",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.insp.gov.ro/feed/",
+          "gated": true,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cluj County Council (Consiliul Județean Cluj)",
+      "publication_website_uri": "https://cjcluj.ro",
+      "category": "Government News: Cluj",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cjcluj.ro/feed/",
+          "gated": false,
+          "category": "Government News: Cluj"
+        }
+      ]
+    },
+    {
+      "publication_name": "Timiș County Council (Consiliul Județean Timiș)",
+      "publication_website_uri": "https://www.cjtimis.ro",
+      "category": "Government News: Timiș",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cjtimis.ro/feed/",
+          "gated": false,
+          "category": "Government News: Timiș"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bihor County Council (Consiliul Județean Bihor)",
+      "publication_website_uri": "https://www.cjbihor.ro",
+      "category": "Government News: Bihor",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cjbihor.ro/feed/",
+          "gated": false,
+          "category": "Government News: Bihor"
+        }
+      ]
+    },
+    {
+      "publication_name": "Galați County Council (Consiliul Județean Galați)",
+      "publication_website_uri": "https://cjgalati.ro",
+      "category": "Government News: Galați",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cjgalati.ro/feed/",
+          "gated": false,
+          "category": "Government News: Galați"
+        }
+      ]
+    },
+    {
+      "publication_name": "Romanian Police (Poliția Română)",
+      "publication_website_uri": "https://politiaromana.ro",
+      "category": "Police Reports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://politiaromana.ro/ro/rss",
+          "gated": false,
+          "category": "Police Reports"
         }
       ]
     }
