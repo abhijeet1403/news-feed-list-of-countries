@@ -5248,6 +5248,18 @@
           "category": "Regional News: Famagusta"
         }
       ]
+    },
+    {
+      "publication_name": "Municipality of Limassol (Δήμος Λεμεσού)",
+      "publication_website_uri": "https://www.limassol.org.cy",
+      "category": "Government News: Limassol",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.limassol.org.cy/news-feed",
+          "gated": false,
+          "category": "Government News: Limassol"
+        }
+      ]
     }
   ],
   "CZE": [
@@ -13407,6 +13419,246 @@
           "uri": "https://www.enikos.gr/feed/",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Organisation for Medicines (Εθνικός Οργανισμός Φαρμάκων, ΕΟΦ)",
+      "publication_website_uri": "https://www.eof.gr",
+      "category": "Medicines Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.eof.gr/feed/",
+          "gated": false,
+          "category": "Medicines Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipality of Thessaloniki (Δήμος Θεσσαλονίκης)",
+      "publication_website_uri": "https://thessaloniki.gr",
+      "category": "Government News: Thessaloniki",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://thessaloniki.gr/feed/",
+          "gated": false,
+          "category": "Government News: Thessaloniki"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipality of Heraklion (Δήμος Ηρακλείου)",
+      "publication_website_uri": "https://www.heraklion.gr",
+      "category": "Government News: Heraklion",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.heraklion.gr/rss/municipality",
+          "gated": false,
+          "category": "Government News: Heraklion"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipality of Ioannina (Δήμος Ιωαννιτών)",
+      "publication_website_uri": "https://ioannina.gr",
+      "category": "Government News: Ioannina",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ioannina.gr/feed/",
+          "gated": false,
+          "category": "Government News: Ioannina"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipality of Rhodes (Δήμος Ρόδου)",
+      "publication_website_uri": "https://www.rhodes.gr",
+      "category": "Government News: Rhodes",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rhodes.gr/feed/",
+          "gated": false,
+          "category": "Government News: Rhodes"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipality of Serres (Δήμος Σερρών)",
+      "publication_website_uri": "https://www.serres.gr",
+      "category": "Government News: Serres",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.serres.gr/feed/",
+          "gated": false,
+          "category": "Government News: Serres"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipality of Chania (Δήμος Χανίων)",
+      "publication_website_uri": "https://www.chania.gr",
+      "category": "Government News: Chania",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.chania.gr/feed/",
+          "gated": false,
+          "category": "Government News: Chania"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipality of Volos (Δήμος Βόλου)",
+      "publication_website_uri": "https://dimosvolos.gr",
+      "category": "Government News: Volos",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dimosvolos.gr/el/rss.xml",
+          "gated": false,
+          "category": "Government News: Volos"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipality of Central Corfu and Diapontia Islands (Δήμος Κεντρικής Κέρκυρας και Διαποντίων Νήσων)",
+      "publication_website_uri": "https://corfu.gr",
+      "category": "Government News: Corfu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://corfu.gr/feed/",
+          "gated": false,
+          "category": "Government News: Corfu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Education, Religious Affairs and Sports (Υπουργείο Παιδείας, Θρησκευμάτων και Αθλητισμού)",
+      "publication_website_uri": "https://www.minedu.gov.gr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.minedu.gov.gr/rss?format=feed&type=rss",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Cybersecurity Authority (Εθνική Αρχή Κυβερνοασφάλειας)",
+      "publication_website_uri": "https://cyber.gov.gr",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cyber.gov.gr/feed/",
+          "gated": true,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hellenic Civil Aviation Authority (Υπηρεσία Πολιτικής Αεροπορίας)",
+      "publication_website_uri": "https://hcaa.gov.gr",
+      "category": "Aviation Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://hcaa.gov.gr/el/feed/newsroom/press-releases",
+          "gated": true,
+          "category": "Aviation Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Region of Central Macedonia (Περιφέρεια Κεντρικής Μακεδονίας)",
+      "publication_website_uri": "https://www.pkm.gov.gr",
+      "category": "Government News: Central Macedonia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pkm.gov.gr/feed/",
+          "gated": true,
+          "category": "Government News: Central Macedonia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Region of Crete (Περιφέρεια Κρήτης)",
+      "publication_website_uri": "https://www.crete.gov.gr",
+      "category": "Government News: Crete",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.crete.gov.gr/feed/",
+          "gated": true,
+          "category": "Government News: Crete"
+        }
+      ]
+    },
+    {
+      "publication_name": "Region of Western Macedonia (Περιφέρεια Δυτικής Μακεδονίας)",
+      "publication_website_uri": "https://www.pdm.gov.gr",
+      "category": "Government News: Western Macedonia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pdm.gov.gr/feed/",
+          "gated": true,
+          "category": "Government News: Western Macedonia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Region of Central Greece (Περιφέρεια Στερεάς Ελλάδας)",
+      "publication_website_uri": "https://pste.gov.gr",
+      "category": "Government News: Central Greece",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pste.gov.gr/feed/",
+          "gated": true,
+          "category": "Government News: Central Greece"
+        }
+      ]
+    },
+    {
+      "publication_name": "Region of Peloponnese (Περιφέρεια Πελοποννήσου)",
+      "publication_website_uri": "https://www.ppel.gov.gr",
+      "category": "Government News: Peloponnese",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ppel.gov.gr/feed/",
+          "gated": true,
+          "category": "Government News: Peloponnese"
+        }
+      ]
+    },
+    {
+      "publication_name": "Region of Eastern Macedonia and Thrace (Περιφέρεια Ανατολικής Μακεδονίας και Θράκης)",
+      "publication_website_uri": "https://www.pamth.gov.gr",
+      "category": "Government News: Eastern Macedonia and Thrace",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pamth.gov.gr/feed/",
+          "gated": true,
+          "category": "Government News: Eastern Macedonia and Thrace"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipality of Piraeus (Δήμος Πειραιά)",
+      "publication_website_uri": "https://piraeus.gov.gr",
+      "category": "Government News: Piraeus",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://piraeus.gov.gr/feed/",
+          "gated": true,
+          "category": "Government News: Piraeus"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipality of Larissa (Δήμος Λαρισαίων)",
+      "publication_website_uri": "https://www.larissa.gov.gr",
+      "category": "Government News: Larissa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.larissa.gov.gr/feed/",
+          "gated": true,
+          "category": "Government News: Larissa"
         }
       ]
     }
