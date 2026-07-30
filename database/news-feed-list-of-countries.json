@@ -42872,6 +42872,208 @@
           "category": "Government News: Boston"
         }
       ]
+    },
+    {
+      "publication_name": "National Weather Service (NWS) - Active Alerts by State",
+      "publication_website_uri": "https://www.weather.gov",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=AL",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=AK",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=AZ",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=AR",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=CA",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=CO",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=FL",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=GA",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=ID",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=IL",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=KS",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=LA",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=MD",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=MI",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=MS",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=MT",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=NV",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=NM",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=NY",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=NC",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=ND",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=OK",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=OR",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=TX",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=UT",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=WA",
+          "gated": true,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://api.weather.gov/alerts/active.atom?area=WY",
+          "gated": true,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Governor of Kentucky (Governor Andy Beshear)",
+      "publication_website_uri": "https://governor.ky.gov",
+      "category": "Government News: Kentucky",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://newsroom.ky.gov/GovernorBeshear/_layouts/15/Fwk.Webparts.Agency.Ui/newslistfeed.aspx",
+          "gated": true,
+          "category": "Government News: Kentucky"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Seattle Newsroom",
+      "publication_website_uri": "https://www.seattle.gov",
+      "category": "Government News: Seattle",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://news.seattle.gov/feed/",
+          "gated": true,
+          "category": "Government News: Seattle"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Phoenix Newsroom",
+      "publication_website_uri": "https://www.phoenix.gov",
+      "category": "Government News: Phoenix",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.phoenix.gov/newssite/SiteAssets/feed.xml",
+          "gated": true,
+          "category": "Government News: Phoenix"
+        }
+      ]
+    },
+    {
+      "publication_name": "Dallas City News Hub (City of Dallas)",
+      "publication_website_uri": "https://www.dallascitynews.net",
+      "category": "Government News: Dallas",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dallascitynews.net/feed/",
+          "gated": false,
+          "category": "Government News: Dallas"
+        }
+      ]
+    },
+    {
+      "publication_name": "Seattle Police Department (SPD Blotter)",
+      "publication_website_uri": "https://spdblotter.seattle.gov",
+      "category": "Police Reports: Seattle",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://spdblotter.seattle.gov/feed/",
+          "gated": true,
+          "category": "Police Reports: Seattle"
+        }
+      ]
     }
   ],
   "UZB": [
