@@ -10940,534 +10940,6 @@
       ]
     },
     {
-      "publication_name": "Attorney General's Office",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/attorney-generals-office",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/attorney-generals-office.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Cabinet Office",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/cabinet-office",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/cabinet-office.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Department for Business and Trade",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Department for Culture, Media and Sport",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Department for Education",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-education",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/department-for-education.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Department for Energy Security and Net Zero",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Department for Environment, Food & Rural Affairs (Defra)",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Department for Science, Innovation and Technology",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Department for Transport",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-transport",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/department-for-transport.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Department for Work and Pensions",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-work-pensions",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/department-for-work-pensions.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Department of Health and Social Care",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/department-of-health-and-social-care.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Foreign, Commonwealth & Development Office",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "HM Treasury",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/hm-treasury",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/hm-treasury.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Home Office",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/home-office",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/home-office.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Ministry of Defence",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/ministry-of-defence",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/ministry-of-defence.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Ministry of Housing, Communities and Local Government",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Ministry of Justice",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/ministry-of-justice",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/ministry-of-justice.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Northern Ireland Office",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/northern-ireland-office",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/northern-ireland-office.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Office of the Advocate General for Scotland",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/office-of-the-advocate-general-for-scotland",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/office-of-the-advocate-general-for-scotland.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "UK Export Finance",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/uk-export-finance",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/uk-export-finance.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Scotland Office",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/scotland-office",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/scotland-office.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Wales Office",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/wales-office",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/wales-office.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Competition and Markets Authority",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/competition-and-markets-authority",
-      "category": "Competition Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/competition-and-markets-authority.atom",
-          "gated": true,
-          "category": "Competition Authority"
-        }
-      ]
-    },
-    {
-      "publication_name": "Food Standards Agency",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/food-standards-agency",
-      "category": "Food Safety Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/food-standards-agency.atom",
-          "gated": true,
-          "category": "Food Safety Authority"
-        }
-      ]
-    },
-    {
-      "publication_name": "Forestry Commission",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/forestry-commission",
-      "category": "Forestry Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/forestry-commission.atom",
-          "gated": true,
-          "category": "Forestry Authority"
-        }
-      ]
-    },
-    {
-      "publication_name": "Government Actuary's Department",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/government-actuarys-department",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/government-actuarys-department.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Government Legal Department",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/government-legal-department",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/government-legal-department.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "HM Land Registry",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/land-registry",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/land-registry.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "HM Revenue & Customs",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/hm-revenue-customs",
-      "category": "Tax Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/hm-revenue-customs.atom",
-          "gated": true,
-          "category": "Tax Authority"
-        }
-      ]
-    },
-    {
-      "publication_name": "Ofqual",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/ofqual",
-      "category": "Qualifications Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/ofqual.atom",
-          "gated": true,
-          "category": "Qualifications Authority"
-        }
-      ]
-    },
-    {
-      "publication_name": "Ofsted",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/ofsted",
-      "category": "Education Standards Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/ofsted.atom",
-          "gated": true,
-          "category": "Education Standards Authority"
-        }
-      ]
-    },
-    {
-      "publication_name": "Serious Fraud Office",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/serious-fraud-office",
-      "category": "Fraud Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/serious-fraud-office.atom",
-          "gated": true,
-          "category": "Fraud Authority"
-        }
-      ]
-    },
-    {
-      "publication_name": "The Charity Commission",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/charity-commission",
-      "category": "Charities Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/charity-commission.atom",
-          "gated": true,
-          "category": "Charities Authority"
-        }
-      ]
-    },
-    {
-      "publication_name": "HM Courts & Tribunals Service",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "HM Prison and Probation Service",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/hm-prison-and-probation-service",
-      "category": "Government News",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/hm-prison-and-probation-service.atom",
-          "gated": true,
-          "category": "Government News"
-        }
-      ]
-    },
-    {
-      "publication_name": "Planning Inspectorate",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/planning-inspectorate",
-      "category": "Planning Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/planning-inspectorate.atom",
-          "gated": true,
-          "category": "Planning Authority"
-        }
-      ]
-    },
-    {
-      "publication_name": "Maritime and Coastguard Agency",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency",
-      "category": "Maritime Safety Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency.atom",
-          "gated": true,
-          "category": "Maritime Safety Authority"
-        }
-      ]
-    },
-    {
-      "publication_name": "Medicines and Healthcare products Regulatory Agency (MHRA)",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
-      "category": "Medicines Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
-          "gated": true,
-          "category": "Medicines Authority"
-        }
-      ]
-    },
-    {
-      "publication_name": "UK Health Security Agency (UKHSA)",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/uk-health-security-agency",
-      "category": "Public Health Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/uk-health-security-agency.atom",
-          "gated": true,
-          "category": "Public Health Authority"
-        }
-      ]
-    },
-    {
-      "publication_name": "Air Accidents Investigation Branch (AAIB)",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/air-accidents-investigation-branch",
-      "category": "Aviation Safety Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/air-accidents-investigation-branch.atom",
-          "gated": true,
-          "category": "Aviation Safety Authority"
-        }
-      ]
-    },
-    {
-      "publication_name": "Marine Accident Investigation Branch (MAIB)",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/marine-accident-investigation-branch",
-      "category": "Maritime Safety Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/marine-accident-investigation-branch.atom",
-          "gated": true,
-          "category": "Maritime Safety Authority"
-        }
-      ]
-    },
-    {
-      "publication_name": "Rail Accident Investigation Branch (RAIB)",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/rail-accident-investigation-branch",
-      "category": "Rail Safety Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/rail-accident-investigation-branch.atom",
-          "gated": true,
-          "category": "Rail Safety Authority"
-        }
-      ]
-    },
-    {
-      "publication_name": "Environment Agency",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/environment-agency",
-      "category": "Environmental Protection Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/environment-agency.atom",
-          "gated": true,
-          "category": "Environmental Protection Authority"
-        }
-      ]
-    },
-    {
-      "publication_name": "Office of Rail and Road (ORR)",
-      "publication_website_uri": "https://www.gov.uk/government/organisations/office-of-rail-and-road",
-      "category": "Rail Safety Authority",
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.gov.uk/government/organisations/office-of-rail-and-road.atom",
-          "gated": true,
-          "category": "Rail Safety Authority"
-        }
-      ]
-    },
-    {
       "publication_name": "Bank of England",
       "publication_website_uri": "https://www.bankofengland.co.uk",
       "category": "Financial Regulator",
@@ -11752,6 +11224,510 @@
           "uri": "https://www.avonandsomerset.police.uk/feed/",
           "gated": false,
           "category": "Police Reports: Avon and Somerset"
+        }
+      ]
+    },
+    {
+      "publication_name": "Attorney General's Office",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/attorney-generals-office",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=attorney-generals-office",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cabinet Office",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/cabinet-office",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=cabinet-office",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Business and Trade",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-business-and-trade",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Culture, Media and Sport",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-culture-media-and-sport",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Education",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-education",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-education",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Energy Security and Net Zero",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-energy-security-and-net-zero",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Environment, Food & Rural Affairs (Defra)",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-environment-food-rural-affairs",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Science, Innovation and Technology",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-science-innovation-and-technology",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Transport",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-transport",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-transport",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Work and Pensions",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-work-pensions",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department of Health and Social Care",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-of-health-and-social-care",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Foreign, Commonwealth & Development Office",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "HM Treasury",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/hm-treasury",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=hm-treasury",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Home Office",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/home-office",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=home-office",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Defence",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/ministry-of-defence",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=ministry-of-defence",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Housing, Communities and Local Government",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=ministry-of-housing-communities-local-government",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Justice",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/ministry-of-justice",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=ministry-of-justice",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Northern Ireland Office",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/northern-ireland-office",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=northern-ireland-office",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "UK Export Finance",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/uk-export-finance",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=uk-export-finance",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Scotland Office",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/scotland-office",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=scotland-office",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Wales Office",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/wales-office",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=wales-office",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Competition and Markets Authority",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/competition-and-markets-authority",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=competition-and-markets-authority",
+          "gated": true,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Food Standards Agency",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/food-standards-agency",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=food-standards-agency",
+          "gated": true,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Forestry Commission",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/forestry-commission",
+      "category": "Forestry Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=forestry-commission",
+          "gated": true,
+          "category": "Forestry Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Government Actuary's Department",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/government-actuarys-department",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=government-actuarys-department",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Government Legal Department",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/government-legal-department",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=government-legal-department",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "HM Land Registry",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/land-registry",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=land-registry",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "HM Revenue & Customs",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+      "category": "Tax Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=hm-revenue-customs",
+          "gated": true,
+          "category": "Tax Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ofqual",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/ofqual",
+      "category": "Qualifications Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=ofqual",
+          "gated": true,
+          "category": "Qualifications Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ofsted",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/ofsted",
+      "category": "Education Standards Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=ofsted",
+          "gated": true,
+          "category": "Education Standards Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Serious Fraud Office",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/serious-fraud-office",
+      "category": "Fraud Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=serious-fraud-office",
+          "gated": true,
+          "category": "Fraud Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Charity Commission",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/charity-commission",
+      "category": "Charities Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=charity-commission",
+          "gated": true,
+          "category": "Charities Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "HM Courts & Tribunals Service",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=hm-courts-and-tribunals-service",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "HM Prison and Probation Service",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/hm-prison-and-probation-service",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=hm-prison-and-probation-service",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Planning Inspectorate",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/planning-inspectorate",
+      "category": "Planning Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=planning-inspectorate",
+          "gated": true,
+          "category": "Planning Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Maritime and Coastguard Agency",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency",
+      "category": "Maritime Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=maritime-and-coastguard-agency",
+          "gated": true,
+          "category": "Maritime Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Medicines and Healthcare products Regulatory Agency (MHRA)",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+      "category": "Medicines Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=medicines-and-healthcare-products-regulatory-agency",
+          "gated": true,
+          "category": "Medicines Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "UK Health Security Agency (UKHSA)",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/uk-health-security-agency",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=uk-health-security-agency",
+          "gated": true,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Air Accidents Investigation Branch (AAIB)",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/air-accidents-investigation-branch",
+      "category": "Aviation Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=air-accidents-investigation-branch",
+          "gated": true,
+          "category": "Aviation Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Marine Accident Investigation Branch (MAIB)",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/marine-accident-investigation-branch",
+      "category": "Maritime Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=marine-accident-investigation-branch",
+          "gated": true,
+          "category": "Maritime Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Rail Accident Investigation Branch (RAIB)",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/rail-accident-investigation-branch",
+      "category": "Rail Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=rail-accident-investigation-branch",
+          "gated": true,
+          "category": "Rail Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Environment Agency",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/environment-agency",
+      "category": "Environmental Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=environment-agency",
+          "gated": true,
+          "category": "Environmental Protection Authority"
         }
       ]
     }
