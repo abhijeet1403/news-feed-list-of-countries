@@ -562,6 +562,54 @@
           "category": "Regional News: Misiones"
         }
       ]
+    },
+    {
+      "publication_name": "Gobierno de la Ciudad Autónoma de Buenos Aires",
+      "publication_website_uri": "https://www.buenosaires.gob.ar",
+      "category": "Government News: Ciudad Autónoma de Buenos Aires",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.buenosaires.gob.ar/rss.xml",
+          "gated": false,
+          "category": "Government News: Ciudad Autónoma de Buenos Aires"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gobierno de la Provincia de Misiones",
+      "publication_website_uri": "https://www.misiones.gob.ar",
+      "category": "Government News: Misiones",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.misiones.gob.ar/feed",
+          "gated": false,
+          "category": "Government News: Misiones"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gobierno de la Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+      "publication_website_uri": "https://www.tierradelfuego.gob.ar",
+      "category": "Government News: Tierra del Fuego",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tierradelfuego.gob.ar/feed",
+          "gated": false,
+          "category": "Government News: Tierra del Fuego"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipalidad de Córdoba",
+      "publication_website_uri": "https://www.cordoba.gob.ar",
+      "category": "Government News: Córdoba",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cordoba.gob.ar/feed",
+          "gated": false,
+          "category": "Government News: Córdoba"
+        }
+      ]
     }
   ],
   "ARM": [
@@ -3592,6 +3640,510 @@
           "category": "Regional News: Minas Gerais"
         }
       ]
+    },
+    {
+      "publication_name": "Ministério da Saúde",
+      "publication_website_uri": "https://www.gov.br/saude",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/saude/RSS",
+          "gated": true,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério da Justiça e Segurança Pública",
+      "publication_website_uri": "https://www.gov.br/mj",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/mj/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério das Relações Exteriores",
+      "publication_website_uri": "https://www.gov.br/mre",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/mre/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério da Fazenda",
+      "publication_website_uri": "https://www.gov.br/fazenda",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/fazenda/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério da Educação",
+      "publication_website_uri": "https://www.gov.br/mec",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/mec/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério do Meio Ambiente e Mudança do Clima",
+      "publication_website_uri": "https://www.gov.br/mma",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/mma/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério da Agricultura, Pecuária e Abastecimento (MAPA)",
+      "publication_website_uri": "https://www.gov.br/agricultura",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/agricultura/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério do Desenvolvimento, Indústria, Comércio e Serviços",
+      "publication_website_uri": "https://www.gov.br/mdic",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/mdic/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério de Minas e Energia",
+      "publication_website_uri": "https://www.gov.br/mme",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/mme/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério da Defesa",
+      "publication_website_uri": "https://www.gov.br/defesa",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/defesa/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério do Turismo",
+      "publication_website_uri": "https://www.gov.br/turismo",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/turismo/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério da Cultura",
+      "publication_website_uri": "https://www.gov.br/cultura",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/cultura/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério da Previdência Social",
+      "publication_website_uri": "https://www.gov.br/previdencia",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/previdencia/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Controladoria-Geral da União (CGU)",
+      "publication_website_uri": "https://www.gov.br/cgu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/cgu/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério da Integração e do Desenvolvimento Regional",
+      "publication_website_uri": "https://www.gov.br/mdr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/mdr/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério do Desenvolvimento Agrário e Agricultura Familiar",
+      "publication_website_uri": "https://www.gov.br/mda",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/mda/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "publication_website_uri": "https://www.gov.br/mds",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/mds/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério da Ciência, Tecnologia e Inovação",
+      "publication_website_uri": "https://www.gov.br/mcti",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/mcti/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério dos Direitos Humanos e da Cidadania",
+      "publication_website_uri": "https://www.gov.br/mdh",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/mdh/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério da Igualdade Racial",
+      "publication_website_uri": "https://www.gov.br/igualdaderacial",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/igualdaderacial/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Secretaria de Comunicação Social da Presidência da República (Secom)",
+      "publication_website_uri": "https://www.gov.br/secom",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/secom/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério da Pesca e Aquicultura",
+      "publication_website_uri": "https://www.gov.br/pesca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/pesca/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério do Trabalho e Emprego",
+      "publication_website_uri": "https://www.gov.br/trabalho-e-emprego",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/trabalho-e-emprego/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Casa Civil da Presidência da República",
+      "publication_website_uri": "https://www.gov.br/casacivil",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/casacivil/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério da Gestão e da Inovação em Serviços Públicos",
+      "publication_website_uri": "https://www.gov.br/gestao",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/gestao/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministério dos Transportes",
+      "publication_website_uri": "https://www.gov.br/transportes",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/transportes/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ANVISA (Agência Nacional de Vigilância Sanitária)",
+      "publication_website_uri": "https://www.gov.br/anvisa",
+      "category": "Medicines Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/anvisa/RSS",
+          "gated": true,
+          "category": "Medicines Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "INPE (Instituto Nacional de Pesquisas Espaciais)",
+      "publication_website_uri": "https://www.gov.br/inpe",
+      "category": "Environmental Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/inpe/RSS",
+          "gated": true,
+          "category": "Environmental Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "CADE (Conselho Administrativo de Defesa Econômica)",
+      "publication_website_uri": "https://www.gov.br/cade",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/cade/RSS",
+          "gated": true,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Receita Federal do Brasil",
+      "publication_website_uri": "https://www.gov.br/receitafederal",
+      "category": "Tax Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/receitafederal/RSS",
+          "gated": true,
+          "category": "Tax Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "IBAMA (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis)",
+      "publication_website_uri": "https://www.gov.br/ibama",
+      "category": "Environmental Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/ibama/RSS",
+          "gated": true,
+          "category": "Environmental Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "ANEEL (Agência Nacional de Energia Elétrica)",
+      "publication_website_uri": "https://www.gov.br/aneel",
+      "category": "Energy Regulator Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/aneel/RSS",
+          "gated": true,
+          "category": "Energy Regulator Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "CVM (Comissão de Valores Mobiliários)",
+      "publication_website_uri": "https://www.gov.br/cvm",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/cvm/RSS",
+          "gated": true,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "FNDE (Fundo Nacional de Desenvolvimento da Educação)",
+      "publication_website_uri": "https://www.gov.br/fnde",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/fnde/RSS",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polícia Federal",
+      "publication_website_uri": "https://www.gov.br/pf",
+      "category": "Police Reports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.br/pf/RSS",
+          "gated": true,
+          "category": "Police Reports"
+        }
+      ]
+    },
+    {
+      "publication_name": "INMET (Instituto Nacional de Meteorologia)",
+      "publication_website_uri": "https://portal.inmet.gov.br",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://apiprevmet3.inmet.gov.br/avisos/rss",
+          "gated": true,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Câmara dos Deputados (Agência Câmara de Notícias)",
+      "publication_website_uri": "https://www.camara.leg.br",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.camara.leg.br/noticias/rss/ultimas-noticias",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Senado Federal (Agência Senado)",
+      "publication_website_uri": "https://www12.senado.leg.br",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www12.senado.leg.br/noticias/rss.xml",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Agência SP (Governo do Estado de São Paulo)",
+      "publication_website_uri": "https://www.agenciasp.sp.gov.br",
+      "category": "Government News: São Paulo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.agenciasp.sp.gov.br/feed",
+          "gated": true,
+          "category": "Government News: São Paulo"
+        }
+      ]
+    },
+    {
+      "publication_name": "Agência Goiás de Notícias (Governo do Estado de Goiás)",
+      "publication_website_uri": "https://agencia.go.gov.br",
+      "category": "Government News: Goiás",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://agencia.go.gov.br/feed",
+          "gated": true,
+          "category": "Government News: Goiás"
+        }
+      ]
+    },
+    {
+      "publication_name": "Prefeitura Municipal de Salvador",
+      "publication_website_uri": "https://www.salvador.ba.gov.br",
+      "category": "Government News: Salvador",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.salvador.ba.gov.br/feed",
+          "gated": true,
+          "category": "Government News: Salvador"
+        }
+      ]
+    },
+    {
+      "publication_name": "Prefeitura Municipal de Manaus",
+      "publication_website_uri": "https://www.manaus.am.gov.br",
+      "category": "Government News: Manaus",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.manaus.am.gov.br/feed",
+          "gated": true,
+          "category": "Government News: Manaus"
+        }
+      ]
     }
   ],
   "BRB": [
@@ -5726,6 +6278,210 @@
           "uri": "https://latercera.com/rss",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministerio de Educación (Chile)",
+      "publication_website_uri": "https://www.mineduc.cl",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mineduc.cl/feed/",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "SENCE (Servicio Nacional de Capacitación y Empleo)",
+      "publication_website_uri": "https://sence.gob.cl",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sence.gob.cl/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministerio del Trabajo y Previsión Social (Chile)",
+      "publication_website_uri": "https://www.mintrab.gob.cl",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mintrab.gob.cl/feed/",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "SERNATUR (Servicio Nacional de Turismo)",
+      "publication_website_uri": "https://www.sernatur.cl",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sernatur.cl/feed/",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Subsecretaría de Turismo (Chile)",
+      "publication_website_uri": "https://www.subturismo.gob.cl",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.subturismo.gob.cl/feed/",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "SUBTEL (Subsecretaría de Telecomunicaciones)",
+      "publication_website_uri": "https://www.subtel.gob.cl",
+      "category": "Telecommunications Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.subtel.gob.cl/feed/",
+          "gated": false,
+          "category": "Telecommunications Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "CONAF (Corporación Nacional Forestal)",
+      "publication_website_uri": "https://www.conaf.cl",
+      "category": "Environmental Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.conaf.cl/feed/",
+          "gated": false,
+          "category": "Environmental Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "ANID (Agencia Nacional de Investigación y Desarrollo)",
+      "publication_website_uri": "https://anid.cl",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://anid.cl/feed/?category=noticias",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "JUNJI (Junta Nacional de Jardines Infantiles)",
+      "publication_website_uri": "https://junji.cl",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://junji.cl/feed/",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "SERVEL (Servicio Electoral de Chile)",
+      "publication_website_uri": "https://www.servel.cl",
+      "category": "Elections Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.servel.cl/feed",
+          "gated": false,
+          "category": "Elections Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "ACHIPIA (Agencia Chilena para la Inocuidad y Calidad Alimentaria)",
+      "publication_website_uri": "https://www.achipia.gob.cl",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.achipia.gob.cl/feed",
+          "gated": false,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "FNE (Fiscalía Nacional Económica)",
+      "publication_website_uri": "https://www.fne.gob.cl",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fne.gob.cl/feed",
+          "gated": false,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gobierno Regional Metropolitano de Santiago",
+      "publication_website_uri": "https://www.gobiernosantiago.cl",
+      "category": "Government News: Región Metropolitana de Santiago",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gobiernosantiago.cl/feed/",
+          "gated": false,
+          "category": "Government News: Región Metropolitana de Santiago"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipalidad de Valparaíso",
+      "publication_website_uri": "https://www.municipalidaddevalparaiso.cl",
+      "category": "Government News: Valparaíso",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.municipalidaddevalparaiso.cl/feed",
+          "gated": false,
+          "category": "Government News: Valparaíso"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipalidad de Concepción",
+      "publication_website_uri": "https://www.concepcion.cl",
+      "category": "Government News: Concepción",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.concepcion.cl/feed",
+          "gated": false,
+          "category": "Government News: Concepción"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipalidad de Temuco",
+      "publication_website_uri": "https://www.temuco.cl",
+      "category": "Government News: Temuco",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.temuco.cl/feed",
+          "gated": false,
+          "category": "Government News: Temuco"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministerio de las Culturas, las Artes y el Patrimonio (Chile)",
+      "publication_website_uri": "https://www.cultura.gob.cl",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cultura.gob.cl/feed/",
+          "gated": true,
+          "category": "Government News"
         }
       ]
     }
