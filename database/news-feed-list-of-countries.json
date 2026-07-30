@@ -10351,6 +10351,18 @@
           "category": "News (French)"
         }
       ]
+    },
+    {
+      "publication_name": "National Research Institute of Astronomy and Geophysics (NRIAG / المعهد القومي للبحوث الفلكية والجيوفيزيقية)",
+      "publication_website_uri": "https://www.nriag.sci.eg",
+      "category": "Geological Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nriag.sci.eg/feed/",
+          "gated": false,
+          "category": "Geological Authority"
+        }
+      ]
     }
   ],
   "ERI": [
@@ -28427,6 +28439,114 @@
           "category": "News (French)"
         }
       ]
+    },
+    {
+      "publication_name": "Haut-Commissariat au Plan (HCP / المندوبية السامية للتخطيط)",
+      "publication_website_uri": "https://www.hcp.ma",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.hcp.ma/xml/syndication.rss",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Direction Générale de la Météorologie (Maroc-Météo / DMN)",
+      "publication_website_uri": "https://www.marocmeteo.ma",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.marocmeteo.ma/fr/rss.xml",
+          "gated": false,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Maroc.ma (Portail National du Royaume du Maroc)",
+      "publication_website_uri": "https://www.maroc.ma",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.maroc.ma/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Région Drâa-Tafilalet",
+      "publication_website_uri": "https://region-draa-tafilalet.com",
+      "category": "Government News: Drâa-Tafilalet",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://region-draa-tafilalet.com/feed/",
+          "gated": false,
+          "category": "Government News: Drâa-Tafilalet"
+        }
+      ]
+    },
+    {
+      "publication_name": "Commune d'Agadir",
+      "publication_website_uri": "https://www.agadir.ma",
+      "category": "Government News: Agadir",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.agadir.ma/feed/",
+          "gated": false,
+          "category": "Government News: Agadir"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office National de Sécurité Sanitaire des Produits Alimentaires (ONSSA)",
+      "publication_website_uri": "https://www.onssa.gov.ma",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.onssa.gov.ma/feed/",
+          "gated": true,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de la Justice (Maroc)",
+      "publication_website_uri": "https://justice.gov.ma",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://justice.gov.ma/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Conseil de la Concurrence (Maroc)",
+      "publication_website_uri": "https://conseil-concurrence.ma",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://conseil-concurrence.ma/feed/",
+          "gated": true,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de l'Éducation Nationale, du Préscolaire et des Sports (Maroc)",
+      "publication_website_uri": "https://www.men.gov.ma",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.men.gov.ma/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
     }
   ],
   "MCO": [
@@ -40399,6 +40519,42 @@
           "uri": "https://africanmanager.com/feed/",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Présidence du Gouvernement Tunisien (Portail du Premier Ministère)",
+      "publication_website_uri": "https://pm.gov.tn",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "http://pm.gov.tn/ar/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Institut National de la Météorologie (INM)",
+      "publication_website_uri": "https://www.meteo.tn",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.meteo.tn/rss.xml",
+          "gated": false,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Instance Supérieure Indépendante pour les Élections (ISIE)",
+      "publication_website_uri": "https://www.isie.tn",
+      "category": "Elections Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.isie.tn/feed/",
+          "gated": false,
+          "category": "Elections Authority"
         }
       ]
     }
