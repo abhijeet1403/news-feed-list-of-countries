@@ -23974,6 +23974,832 @@
           "category": "Regional News: Hokuriku"
         }
       ]
+    },
+    {
+      "publication_name": "Prime Minister's Office of Japan (Kantei)",
+      "publication_website_uri": "https://www.kantei.go.jp",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kantei.go.jp/index-jnews.rdf",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cabinet Office (Naikaku-fu)",
+      "publication_website_uri": "https://www.cao.go.jp",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cao.go.jp/rss/news.rdf",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Government Public Relations Online (Cabinet Office)",
+      "publication_website_uri": "https://www.gov-online.go.jp",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov-online.go.jp/rss/index.rdf",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Economic and Social Research Institute (ESRI, Cabinet Office)",
+      "publication_website_uri": "https://www.esri.cao.go.jp",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.esri.cao.go.jp/rss-jp.xml",
+          "gated": true,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Finance (MOF)",
+      "publication_website_uri": "https://www.mof.go.jp",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mof.go.jp/news.rss",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Education, Culture, Sports, Science and Technology (MEXT)",
+      "publication_website_uri": "https://www.mext.go.jp",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mext.go.jp/b_menu/news/index.rdf",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Health, Labour and Welfare (MHLW)",
+      "publication_website_uri": "https://www.mhlw.go.jp",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mhlw.go.jp/stf/news.rdf",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Economy, Trade and Industry (METI)",
+      "publication_website_uri": "https://www.meti.go.jp",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.meti.go.jp/ml_index_release_atom.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Land, Infrastructure, Transport and Tourism (MLIT)",
+      "publication_website_uri": "https://www.mlit.go.jp",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mlit.go.jp/pressrelease.rdf",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Internal Affairs and Communications (MIC / Soumusho)",
+      "publication_website_uri": "https://www.soumu.go.jp",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.soumu.go.jp/news.rdf",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Justice (MOJ)",
+      "publication_website_uri": "https://www.moj.go.jp",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.moj.go.jp/news.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Agriculture, Forestry and Fisheries (MAFF)",
+      "publication_website_uri": "https://www.maff.go.jp",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.maff.go.jp/j/press/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Digital Agency",
+      "publication_website_uri": "https://www.digital.go.jp",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.digital.go.jp/rss/news.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tokyo Metropolitan Government",
+      "publication_website_uri": "https://www.metro.tokyo.lg.jp",
+      "category": "Government News: Tokyo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.metro.tokyo.lg.jp/index.html/-/asset_publisher/knkg/rss",
+          "gated": true,
+          "category": "Government News: Tokyo"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bank of Japan (BOJ)",
+      "publication_website_uri": "https://www.boj.or.jp",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.boj.or.jp/rss/whatsnew.xml",
+          "gated": false,
+          "category": "Financial Regulator"
+        },
+        {
+          "uri": "https://www.boj.or.jp/rss/statistics.xml",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Financial Services Agency (FSA)",
+      "publication_website_uri": "https://www.fsa.go.jp",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fsa.go.jp/fsaNewsListAll_rss2.xml",
+          "gated": true,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Japan Meteorological Agency (JMA)",
+      "publication_website_uri": "https://www.jma.go.jp",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml",
+          "gated": true,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Consumer Affairs Agency (CAA)",
+      "publication_website_uri": "https://www.caa.go.jp",
+      "category": "Consumer Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.caa.go.jp/news.rss",
+          "gated": true,
+          "category": "Consumer Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "JPCERT Coordination Center (JPCERT/CC)",
+      "publication_website_uri": "https://www.jpcert.or.jp",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.jpcert.or.jp/rss/jpcert.rdf",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Fire and Disaster Management Agency (FDMA)",
+      "publication_website_uri": "https://www.fdma.go.jp",
+      "category": "Disaster Management Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fdma.go.jp/pressrelease/houdou/index.xml",
+          "gated": true,
+          "category": "Disaster Management Authority"
+        },
+        {
+          "uri": "https://www.fdma.go.jp/disaster/info/index.xml",
+          "gated": true,
+          "category": "Disaster Management Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hokkaido Prefectural Government",
+      "publication_website_uri": "https://www.pref.hokkaido.lg.jp",
+      "category": "Government News: Hokkaido",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.hokkaido.lg.jp/news/rss.xml",
+          "gated": false,
+          "category": "Government News: Hokkaido"
+        }
+      ]
+    },
+    {
+      "publication_name": "Aomori Prefectural Government",
+      "publication_website_uri": "https://www.pref.aomori.lg.jp",
+      "category": "Government News: Aomori",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.aomori.lg.jp/rss/feed.rss",
+          "gated": false,
+          "category": "Government News: Aomori"
+        }
+      ]
+    },
+    {
+      "publication_name": "Iwate Prefectural Government",
+      "publication_website_uri": "https://www.pref.iwate.jp",
+      "category": "Government News: Iwate",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.iwate.jp/news.rss",
+          "gated": false,
+          "category": "Government News: Iwate"
+        }
+      ]
+    },
+    {
+      "publication_name": "Miyagi Prefectural Government",
+      "publication_website_uri": "https://www.pref.miyagi.jp",
+      "category": "Government News: Miyagi",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.miyagi.jp/shinchaku/shinchaku.xml",
+          "gated": false,
+          "category": "Government News: Miyagi"
+        }
+      ]
+    },
+    {
+      "publication_name": "Akita Prefectural Government",
+      "publication_website_uri": "https://www.pref.akita.lg.jp",
+      "category": "Government News: Akita",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.akita.lg.jp/feed/news.xml",
+          "gated": false,
+          "category": "Government News: Akita"
+        }
+      ]
+    },
+    {
+      "publication_name": "Yamagata Prefectural Government",
+      "publication_website_uri": "https://www.pref.yamagata.jp",
+      "category": "Government News: Yamagata",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.yamagata.jp/shinchaku/shinchaku.xml",
+          "gated": false,
+          "category": "Government News: Yamagata"
+        }
+      ]
+    },
+    {
+      "publication_name": "Fukushima Prefectural Government",
+      "publication_website_uri": "https://www.pref.fukushima.lg.jp",
+      "category": "Government News: Fukushima",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.fukushima.lg.jp/rss/10/list1.xml",
+          "gated": false,
+          "category": "Government News: Fukushima"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ibaraki Prefectural Government",
+      "publication_website_uri": "https://www.pref.ibaraki.jp",
+      "category": "Government News: Ibaraki",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.ibaraki.jp/news.xml",
+          "gated": false,
+          "category": "Government News: Ibaraki"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tochigi Prefectural Government",
+      "publication_website_uri": "https://www.pref.tochigi.lg.jp",
+      "category": "Government News: Tochigi",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.tochigi.lg.jp/c05/kensei/kouhou/hp/shinchaku.xml",
+          "gated": false,
+          "category": "Government News: Tochigi"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gunma Prefectural Government",
+      "publication_website_uri": "https://www.pref.gunma.jp",
+      "category": "Government News: Gunma",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.gunma.jp/rss/10/list1.xml",
+          "gated": false,
+          "category": "Government News: Gunma"
+        }
+      ]
+    },
+    {
+      "publication_name": "Saitama Prefectural Government",
+      "publication_website_uri": "https://www.pref.saitama.lg.jp",
+      "category": "Government News: Saitama",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.saitama.lg.jp/news/news.xml",
+          "gated": false,
+          "category": "Government News: Saitama"
+        }
+      ]
+    },
+    {
+      "publication_name": "Chiba Prefectural Government",
+      "publication_website_uri": "https://www.pref.chiba.lg.jp",
+      "category": "Government News: Chiba",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.chiba.lg.jp/homepage/shinchaku/shinchaku.xml",
+          "gated": false,
+          "category": "Government News: Chiba"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kanagawa Prefectural Government",
+      "publication_website_uri": "https://www.pref.kanagawa.jp",
+      "category": "Government News: Kanagawa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.kanagawa.jp/prs/list.xml",
+          "gated": false,
+          "category": "Government News: Kanagawa"
+        }
+      ]
+    },
+    {
+      "publication_name": "Niigata Prefectural Government",
+      "publication_website_uri": "https://www.pref.niigata.lg.jp",
+      "category": "Government News: Niigata",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.niigata.lg.jp/rss/10/list1.xml",
+          "gated": false,
+          "category": "Government News: Niigata"
+        }
+      ]
+    },
+    {
+      "publication_name": "Toyama Prefectural Government",
+      "publication_website_uri": "https://www.pref.toyama.jp",
+      "category": "Government News: Toyama",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.toyama.jp/shinchaku/shinchaku.xml",
+          "gated": false,
+          "category": "Government News: Toyama"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ishikawa Prefectural Government",
+      "publication_website_uri": "https://www.pref.ishikawa.lg.jp",
+      "category": "Government News: Ishikawa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.ishikawa.lg.jp/shinchaku/shinchaku.xml",
+          "gated": false,
+          "category": "Government News: Ishikawa"
+        }
+      ]
+    },
+    {
+      "publication_name": "Fukui Prefectural Government",
+      "publication_website_uri": "https://www.pref.fukui.lg.jp",
+      "category": "Government News: Fukui",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.fukui.lg.jp/news.xml",
+          "gated": false,
+          "category": "Government News: Fukui"
+        }
+      ]
+    },
+    {
+      "publication_name": "Yamanashi Prefectural Government",
+      "publication_website_uri": "https://www.pref.yamanashi.jp",
+      "category": "Government News: Yamanashi",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.yamanashi.jp/release/release.xml",
+          "gated": false,
+          "category": "Government News: Yamanashi"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nagano Prefectural Government",
+      "publication_website_uri": "https://www.pref.nagano.lg.jp",
+      "category": "Government News: Nagano",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.nagano.lg.jp/kensei/koho/pressreleases/pressreleases.xml",
+          "gated": false,
+          "category": "Government News: Nagano"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gifu Prefectural Government",
+      "publication_website_uri": "https://www.pref.gifu.lg.jp",
+      "category": "Government News: Gifu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.gifu.lg.jp/rss/10/list1.xml",
+          "gated": false,
+          "category": "Government News: Gifu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Shizuoka Prefectural Government",
+      "publication_website_uri": "https://www.pref.shizuoka.jp",
+      "category": "Government News: Shizuoka",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.shizuoka.jp/news.rss",
+          "gated": false,
+          "category": "Government News: Shizuoka"
+        }
+      ]
+    },
+    {
+      "publication_name": "Aichi Prefectural Government",
+      "publication_website_uri": "https://www.pref.aichi.jp",
+      "category": "Government News: Aichi",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.aichi.jp/rss/10/list1.xml",
+          "gated": false,
+          "category": "Government News: Aichi"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mie Prefectural Government",
+      "publication_website_uri": "https://www.pref.mie.lg.jp",
+      "category": "Government News: Mie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.mie.lg.jp/app/rss/new_rss",
+          "gated": false,
+          "category": "Government News: Mie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Shiga Prefectural Government",
+      "publication_website_uri": "https://www.pref.shiga.lg.jp",
+      "category": "Government News: Shiga",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_oshirase_index.rss",
+          "gated": false,
+          "category": "Government News: Shiga"
+        }
+      ]
+    },
+    {
+      "publication_name": "Osaka Prefectural Government",
+      "publication_website_uri": "https://www.pref.osaka.lg.jp",
+      "category": "Government News: Osaka Prefecture",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.osaka.lg.jp/shinchaku/shinchaku.xml",
+          "gated": false,
+          "category": "Government News: Osaka Prefecture"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hyogo Prefectural Government",
+      "publication_website_uri": "https://web.pref.hyogo.lg.jp",
+      "category": "Government News: Hyogo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://web.pref.hyogo.lg.jp/topics.xml",
+          "gated": false,
+          "category": "Government News: Hyogo"
+        }
+      ]
+    },
+    {
+      "publication_name": "Wakayama Prefectural Government",
+      "publication_website_uri": "https://www.pref.wakayama.lg.jp",
+      "category": "Government News: Wakayama",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.wakayama.lg.jp/whatsnew/news.xml",
+          "gated": false,
+          "category": "Government News: Wakayama"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tottori Prefectural Government",
+      "publication_website_uri": "https://www.pref.tottori.lg.jp",
+      "category": "Government News: Tottori",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.tottori.lg.jp/xml/pressrelease_RSS/all.xml",
+          "gated": false,
+          "category": "Government News: Tottori"
+        }
+      ]
+    },
+    {
+      "publication_name": "Shimane Prefectural Government",
+      "publication_website_uri": "https://www.pref.shimane.lg.jp",
+      "category": "Government News: Shimane",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.shimane.lg.jp/top_news.rdf",
+          "gated": false,
+          "category": "Government News: Shimane"
+        }
+      ]
+    },
+    {
+      "publication_name": "Okayama Prefectural Government",
+      "publication_website_uri": "https://www.pref.okayama.jp",
+      "category": "Government News: Okayama",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.okayama.jp/rss/10/list1.xml",
+          "gated": false,
+          "category": "Government News: Okayama"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hiroshima Prefectural Government",
+      "publication_website_uri": "https://www.pref.hiroshima.lg.jp",
+      "category": "Government News: Hiroshima",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.hiroshima.lg.jp/rss/10/list1.xml",
+          "gated": false,
+          "category": "Government News: Hiroshima"
+        }
+      ]
+    },
+    {
+      "publication_name": "Yamaguchi Prefectural Government",
+      "publication_website_uri": "https://www.pref.yamaguchi.lg.jp",
+      "category": "Government News: Yamaguchi",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.yamaguchi.lg.jp/rss/10/list5.xml",
+          "gated": false,
+          "category": "Government News: Yamaguchi"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tokushima Prefectural Government",
+      "publication_website_uri": "https://www.pref.tokushima.lg.jp",
+      "category": "Government News: Tokushima",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.tokushima.lg.jp/file/rss/index.rss",
+          "gated": false,
+          "category": "Government News: Tokushima"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kagawa Prefectural Government",
+      "publication_website_uri": "https://www.pref.kagawa.lg.jp",
+      "category": "Government News: Kagawa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.kagawa.lg.jp/shinchaku.xml",
+          "gated": false,
+          "category": "Government News: Kagawa"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ehime Prefectural Government",
+      "publication_website_uri": "https://www.pref.ehime.jp",
+      "category": "Government News: Ehime",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.ehime.jp/rss/20/list1.xml",
+          "gated": false,
+          "category": "Government News: Ehime"
+        }
+      ]
+    },
+    {
+      "publication_name": "Fukuoka Prefectural Government",
+      "publication_website_uri": "https://www.pref.fukuoka.lg.jp",
+      "category": "Government News: Fukuoka Prefecture",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.fukuoka.lg.jp/rss/10/life1.xml",
+          "gated": false,
+          "category": "Government News: Fukuoka Prefecture"
+        }
+      ]
+    },
+    {
+      "publication_name": "Saga Prefectural Government",
+      "publication_website_uri": "https://www.pref.saga.lg.jp",
+      "category": "Government News: Saga",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.saga.lg.jp/new_list.xml",
+          "gated": false,
+          "category": "Government News: Saga"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kumamoto Prefectural Government",
+      "publication_website_uri": "https://www.pref.kumamoto.jp",
+      "category": "Government News: Kumamoto",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.kumamoto.jp/rss/10/list3.xml",
+          "gated": false,
+          "category": "Government News: Kumamoto"
+        }
+      ]
+    },
+    {
+      "publication_name": "Oita Prefectural Government",
+      "publication_website_uri": "https://www.pref.oita.jp",
+      "category": "Government News: Oita",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.oita.jp/rss/10/list1.xml",
+          "gated": false,
+          "category": "Government News: Oita"
+        }
+      ]
+    },
+    {
+      "publication_name": "Miyazaki Prefectural Government",
+      "publication_website_uri": "https://www.pref.miyazaki.lg.jp",
+      "category": "Government News: Miyazaki",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.miyazaki.lg.jp/shinchaku/shincyaku.xml",
+          "gated": false,
+          "category": "Government News: Miyazaki"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kagoshima Prefectural Government",
+      "publication_website_uri": "https://www.pref.kagoshima.jp",
+      "category": "Government News: Kagoshima",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.kagoshima.jp/saishin/saishin.xml",
+          "gated": false,
+          "category": "Government News: Kagoshima"
+        }
+      ]
+    },
+    {
+      "publication_name": "Okinawa Prefectural Government",
+      "publication_website_uri": "https://www.pref.okinawa.lg.jp",
+      "category": "Government News: Okinawa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pref.okinawa.lg.jp/news.rss",
+          "gated": false,
+          "category": "Government News: Okinawa"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Osaka",
+      "publication_website_uri": "https://www.city.osaka.lg.jp",
+      "category": "Government News: Osaka City",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.city.osaka.lg.jp/main/rss/rss.xml",
+          "gated": false,
+          "category": "Government News: Osaka City"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Kyoto",
+      "publication_website_uri": "https://www.city.kyoto.lg.jp",
+      "category": "Government News: Kyoto City",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.city.kyoto.lg.jp/main/rss/rss.xml",
+          "gated": false,
+          "category": "Government News: Kyoto City"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Sapporo",
+      "publication_website_uri": "https://www.city.sapporo.jp",
+      "category": "Government News: Sapporo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.city.sapporo.jp/new/shinchaku.xml",
+          "gated": false,
+          "category": "Government News: Sapporo"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Fukuoka",
+      "publication_website_uri": "https://www.city.fukuoka.lg.jp",
+      "category": "Government News: Fukuoka City",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.city.fukuoka.lg.jp/data/open/rss/RSS_7237.xml",
+          "gated": false,
+          "category": "Government News: Fukuoka City"
+        }
+      ]
+    },
+    {
+      "publication_name": "Metropolitan Police Department (Keishicho, Tokyo)",
+      "publication_website_uri": "https://www.keishicho.metro.tokyo.lg.jp",
+      "category": "Police Reports: Tokyo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.keishicho.metro.tokyo.lg.jp/rss_news.xml",
+          "gated": false,
+          "category": "Police Reports: Tokyo"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kanagawa Prefectural Police",
+      "publication_website_uri": "https://www.police.pref.kanagawa.jp",
+      "category": "Police Reports: Kanagawa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.pref.kanagawa.jp/rss.xml",
+          "gated": false,
+          "category": "Police Reports: Kanagawa"
+        }
+      ]
     }
   ],
   "KAZ": [
@@ -24824,6 +25650,78 @@
           "uri": "https://www.newsis.com/RSS/economy.xml",
           "gated": false,
           "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Economy and Finance (MOEF)",
+      "publication_website_uri": "https://www.moef.go.kr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.moef.go.kr/com/detailRssTagService.do?bbsId=MOSFBBS_000000000028",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Health and Welfare (MOHW)",
+      "publication_website_uri": "https://www.mohw.go.kr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mohw.go.kr/rss/board.es?mid=a10503000000&bid=0027&info",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Data Agency (formerly Statistics Korea / KOSTAT)",
+      "publication_website_uri": "https://kostat.go.kr",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mods.go.kr/board.es?mid=a10301010000&bid=a103010100&act=rss",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Food and Drug Safety (MFDS)",
+      "publication_website_uri": "https://www.mfds.go.kr",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mfds.go.kr/www/rss/brd.do?brdId=ntc0021",
+          "gated": false,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Korea Internet & Security Agency (KISA) - Boho Nara",
+      "publication_website_uri": "https://www.boho.or.kr",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.boho.or.kr/kr/rss.do?bbsId=B0000133",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Seoul Metropolitan Government",
+      "publication_website_uri": "https://news.seoul.go.kr",
+      "category": "Government News: Seoul",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://news.seoul.go.kr/gov/rss",
+          "gated": false,
+          "category": "Government News: Seoul"
         }
       ]
     }
@@ -49016,6 +49914,126 @@
           "uri": "https://www.ksnews.com.tw/rss/",
           "gated": true,
           "category": "Regional News: Hualien"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Finance (MOF)",
+      "publication_website_uri": "https://www.mof.gov.tw",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mof.gov.tw/Rss/384fb3077bb349ea973e7fc6f13b6974",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Transportation and Communications (MOTC)",
+      "publication_website_uri": "https://www.motc.gov.tw",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.motc.gov.tw/ch/app/rss/News",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Justice (MOJ)",
+      "publication_website_uri": "https://www.moj.gov.tw",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.moj.gov.tw/2204/2795/2796/rss",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Labor (MOL)",
+      "publication_website_uri": "https://www.mol.gov.tw",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mol.gov.tw/1607/1632/1633/RssList",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Education (MOE)",
+      "publication_website_uri": "https://www.edu.tw",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.edu.tw/Rss_News.aspx?n=9E7AC85F1954DDA8",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Central Bank of the Republic of China (Taiwan) (CBC)",
+      "publication_website_uri": "https://www.cbc.gov.tw",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cbc.gov.tw/tw/rss-302-1.xml",
+          "gated": true,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Centers for Disease Control, Taiwan (CDC)",
+      "publication_website_uri": "https://www.cdc.gov.tw",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cdc.gov.tw/RSS/RssXml/Hh094B49-DRwe2RR4eFfrQ?type=1",
+          "gated": true,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Fair Trade Commission (FTC)",
+      "publication_website_uri": "https://www.ftc.gov.tw",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ftc.gov.tw/internet/main/rss/rss.aspx?rssid=1",
+          "gated": true,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Taiwan Computer Emergency Response Team / Coordination Center (TWCERT/CC)",
+      "publication_website_uri": "https://www.twcert.org.tw",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.twcert.org.tw/tw/rss-132-1.xml",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kaohsiung City Government",
+      "publication_website_uri": "https://www.kcg.gov.tw",
+      "category": "Government News: Kaohsiung",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kcg.gov.tw/OpenData.aspx?SN=D33B55D537402BAA",
+          "gated": true,
+          "category": "Government News: Kaohsiung"
         }
       ]
     }
