@@ -35995,6 +35995,78 @@
           "category": "News (Tagalog, English)"
         }
       ]
+    },
+    {
+      "publication_name": "Bangko Sentral ng Pilipinas (BSP)",
+      "publication_website_uri": "https://www.bsp.gov.ph",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bsp.gov.ph/_layouts/15/listfeed.aspx?List=9b0a2117%2D49d8%2D4e96%2D80ba%2D8651a0e3e17a&View=8c968884%2D887d%2D4d63%2D8c00%2Dba05ea3c2d93",
+          "gated": true,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA)",
+      "publication_website_uri": "https://www.pagasa.dost.gov.ph",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://publicalert.pagasa.dost.gov.ph/feeds/",
+          "gated": true,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Food and Drug Administration Philippines (FDA)",
+      "publication_website_uri": "https://www.fda.gov.ph",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fda.gov.ph/feed/",
+          "gated": true,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cebu City Government",
+      "publication_website_uri": "https://www.cebucity.gov.ph",
+      "category": "Government News: Cebu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cebucity.gov.ph/feed/",
+          "gated": true,
+          "category": "Government News: Cebu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Davao City Government",
+      "publication_website_uri": "https://www.davaocity.gov.ph",
+      "category": "Government News: Davao",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.davaocity.gov.ph/feed/",
+          "gated": true,
+          "category": "Government News: Davao"
+        }
+      ]
+    },
+    {
+      "publication_name": "Quezon City Government",
+      "publication_website_uri": "https://quezoncity.gov.ph",
+      "category": "Government News: Quezon City",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://quezoncity.gov.ph/feed/",
+          "gated": true,
+          "category": "Government News: Quezon City"
+        }
+      ]
     }
   ],
   "POL": [
@@ -40961,6 +41033,225 @@
           "category": "Regional News: Southern Thailand"
         }
       ]
+    },
+    {
+      "publication_name": "Public Relations Department (กรมประชาสัมพันธ์ / PRD)",
+      "publication_website_uri": "https://www.prd.go.th",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.prd.go.th/th/rss/page/content/id/1/cid/9",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Revenue Department (กรมสรรพากร)",
+      "publication_website_uri": "https://www.rd.go.th",
+      "category": "Tax Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rd.go.th/publish.xml",
+          "gated": false,
+          "category": "Tax Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Thai Meteorological Department (กรมอุตุนิยมวิทยา / TMD)",
+      "publication_website_uri": "https://www.tmd.go.th",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tmd.go.th/api/xml/warning-news",
+          "gated": false,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://www.tmd.go.th/api/xml/CAP",
+          "gated": false,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://www.tmd.go.th/api/xml/storm-tracking",
+          "gated": false,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://www.tmd.go.th/api/xml/earthquake-report",
+          "gated": false,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Statistical Office (สำนักงานสถิติแห่งชาติ / NSO)",
+      "publication_website_uri": "https://www.nso.go.th",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nso.go.th/nsoweb/main/rssfeed/get_data/7",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Food and Drug Administration (สำนักงานคณะกรรมการอาหารและยา / อย.)",
+      "publication_website_uri": "https://www.fda.moph.go.th",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fda.moph.go.th/rss/?content=news&sort=date_manage&ord=desc&p=1&ppp=10",
+          "gated": false,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Thailand Computer Emergency Response Team (ThaiCERT / NCSA)",
+      "publication_website_uri": "https://www.thaicert.or.th",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.thaicert.or.th/en/feed/",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Royal Thai Police - Public Affairs Division (กองสารนิเทศ สำนักงานตำรวจแห่งชาติ)",
+      "publication_website_uri": "https://saranitet.police.go.th",
+      "category": "Police Reports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://saranitet.police.go.th/feed/",
+          "gated": false,
+          "category": "Police Reports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincial Public Relations Office - Nakhon Si Thammarat (ปชส.นครศรีธรรมราช)",
+      "publication_website_uri": "https://nakhonsithammarat.prd.go.th",
+      "category": "Government News: Nakhon Si Thammarat",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nakhonsithammarat.prd.go.th/th/rss/page/content/id/1/cid/9",
+          "gated": false,
+          "category": "Government News: Nakhon Si Thammarat"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincial Public Relations Office - Songkhla (ปชส.สงขลา)",
+      "publication_website_uri": "https://songkhla.prd.go.th",
+      "category": "Government News: Songkhla",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://songkhla.prd.go.th/th/rss/page/content/id/1/cid/9",
+          "gated": false,
+          "category": "Government News: Songkhla"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincial Public Relations Office - Surin (ปชส.สุรินทร์)",
+      "publication_website_uri": "https://surin.prd.go.th",
+      "category": "Government News: Surin",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://surin.prd.go.th/th/rss/page/content/id/1/cid/9",
+          "gated": false,
+          "category": "Government News: Surin"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincial Public Relations Office - Buriram (ปชส.บุรีรัมย์)",
+      "publication_website_uri": "https://buriram.prd.go.th",
+      "category": "Government News: Buriram",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://buriram.prd.go.th/th/rss/page/content/id/1/cid/9",
+          "gated": false,
+          "category": "Government News: Buriram"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincial Public Relations Office - Rayong (ปชส.ระยอง)",
+      "publication_website_uri": "https://rayong.prd.go.th",
+      "category": "Government News: Rayong",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rayong.prd.go.th/th/rss/page/content/id/1/cid/9",
+          "gated": false,
+          "category": "Government News: Rayong"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincial Public Relations Office - Nonthaburi (ปชส.นนทบุรี)",
+      "publication_website_uri": "https://nonthaburi.prd.go.th",
+      "category": "Government News: Nonthaburi",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nonthaburi.prd.go.th/th/rss/page/content/id/1/cid/9",
+          "gated": false,
+          "category": "Government News: Nonthaburi"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincial Public Relations Office - Chiang Rai (ปชส.เชียงราย)",
+      "publication_website_uri": "https://chiangrai.prd.go.th",
+      "category": "Government News: Chiang Rai",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://chiangrai.prd.go.th/th/rss/page/content/id/1/cid/9",
+          "gated": true,
+          "category": "Government News: Chiang Rai"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincial Public Relations Office - Si Sa Ket (ปชส.ศรีสะเกษ)",
+      "publication_website_uri": "https://sisaket.prd.go.th",
+      "category": "Government News: Si Sa Ket",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sisaket.prd.go.th/th/rss/page/content/id/1/cid/9",
+          "gated": true,
+          "category": "Government News: Si Sa Ket"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincial Public Relations Office - Chiang Mai (ปชส.เชียงใหม่)",
+      "publication_website_uri": "https://chiangmai.prd.go.th",
+      "category": "Government News: Chiang Mai",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://chiangmai.prd.go.th/th/rss/page/content/id/76/cid/9",
+          "gated": true,
+          "category": "Government News: Chiang Mai"
+        }
+      ]
+    },
+    {
+      "publication_name": "Provincial Public Relations Office - Khon Kaen (ปชส.ขอนแก่น)",
+      "publication_website_uri": "https://khonkaen.prd.go.th",
+      "category": "Government News: Khon Kaen",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://khonkaen.prd.go.th/th/rss/page/content/id/120/cid/57",
+          "gated": true,
+          "category": "Government News: Khon Kaen"
+        }
+      ]
     }
   ],
   "TUN": [
@@ -44659,6 +44950,42 @@
           "uri": "https://baogialai.com.vn/rss/home.rss",
           "gated": false,
           "category": "Regional News: Gia Lai"
+        }
+      ]
+    },
+    {
+      "publication_name": "General Statistics Office of Vietnam (Tổng cục Thống kê / GSO, now operating as nso.gov.vn)",
+      "publication_website_uri": "https://www.nso.gov.vn",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nso.gov.vn/feed/",
+          "gated": true,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Đồng Nai Provincial People's Committee Portal (Cổng thông tin điện tử tỉnh Đồng Nai)",
+      "publication_website_uri": "https://dongnai.gov.vn",
+      "category": "Government News: Đồng Nai",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dongnai.gov.vn/vi/news/rss/",
+          "gated": true,
+          "category": "Government News: Đồng Nai"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nghệ An Provincial People's Committee Portal (Cổng thông tin điện tử tỉnh Nghệ An)",
+      "publication_website_uri": "https://nghean.gov.vn",
+      "category": "Government News: Nghệ An",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nghean.gov.vn/Rss.aspx?catid=39067&catname=tin-noi-bat&rec=50&sub=F",
+          "gated": true,
+          "category": "Government News: Nghệ An"
         }
       ]
     }
