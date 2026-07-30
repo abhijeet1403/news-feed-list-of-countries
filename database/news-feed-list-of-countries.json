@@ -18608,6 +18608,328 @@
           "category": "Regional News: Sicily"
         }
       ]
+    },
+    {
+      "publication_name": "Presidenza del Consiglio dei Ministri (Governo Italiano)",
+      "publication_website_uri": "https://www.governo.it",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.governo.it/it/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministero del Lavoro e delle Politiche Sociali",
+      "publication_website_uri": "https://www.lavoro.gov.it",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lavoro.gov.it/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministero delle Infrastrutture e dei Trasporti (MIT)",
+      "publication_website_uri": "https://www.mit.gov.it",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mit.gov.it/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ISTAT (Istituto Nazionale di Statistica)",
+      "publication_website_uri": "https://www.istat.it",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.istat.it/feed/",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Banca d'Italia",
+      "publication_website_uri": "https://www.bancaditalia.it",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bancaditalia.it/util/index.rss.html?sezione=/media/comunicati&lingua=it",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "IVASS (Istituto per la Vigilanza sulle Assicurazioni)",
+      "publication_website_uri": "https://www.ivass.it",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ivass.it/util/index.rss.html?lingua=it",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Garante per la Protezione dei Dati Personali",
+      "publication_website_uri": "https://www.garanteprivacy.it",
+      "category": "Data Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.garanteprivacy.it/o/gpdp-rss/rss?t=news",
+          "gated": false,
+          "category": "Data Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "AGCM (Autorità Garante della Concorrenza e del Mercato)",
+      "publication_website_uri": "https://www.agcm.it",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.agcm.it/rss/atom-feed",
+          "gated": false,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "AGCOM (Autorità per le Garanzie nelle Comunicazioni)",
+      "publication_website_uri": "https://www.agcom.it",
+      "category": "Communications Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.agcom.it/rss.xml",
+          "gated": false,
+          "category": "Communications Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "ISPRA (Istituto Superiore per la Protezione e la Ricerca Ambientale)",
+      "publication_website_uri": "https://www.isprambiente.gov.it",
+      "category": "Environmental Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.isprambiente.gov.it/rss.xml",
+          "gated": true,
+          "category": "Environmental Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "INPS (Istituto Nazionale della Previdenza Sociale)",
+      "publication_website_uri": "https://www.inps.it",
+      "category": "Social Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.inps.it/it/it.rss.comunicati.xml",
+          "gated": false,
+          "category": "Social Security Authority"
+        },
+        {
+          "uri": "https://www.inps.it/it/it.rss.news.xml",
+          "gated": false,
+          "category": "Social Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Agenzia delle Entrate",
+      "publication_website_uri": "https://www.agenziaentrate.gov.it",
+      "category": "Tax Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.agenziaentrate.gov.it/portale/c/portal/rss/entrate?idrss=79b071d0-a537-4a3d-86cc-7a7d5a36f2a9",
+          "gated": true,
+          "category": "Tax Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "ACN — CSIRT Italia (Agenzia per la Cybersicurezza Nazionale)",
+      "publication_website_uri": "https://www.acn.gov.it",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.acn.gov.it/portale/feedrss/-/journal/rss/20119/723192",
+          "gated": true,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "ENAC (Ente Nazionale per l'Aviazione Civile)",
+      "publication_website_uri": "https://www.enac.gov.it",
+      "category": "Aviation Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.enac.gov.it/feed/",
+          "gated": true,
+          "category": "Aviation Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Camera dei Deputati",
+      "publication_website_uri": "https://www.camera.it",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://comunicazione.camera.it/rss.xml",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Guardia di Finanza",
+      "publication_website_uri": "https://www.gdf.gov.it",
+      "category": "Police Reports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gdf.gov.it/rss.xml",
+          "gated": true,
+          "category": "Police Reports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Regione Basilicata",
+      "publication_website_uri": "https://www.regione.basilicata.it",
+      "category": "Government News: Basilicata",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.regione.basilicata.it/feed/",
+          "gated": false,
+          "category": "Government News: Basilicata"
+        }
+      ]
+    },
+    {
+      "publication_name": "Regione Calabria",
+      "publication_website_uri": "https://www.regione.calabria.it",
+      "category": "Government News: Calabria",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.regione.calabria.it/feed/",
+          "gated": false,
+          "category": "Government News: Calabria"
+        }
+      ]
+    },
+    {
+      "publication_name": "Regione Campania",
+      "publication_website_uri": "https://www.regione.campania.it",
+      "category": "Government News: Campania",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.regione.campania.it/rss.xml",
+          "gated": false,
+          "category": "Government News: Campania"
+        }
+      ]
+    },
+    {
+      "publication_name": "Regione Emilia-Romagna",
+      "publication_website_uri": "https://www.regione.emilia-romagna.it",
+      "category": "Government News: Emilia-Romagna",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.regione.emilia-romagna.it/rss.xml",
+          "gated": false,
+          "category": "Government News: Emilia-Romagna"
+        }
+      ]
+    },
+    {
+      "publication_name": "Regione Lazio",
+      "publication_website_uri": "https://www.regione.lazio.it",
+      "category": "Government News: Lazio",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.regione.lazio.it/rss-news-regione",
+          "gated": false,
+          "category": "Government News: Lazio"
+        },
+        {
+          "uri": "https://www.regione.lazio.it/rss-giunta-regionale",
+          "gated": false,
+          "category": "Government News: Lazio"
+        }
+      ]
+    },
+    {
+      "publication_name": "Regione Puglia",
+      "publication_website_uri": "https://www.regione.puglia.it",
+      "category": "Government News: Puglia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.regione.puglia.it/feed-notizie-regione-puglia/-/asset_publisher/zY8SiKCyhUKl/rss",
+          "gated": false,
+          "category": "Government News: Puglia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Regione Siciliana",
+      "publication_website_uri": "https://www.regione.sicilia.it",
+      "category": "Government News: Sicilia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.regione.sicilia.it/rss.xml",
+          "gated": false,
+          "category": "Government News: Sicilia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Città di Torino",
+      "publication_website_uri": "https://www.comune.torino.it",
+      "category": "Government News: Torino",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.comune.torino.it/novita/rss.xml",
+          "gated": false,
+          "category": "Government News: Torino"
+        }
+      ]
+    },
+    {
+      "publication_name": "Città di Palermo",
+      "publication_website_uri": "https://www.comune.palermo.it",
+      "category": "Government News: Palermo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.comune.palermo.it/feed/",
+          "gated": false,
+          "category": "Government News: Palermo"
+        }
+      ]
+    },
+    {
+      "publication_name": "Comune di Venezia",
+      "publication_website_uri": "https://www.comune.venezia.it",
+      "category": "Government News: Venezia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.comune.venezia.it/rss.xml",
+          "gated": false,
+          "category": "Government News: Venezia"
+        }
+      ]
     }
   ],
   "JAM": [
