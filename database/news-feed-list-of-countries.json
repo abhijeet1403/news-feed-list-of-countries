@@ -5462,6 +5462,450 @@
           "category": "Regional News: Bavaria"
         }
       ]
+    },
+    {
+      "publication_name": "Federal Government of Germany (Bundesregierung)",
+      "publication_website_uri": "https://www.bundesregierung.de",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bundesregierung.de/service/rss/breg-de/1151242/feed.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Labour and Social Affairs (BMAS)",
+      "publication_website_uri": "https://www.bmas.de",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bmas.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSNewsfeed.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Justice (BMJ)",
+      "publication_website_uri": "https://www.bmjv.de",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bmjv.de/SiteGlobals/Functions/RSSNewsfeed/DE/RSSNewsfeed/RSSNewsfeedPressemitteilungen.xml?nn=149890",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Health (BMG)",
+      "publication_website_uri": "https://www.bundesgesundheitsministerium.de",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bundesgesundheitsministerium.de/meldungen.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV)",
+      "publication_website_uri": "https://www.bundesumweltministerium.de",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bundesumweltministerium.de/umwelt.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Ministry of Defence (BMVg)",
+      "publication_website_uri": "https://www.bmvg.de",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bmvg.de/service/rss/de/17680/feed",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Foreign Office (Auswärtiges Amt)",
+      "publication_website_uri": "https://www.auswaertiges-amt.de",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.auswaertiges-amt.de/static/includes/rss/Presse-RSS-Feed.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "German Bundestag",
+      "publication_website_uri": "https://www.bundestag.de",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bundestag.de/static/appdata/includes/rss/aktuellethemen.rss",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bundesrat (Federal Council)",
+      "publication_website_uri": "https://www.bundesrat.de",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bundesrat.de/SiteGlobals/Functions/RSSFeed/RSSGenerator_Announcement.xml",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Statistical Office (Destatis)",
+      "publication_website_uri": "https://www.destatis.de",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.destatis.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/Aktuell.xml?nn=241288",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Deutsche Bundesbank",
+      "publication_website_uri": "https://www.bundesbank.de",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bundesbank.de/service/rss/de/633286/feed.rss",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Financial Supervisory Authority (BaFin)",
+      "publication_website_uri": "https://www.bafin.de",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bafin.de/DE/service/rss/_function/RSS_Presse.xml?nn=150166",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Robert Koch Institute (RKI)",
+      "publication_website_uri": "https://www.rki.de",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rki.de/SiteGlobals/Functions/RSS/RSS-neue-Dokumente.xml?nn=16777304",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Paul Ehrlich Institute (PEI)",
+      "publication_website_uri": "https://www.pei.de",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pei.de/SiteGlobals/Functions/RSSFeed/RSSGenerator_Aktuell.xml?nn=168758",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Office for Information Security (BSI)",
+      "publication_website_uri": "https://www.bsi.bund.de",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed_Presse_Veranstaltungen.xml",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Commissioner for Data Protection and Freedom of Information (BfDI)",
+      "publication_website_uri": "https://www.bfdi.bund.de",
+      "category": "Data Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bfdi.bund.de/SiteGlobals/Functions/RSSFeed/Allgemein/rssnewsfeed.xml?nn=252136",
+          "gated": false,
+          "category": "Data Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "German Weather Service (DWD)",
+      "publication_website_uri": "https://www.dwd.de",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dwd.de/SiteGlobals/Functions/RSSFeed/DE/pressemitteilungen/rssfeeds_pm.xml",
+          "gated": false,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Network Agency (Bundesnetzagentur)",
+      "publication_website_uri": "https://www.bundesnetzagentur.de",
+      "category": "Telecommunications Regulator Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSNewsfeed_Pressemitteilungen.xml?nn=693926",
+          "gated": false,
+          "category": "Telecommunications Regulator Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Cartel Office (Bundeskartellamt)",
+      "publication_website_uri": "https://www.bundeskartellamt.de",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bundeskartellamt.de/DE/Service/RSS/_documents/rssnewsfeed.xml",
+          "gated": false,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "German Environment Agency (Umweltbundesamt)",
+      "publication_website_uri": "https://www.umweltbundesamt.de",
+      "category": "Environmental Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.umweltbundesamt.de/rss/presse",
+          "gated": false,
+          "category": "Environmental Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Office for Migration and Refugees (BAMF)",
+      "publication_website_uri": "https://www.bamf.de",
+      "category": "Migration and Refugee Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bamf.de/SiteGlobals/Functions/RSS/DE/Feed/RSSNewsfeed_Pressemitteilungen.xml",
+          "gated": false,
+          "category": "Migration and Refugee Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Railway Authority (Eisenbahn-Bundesamt)",
+      "publication_website_uri": "https://www.eba.bund.de",
+      "category": "Rail Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.eba.bund.de/DE/Service/RSS/_Functions/rssnewsfeed.xml",
+          "gated": false,
+          "category": "Rail Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "State Government of Baden-Württemberg",
+      "publication_website_uri": "https://www.baden-wuerttemberg.de",
+      "category": "Government News: Baden-Württemberg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.baden-wuerttemberg.de/de/service/rss/xml/rss-alle-meldungen",
+          "gated": false,
+          "category": "Government News: Baden-Württemberg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bavarian State Government (Bayerische Staatsregierung)",
+      "publication_website_uri": "https://www.bayern.de",
+      "category": "Government News: Bayern",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bayern.de/rss/pm_alle.php",
+          "gated": false,
+          "category": "Government News: Bayern"
+        }
+      ]
+    },
+    {
+      "publication_name": "Berlin Senate Chancellery (Senatskanzlei Berlin)",
+      "publication_website_uri": "https://www.berlin.de",
+      "category": "Government News: Berlin",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/index.php/rss",
+          "gated": false,
+          "category": "Government News: Berlin"
+        }
+      ]
+    },
+    {
+      "publication_name": "State Government of Hesse (Hessische Landesregierung)",
+      "publication_website_uri": "https://www.hessen.de",
+      "category": "Government News: Hessen",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.hessen.de/newsletter-feed",
+          "gated": false,
+          "category": "Government News: Hessen"
+        }
+      ]
+    },
+    {
+      "publication_name": "State Government of Lower Saxony (Niedersächsische Landesregierung)",
+      "publication_website_uri": "https://www.niedersachsen.de",
+      "category": "Government News: Niedersachsen",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.niedersachsen.de/rss/",
+          "gated": false,
+          "category": "Government News: Niedersachsen"
+        }
+      ]
+    },
+    {
+      "publication_name": "Saxon State Government (Medienservice Sachsen)",
+      "publication_website_uri": "https://medienservice.sachsen.de",
+      "category": "Government News: Sachsen",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://medienservice.sachsen.de/medien/feeds/rss",
+          "gated": false,
+          "category": "Government News: Sachsen"
+        }
+      ]
+    },
+    {
+      "publication_name": "State Government of Saxony-Anhalt",
+      "publication_website_uri": "https://www.sachsen-anhalt.de",
+      "category": "Government News: Sachsen-Anhalt",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sachsen-anhalt.de/bs/pressemitteilungen/rss-feeds?tx_tsarssinclude_rss%5Baction%5D=feed&tx_tsarssinclude_rss%5Bcontroller%5D=Rss&tx_tsarssinclude_rss%5Buid%5D=74&type=9988&cHash=2cfcd7bfc44fae4c0e312f58f2a6cf60",
+          "gated": false,
+          "category": "Government News: Sachsen-Anhalt"
+        }
+      ]
+    },
+    {
+      "publication_name": "State Police of Saxony-Anhalt (Landespolizei Sachsen-Anhalt)",
+      "publication_website_uri": "https://www.sachsen-anhalt.de",
+      "category": "Police Reports: Sachsen-Anhalt",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sachsen-anhalt.de/bs/pressemitteilungen/rss-feeds?tx_tsarssinclude_rss%5Baction%5D=feed&tx_tsarssinclude_rss%5Bcontroller%5D=Rss&tx_tsarssinclude_rss%5Buid%5D=75&type=9988&cHash=6052a14b7487702c9e9ca69eac34418a",
+          "gated": false,
+          "category": "Police Reports: Sachsen-Anhalt"
+        }
+      ]
+    },
+    {
+      "publication_name": "State Government of Schleswig-Holstein",
+      "publication_website_uri": "https://www.schleswig-holstein.de",
+      "category": "Government News: Schleswig-Holstein",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.schleswig-holstein.de/DE/landesportal/service/RSS/RSS_PI_alle/RSSNewsfeed_PI_alle.xml?nn=a538b314-dfbb-490b-8875-8150c3745a98",
+          "gated": false,
+          "category": "Government News: Schleswig-Holstein"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Munich (Rathaus Umschau)",
+      "publication_website_uri": "https://ru.muenchen.de",
+      "category": "Government News: München",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ru.muenchen.de/rss",
+          "gated": false,
+          "category": "Government News: München"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Cologne (Stadt Köln)",
+      "publication_website_uri": "https://www.stadt-koeln.de",
+      "category": "Government News: Köln",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stadt-koeln.de/externe-dienste/rss/pressemeldungen.xml",
+          "gated": false,
+          "category": "Government News: Köln"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Stuttgart (Landeshauptstadt Stuttgart)",
+      "publication_website_uri": "https://www.stuttgart.de",
+      "category": "Government News: Stuttgart",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stuttgart.de/en/service/aktuelle-meldungen/?sp%3Aout=rss",
+          "gated": false,
+          "category": "Government News: Stuttgart"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Leipzig (Stadt Leipzig)",
+      "publication_website_uri": "https://www.leipzig.de",
+      "category": "Government News: Leipzig",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.leipzig.de/newsfeed/rss.xml",
+          "gated": false,
+          "category": "Government News: Leipzig"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Dresden (Landeshauptstadt Dresden)",
+      "publication_website_uri": "https://www.dresden.de",
+      "category": "Government News: Dresden",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dresden.de/konfiguration/rss/rss-feed-pressemitteilungen.rss",
+          "gated": false,
+          "category": "Government News: Dresden"
+        }
+      ]
+    },
+    {
+      "publication_name": "Berlin Police (Polizei Berlin)",
+      "publication_website_uri": "https://www.berlin.de/polizei",
+      "category": "Police Reports: Berlin",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.berlin.de/polizei/index.php/rss",
+          "gated": false,
+          "category": "Police Reports: Berlin"
+        }
+      ]
     }
   ],
   "DJI": [
@@ -7440,6 +7884,129 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Government of Estonia (Valitsus)",
+      "publication_website_uri": "https://www.valitsus.ee",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.valitsus.ee/rss-feeds/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Riigikogu (Estonian Parliament)",
+      "publication_website_uri": "https://www.riigikogu.ee",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.riigikogu.ee/feed/",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Tartu",
+      "publication_website_uri": "https://www.tartu.ee",
+      "category": "Government News: Tartu",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tartu.ee/et/rss",
+          "gated": false,
+          "category": "Government News: Tartu"
+        },
+        {
+          "uri": "https://www.tartu.ee/en/rss",
+          "gated": false,
+          "category": "Government News: Tartu"
+        }
+      ]
+    },
+    {
+      "publication_name": "Andmekaitse Inspektsioon (Data Protection Authority)",
+      "publication_website_uri": "https://www.aki.ee",
+      "category": "Data Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aki.ee/rss-feeds/rss.xml",
+          "gated": false,
+          "category": "Data Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Terviseamet (Health Board)",
+      "publication_website_uri": "https://www.terviseamet.ee",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.terviseamet.ee/rss-feeds/rss.xml",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Maksu- ja Tolliamet (Tax and Customs Board)",
+      "publication_website_uri": "https://www.emta.ee",
+      "category": "Tax Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.emta.ee/rss-feeds/rss.xml",
+          "gated": false,
+          "category": "Tax Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "RIA (Information System Authority)",
+      "publication_website_uri": "https://www.ria.ee",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ria.ee/rss-feeds/rss.xml",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        },
+        {
+          "uri": "https://www.ria.ee/rss/kuberuudised",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        },
+        {
+          "uri": "https://www.ria.ee/rss/blogi",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Konkurentsiamet (Competition Authority)",
+      "publication_website_uri": "https://www.konkurentsiamet.ee",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.konkurentsiamet.ee/rss-feeds/rss.xml",
+          "gated": false,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ravimiamet (Medicines Authority)",
+      "publication_website_uri": "https://www.ravimiamet.ee",
+      "category": "Medicines Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ravimiamet.ee/rss-feeds/rss.xml",
+          "gated": false,
+          "category": "Medicines Authority"
+        }
+      ]
     }
   ],
   "ETH": [
@@ -7842,6 +8409,162 @@
           "category": "Regional News: South Savonia"
         }
       ]
+    },
+    {
+      "publication_name": "Valtioneuvosto (Central Government - Main Feed)",
+      "publication_website_uri": "https://valtioneuvosto.fi",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/LOmkEPY4nk2s/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Valtioneuvosto (Central Government - Feed 2)",
+      "publication_website_uri": "https://valtioneuvosto.fi",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/00Qguh1GvAiJ/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Valtioneuvosto (Central Government - Feed 3)",
+      "publication_website_uri": "https://valtioneuvosto.fi",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/lKJx41DPuWCC/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Valtioneuvosto (Central Government - Feed 4)",
+      "publication_website_uri": "https://valtioneuvosto.fi",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/P2JabALc50Es/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Valtioneuvosto (Central Government - Feed 5)",
+      "publication_website_uri": "https://valtioneuvosto.fi",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/fpYJYjw2EcOG/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Valtioneuvosto (Central Government - Feed 6)",
+      "publication_website_uri": "https://valtioneuvosto.fi",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/CSnDFjXvoBx4/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ilmatieteen laitos (Finnish Meteorological Institute)",
+      "publication_website_uri": "https://www.ilmatieteenlaitos.fi",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ilmatieteenlaitos.fi/api/news/tiedote/rss",
+          "gated": false,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Valtiovarainministeriö (Ministry of Finance)",
+      "publication_website_uri": "https://vm.fi",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://vm.fi/en/frontpage/-/asset_publisher/1y6OMBVjRazZ/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Työ- ja elinkeinoministeriö (Ministry of Economic Affairs and Employment)",
+      "publication_website_uri": "https://tem.fi",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://tem.fi/en/frontpage/-/asset_publisher/KxL4CyYBq98S/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Oikeusministeriö (Ministry of Justice)",
+      "publication_website_uri": "https://oikeusministerio.fi",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://oikeusministerio.fi/en/frontpage/-/asset_publisher/arn55lSn4D8k/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sosiaali- ja terveysministeriö (Ministry of Social Affairs and Health)",
+      "publication_website_uri": "https://stm.fi",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://stm.fi/en/frontpage/-/asset_publisher/djBwQGJKJaH3/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sisäasianministeriö (Ministry of the Interior)",
+      "publication_website_uri": "https://intermin.fi",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://intermin.fi/en/frontpage/-/asset_publisher/LbD9icQxZZUa/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Maa- ja metsätalousministeriö (Ministry of Agriculture and Forestry)",
+      "publication_website_uri": "https://mmm.fi",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mmm.fi/en/frontpage/-/asset_publisher/gBxZaCBMnvmM/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
     }
   ],
   "FRA": [
@@ -8230,6 +8953,328 @@
           "uri": "https://www.paris-normandie.fr/rss.xml",
           "gated": false,
           "category": "Regional News: Normandy"
+        }
+      ]
+    },
+    {
+      "publication_name": "Présidence de la République (Élysée)",
+      "publication_website_uri": "https://www.elysee.fr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.elysee.fr/feed",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de l'Agriculture, de l'Agro-alimentaire et de la Souveraineté alimentaire",
+      "publication_website_uri": "https://agriculture.gouv.fr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://agriculture.gouv.fr/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://agriculture.gouv.fr/rss_presse.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère du Travail et de l'Emploi",
+      "publication_website_uri": "https://travail-emploi.gouv.fr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://travail-emploi.gouv.fr/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique",
+      "publication_website_uri": "https://www.economie.gouv.fr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.economie.gouv.fr/rss/toutesactualites",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de la Transition écologique",
+      "publication_website_uri": "https://www.ecologie.gouv.fr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ecologie.gouv.fr/rss-actualites.xml",
+          "gated": true,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://ecologie.gouv.fr/rss-presse.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "ANSSI - Agence nationale de la sécurité des systèmes d'information",
+      "publication_website_uri": "https://cyber.gouv.fr",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cyber.gouv.fr/actualites/rss/",
+          "gated": true,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "CNIL (Commission nationale de l'informatique et des libertés)",
+      "publication_website_uri": "https://www.cnil.fr",
+      "category": "Data Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cnil.fr/rss.xml",
+          "gated": false,
+          "category": "Data Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "ANSES (Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail)",
+      "publication_website_uri": "https://www.anses.fr",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.anses.fr/rss.xml",
+          "gated": false,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Défenseur des droits",
+      "publication_website_uri": "https://www.defenseurdesdroits.fr",
+      "category": "Ombudsman Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.defenseurdesdroits.fr/rss.xml",
+          "gated": false,
+          "category": "Ombudsman Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Haute Autorité de Santé (HAS)",
+      "publication_website_uri": "https://www.has-sante.fr",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.has-sante.fr/feed/Rss2.jsp?id=p_3081656",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "AMF (Autorité des marchés financiers)",
+      "publication_website_uri": "https://www.amf-france.org",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.amf-france.org/fr/flux-rss/display/21",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "ARCEP (Autorité de régulation des communications électroniques, des postes et de la distribution de la presse)",
+      "publication_website_uri": "https://www.arcep.fr",
+      "category": "Telecommunications Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.arcep.fr/actualites/suivre-actualite-regulation-arcep/fil-dinfos/rss.xml",
+          "gated": false,
+          "category": "Telecommunications Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cour des comptes",
+      "publication_website_uri": "https://www.ccomptes.fr",
+      "category": "Public Audit Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ccomptes.fr/fr/rss/general",
+          "gated": false,
+          "category": "Public Audit Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sénat",
+      "publication_website_uri": "https://www.senat.fr",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.senat.fr/rss/presse.xml",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Assemblée nationale",
+      "publication_website_uri": "https://www.assemblee-nationale.fr",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "http://www.assemblee-nationale.fr/dyn/rss/communiques-de-presse.xml",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Région Grand Est",
+      "publication_website_uri": "https://www.grandest.fr",
+      "category": "Government News: Grand Est",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.grandest.fr/feed/",
+          "gated": false,
+          "category": "Government News: Grand Est"
+        }
+      ]
+    },
+    {
+      "publication_name": "Collectivité de Corse (Cullettività di Corsica)",
+      "publication_website_uri": "https://www.isula.corsica",
+      "category": "Government News: Corse",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.isula.corsica/xml/syndication.rss",
+          "gated": false,
+          "category": "Government News: Corse"
+        }
+      ]
+    },
+    {
+      "publication_name": "Collectivité Territoriale de Martinique",
+      "publication_website_uri": "https://www.collectivitedemartinique.mq",
+      "category": "Government News: Martinique",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.collectivitedemartinique.mq/feed/",
+          "gated": false,
+          "category": "Government News: Martinique"
+        }
+      ]
+    },
+    {
+      "publication_name": "Collectivité Territoriale de Guyane",
+      "publication_website_uri": "https://www.ctguyane.fr",
+      "category": "Government News: Guyane",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ctguyane.fr/feed/",
+          "gated": false,
+          "category": "Government News: Guyane"
+        }
+      ]
+    },
+    {
+      "publication_name": "Région Bourgogne-Franche-Comté",
+      "publication_website_uri": "https://bourgognefranchecomte.fr",
+      "category": "Government News: Bourgogne-Franche-Comté",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bourgognefranchecomte.fr/rss.xml",
+          "gated": false,
+          "category": "Government News: Bourgogne-Franche-Comté"
+        }
+      ]
+    },
+    {
+      "publication_name": "Région Hauts-de-France",
+      "publication_website_uri": "https://www.hautsdefrance.fr",
+      "category": "Government News: Hauts-de-France",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.hautsdefrance.fr/feed",
+          "gated": false,
+          "category": "Government News: Hauts-de-France"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ville de Nice",
+      "publication_website_uri": "https://www.nice.fr",
+      "category": "Government News: Nice",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nice.fr/feed/",
+          "gated": false,
+          "category": "Government News: Nice"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ville de Marseille",
+      "publication_website_uri": "https://www.marseille.fr",
+      "category": "Government News: Marseille",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.marseille.fr/rss.xml",
+          "gated": false,
+          "category": "Government News: Marseille"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ville de Lyon",
+      "publication_website_uri": "https://www.lyon.fr",
+      "category": "Government News: Lyon",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lyon.fr/actualites/rss.xml",
+          "gated": false,
+          "category": "Government News: Lyon"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ville de Montpellier",
+      "publication_website_uri": "https://www.montpellier.fr",
+      "category": "Government News: Montpellier",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.montpellier.fr/rss.xml",
+          "gated": false,
+          "category": "Government News: Montpellier"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ville de Bordeaux",
+      "publication_website_uri": "https://www.bordeaux.fr",
+      "category": "Government News: Bordeaux",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bordeaux.fr/rss.xml",
+          "gated": false,
+          "category": "Government News: Bordeaux"
         }
       ]
     }
@@ -8680,6 +9725,834 @@
           "uri": "https://www.derryjournal.com/rss/",
           "gated": false,
           "category": "Regional News: Northern Ireland"
+        }
+      ]
+    },
+    {
+      "publication_name": "GOV.UK",
+      "publication_website_uri": "https://www.gov.uk",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/search/news-and-communications.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Attorney General's Office",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/attorney-generals-office",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/attorney-generals-office.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cabinet Office",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/cabinet-office",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/cabinet-office.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Business and Trade",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/department-for-business-and-trade.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Culture, Media and Sport",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Education",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-education",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/department-for-education.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Energy Security and Net Zero",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Environment, Food & Rural Affairs (Defra)",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Science, Innovation and Technology",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Transport",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-transport",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/department-for-transport.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Work and Pensions",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/department-for-work-pensions.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department of Health and Social Care",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/department-of-health-and-social-care.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Foreign, Commonwealth & Development Office",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "HM Treasury",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/hm-treasury",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/hm-treasury.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Home Office",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/home-office",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/home-office.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Defence",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/ministry-of-defence",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/ministry-of-defence.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Housing, Communities and Local Government",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Justice",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/ministry-of-justice",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/ministry-of-justice.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Northern Ireland Office",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/northern-ireland-office",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/northern-ireland-office.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Advocate General for Scotland",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/office-of-the-advocate-general-for-scotland",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/office-of-the-advocate-general-for-scotland.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "UK Export Finance",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/uk-export-finance",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/uk-export-finance.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Scotland Office",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/scotland-office",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/scotland-office.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Wales Office",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/wales-office",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/wales-office.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Competition and Markets Authority",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/competition-and-markets-authority",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/competition-and-markets-authority.atom",
+          "gated": true,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Food Standards Agency",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/food-standards-agency",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/food-standards-agency.atom",
+          "gated": true,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Forestry Commission",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/forestry-commission",
+      "category": "Forestry Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/forestry-commission.atom",
+          "gated": true,
+          "category": "Forestry Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Government Actuary's Department",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/government-actuarys-department",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/government-actuarys-department.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Government Legal Department",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/government-legal-department",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/government-legal-department.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "HM Land Registry",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/land-registry",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/land-registry.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "HM Revenue & Customs",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+      "category": "Tax Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/hm-revenue-customs.atom",
+          "gated": true,
+          "category": "Tax Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ofqual",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/ofqual",
+      "category": "Qualifications Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/ofqual.atom",
+          "gated": true,
+          "category": "Qualifications Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ofsted",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/ofsted",
+      "category": "Education Standards Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/ofsted.atom",
+          "gated": true,
+          "category": "Education Standards Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Serious Fraud Office",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/serious-fraud-office",
+      "category": "Fraud Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/serious-fraud-office.atom",
+          "gated": true,
+          "category": "Fraud Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Charity Commission",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/charity-commission",
+      "category": "Charities Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/charity-commission.atom",
+          "gated": true,
+          "category": "Charities Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "HM Courts & Tribunals Service",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "HM Prison and Probation Service",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/hm-prison-and-probation-service",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/hm-prison-and-probation-service.atom",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Planning Inspectorate",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/planning-inspectorate",
+      "category": "Planning Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/planning-inspectorate.atom",
+          "gated": true,
+          "category": "Planning Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Maritime and Coastguard Agency",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency",
+      "category": "Maritime Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency.atom",
+          "gated": true,
+          "category": "Maritime Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Medicines and Healthcare products Regulatory Agency (MHRA)",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency",
+      "category": "Medicines Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
+          "gated": true,
+          "category": "Medicines Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "UK Health Security Agency (UKHSA)",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/uk-health-security-agency",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/uk-health-security-agency.atom",
+          "gated": true,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Air Accidents Investigation Branch (AAIB)",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/air-accidents-investigation-branch",
+      "category": "Aviation Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/air-accidents-investigation-branch.atom",
+          "gated": true,
+          "category": "Aviation Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Marine Accident Investigation Branch (MAIB)",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/marine-accident-investigation-branch",
+      "category": "Maritime Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/marine-accident-investigation-branch.atom",
+          "gated": true,
+          "category": "Maritime Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Rail Accident Investigation Branch (RAIB)",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/rail-accident-investigation-branch",
+      "category": "Rail Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/rail-accident-investigation-branch.atom",
+          "gated": true,
+          "category": "Rail Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Environment Agency",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/environment-agency",
+      "category": "Environmental Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/environment-agency.atom",
+          "gated": true,
+          "category": "Environmental Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of Rail and Road (ORR)",
+      "publication_website_uri": "https://www.gov.uk/government/organisations/office-of-rail-and-road",
+      "category": "Rail Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.uk/government/organisations/office-of-rail-and-road.atom",
+          "gated": true,
+          "category": "Rail Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bank of England",
+      "publication_website_uri": "https://www.bankofengland.co.uk",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bankofengland.co.uk/rss/news",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Financial Conduct Authority (FCA)",
+      "publication_website_uri": "https://www.fca.org.uk",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fca.org.uk/news/rss.xml",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ofgem",
+      "publication_website_uri": "https://www.ofgem.gov.uk",
+      "category": "Energy Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ofgem.gov.uk/rss.xml",
+          "gated": true,
+          "category": "Energy Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office for National Statistics (ONS)",
+      "publication_website_uri": "https://www.ons.gov.uk",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ons.gov.uk/releasecalendar?rss",
+          "gated": true,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Crime Agency (NCA)",
+      "publication_website_uri": "https://www.nationalcrimeagency.gov.uk",
+      "category": "Police Reports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nationalcrimeagency.gov.uk/news?format=feed&type=rss",
+          "gated": true,
+          "category": "Police Reports"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Cyber Security Centre (NCSC)",
+      "publication_website_uri": "https://www.ncsc.gov.uk",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml",
+          "gated": true,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "NHS England",
+      "publication_website_uri": "https://www.england.nhs.uk",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.england.nhs.uk/feed/",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Met Office",
+      "publication_website_uri": "https://www.metoffice.gov.uk",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.metoffice.gov.uk/feed/syndication/news-rss.xml",
+          "gated": true,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Welsh Government",
+      "publication_website_uri": "https://www.gov.wales",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.wales/announcements/rss",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Llywodraeth Cymru (Welsh Government, Welsh language)",
+      "publication_website_uri": "https://www.llyw.cymru",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.llyw.cymru/announcements/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Northern Ireland Executive - The Executive Office",
+      "publication_website_uri": "https://www.executiveoffice-ni.gov.uk",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.executiveoffice-ni.gov.uk/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department of Health (Northern Ireland)",
+      "publication_website_uri": "https://www.health-ni.gov.uk",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.health-ni.gov.uk/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for the Economy (Northern Ireland)",
+      "publication_website_uri": "https://www.economy-ni.gov.uk",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.economy-ni.gov.uk/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department of Education (Northern Ireland)",
+      "publication_website_uri": "https://www.education-ni.gov.uk",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.education-ni.gov.uk/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Infrastructure (Northern Ireland)",
+      "publication_website_uri": "https://www.infrastructure-ni.gov.uk",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.infrastructure-ni.gov.uk/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department of Finance (Northern Ireland)",
+      "publication_website_uri": "https://www.finance-ni.gov.uk",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.finance-ni.gov.uk/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department of Justice (Northern Ireland)",
+      "publication_website_uri": "https://www.justice-ni.gov.uk",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.justice-ni.gov.uk/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department of Agriculture, Environment and Rural Affairs (DAERA, Northern Ireland)",
+      "publication_website_uri": "https://www.daera-ni.gov.uk",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.daera-ni.gov.uk/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department for Communities (Northern Ireland)",
+      "publication_website_uri": "https://www.communities-ni.gov.uk",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.communities-ni.gov.uk/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Birmingham City Council",
+      "publication_website_uri": "https://www.birmingham.gov.uk",
+      "category": "Government News: Birmingham",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.birmingham.gov.uk/rss/news",
+          "gated": true,
+          "category": "Government News: Birmingham"
+        }
+      ]
+    },
+    {
+      "publication_name": "Coventry City Council",
+      "publication_website_uri": "https://www.coventry.gov.uk",
+      "category": "Government News: Coventry",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.coventry.gov.uk/rss/news",
+          "gated": true,
+          "category": "Government News: Coventry"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Edinburgh Council",
+      "publication_website_uri": "https://www.edinburgh.gov.uk",
+      "category": "Government News: Edinburgh",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.edinburgh.gov.uk/rss/news",
+          "gated": true,
+          "category": "Government News: Edinburgh"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sheffield City Council",
+      "publication_website_uri": "https://www.sheffield.gov.uk",
+      "category": "Government News: Sheffield",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sheffield.gov.uk/rss.xml",
+          "gated": true,
+          "category": "Government News: Sheffield"
+        }
+      ]
+    },
+    {
+      "publication_name": "Avon and Somerset Police",
+      "publication_website_uri": "https://www.avonandsomerset.police.uk",
+      "category": "Police Reports: Avon and Somerset",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.avonandsomerset.police.uk/feed/",
+          "gated": false,
+          "category": "Police Reports: Avon and Somerset"
         }
       ]
     }
@@ -15768,6 +17641,77 @@
           "category": "Regional News: Laois"
         }
       ]
+    },
+    {
+      "publication_name": "Houses of the Oireachtas",
+      "publication_website_uri": "https://www.oireachtas.ie",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.oireachtas.ie/en/rss/press-releases.xml",
+          "gated": false,
+          "category": "Parliament"
+        },
+        {
+          "uri": "https://www.oireachtas.ie/en/rss/dail-schedule.xml",
+          "gated": false,
+          "category": "Parliament"
+        },
+        {
+          "uri": "https://www.oireachtas.ie/en/rss/seanad-schedule.xml",
+          "gated": false,
+          "category": "Parliament"
+        },
+        {
+          "uri": "https://www.oireachtas.ie/en/rss/committee-schedule.xml",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Central Bank of Ireland",
+      "publication_website_uri": "https://www.centralbank.ie",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.centralbank.ie/feeds/news-media-feed",
+          "gated": false,
+          "category": "Financial Regulator"
+        },
+        {
+          "uri": "https://www.centralbank.ie/feeds/markets-updates-feed",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Environmental Protection Agency (EPA)",
+      "publication_website_uri": "https://www.epa.ie",
+      "category": "Other Regulator/Agency",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.epa.ie/resources/rss/index-90474.xml",
+          "gated": false,
+          "category": "Other Regulator/Agency"
+        },
+        {
+          "uri": "https://www.epa.ie/resources/rss/index-90481.xml",
+          "gated": false,
+          "category": "Other Regulator/Agency"
+        },
+        {
+          "uri": "https://www.epa.ie/resources/rss/index-90488.xml",
+          "gated": false,
+          "category": "Other Regulator/Agency"
+        },
+        {
+          "uri": "https://www.epa.ie/resources/rss/index-90495.xml",
+          "gated": false,
+          "category": "Other Regulator/Agency"
+        }
+      ]
     }
   ],
   "IRN": [
@@ -20742,6 +22686,30 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Information and Data Protection Commissioner (IDPC)",
+      "publication_website_uri": "https://idpc.org.mt",
+      "category": "Data Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://idpc.org.mt/rss",
+          "gated": false,
+          "category": "Data Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Heritage Malta",
+      "publication_website_uri": "https://heritagemalta.mt",
+      "category": "Other Regulator/Agency",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://heritagemalta.mt/news/feed",
+          "gated": false,
+          "category": "Other Regulator/Agency"
+        }
+      ]
     }
   ],
   "MMR": [
@@ -25536,6 +27504,40 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Statistics Portugal (INE)",
+      "publication_website_uri": "https://www.ine.pt",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ine.pt/ine/rssfeed_dst.jsp?lang=EN",
+          "gated": false,
+          "category": "Official Statistics"
+        },
+        {
+          "uri": "https://www.ine.pt/ine/rssfeed_pub.jsp?lang=EN",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Portuguese Institute of Sea and Atmosphere (IPMA)",
+      "publication_website_uri": "https://www.ipma.pt",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ipma.pt/opencms/resources.www/rss/comunicados.xml",
+          "gated": false,
+          "category": "Weather Service"
+        },
+        {
+          "uri": "https://www.ipma.pt/opencms/resources.www/rss/rss.news.ipma.xml",
+          "gated": false,
+          "category": "Weather Service"
+        }
+      ]
     }
   ],
   "PSE": [
@@ -27573,6 +29575,72 @@
           "uri": "https://www.dnevnik.si/rss.xml",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Institute of Public Health (NIJZ)",
+      "publication_website_uri": "https://nijz.si",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nijz.si/feed/",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Slovenian National CERT (SI-CERT)",
+      "publication_website_uri": "https://www.cert.si",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cert.si/feed/",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Statistical Office of the Republic of Slovenia (SURS)",
+      "publication_website_uri": "https://www.stat.si",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stat.si/StatWeb/rss/rss?fields=all&days=7",
+          "gated": false,
+          "category": "Official Statistics"
+        },
+        {
+          "uri": "https://www.stat.si/StatWeb/rss/rss?fields=2&days=7",
+          "gated": false,
+          "category": "Official Statistics"
+        },
+        {
+          "uri": "https://www.stat.si/StatWeb/rss/rss?fields=3&days=7",
+          "gated": false,
+          "category": "Official Statistics"
+        },
+        {
+          "uri": "https://www.stat.si/StatWeb/rss/rss?fields=4&days=7",
+          "gated": false,
+          "category": "Official Statistics"
+        },
+        {
+          "uri": "https://www.stat.si/StatWeb/rss/rss?fields=5&days=7",
+          "gated": false,
+          "category": "Official Statistics"
+        },
+        {
+          "uri": "https://www.stat.si/StatWeb/rss/rss?fields=6&days=7",
+          "gated": false,
+          "category": "Official Statistics"
+        },
+        {
+          "uri": "https://www.stat.si/StatWeb/rss/rss?fields=7&days=7",
+          "gated": false,
+          "category": "Official Statistics"
         }
       ]
     }
