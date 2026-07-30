@@ -822,6 +822,102 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Reserve Bank of Australia",
+      "publication_website_uri": "https://www.rba.gov.au",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rba.gov.au/rss/rss-cb-media-releases.xml",
+          "gated": true,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Australian Prudential Regulation Authority (APRA)",
+      "publication_website_uri": "https://www.apra.gov.au",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.apra.gov.au/rss.xml",
+          "gated": true,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Australian Information Commissioner (OAIC)",
+      "publication_website_uri": "https://www.oaic.gov.au",
+      "category": "Data Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.oaic.gov.au/rss",
+          "gated": true,
+          "category": "Data Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Food Standards Australia New Zealand (FSANZ)",
+      "publication_website_uri": "https://www.foodstandards.gov.au",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.foodstandards.gov.au/media-rss.xml",
+          "gated": true,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "House of Representatives (Parliament of Australia)",
+      "publication_website_uri": "https://www.aph.gov.au",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.aph.gov.au/house/rss/media_releases",
+          "gated": true,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Prime Minister of Australia",
+      "publication_website_uri": "https://www.pm.gov.au",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pm.gov.au/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Melbourne",
+      "publication_website_uri": "https://www.melbourne.vic.gov.au",
+      "category": "Government News: Melbourne",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.melbourne.vic.gov.au/rss.xml",
+          "gated": true,
+          "category": "Government News: Melbourne"
+        }
+      ]
+    },
+    {
+      "publication_name": "Queensland Police Service",
+      "publication_website_uri": "https://www.police.qld.gov.au",
+      "category": "Police Reports: Queensland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.qld.gov.au/rss.xml",
+          "gated": true,
+          "category": "Police Reports: Queensland"
+        }
+      ]
     }
   ],
   "AUT": [
@@ -4162,6 +4258,858 @@
           "uri": "https://francopresse.ca/feed/",
           "gated": false,
           "category": "News (French)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Agriculture and Agri-Food Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=agricultureagrifood&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Agriculture%20and%20Agri-Food%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Atlantic Canada Opportunities Agency",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=atlanticcanadaopportunities&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-0-23&pick=50&format=atom&atomtitle=Atlantic%20Canada%20Opportunities%20Agency",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canada Border Services Agency",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadaborderservicesagency&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canada%20Border%20Services%20Agency",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canada Revenue Agency",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Tax Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=revenueagency&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canada%20Revenue%20Agency",
+          "gated": true,
+          "category": "Tax Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canadian Coast Guard",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadiancoastguard&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canadian%20Coast%20Guard",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canadian Food Inspection Agency",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=foodinspectionagency&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canadian%20Food%20Inspection%20Agency",
+          "gated": true,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canadian Grain Commission",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Grain Trade Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=graincommission&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canadian%20Grain%20Commission",
+          "gated": true,
+          "category": "Grain Trade Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canadian Heritage",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadianheritage&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canadian%20Heritage",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canadian Institutes of Health Research",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=instituteshealthresearch&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canadian%20Institutes%20of%20Health%20Research",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canadian International Trade Tribunal",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadianinternationaltradetribunal&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canadian%20International%20Trade%20Tribunal",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canadian Northern Economic Development Agency",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadiannortherneconomicdevelopmentagency&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canadian%20Northern%20Economic%20Development%20Agency",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canadian Nuclear Safety Commission",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Nuclear Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadiannuclearsafetycommission&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canadian%20Nuclear%20Safety%20Commission",
+          "gated": true,
+          "category": "Nuclear Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canadian Radio-television and Telecommunications Commission",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Broadcasting and Telecommunications Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadianradiotelevisionandtelecommunicationscommission&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canadian%20Radio-television%20and%20Telecommunications%20Commission",
+          "gated": true,
+          "category": "Broadcasting and Telecommunications Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canadian Security Intelligence Service",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadiansecurityintelligenceservice&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canadian%20Security%20Intelligence%20Service",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canadian Space Agency",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=spaceagency&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canadian%20Space%20Agency",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Communications Security Establishment",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=communicationssecurity&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Communications%20Security%20Establishment",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Competition Bureau Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=competitionbureau&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Competition%20Bureau%20Canada",
+          "gated": true,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Correctional Service of Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=correctionalservice&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Correctional%20Service%20of%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Crown-Indigenous Relations and Northern Affairs Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=crownindigenousrelationsandnorthernaffairscanada&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=Crown-Indigenous%20Relations%20and%20Northern%20Affairs%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Democratic Institutions",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=democraticinstitutions&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Democratic%20Institutions",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department of Finance Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentfinance&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Department%20of%20Finance%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department of Justice Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentjustice&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Department%20of%20Justice%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Employment and Social Development Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofemploymentandsocialdevelopment&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Employment%20and%20Social%20Development%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Environment and Climate Change Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentoftheenvironment&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Environment%20and%20Climate%20Change%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Economic Development Agency for Southern Ontario",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=economicdevelopmentsouthernontario&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Federal%20Economic%20Development%20Agency%20for%20Southern%20Ontario",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Impact Assessment Agency of Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=impactassessmentagency&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Impact%20Assessment%20Agency%20of%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Indigenous Services Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=indigenousservicescanada&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Indigenous%20Services%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Infrastructure Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=officeinfrastructure&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Infrastructure%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Innovation, Science and Economic Development Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofindustry&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Innovation,%20Science%20and%20Economic%20Development%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Intergovernmental Affairs",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=intergovernmentalaffairs&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=Intergovernmental%20Affairs",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Library and Archives Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=libraryarchives&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Library%20and%20Archives%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Battlefields Commission",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=nationalbattlefieldscommission&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=National%20Battlefields%20Commission",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Defence",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentnationaldefense&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=National%20Defence",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Film Board",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=nationalfilmboard&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=National%20Film%20Board",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Natural Resources Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=naturalresourcescanada&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Natural%20Resources%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Procurement Ombudsman",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=procurementombudsman&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=Office%20of%20the%20Procurement%20Ombudsman",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Taxpayers' Ombudsman",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=taxpayersombudsman&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Office%20of%20the%20Taxpayers%27%20Ombudsman",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pacific Economic Development Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=pacificeconomicdevelopment&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=Pacific%20Economic%20Development%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Parks Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=parkscanada&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Parks%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polar Knowledge Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=polarknowledge&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Polar%20Knowledge%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Prairies Economic Development Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=prairieseconomicdevelopment&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=Prairies%20Economic%20Development%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Public Health Agency of Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=publichealthagencyofcanada&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Public%20Health%20Agency%20of%20Canada",
+          "gated": true,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Public Safety Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=publicsafetycanada&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Public%20Safety%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Public Services and Procurement Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofpublicworksandgovernmentservices&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Public%20Services%20and%20Procurement%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Social Sciences and Humanities Research Council",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=socialscienceshumanitiesresearch&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Social%20Sciences%20and%20Humanities%20Research%20Council",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Transport Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentoftransport&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Transport%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Treasury Board of Canada Secretariat",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=treasuryboardsecretariat&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Treasury%20Board%20of%20Canada%20Secretariat",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Veterans Affairs Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=veteransaffairscanada&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Veterans%20Affairs%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Women and Gender Equality Canada",
+      "publication_website_uri": "https://www.canada.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=statuswomen&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=Women%20and%20Gender%20Equality%20Canada",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Statistics Canada",
+      "publication_website_uri": "https://www.statcan.gc.ca",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www150.statcan.gc.ca/n1/rss/dai-quo/0-eng.atom",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bank of Canada",
+      "publication_website_uri": "https://www.bankofcanada.ca",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bankofcanada.ca/content_type/press-releases/feed/",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bank of Canada",
+      "publication_website_uri": "https://www.bankofcanada.ca",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bankofcanada.ca/content_type/announcements/feed/",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Privacy Commissioner of Canada",
+      "publication_website_uri": "https://www.priv.gc.ca",
+      "category": "Data Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.priv.gc.ca/en/rss/news/",
+          "gated": false,
+          "category": "Data Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canadian Centre for Cyber Security",
+      "publication_website_uri": "https://www.cyber.gc.ca",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cyber.gc.ca/webservice/en/rss/alerts",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canadian Centre for Cyber Security",
+      "publication_website_uri": "https://www.cyber.gc.ca",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cyber.gc.ca/webservice/en/rss/news",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Prime Minister of Canada",
+      "publication_website_uri": "https://www.pm.gc.ca",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pm.gc.ca/en/news.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Government of Ontario",
+      "publication_website_uri": "https://news.ontario.ca",
+      "category": "Government News: Ontario",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://news.ontario.ca/newsroom/en/rss/allnews.rss",
+          "gated": false,
+          "category": "Government News: Ontario"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gouvernement du Québec",
+      "publication_website_uri": "https://www.quebec.ca",
+      "category": "Government News: Québec",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.quebec.ca/fil-de-presse.rss",
+          "gated": false,
+          "category": "Government News: Québec"
+        }
+      ]
+    },
+    {
+      "publication_name": "Government of British Columbia",
+      "publication_website_uri": "https://news.gov.bc.ca",
+      "category": "Government News: British Columbia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://news.gov.bc.ca/feed",
+          "gated": true,
+          "category": "Government News: British Columbia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Government of Manitoba",
+      "publication_website_uri": "https://news.gov.mb.ca",
+      "category": "Government News: Manitoba",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://news.gov.mb.ca/news/index.rss",
+          "gated": true,
+          "category": "Government News: Manitoba"
+        }
+      ]
+    },
+    {
+      "publication_name": "Government of Saskatchewan",
+      "publication_website_uri": "https://www.saskatchewan.ca",
+      "category": "Government News: Saskatchewan",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.saskatchewan.ca/Feeds/NewsFeed.ashx",
+          "gated": false,
+          "category": "Government News: Saskatchewan"
+        }
+      ]
+    },
+    {
+      "publication_name": "Government of Nova Scotia (Premier's Office)",
+      "publication_website_uri": "https://novascotia.ca",
+      "category": "Government News: Nova Scotia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://novascotia.ca/news/rss/rss.asp?dept=39",
+          "gated": false,
+          "category": "Government News: Nova Scotia"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Toronto",
+      "publication_website_uri": "https://www.toronto.ca",
+      "category": "Government News: Toronto",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.toronto.ca/news/feed/",
+          "gated": false,
+          "category": "Government News: Toronto"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ville de Montréal",
+      "publication_website_uri": "https://montreal.ca",
+      "category": "Government News: Montréal",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://montreal.ca/diffusion/rss/communiques.xml",
+          "gated": false,
+          "category": "Government News: Montréal"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Calgary",
+      "publication_website_uri": "https://newsroom.calgary.ca",
+      "category": "Government News: Calgary",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://newsroom.calgary.ca/tagfeed/en/tags/city__news",
+          "gated": false,
+          "category": "Government News: Calgary"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Ottawa",
+      "publication_website_uri": "https://ottawa.ca",
+      "category": "Government News: Ottawa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ottawa.ca/en/news.rss",
+          "gated": false,
+          "category": "Government News: Ottawa"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Winnipeg",
+      "publication_website_uri": "https://www.winnipeg.ca",
+      "category": "Government News: Winnipeg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.winnipeg.ca/rss/en/media-releases.xml",
+          "gated": false,
+          "category": "Government News: Winnipeg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Calgary Police Service",
+      "publication_website_uri": "https://www.calgarypolice.ca",
+      "category": "Police Reports: Calgary",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://newsroom.calgary.ca/tagfeed/en/tags/police",
+          "gated": false,
+          "category": "Police Reports: Calgary"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vancouver Police Department",
+      "publication_website_uri": "https://vpd.ca",
+      "category": "Police Reports: Vancouver",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://vpd.ca/feed/",
+          "gated": false,
+          "category": "Police Reports: Vancouver"
+        }
+      ]
+    },
+    {
+      "publication_name": "Royal Canadian Mounted Police",
+      "publication_website_uri": "https://rcmp.ca",
+      "category": "Police Reports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rcmp.ca/en/feed-flux/news-nouvelles",
+          "gated": false,
+          "category": "Police Reports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Transportation Safety Board of Canada",
+      "publication_website_uri": "https://www.tsb.gc.ca",
+      "category": "Transportation Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tsb.gc.ca/eng/fils-feeds/TSB-Media.xml",
+          "gated": false,
+          "category": "Transportation Safety Authority"
         }
       ]
     }
@@ -29714,6 +30662,59 @@
           "category": "Business"
         }
       ]
+    },
+    {
+      "publication_name": "New Zealand Police",
+      "publication_website_uri": "https://www.police.govt.nz",
+      "category": "Police Reports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.police.govt.nz/rss/news",
+          "gated": false,
+          "category": "Police Reports"
+        },
+        {
+          "uri": "https://www.police.govt.nz/rss/alerts",
+          "gated": false,
+          "category": "Police Reports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Privacy Commissioner (New Zealand)",
+      "publication_website_uri": "https://www.privacy.org.nz",
+      "category": "Data Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.privacy.org.nz/new-on-the-website/rss/",
+          "gated": false,
+          "category": "Data Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry for Primary Industries (MPI)",
+      "publication_website_uri": "https://www.mpi.govt.nz",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mpi.govt.nz/news/media-releases/rss.xml",
+          "gated": false,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "NIWA (Earth Sciences New Zealand)",
+      "publication_website_uri": "https://www.niwa.co.nz",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.niwa.co.nz/rss.xml",
+          "gated": false,
+          "category": "Weather Service"
+        }
+      ]
     }
   ],
   "PAK": [
@@ -38208,6 +39209,426 @@
           "uri": "https://laprensadecolorado.com/feed/",
           "gated": false,
           "category": "Regional News: Colorado"
+        }
+      ]
+    },
+    {
+      "publication_name": "The White House",
+      "publication_website_uri": "https://www.whitehouse.gov",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.whitehouse.gov/news/rss",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "U.S. Department of Justice (DOJ)",
+      "publication_website_uri": "https://www.justice.gov",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.justice.gov/news/rss",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "U.S. Department of Labor (DOL)",
+      "publication_website_uri": "https://www.dol.gov",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dol.gov/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "U.S. Department of Housing and Urban Development (HUD)",
+      "publication_website_uri": "https://www.hud.gov",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.hud.gov/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "U.S. Department of Education",
+      "publication_website_uri": "https://www.ed.gov",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www2.ed.gov/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Deposit Insurance Corporation (FDIC)",
+      "publication_website_uri": "https://www.fdic.gov",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fdic.gov/rss.xml",
+          "gated": true,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "U.S. Securities and Exchange Commission (SEC)",
+      "publication_website_uri": "https://www.sec.gov",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sec.gov/news/pressreleases.rss",
+          "gated": true,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Reserve Board",
+      "publication_website_uri": "https://www.federalreserve.gov",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.federalreserve.gov/feeds/press_all.xml",
+          "gated": true,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "U.S. Census Bureau",
+      "publication_website_uri": "https://www.census.gov",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.census.gov/content/census/en/newsroom/press-releases.xml",
+          "gated": true,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cybersecurity and Infrastructure Security Agency (CISA)",
+      "publication_website_uri": "https://www.cisa.gov",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cisa.gov/news.xml",
+          "gated": true,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "U.S. Geological Survey (USGS)",
+      "publication_website_uri": "https://www.usgs.gov",
+      "category": "Geological Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.atom",
+          "gated": true,
+          "category": "Geological Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Oceanic and Atmospheric Administration (NOAA)",
+      "publication_website_uri": "https://www.noaa.gov",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.noaa.gov/rss.xml",
+          "gated": true,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federal Trade Commission (FTC)",
+      "publication_website_uri": "https://www.ftc.gov",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ftc.gov/feeds/press-release.xml",
+          "gated": true,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "U.S. Bureau of Economic Analysis (BEA)",
+      "publication_website_uri": "https://www.bea.gov",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://apps.bea.gov/rss/rss.xml",
+          "gated": true,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "U.S. Government Accountability Office (GAO)",
+      "publication_website_uri": "https://www.gao.gov",
+      "category": "Public Audit Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gao.gov/rss/reports.xml",
+          "gated": true,
+          "category": "Public Audit Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Congressional Budget Office (CBO)",
+      "publication_website_uri": "https://www.cbo.gov",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cbo.gov/publications/all/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Library of Congress (LOC)",
+      "publication_website_uri": "https://www.loc.gov",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.loc.gov/news/?fo=rss",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "U.S. Food and Drug Administration (FDA)",
+      "publication_website_uri": "https://www.fda.gov",
+      "category": "Medicines Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+          "gated": true,
+          "category": "Medicines Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Governor of California",
+      "publication_website_uri": "https://www.gov.ca.gov",
+      "category": "Government News: California",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gov.ca.gov/feed/",
+          "gated": true,
+          "category": "Government News: California"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Governor of Texas",
+      "publication_website_uri": "https://gov.texas.gov",
+      "category": "Government News: Texas",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gov.texas.gov/news/rss",
+          "gated": true,
+          "category": "Government News: Texas"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Governor of Georgia",
+      "publication_website_uri": "https://gov.georgia.gov",
+      "category": "Government News: Georgia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gov.georgia.gov/rss.xml",
+          "gated": true,
+          "category": "Government News: Georgia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Governor of Washington",
+      "publication_website_uri": "https://governor.wa.gov",
+      "category": "Government News: Washington",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://governor.wa.gov/rss.xml",
+          "gated": true,
+          "category": "Government News: Washington"
+        }
+      ]
+    },
+    {
+      "publication_name": "State of North Carolina (NC.gov press-release aggregator)",
+      "publication_website_uri": "https://www.nc.gov",
+      "category": "Government News: North Carolina",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nc.gov/aggregator/rss",
+          "gated": true,
+          "category": "Government News: North Carolina"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of Governor JB Pritzker (Illinois)",
+      "publication_website_uri": "https://gov.illinois.gov",
+      "category": "Government News: Illinois",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gov-pritzker-newsroom.prezly.com/feed",
+          "gated": false,
+          "category": "Government News: Illinois"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Governor of Nebraska",
+      "publication_website_uri": "https://governor.nebraska.gov",
+      "category": "Government News: Nebraska",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://governor.nebraska.gov/rss.xml",
+          "gated": true,
+          "category": "Government News: Nebraska"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Governor of North Dakota",
+      "publication_website_uri": "https://governor.nd.gov",
+      "category": "Government News: North Dakota",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://governor.nd.gov/rss.xml",
+          "gated": true,
+          "category": "Government News: North Dakota"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Governor of Vermont",
+      "publication_website_uri": "https://governor.vermont.gov",
+      "category": "Government News: Vermont",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://governor.vermont.gov/rss.xml",
+          "gated": true,
+          "category": "Government News: Vermont"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Governor of West Virginia",
+      "publication_website_uri": "https://governor.wv.gov",
+      "category": "Government News: West Virginia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://governor.wv.gov/rss.xml",
+          "gated": true,
+          "category": "Government News: West Virginia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Governor of Alabama",
+      "publication_website_uri": "https://governor.alabama.gov",
+      "category": "Government News: Alabama",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://governor.alabama.gov/feed/",
+          "gated": true,
+          "category": "Government News: Alabama"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Governor of Hawaii",
+      "publication_website_uri": "https://governor.hawaii.gov",
+      "category": "Government News: Hawaii",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://governor.hawaii.gov/feed/",
+          "gated": true,
+          "category": "Government News: Hawaii"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Governor of Mississippi",
+      "publication_website_uri": "https://governorreeves.ms.gov",
+      "category": "Government News: Mississippi",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://governorreeves.ms.gov/feed/",
+          "gated": true,
+          "category": "Government News: Mississippi"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Governor of Utah",
+      "publication_website_uri": "https://governor.utah.gov",
+      "category": "Government News: Utah",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://governor.utah.gov/feed/",
+          "gated": true,
+          "category": "Government News: Utah"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of the Governor of Louisiana",
+      "publication_website_uri": "https://gov.louisiana.gov",
+      "category": "Government News: Louisiana",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gov.louisiana.gov/news/rss",
+          "gated": true,
+          "category": "Government News: Louisiana"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of San Diego",
+      "publication_website_uri": "https://www.sandiego.gov",
+      "category": "Government News: San Diego",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sandiego.gov/rss.xml",
+          "gated": true,
+          "category": "Government News: San Diego"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Boston",
+      "publication_website_uri": "https://www.boston.gov",
+      "category": "Government News: Boston",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.boston.gov/rss.xml",
+          "gated": true,
+          "category": "Government News: Boston"
         }
       ]
     }
