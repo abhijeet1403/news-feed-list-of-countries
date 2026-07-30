@@ -5204,6 +5204,462 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Bundeskanzlei (Federal Chancellery of Switzerland)",
+      "publication_website_uri": "https://www.bk.admin.ch",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://d-nsbc-p.admin.ch/NSBSubscriber/feeds/rss?lang=de&org-nr=101&topic=&kind=M",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Eidgenössisches Departement für auswärtige Angelegenheiten (EDA)",
+      "publication_website_uri": "https://www.eda.admin.ch",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://d-nsbc-p.admin.ch/NSBSubscriber/feeds/rss?lang=de&org-nr=201&topic=&kind=M",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Eidgenössisches Departement des Innern (EDI)",
+      "publication_website_uri": "https://www.edi.admin.ch",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://d-nsbc-p.admin.ch/NSBSubscriber/feeds/rss?lang=de&org-nr=301&topic=&kind=M",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Eidgenössisches Justiz- und Polizeidepartement (EJPD)",
+      "publication_website_uri": "https://www.ejpd.admin.ch",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://d-nsbc-p.admin.ch/NSBSubscriber/feeds/rss?lang=de&org-nr=401&topic=&kind=M",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS)",
+      "publication_website_uri": "https://www.vbs.admin.ch",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://d-nsbc-p.admin.ch/NSBSubscriber/feeds/rss?lang=de&org-nr=501&topic=&kind=M",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Eidgenössisches Finanzdepartement (EFD)",
+      "publication_website_uri": "https://www.efd.admin.ch",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://d-nsbc-p.admin.ch/NSBSubscriber/feeds/rss?lang=de&org-nr=601&topic=&kind=M",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung (WBF)",
+      "publication_website_uri": "https://www.wbf.admin.ch",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://d-nsbc-p.admin.ch/NSBSubscriber/feeds/rss?lang=de&org-nr=701&topic=&kind=M",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK)",
+      "publication_website_uri": "https://www.uvek.admin.ch",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://d-nsbc-p.admin.ch/NSBSubscriber/feeds/rss?lang=de&org-nr=801&topic=&kind=M",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bundesamt für Gesundheit (BAG)",
+      "publication_website_uri": "https://www.bag.admin.ch",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://d-nsbc-p.admin.ch/NSBSubscriber/feeds/rss?lang=de&org-nr=317&topic=&kind=M",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bundesamt für Statistik (BFS/OFS)",
+      "publication_website_uri": "https://www.bfs.admin.ch",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://d-nsbc-p.admin.ch/NSBSubscriber/feeds/rss?lang=de&org-nr=318&topic=&kind=M",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)",
+      "publication_website_uri": "https://www.edoeb.admin.ch",
+      "category": "Data Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://d-nsbc-p.admin.ch/NSBSubscriber/feeds/rss?lang=de&org-nr=107&topic=&kind=M",
+          "gated": false,
+          "category": "Data Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Eidgenössische Steuerverwaltung (ESTV)",
+      "publication_website_uri": "https://www.estv.admin.ch",
+      "category": "Tax Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://d-nsbc-p.admin.ch/NSBSubscriber/feeds/rss?lang=de&org-nr=605&topic=&kind=M",
+          "gated": false,
+          "category": "Tax Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Wettbewerbskommission (WEKO)",
+      "publication_website_uri": "https://www.weko.admin.ch",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://d-nsbc-p.admin.ch/NSBSubscriber/feeds/rss?lang=de&org-nr=710&topic=&kind=M",
+          "gated": false,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV)",
+      "publication_website_uri": "https://www.blv.admin.ch",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://d-nsbc-p.admin.ch/NSBSubscriber/feeds/rss?lang=de&org-nr=1079&topic=&kind=M",
+          "gated": false,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nationales Zentrum für Cybersicherheit (NCSC-CH)",
+      "publication_website_uri": "https://www.ncsc.admin.ch",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://d-nsbc-p.admin.ch/NSBSubscriber/feeds/rss?lang=de&org-nr=1101&topic=&kind=M",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Schweizerische Nationalbank (SNB)",
+      "publication_website_uri": "https://www.snb.ch",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.snb.ch/public/rss/en/news",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Eidgenössische Finanzmarktaufsicht (FINMA)",
+      "publication_website_uri": "https://www.finma.ch",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.finma.ch/en/rss/news/",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bundesamt für Polizei (fedpol)",
+      "publication_website_uri": "https://www.fedpol.admin.ch",
+      "category": "Police Reports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://d-nsbc-p.admin.ch/NSBSubscriber/feeds/rss?lang=de&org-nr=404&topic=&kind=M",
+          "gated": false,
+          "category": "Police Reports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kanton Bern",
+      "publication_website_uri": "https://www.be.ch",
+      "category": "Government News: Bern (Canton)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.api.news.apps.be.ch/api/atom/news?lang=de",
+          "gated": false,
+          "category": "Government News: Bern (Canton)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canton de Fribourg",
+      "publication_website_uri": "https://www.fr.ch",
+      "category": "Government News: Fribourg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fr.ch/toutes-les-actualites/rss.xml",
+          "gated": false,
+          "category": "Government News: Fribourg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kanton Basel-Stadt",
+      "publication_website_uri": "https://www.bs.ch",
+      "category": "Government News: Basel-Stadt",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bs.ch/rss",
+          "gated": false,
+          "category": "Government News: Basel-Stadt"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kanton Appenzell Innerrhoden",
+      "publication_website_uri": "https://www.ai.ch",
+      "category": "Government News: Appenzell Innerrhoden",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ai.ch/rss.xml",
+          "gated": false,
+          "category": "Government News: Appenzell Innerrhoden"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kanton St. Gallen",
+      "publication_website_uri": "https://www.sg.ch",
+      "category": "Government News: St. Gallen (Canton)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sg.ch/_jcr_content/NewsPar.RssFeed.qualident__item0.rdf",
+          "gated": false,
+          "category": "Government News: St. Gallen (Canton)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kanton Graubünden",
+      "publication_website_uri": "https://www.gr.ch",
+      "category": "Government News: Graubünden",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gr.ch/_layouts/wcag/feed.aspx?xsl=1&web=%2FDE%2FMedien%2FMitteilungen%2FMMStaka&page=173a8a42-10e4-4930-a306-4086e624d777&wp=2a3c3db7-5548-4331-a7b3-ad11c25d6a3a",
+          "gated": false,
+          "category": "Government News: Graubünden"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kanton Thurgau",
+      "publication_website_uri": "https://www.tg.ch",
+      "category": "Government News: Thurgau",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tg.ch/route/rss-rss-getRss/entitytype/80/lang/1/entitylist/10,11,12,13",
+          "gated": false,
+          "category": "Government News: Thurgau"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cantone Ticino",
+      "publication_website_uri": "https://www.ti.ch",
+      "category": "Government News: Ticino",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www3.ti.ch/xml/rss/rss-comunicazioniAreaMedia.xml",
+          "gated": false,
+          "category": "Government News: Ticino"
+        }
+      ]
+    },
+    {
+      "publication_name": "Canton de Vaud",
+      "publication_website_uri": "https://www.vd.ch",
+      "category": "Government News: Vaud",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vd.ch/actualites/flux.rss",
+          "gated": false,
+          "category": "Government News: Vaud"
+        }
+      ]
+    },
+    {
+      "publication_name": "République et Canton de Neuchâtel",
+      "publication_website_uri": "https://www.ne.ch",
+      "category": "Government News: Neuchâtel",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ne.ch/rss.xml",
+          "gated": false,
+          "category": "Government News: Neuchâtel"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kantonspolizei Bern",
+      "publication_website_uri": "https://www.police.be.ch",
+      "category": "Police Reports: Bern (Canton)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.blog.police.be.ch/feed/",
+          "gated": false,
+          "category": "Police Reports: Bern (Canton)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kantonspolizei Appenzell Innerrhoden",
+      "publication_website_uri": "https://www.ai.ch",
+      "category": "Police Reports: Appenzell Innerrhoden",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ai.ch/polizeimeldungen/news_listing_rss",
+          "gated": false,
+          "category": "Police Reports: Appenzell Innerrhoden"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kantonspolizei Graubünden",
+      "publication_website_uri": "https://www.gr.ch",
+      "category": "Police Reports: Graubünden",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gr.ch/_layouts/wcag/feed.aspx?name=/DE/institutionen/verwaltung/djsg/kapo/ueberuns/Kantonspolizei_Graubuenden/Kantonspolizei_Graubuenden",
+          "gated": false,
+          "category": "Police Reports: Graubünden"
+        }
+      ]
+    },
+    {
+      "publication_name": "Police cantonale de Genève",
+      "publication_website_uri": "https://www.ge.ch",
+      "category": "Police Reports: Genève",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ge.ch/rss/organisation/122",
+          "gated": false,
+          "category": "Police Reports: Genève"
+        }
+      ]
+    },
+    {
+      "publication_name": "Stadt Zürich",
+      "publication_website_uri": "https://www.stadt-zuerich.ch",
+      "category": "Government News: Zürich",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stadt-zuerich.ch/content/web/de/aktuell/medienmitteilungen/jcr:content/mainparsys/teaser.rss",
+          "gated": false,
+          "category": "Government News: Zürich"
+        }
+      ]
+    },
+    {
+      "publication_name": "Stadt Bern",
+      "publication_website_uri": "https://www.bern.ch",
+      "category": "Government News: Bern (City)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bern.ch/nachrichten/news_listing_rss",
+          "gated": false,
+          "category": "Government News: Bern (City)"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ville de Lausanne",
+      "publication_website_uri": "https://www.lausanne.ch",
+      "category": "Government News: Lausanne",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lausanne.ch/ressources/RSS/decisions_municipales.xml",
+          "gated": false,
+          "category": "Government News: Lausanne"
+        }
+      ]
+    },
+    {
+      "publication_name": "Stadt Winterthur",
+      "publication_website_uri": "https://stadt.winterthur.ch",
+      "category": "Government News: Winterthur",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://stadt.winterthur.ch/rss.xml",
+          "gated": false,
+          "category": "Government News: Winterthur"
+        }
+      ]
+    },
+    {
+      "publication_name": "Stadt Luzern",
+      "publication_website_uri": "https://www.stadtluzern.ch",
+      "category": "Government News: Luzern",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stadtluzern.ch/aktuelles/news.rss",
+          "gated": false,
+          "category": "Government News: Luzern"
+        }
+      ]
+    },
+    {
+      "publication_name": "Stadt St. Gallen",
+      "publication_website_uri": "https://www.stadt.sg.ch",
+      "category": "Government News: St. Gallen (City)",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stadt.sg.ch/home/_jcr_content/NewsPar.RssFeed.qualident__item0.rdf",
+          "gated": false,
+          "category": "Government News: St. Gallen (City)"
+        }
+      ]
     }
   ],
   "CHL": [
@@ -6142,6 +6598,54 @@
           "uri": "https://www.radiosantafe.com/feed",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Departamento Administrativo Nacional de Estadística (DANE)",
+      "publication_website_uri": "https://www.dane.gov.co",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dane.gov.co/index.php/actualidad-dane?format=feed&type=rss",
+          "gated": true,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cámara de Representantes de Colombia",
+      "publication_website_uri": "https://www.camara.gov.co",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.camara.gov.co/feed/",
+          "gated": true,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Alcaldía Mayor de Bogotá D.C.",
+      "publication_website_uri": "https://bogota.gov.co",
+      "category": "Government News: Bogotá D.C.",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bogota.gov.co/rss.xml",
+          "gated": true,
+          "category": "Government News: Bogotá D.C."
+        }
+      ]
+    },
+    {
+      "publication_name": "Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM)",
+      "publication_website_uri": "https://www.ideam.gov.co",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ideam.gov.co/rss.xml",
+          "gated": true,
+          "category": "Weather Service"
         }
       ]
     }
@@ -21264,6 +21768,318 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Government Offices of Iceland (Stjórnarráðið) - All Ministries",
+      "publication_website_uri": "https://www.stjornarradid.is",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stjornarradid.is/extensions/news/rss/Frettir-fra-ollum-raduneytum.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Prime Minister's Office (Forsætisráðuneytið)",
+      "publication_website_uri": "https://www.stjornarradid.is/raduneyti/forsaetisraduneytid/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stjornarradid.is/extensions/news/rss/Forsaetisraduneyti.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Justice (Dómsmálaráðuneytið)",
+      "publication_website_uri": "https://www.stjornarradid.is/raduneyti/domsmalaraduneytid/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stjornarradid.is/extensions/news/rss/Domsmalaraduneytid.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Social Affairs and Housing (Félags- og húsnæðismálaráðuneytið)",
+      "publication_website_uri": "https://www.stjornarradid.is/raduneyti/felags-og-vinnumarkadsraduneytid/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stjornarradid.is/extensions/news/rss/Felags-og-husnaedismalaraduneytid.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Finance and Economic Affairs (Fjármála- og efnahagsráðuneytið)",
+      "publication_website_uri": "https://www.stjornarradid.is/raduneyti/fjarmala-og-efnahagsraduneytid/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stjornarradid.is/extensions/news/rss/Fjarmala-og-efnahagsraduneytid.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Health (Heilbrigðisráðuneytið)",
+      "publication_website_uri": "https://www.stjornarradid.is/raduneyti/heilbrigdisraduneytid/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stjornarradid.is/extensions/news/rss/Heilbrigdisraduneytid.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Infrastructure (Innviðaráðuneytið)",
+      "publication_website_uri": "https://www.stjornarradid.is/raduneyti/innvidaraduneytid/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stjornarradid.is/extensions/news/rss/Innvidaraduneytid.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Culture, Business and Innovation (Menningar-, nýsköpunar- og háskólaráðuneytið)",
+      "publication_website_uri": "https://www.stjornarradid.is/raduneyti/menningar-og-vidskiptaraduneytid/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stjornarradid.is/extensions/news/rss/Menningar-nyskopunar-og-haskolaraduneytid.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Education and Children (Mennta- og barnamálaráðuneytið)",
+      "publication_website_uri": "https://www.stjornarradid.is/raduneyti/menntamalaraduneytid/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stjornarradid.is/extensions/news/rss/Mennta-og-barnamalaraduneytid.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Environment, Energy and Climate (Umhverfis-, orku- og loftslagsráðuneytið)",
+      "publication_website_uri": "https://www.stjornarradid.is/raduneyti/umhverfisraduneytid/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stjornarradid.is/extensions/news/rss/Umhverfis-orku-og-loftslagsraduneytid.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry for Foreign Affairs (Utanríkisráðuneytið)",
+      "publication_website_uri": "https://www.stjornarradid.is/raduneyti/utanrikisraduneytid/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stjornarradid.is/extensions/news/rss/Utanrikisraduneytid.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Industries and Innovation (Atvinnuvegaráðuneytið)",
+      "publication_website_uri": "https://www.stjornarradid.is/raduneyti/atvinnuvegaraduneytid/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stjornarradid.is/extensions/news/rss/Atvinnuvegaraduneytid.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Government of Iceland - Cabinet Meeting Agenda (Dagskrá ríkisstjórnarfunda)",
+      "publication_website_uri": "https://www.stjornarradid.is",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stjornarradid.is/extensions/news/rss/Dagskra-rikisstjornarfunda.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Government of Iceland - Grindavík Volcanic Response Updates",
+      "publication_website_uri": "https://www.stjornarradid.is",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stjornarradid.is/extensions/news/rss/Grindavik.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Statistics Iceland (Hagstofa Íslands)",
+      "publication_website_uri": "https://www.hagstofa.is",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.hagstofa.is/rss/allt/",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Central Bank of Iceland (Seðlabanki Íslands)",
+      "publication_website_uri": "https://www.sedlabanki.is",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sedlabanki.is/api/documents/views/greinasafn-si/RSS/Frettatilkynningar",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Directorate of Health (Embætti landlæknis)",
+      "publication_website_uri": "https://www.landlaeknir.is",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.landlaeknir.is/rss.xml",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Icelandic Meteorological Office (Veðurstofa Íslands)",
+      "publication_website_uri": "https://www.vedur.is",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vedur.is/eldfjoll/eldgos-a-reykjanesi/frettir-og-vidvaranir/rss.xml",
+          "gated": false,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Department of Civil Protection and Emergency Management (Almannavarnir)",
+      "publication_website_uri": "https://www.almannavarnir.is",
+      "category": "Civil Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.almannavarnir.is/feed/",
+          "gated": false,
+          "category": "Civil Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Icelandic Food and Veterinary Authority (MAST)",
+      "publication_website_uri": "https://www.mast.is",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mast.is/feed",
+          "gated": false,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Icelandic Competition Authority (Samkeppniseftirlitið)",
+      "publication_website_uri": "https://www.samkeppni.is",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.samkeppni.is/rss",
+          "gated": false,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Alþingi (Icelandic Parliament)",
+      "publication_website_uri": "https://www.althingi.is",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.althingi.is/rss.xml",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Reykjavík (Reykjavíkurborg)",
+      "publication_website_uri": "https://www.reykjavik.is",
+      "category": "Government News: Reykjavík",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.reykjavik.is/rss.xml",
+          "gated": false,
+          "category": "Government News: Reykjavík"
+        }
+      ]
+    },
+    {
+      "publication_name": "Hafnarfjörður (Hafnarfjarðarkaupstaður)",
+      "publication_website_uri": "https://hafnarfjordur.is",
+      "category": "Government News: Hafnarfjörður",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://hafnarfjordur.is/feed/",
+          "gated": false,
+          "category": "Government News: Hafnarfjörður"
+        }
+      ]
+    },
+    {
+      "publication_name": "Akureyri (Akureyrarbær)",
+      "publication_website_uri": "https://www.akureyri.is",
+      "category": "Government News: Akureyri",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.akureyri.is/feed",
+          "gated": false,
+          "category": "Government News: Akureyri"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lögreglan (Icelandic Police)",
+      "publication_website_uri": "https://www.logreglan.is",
+      "category": "Police Reports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.logreglan.is/feed",
+          "gated": false,
+          "category": "Police Reports"
+        }
+      ]
     }
   ],
   "ISR": [
@@ -26425,6 +27241,91 @@
           "category": "Regional News: Mexico State"
         }
       ]
+    },
+    {
+      "publication_name": "Instituto Nacional Electoral (INE)",
+      "publication_website_uri": "https://www.ine.mx",
+      "category": "Elections Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ine.mx/feed/",
+          "gated": true,
+          "category": "Elections Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Banco de México (Banxico)",
+      "publication_website_uri": "https://www.banxico.org.mx",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.banxico.org.mx/rsscb/rss?BMXC_canal=fix&BMXC_idioma=es",
+          "gated": false,
+          "category": "Financial Regulator"
+        },
+        {
+          "uri": "https://www.banxico.org.mx/rsscb/rss?BMXC_canal=tasObj&BMXC_idioma=es",
+          "gated": false,
+          "category": "Financial Regulator"
+        },
+        {
+          "uri": "https://www.banxico.org.mx/rsscb/rss?BMXC_canal=remesa&BMXC_idioma=es",
+          "gated": false,
+          "category": "Financial Regulator"
+        },
+        {
+          "uri": "https://www.banxico.org.mx/rsscb/rss?BMXC_canal=reserv&BMXC_idioma=es",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Instituto Nacional de Estadística y Geografía (INEGI)",
+      "publication_website_uri": "https://www.inegi.org.mx",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=",
+          "gated": false,
+          "category": "Official Statistics"
+        },
+        {
+          "uri": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,1",
+          "gated": false,
+          "category": "Official Statistics"
+        },
+        {
+          "uri": "https://www.inegi.org.mx/rss/noticias/xmlfeeds?p=2,3",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gobierno del Estado de Sinaloa",
+      "publication_website_uri": "https://sinaloa.gob.mx",
+      "category": "Government News: Sinaloa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sinaloa.gob.mx/feed/",
+          "gated": true,
+          "category": "Government News: Sinaloa"
+        }
+      ]
+    },
+    {
+      "publication_name": "Gobierno del Estado de Baja California Sur",
+      "publication_website_uri": "https://www.bcs.gob.mx",
+      "category": "Government News: Baja California Sur",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bcs.gob.mx/feed/",
+          "gated": true,
+          "category": "Government News: Baja California Sur"
+        }
+      ]
     }
   ],
   "MKD": [
@@ -30297,6 +31198,299 @@
           "category": "Regional News: South Coast"
         }
       ]
+    },
+    {
+      "publication_name": "The Government of Norway (Regjeringen.no)",
+      "publication_website_uri": "https://www.regjeringen.no",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.regjeringen.no/en/rss/Rss/2581966/",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Statistics Norway (SSB)",
+      "publication_website_uri": "https://www.ssb.no",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ssb.no/rss/",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Norges Bank (Central Bank of Norway)",
+      "publication_website_uri": "https://www.norges-bank.no",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.norges-bank.no/RSS/Pressemeldinger---Norges-Bank/",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Finanstilsynet (Financial Supervisory Authority of Norway)",
+      "publication_website_uri": "https://www.finanstilsynet.no",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.finanstilsynet.no/rss/nyheter/",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Norwegian Institute of Public Health (FHI)",
+      "publication_website_uri": "https://www.fhi.no",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fhi.no/rss/nyheter/",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Norwegian National Security Authority (NSM)",
+      "publication_website_uri": "https://nsm.no",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nsm.no/rss/nyheter-fra-nsm/",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        },
+        {
+          "uri": "https://nsm.no/rss/sarbarhetsvarsler-fra-nsm/",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Norwegian Directorate for Civil Protection (DSB)",
+      "publication_website_uri": "https://www.dsb.no",
+      "category": "Civil Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dsb.no/rss/rss-dsb---aktuelt/",
+          "gated": false,
+          "category": "Civil Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Norwegian Food Safety Authority (Mattilsynet)",
+      "publication_website_uri": "https://www.mattilsynet.no",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mattilsynet.no/rss/subscription",
+          "gated": false,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Norwegian Competition Authority (Konkurransetilsynet)",
+      "publication_website_uri": "https://konkurransetilsynet.no",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://konkurransetilsynet.no/rss/",
+          "gated": false,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Norwegian Tax Administration (Skatteetaten)",
+      "publication_website_uri": "https://www.skatteetaten.no",
+      "category": "Tax Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.skatteetaten.no/en/rss/presse/pressemeldinger/",
+          "gated": false,
+          "category": "Tax Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Storting (Norwegian Parliament)",
+      "publication_website_uri": "https://www.stortinget.no",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stortinget.no/no/Stottemeny/RSS/Aktuelt-saker/",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Governor of Svalbard (Sysselmesteren)",
+      "publication_website_uri": "https://www.sysselmesteren.no",
+      "category": "Government News: Svalbard",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sysselmesteren.no/nb/nyheter/rss",
+          "gated": false,
+          "category": "Government News: Svalbard"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politiet (Norwegian Police) - National",
+      "publication_website_uri": "https://www.politiet.no",
+      "category": "Police Reports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.politiet.no/api/rss/nyheter",
+          "gated": false,
+          "category": "Police Reports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politiet Agder (Police District)",
+      "publication_website_uri": "https://www.politiet.no",
+      "category": "Police Reports: Agder",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.politiet.no/api/rss/nyheter?distrikt=agder",
+          "gated": false,
+          "category": "Police Reports: Agder"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politiet Finnmark (Police District)",
+      "publication_website_uri": "https://www.politiet.no",
+      "category": "Police Reports: Finnmark",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.politiet.no/api/rss/nyheter?distrikt=finnmark",
+          "gated": false,
+          "category": "Police Reports: Finnmark"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politiet Innlandet (Police District)",
+      "publication_website_uri": "https://www.politiet.no",
+      "category": "Police Reports: Innlandet",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.politiet.no/api/rss/nyheter?distrikt=innlandet",
+          "gated": false,
+          "category": "Police Reports: Innlandet"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politiet Møre og Romsdal (Police District)",
+      "publication_website_uri": "https://www.politiet.no",
+      "category": "Police Reports: Møre og Romsdal",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.politiet.no/api/rss/nyheter?distrikt=more-og-romsdal",
+          "gated": false,
+          "category": "Police Reports: Møre og Romsdal"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politiet Nordland (Police District)",
+      "publication_website_uri": "https://www.politiet.no",
+      "category": "Police Reports: Nordland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.politiet.no/api/rss/nyheter?distrikt=nordland",
+          "gated": false,
+          "category": "Police Reports: Nordland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politiet Oslo (Police District)",
+      "publication_website_uri": "https://www.politiet.no",
+      "category": "Police Reports: Oslo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.politiet.no/api/rss/nyheter?distrikt=oslo",
+          "gated": false,
+          "category": "Police Reports: Oslo"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politiet Øst (Police District)",
+      "publication_website_uri": "https://www.politiet.no",
+      "category": "Police Reports: Øst",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.politiet.no/api/rss/nyheter?distrikt=ost",
+          "gated": false,
+          "category": "Police Reports: Øst"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politiet Sør-Øst (Police District)",
+      "publication_website_uri": "https://www.politiet.no",
+      "category": "Police Reports: Sør-Øst",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.politiet.no/api/rss/nyheter?distrikt=sor-ost",
+          "gated": false,
+          "category": "Police Reports: Sør-Øst"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politiet Troms (Police District)",
+      "publication_website_uri": "https://www.politiet.no",
+      "category": "Police Reports: Troms",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.politiet.no/api/rss/nyheter?distrikt=troms",
+          "gated": false,
+          "category": "Police Reports: Troms"
+        }
+      ]
+    },
+    {
+      "publication_name": "Politiet Trøndelag (Police District)",
+      "publication_website_uri": "https://www.politiet.no",
+      "category": "Police Reports: Trøndelag",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.politiet.no/api/rss/nyheter?distrikt=trondelag",
+          "gated": false,
+          "category": "Police Reports: Trøndelag"
+        }
+      ]
+    },
+    {
+      "publication_name": "Oslo kommune (City of Oslo)",
+      "publication_website_uri": "https://www.oslo.kommune.no",
+      "category": "Government News: Oslo",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://aktuelt.oslo.kommune.no/rss",
+          "gated": false,
+          "category": "Government News: Oslo"
+        }
+      ]
     }
   ],
   "NPL": [
@@ -31522,6 +32716,30 @@
           "uri": "https://ojo.pe/arcio/rss/",
           "gated": true,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipalidad Provincial de Arequipa",
+      "publication_website_uri": "https://www.muniarequipa.gob.pe",
+      "category": "Government News: Arequipa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.muniarequipa.gob.pe/feed/",
+          "gated": false,
+          "category": "Government News: Arequipa"
+        }
+      ]
+    },
+    {
+      "publication_name": "Municipalidad Distrital de Miraflores (Lima)",
+      "publication_website_uri": "https://www.miraflores.gob.pe",
+      "category": "Government News: Miraflores",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.miraflores.gob.pe/feed/",
+          "gated": false,
+          "category": "Government News: Miraflores"
         }
       ]
     }
