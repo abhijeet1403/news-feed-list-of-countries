@@ -38553,6 +38553,150 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Government of the Republic of Serbia (Влада Републике Србије)",
+      "publication_website_uri": "https://www.srbija.gov.rs",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.srbija.gov.rs/rss/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Foreign Affairs (Министарство спољних послова)",
+      "publication_website_uri": "https://www.mfa.gov.rs",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mfa.gov.rs/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Defence (Министарство одбране)",
+      "publication_website_uri": "https://www.mod.gov.rs",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mod.gov.rs/rss.php?cir",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Agriculture, Forestry and Water Management (Министарство пољопривреде, шумарства и водопривреде)",
+      "publication_website_uri": "https://minpolj.gov.rs",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://minpolj.gov.rs/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Public Administration and Local Self-Government (Министарство државне управе и локалне самоуправе)",
+      "publication_website_uri": "https://mduls.gov.rs",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mduls.gov.rs/feed/",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Assembly of the Republic of Serbia (Народна скупштина)",
+      "publication_website_uri": "https://www.parlament.gov.rs",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.parlament.gov.rs/активности/rss.271.html",
+          "gated": true,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Republic Election Commission (Републичка изборна комисија)",
+      "publication_website_uri": "http://rik.parlament.gov.rs",
+      "category": "Elections Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "http://rik.parlament.gov.rs/rss/?change_lang=cr",
+          "gated": true,
+          "category": "Elections Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tax Administration (Пореска управа)",
+      "publication_website_uri": "https://www.purs.gov.rs",
+      "category": "Tax Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.purs.gov.rs/odnosi-s-javnoscu/novosti/rss.html",
+          "gated": true,
+          "category": "Tax Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Commissioner for Information of Public Importance and Personal Data Protection (Повереник за информације од јавног значаја и заштиту података о личности)",
+      "publication_website_uri": "https://www.poverenik.rs",
+      "category": "Data Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.poverenik.rs/rss/?change_lang=cr",
+          "gated": false,
+          "category": "Data Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Commission for Protection of Competition (Комисија за заштиту конкуренције)",
+      "publication_website_uri": "https://www.kzk.gov.rs",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kzk.gov.rs/rss/?change_lang=cr",
+          "gated": true,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Niš (Град Ниш)",
+      "publication_website_uri": "https://www.ni.rs",
+      "category": "Government News: Niš",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ni.rs/feed/",
+          "gated": false,
+          "category": "Government News: Niš"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Kragujevac (Град Крагујевац)",
+      "publication_website_uri": "https://kragujevac.ls.gov.rs",
+      "category": "Government News: Kragujevac",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kragujevac.ls.gov.rs/rss/?change_lang=cr",
+          "gated": true,
+          "category": "Government News: Kragujevac"
+        }
+      ]
     }
   ],
   "SUR": [
@@ -40736,6 +40880,66 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Ministry of Foreign Affairs (Dışişleri Bakanlığı)",
+      "publication_website_uri": "https://www.mfa.gov.tr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mfa.gov.tr/tr.rss.mfa?978045a8-225a-487d-8fd8-8d371874e8ec",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Culture and Tourism (Kültür ve Turizm Bakanlığı)",
+      "publication_website_uri": "https://www.ktb.gov.tr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ktb.gov.tr/rss?Tip=2&Anah=1",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of National Education (Millî Eğitim Bakanlığı)",
+      "publication_website_uri": "https://www.meb.gov.tr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://basinmus.meb.gov.tr/meb_iys_dosyalar/xml/rss_duyurular.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Environment, Urbanization and Climate Change (Çevre, Şehircilik ve İklim Değişikliği Bakanlığı)",
+      "publication_website_uri": "https://www.csb.gov.tr",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.csb.gov.tr/rss?Tip=2&Anah=1",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "İzmir Metropolitan Municipality (İzmir Büyükşehir Belediyesi)",
+      "publication_website_uri": "https://www.izmir.bel.tr",
+      "category": "Government News: İzmir",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.izmir.bel.tr/tr/Rss/Haberler",
+          "gated": false,
+          "category": "Government News: İzmir"
+        }
+      ]
     }
   ],
   "UGA": [
@@ -41332,6 +41536,78 @@
           "uri": "https://kyiv.news/rss",
           "gated": false,
           "category": "Regional News: Kyiv"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cabinet of Ministers of Ukraine (Кабінет Міністрів України)",
+      "publication_website_uri": "https://www.kmu.gov.ua",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kmu.gov.ua/api/rss",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Energy of Ukraine (Міністерство енергетики України)",
+      "publication_website_uri": "https://mev.gov.ua",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mev.gov.ua/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Verkhovna Rada of Ukraine (Верховна Рада України)",
+      "publication_website_uri": "https://www.rada.gov.ua",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rada.gov.ua/rss/news",
+          "gated": true,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Kyiv Oblast Military Administration (Київська обласна військова адміністрація)",
+      "publication_website_uri": "https://koda.gov.ua",
+      "category": "Government News: Kyiv Oblast",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://koda.gov.ua/feed/",
+          "gated": true,
+          "category": "Government News: Kyiv Oblast"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vinnytsia Oblast Military Administration (Вінницька обласна військова адміністрація)",
+      "publication_website_uri": "https://vin.gov.ua",
+      "category": "Government News: Vinnytsia Oblast",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://vin.gov.ua/?format=feed&type=rss",
+          "gated": true,
+          "category": "Government News: Vinnytsia Oblast"
+        }
+      ]
+    },
+    {
+      "publication_name": "Khmelnytskyi Oblast Military Administration (Хмельницька обласна військова адміністрація)",
+      "publication_website_uri": "https://www.adm-km.gov.ua",
+      "category": "Government News: Khmelnytskyi Oblast",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.adm-km.gov.ua/?feed=rss2",
+          "gated": true,
+          "category": "Government News: Khmelnytskyi Oblast"
         }
       ]
     }
