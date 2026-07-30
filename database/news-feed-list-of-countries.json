@@ -1004,6 +1004,234 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Bundesministerium für Land- und Forstwirtschaft, Klima- und Umweltschutz, Regionen und Wasserwirtschaft (BML)",
+      "publication_website_uri": "https://www.bml.gv.at",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bml.gv.at/service/presse.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bundesministerium für Inneres (BMI)",
+      "publication_website_uri": "https://www.bmi.gv.at",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bmi.gv.at/rss/bmi_presse.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bundesamt zur Korruptionsprävention und Korruptionsbekämpfung (BAK)",
+      "publication_website_uri": "https://www.bak.gv.at",
+      "category": "Anti-Corruption Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bmi.gv.at/rss/bak_presse.xml",
+          "gated": false,
+          "category": "Anti-Corruption Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bundeskriminalamt (Austrian Federal Criminal Police Office)",
+      "publication_website_uri": "https://www.bundeskriminalamt.at",
+      "category": "Police Reports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bmi.gv.at/rss/bk_presse.xml",
+          "gated": false,
+          "category": "Police Reports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Landespolizeidirektion Burgenland",
+      "publication_website_uri": "https://www.polizei.gv.at/bgld",
+      "category": "Police Reports: Burgenland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bmi.gv.at/rss/bgld_presse.xml",
+          "gated": false,
+          "category": "Police Reports: Burgenland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Landespolizeidirektion Kärnten",
+      "publication_website_uri": "https://www.polizei.gv.at/ktn",
+      "category": "Police Reports: Kärnten",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bmi.gv.at/rss/ktn_presse.xml",
+          "gated": false,
+          "category": "Police Reports: Kärnten"
+        }
+      ]
+    },
+    {
+      "publication_name": "Landespolizeidirektion Niederösterreich",
+      "publication_website_uri": "https://www.polizei.gv.at/noe",
+      "category": "Police Reports: Niederösterreich",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bmi.gv.at/rss/noe_presse.xml",
+          "gated": false,
+          "category": "Police Reports: Niederösterreich"
+        }
+      ]
+    },
+    {
+      "publication_name": "Landespolizeidirektion Oberösterreich",
+      "publication_website_uri": "https://www.polizei.gv.at/ooe",
+      "category": "Police Reports: Oberösterreich",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bmi.gv.at/rss/ooe_presse.xml",
+          "gated": false,
+          "category": "Police Reports: Oberösterreich"
+        }
+      ]
+    },
+    {
+      "publication_name": "Landespolizeidirektion Salzburg",
+      "publication_website_uri": "https://www.polizei.gv.at/sbg",
+      "category": "Police Reports: Salzburg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bmi.gv.at/rss/sbg_presse.xml",
+          "gated": false,
+          "category": "Police Reports: Salzburg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Landespolizeidirektion Steiermark",
+      "publication_website_uri": "https://www.polizei.gv.at/stmk",
+      "category": "Police Reports: Steiermark",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bmi.gv.at/rss/stmk_presse.xml",
+          "gated": false,
+          "category": "Police Reports: Steiermark"
+        }
+      ]
+    },
+    {
+      "publication_name": "Landespolizeidirektion Tirol",
+      "publication_website_uri": "https://www.polizei.gv.at/tirol",
+      "category": "Police Reports: Tirol",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bmi.gv.at/rss/tirol_presse.xml",
+          "gated": false,
+          "category": "Police Reports: Tirol"
+        }
+      ]
+    },
+    {
+      "publication_name": "Landespolizeidirektion Vorarlberg",
+      "publication_website_uri": "https://www.polizei.gv.at/vbg",
+      "category": "Police Reports: Vorarlberg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bmi.gv.at/rss/vbg_presse.xml",
+          "gated": false,
+          "category": "Police Reports: Vorarlberg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Landespolizeidirektion Wien",
+      "publication_website_uri": "https://www.polizei.gv.at/wien",
+      "category": "Police Reports: Wien",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bmi.gv.at/rss/wien_presse.xml",
+          "gated": false,
+          "category": "Police Reports: Wien"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bundesministerium für Landesverteidigung (BMLV / Bundesheer)",
+      "publication_website_uri": "https://www.bmlv.gv.at",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bmlv.gv.at/misc/rss.php?topic=topnews",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "CERT.at (Austrian Computer Emergency Response Team)",
+      "publication_website_uri": "https://www.cert.at",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cert.at/cert-at.de.warnings.rss_2.0.xml",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Finanzmarktaufsicht (FMA)",
+      "publication_website_uri": "https://www.fma.gv.at",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fma.gv.at/feed/",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Land Tirol",
+      "publication_website_uri": "https://www.tirol.gv.at",
+      "category": "Government News: Tirol",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tirol.gv.at/rss/meldungen/",
+          "gated": false,
+          "category": "Government News: Tirol"
+        }
+      ]
+    },
+    {
+      "publication_name": "Stadt Wien (Rathauskorrespondenz / Presse-Service)",
+      "publication_website_uri": "https://www.wien.gv.at",
+      "category": "Government News: Wien",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://presse.wien.gv.at/web/presse/rss/-/asset_publisher/jH1vdQZIY6C9/rss?feedType=RKSuche&keyword=Suchbegriff(e)&meldungen=1&bilder=1&notInit=false",
+          "gated": false,
+          "category": "Government News: Wien"
+        }
+      ]
+    },
+    {
+      "publication_name": "Graz",
+      "publication_website_uri": "https://www.graz.at",
+      "category": "Government News: Graz",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.graz.at/rss/",
+          "gated": false,
+          "category": "Government News: Graz"
+        }
+      ]
     }
   ],
   "AZE": [
@@ -1359,6 +1587,170 @@
           "uri": "https://www.knack.be/feed/",
           "gated": false,
           "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sciensano",
+      "publication_website_uri": "https://www.sciensano.be",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sciensano.be/rss.xml",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Service public de Wallonie (SPW)",
+      "publication_website_uri": "https://www.wallonie.be",
+      "category": "Government News: Wallonie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://wallonie.be/actualites/rss",
+          "gated": false,
+          "category": "Government News: Wallonie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Liège",
+      "publication_website_uri": "https://www.liege.be",
+      "category": "Government News: Liège",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://liege.be/rss.xml",
+          "gated": false,
+          "category": "Government News: Liège"
+        }
+      ]
+    },
+    {
+      "publication_name": "Namur",
+      "publication_website_uri": "https://www.namur.be",
+      "category": "Government News: Namur",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://namur.be/rss.xml",
+          "gated": false,
+          "category": "Government News: Namur"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ville de Bruxelles (City of Brussels)",
+      "publication_website_uri": "https://www.bruxelles.be",
+      "category": "Government News: Bruxelles",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bruxelles.be/rss.xml",
+          "gated": false,
+          "category": "Government News: Bruxelles"
+        }
+      ]
+    },
+    {
+      "publication_name": "Stad Antwerpen (City of Antwerp)",
+      "publication_website_uri": "https://www.antwerpen.be",
+      "category": "Government News: Antwerpen",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pers.antwerpen.be/feed",
+          "gated": false,
+          "category": "Government News: Antwerpen"
+        }
+      ]
+    },
+    {
+      "publication_name": "Stad Gent (City of Ghent)",
+      "publication_website_uri": "https://stad.gent",
+      "category": "Government News: Gent",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://persruimte.stad.gent/nl/press_releases.atom",
+          "gated": false,
+          "category": "Government News: Gent"
+        }
+      ]
+    },
+    {
+      "publication_name": "FOD Buitenlandse Zaken (SPF Affaires étrangères / FPS Foreign Affairs)",
+      "publication_website_uri": "https://diplomatie.belgium.be",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://diplomatie.belgium.be/nl/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://diplomatie.belgium.be/fr/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://diplomatie.belgium.be/en/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "FOD Beleid en Ondersteuning (BOSA / SPF Stratégie et Appui)",
+      "publication_website_uri": "https://bosa.belgium.be",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bosa.belgium.be/nl/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://bosa.belgium.be/fr/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        },
+        {
+          "uri": "https://bosa.belgium.be/en/rss.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Financial Services and Markets Authority (FSMA)",
+      "publication_website_uri": "https://www.fsma.be",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fsma.be/en/news-articles/rss.xml",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Parlement de Wallonie",
+      "publication_website_uri": "https://www.parlement-wallonie.be",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.parlement-wallonie.be/feed",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Federaal Agentschap voor de Veiligheid van de Voedselketen (FAVV/AFSCA)",
+      "publication_website_uri": "https://favv-afsca.be",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://favv-afsca.be/nl/taxonomy/term/57/feed",
+          "gated": false,
+          "category": "Food Safety Authority"
         }
       ]
     }
@@ -5442,6 +5834,270 @@
           "category": "Regional News: Olomouc"
         }
       ]
+    },
+    {
+      "publication_name": "Office of the Government of the Czech Republic (Úřad vlády ČR)",
+      "publication_website_uri": "https://www.vlada.gov.cz/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vlada.cz/cs/urad/RSS/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Finance (Ministerstvo financí ČR)",
+      "publication_website_uri": "https://mf.gov.cz/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mf.gov.cz/cs/rss/tiskove-zpravy-rss",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Industry and Trade (Ministerstvo průmyslu a obchodu)",
+      "publication_website_uri": "https://mpo.gov.cz/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mpo.gov.cz/cz/rozcestnik.rss",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of the Environment (Ministerstvo životního prostředí)",
+      "publication_website_uri": "https://mzp.gov.cz/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mzp.gov.cz/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Labour and Social Affairs (Ministerstvo práce a sociálních věcí)",
+      "publication_website_uri": "https://mpsv.gov.cz/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mpsv.gov.cz/feed/tiskove-zpravy",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Health (Ministerstvo zdravotnictví)",
+      "publication_website_uri": "https://mzd.gov.cz/",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mzd.gov.cz/feed/",
+          "gated": true,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Education, Youth and Sports (Ministerstvo školství, mládeže a tělovýchovy)",
+      "publication_website_uri": "https://msmt.gov.cz/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://msmt.gov.cz/rss/cs",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office for Personal Data Protection (Úřad pro ochranu osobních údajů)",
+      "publication_website_uri": "https://uoou.gov.cz/",
+      "category": "Data Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://uoou.gov.cz/feed/cs-rss.xml",
+          "gated": true,
+          "category": "Data Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Cyber and Information Security Agency (NÚKIB)",
+      "publication_website_uri": "https://nukib.gov.cz/",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://portal.nukib.gov.cz/rss.xml",
+          "gated": true,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Czech National Bank (Česká národní banka)",
+      "publication_website_uri": "https://www.cnb.cz/",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cnb.cz/cs/.content/rss-feed/rss-feed_tz.rss",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Czech Statistical Office (Český statistický úřad)",
+      "publication_website_uri": "https://csu.gov.cz/",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://csu.gov.cz/rss/aktuality?webKod=statistika,produkty,rychle-informace&jazyk=CS",
+          "gated": true,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Financial Administration of the Czech Republic (Finanční správa ČR)",
+      "publication_website_uri": "https://financnisprava.gov.cz/",
+      "category": "Tax Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://financnisprava.gov.cz/cs/rss/rss-tiskove-zpravy",
+          "gated": true,
+          "category": "Tax Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "State Institute for Drug Control (Státní ústav pro kontrolu léčiv, SÚKL)",
+      "publication_website_uri": "https://sukl.gov.cz/",
+      "category": "Medicines Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sukl.gov.cz/feed/",
+          "gated": true,
+          "category": "Medicines Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Czech Agriculture and Food Inspection Authority (Státní zemědělská a potravinářská inspekce, SZPI)",
+      "publication_website_uri": "https://www.szpi.gov.cz/",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.szpi.gov.cz/rss.aspx?nid=11313",
+          "gated": true,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Senate of the Parliament of the Czech Republic (Senát PČR)",
+      "publication_website_uri": "https://www.senat.cz/",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.senat.cz/zpravodajstvi/zpravy_rss.php",
+          "gated": false,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Central Bohemian Region (Středočeský kraj)",
+      "publication_website_uri": "https://www.stredoceskykraj.cz/",
+      "category": "Government News: Středočeský kraj",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.stredoceskykraj.cz/web/urad/stredocesky-kraj/-/asset_publisher/ykru/rss",
+          "gated": false,
+          "category": "Government News: Středočeský kraj"
+        }
+      ]
+    },
+    {
+      "publication_name": "South Bohemian Region (Jihočeský kraj)",
+      "publication_website_uri": "https://www.kraj-jihocesky.cz/",
+      "category": "Government News: Jihočeský kraj",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kraj-jihocesky.cz/rss.xml",
+          "gated": false,
+          "category": "Government News: Jihočeský kraj"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ústí nad Labem Region (Ústecký kraj)",
+      "publication_website_uri": "https://www.kr-ustecky.cz/",
+      "category": "Government News: Ústecký kraj",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kr-ustecky.cz/rss/",
+          "gated": false,
+          "category": "Government News: Ústecký kraj"
+        }
+      ]
+    },
+    {
+      "publication_name": "Vysočina Region (Kraj Vysočina)",
+      "publication_website_uri": "https://www.kr-vysocina.cz/",
+      "category": "Government News: Kraj Vysočina",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kr-vysocina.cz/rss/?5",
+          "gated": false,
+          "category": "Government News: Kraj Vysočina"
+        }
+      ]
+    },
+    {
+      "publication_name": "Zlín Region (Zlínský kraj)",
+      "publication_website_uri": "https://www.zlinskykraj.cz/",
+      "category": "Government News: Zlínský kraj",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://zlinskykraj.cz/api/rss",
+          "gated": false,
+          "category": "Government News: Zlínský kraj"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Plzeň (Statutární město Plzeň)",
+      "publication_website_uri": "https://plzen-mesto.cz/",
+      "category": "Government News: Plzeň",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://plzen-mesto.cz/rss/o-meste/aktuality/aktuality-z-mesta/",
+          "gated": false,
+          "category": "Government News: Plzeň"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Liberec (Statutární město Liberec)",
+      "publication_website_uri": "https://www.liberec.cz/",
+      "category": "Government News: Liberec",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.liberec.cz/rss/aktuality.atom",
+          "gated": false,
+          "category": "Government News: Liberec"
+        }
+      ]
     }
   ],
   "DEU": [
@@ -6461,6 +7117,54 @@
           "uri": "https://tv2bornholm.dk/rss",
           "gated": false,
           "category": "Regional News: Bornholm"
+        }
+      ]
+    },
+    {
+      "publication_name": "Statens Serum Institut (SSI)",
+      "publication_website_uri": "https://www.ssi.dk",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ssi.dk/nyheder/rss/",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Lægemiddelstyrelsen (Danish Medicines Agency)",
+      "publication_website_uri": "https://laegemiddelstyrelsen.dk",
+      "category": "Medicines Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://laegemiddelstyrelsen.dk/da/Feeds/rss-feed/",
+          "gated": false,
+          "category": "Medicines Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Styrelsen for Samfundssikkerhed (formerly CFCS / Center for Cybersikkerhed)",
+      "publication_website_uri": "https://samsik.dk",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://samsik.dk/feed/",
+          "gated": true,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Odense Kommune",
+      "publication_website_uri": "https://www.odense.dk",
+      "category": "Government News: Odense",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.odense.dk/feed.aspx",
+          "gated": false,
+          "category": "Government News: Odense"
         }
       ]
     }
@@ -21888,6 +22592,376 @@
           "category": "Business"
         }
       ]
+    },
+    {
+      "publication_name": "Le gouvernement luxembourgeois (Government Portal)",
+      "publication_website_uri": "https://gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gouvernement.lu/fr/actualites/toutes_actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de la Digitalisation",
+      "publication_website_uri": "https://digital.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://digital.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de la Santé et de la Sécurité sociale",
+      "publication_website_uri": "https://m3s.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://m3s.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de l'Agriculture, de l'Alimentation et de la Viticulture",
+      "publication_website_uri": "https://ma.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ma.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère des Affaires étrangères et européennes, de la Défense, de la Coopération et du Commerce extérieur",
+      "publication_website_uri": "https://maee.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://maee.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de la Culture",
+      "publication_website_uri": "https://mc.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mc.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère d'État",
+      "publication_website_uri": "https://me.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://me.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de l'Environnement, du Climat et de la Biodiversité",
+      "publication_website_uri": "https://mecdd.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mecdd.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de l'Économie",
+      "publication_website_uri": "https://meco.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://meco.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de l'Égalité des genres et de la Diversité",
+      "publication_website_uri": "https://mega.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mega.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse",
+      "publication_website_uri": "https://menej.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://menej.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de la Recherche et de l'Enseignement supérieur",
+      "publication_website_uri": "https://mesr.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mesr.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil",
+      "publication_website_uri": "https://mfamigr.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mfamigr.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère des Finances",
+      "publication_website_uri": "https://mfin.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mfin.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de la Fonction publique",
+      "publication_website_uri": "https://mfp.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mfp.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère des Affaires intérieures",
+      "publication_website_uri": "https://mint.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mint.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de la Justice",
+      "publication_website_uri": "https://mjust.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mjust.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère du Logement et de l'Aménagement du territoire",
+      "publication_website_uri": "https://mlog.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mlog.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère de la Mobilité et des Travaux publics",
+      "publication_website_uri": "https://mmtp.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mmtp.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère des Sports",
+      "publication_website_uri": "https://msp.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://msp.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministère du Travail, de l'Emploi et de l'Économie sociale et solidaire",
+      "publication_website_uri": "https://mteess.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mteess.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Service information et presse (SIP)",
+      "publication_website_uri": "https://sip.gouvernement.lu",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://sip.gouvernement.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "STATEC (Institut national de la statistique et des études économiques)",
+      "publication_website_uri": "https://statistiques.public.lu",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://statistiques.public.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Official Statistics"
+        },
+        {
+          "uri": "https://statistiques.public.lu/fr/publications.rss",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Banque Centrale du Luxembourg (BCL)",
+      "publication_website_uri": "https://www.bcl.lu",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bcl.lu/en/support/rss/00_rssfeed.rss",
+          "gated": false,
+          "category": "Financial Regulator"
+        },
+        {
+          "uri": "https://bcl.lu/fr/support/rss/00_rssfeed.rss",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Commission de Surveillance du Secteur Financier (CSSF)",
+      "publication_website_uri": "https://www.cssf.lu",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cssf.lu/en/feed/",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Autorité de la Concurrence (Conseil de la concurrence)",
+      "publication_website_uri": "https://concurrence.public.lu",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://concurrence.public.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Police Grand-Ducale",
+      "publication_website_uri": "https://police.public.lu",
+      "category": "Police Reports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://police.public.lu/fr/actualites.rss",
+          "gated": false,
+          "category": "Police Reports"
+        }
+      ]
+    },
+    {
+      "publication_name": "MeteoLux",
+      "publication_website_uri": "https://www.meteolux.lu",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.meteolux.lu/fr/rss/news",
+          "gated": false,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ville de Luxembourg",
+      "publication_website_uri": "https://www.vdl.lu",
+      "category": "Government News: Luxembourg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vdl.lu/fr/news/rss.xml",
+          "gated": false,
+          "category": "Government News: Luxembourg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Esch-sur-Alzette",
+      "publication_website_uri": "https://www.esch.lu",
+      "category": "Government News: Esch-sur-Alzette",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.esch.lu/feed/",
+          "gated": false,
+          "category": "Government News: Esch-sur-Alzette"
+        }
+      ]
     }
   ],
   "LVA": [
@@ -32249,6 +33323,258 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Ministry of the Interior of the Slovak Republic (Ministerstvo vnútra SR)",
+      "publication_website_uri": "https://www.minv.sk/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.minv.sk/rss.php?rss-tlacove-spravy",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Finance of the Slovak Republic (Ministerstvo financií SR)",
+      "publication_website_uri": "https://www.mfsr.sk/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mfsr.sk/sk/rss.html",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Defence of the Slovak Republic (Ministerstvo obrany SR)",
+      "publication_website_uri": "https://www.mosr.sk/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mosr.sk/data/rss/aktuality.xml",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Labour, Social Affairs and Family of the Slovak Republic (Ministerstvo práce, sociálnych vecí a rodiny SR)",
+      "publication_website_uri": "https://www.employment.gov.sk/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.employment.gov.sk/rss.xml",
+          "gated": true,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Economy of the Slovak Republic (Ministerstvo hospodárstva SR)",
+      "publication_website_uri": "https://www.mhsr.sk/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mhsr.sk/feed/",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Agriculture and Rural Development of the Slovak Republic (Ministerstvo pôdohospodárstva a rozvoja vidieka SR)",
+      "publication_website_uri": "https://www.mpsr.sk/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mpsr.sk/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Ministry of Education, Research, Development and Youth of the Slovak Republic (Ministerstvo školstva, výskumu, vývoja a mládeže SR)",
+      "publication_website_uri": "https://www.minedu.sk/",
+      "category": "Government News",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.minedu.sk/rss",
+          "gated": false,
+          "category": "Government News"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Bank of Slovakia (Národná banka Slovenska)",
+      "publication_website_uri": "https://www.nbs.sk/",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nbs.sk/feed/",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Antimonopoly Office of the Slovak Republic (Protimonopolný úrad SR, PMÚ)",
+      "publication_website_uri": "https://www.antimon.gov.sk/",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.antimon.gov.sk/rss/",
+          "gated": true,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Financial Administration of the Slovak Republic (Finančná správa SR)",
+      "publication_website_uri": "https://www.financnasprava.sk/",
+      "category": "Tax Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.financnasprava.sk/sk/rss/rss-tlacove-spravy",
+          "gated": true,
+          "category": "Tax Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "State Institute for Drug Control (Štátny ústav pre kontrolu liečiv, ŠÚKL)",
+      "publication_website_uri": "https://www.sukl.sk/",
+      "category": "Medicines Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sukl.sk/sk/rss?page_id=1355&days=365",
+          "gated": false,
+          "category": "Medicines Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bratislava Self-Governing Region (Bratislavský samosprávny kraj)",
+      "publication_website_uri": "https://bratislavskykraj.sk/",
+      "category": "Government News: Bratislavský kraj",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bratislavskykraj.sk/feed/",
+          "gated": false,
+          "category": "Government News: Bratislavský kraj"
+        }
+      ]
+    },
+    {
+      "publication_name": "Trnava Self-Governing Region (Trnavský samosprávny kraj)",
+      "publication_website_uri": "https://trnava-vuc.sk/",
+      "category": "Government News: Trnavský kraj",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://trnava-vuc.sk/feed/",
+          "gated": false,
+          "category": "Government News: Trnavský kraj"
+        }
+      ]
+    },
+    {
+      "publication_name": "Trenčín Self-Governing Region (Trenčiansky samosprávny kraj)",
+      "publication_website_uri": "https://www.tsk.sk/",
+      "category": "Government News: Trenčiansky kraj",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tsk.sk/rss-1/rss-export.html?page_id=2705&pid=137",
+          "gated": false,
+          "category": "Government News: Trenčiansky kraj"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nitra Self-Governing Region (Nitriansky samosprávny kraj)",
+      "publication_website_uri": "https://www.unsk.sk/",
+      "category": "Government News: Nitriansky kraj",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.unsk.sk/rss/index",
+          "gated": false,
+          "category": "Government News: Nitriansky kraj"
+        }
+      ]
+    },
+    {
+      "publication_name": "Capital City of Bratislava",
+      "publication_website_uri": "https://bratislava.sk/",
+      "category": "Government News: Bratislava",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bratislava.sk/api/feed",
+          "gated": false,
+          "category": "Government News: Bratislava"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Košice (Mesto Košice)",
+      "publication_website_uri": "https://www.kosice.sk/",
+      "category": "Government News: Košice",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.kosice.sk/rss/aktuality",
+          "gated": false,
+          "category": "Government News: Košice"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Prešov (Mesto Prešov)",
+      "publication_website_uri": "https://www.presov.sk/",
+      "category": "Government News: Prešov",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.presov.sk/get_rss.php?id=16_atom",
+          "gated": false,
+          "category": "Government News: Prešov"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Žilina (Mesto Žilina)",
+      "publication_website_uri": "https://zilina.sk/",
+      "category": "Government News: Žilina",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://zilina.sk/feed/",
+          "gated": false,
+          "category": "Government News: Žilina"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Nitra (Mesto Nitra)",
+      "publication_website_uri": "https://nitra.sk/",
+      "category": "Government News: Nitra",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://nitra.sk/rss",
+          "gated": false,
+          "category": "Government News: Nitra"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Banská Bystrica (Mesto Banská Bystrica)",
+      "publication_website_uri": "https://www.banskabystrica.sk/",
+      "category": "Government News: Banská Bystrica",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.banskabystrica.sk/feed/",
+          "gated": false,
+          "category": "Government News: Banská Bystrica"
+        }
+      ]
     }
   ],
   "SVN": [
@@ -32626,6 +33952,527 @@
           "uri": "https://www.corren.se/rss",
           "gated": false,
           "category": "Regional News: Linköping"
+        }
+      ]
+    },
+    {
+      "publication_name": "Statistics Sweden (SCB)",
+      "publication_website_uri": "https://www.scb.se",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://scb.se/Feed/statistiknyheter/",
+          "gated": false,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sveriges Riksbank",
+      "publication_website_uri": "https://www.riksbank.se",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.riksbank.se/sv/rss/pressmeddelanden/",
+          "gated": false,
+          "category": "Financial Regulator"
+        },
+        {
+          "uri": "https://www.riksbank.se/sv/rss/nyheter/",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Finansinspektionen (Swedish Financial Supervisory Authority)",
+      "publication_website_uri": "https://www.fi.se",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fi.se/sv/publicerat/nyheter--ovrigt-publicerat/rss",
+          "gated": false,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Folkhälsomyndigheten (Public Health Agency of Sweden)",
+      "publication_website_uri": "https://www.folkhalsomyndigheten.se",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?syndication=rss",
+          "gated": false,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Myndigheten för civilt försvar (MCF, formerly MSB)",
+      "publication_website_uri": "https://www.mcf.se",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.mcf.se/sv/rss-floden/rss-alla-nyheter-fran-myndigheten-for-civilt-forsvar/",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Integritetsskyddsmyndigheten (IMY, Swedish Authority for Privacy Protection)",
+      "publication_website_uri": "https://www.imy.se",
+      "category": "Data Protection Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.imy.se/nyheter/rss",
+          "gated": false,
+          "category": "Data Protection Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Livsmedelsverket (Swedish Food Agency)",
+      "publication_website_uri": "https://www.livsmedelsverket.se",
+      "category": "Food Safety Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.livsmedelsverket.se/rss/rss-pressmeddelanden/",
+          "gated": false,
+          "category": "Food Safety Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Skatteverket (Swedish Tax Agency)",
+      "publication_website_uri": "https://www.skatteverket.se",
+      "category": "Tax Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://skatteverket.se/4.dfe345a107ebcc9baf800017640/12.dfe345a107ebcc9baf800017646.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8",
+          "gated": false,
+          "category": "Tax Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Valmyndigheten (Swedish Election Authority)",
+      "publication_website_uri": "https://www.val.se",
+      "category": "Elections Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.val.se/4.162047b519a91d05331e4a/12.162047b519a91d05331a99d.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8",
+          "gated": false,
+          "category": "Elections Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "SMHI (Swedish Meteorological and Hydrological Institute)",
+      "publication_website_uri": "https://www.smhi.se",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.smhi.se/rss/nyheter-fran-smhi",
+          "gated": false,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Region Stockholm",
+      "publication_website_uri": "https://www.regionstockholm.se",
+      "category": "Government News: Stockholm",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.regionstockholm.se/rss/news/",
+          "gated": false,
+          "category": "Government News: Stockholm"
+        }
+      ]
+    },
+    {
+      "publication_name": "Västra Götalandsregionen (Region Västra Götaland)",
+      "publication_website_uri": "https://www.vgregion.se",
+      "category": "Government News: Västra Götaland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.vgregion.se/Public/RssResult/FeedCombined/2008647?name=",
+          "gated": false,
+          "category": "Government News: Västra Götaland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Region Gotland",
+      "publication_website_uri": "https://www.gotland.se",
+      "category": "Government News: Gotland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gotland.se/4.7250aafe18a25f9f4f526e0c/12.a8a533d18c431c6d9e191b7.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8",
+          "gated": false,
+          "category": "Government News: Gotland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Region Blekinge",
+      "publication_website_uri": "https://regionblekinge.se",
+      "category": "Government News: Blekinge",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://regionblekinge.se/91.7c38894f1662f9ce312eff9/12.7c38894f1662f9ce312ffd1.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8",
+          "gated": false,
+          "category": "Government News: Blekinge"
+        }
+      ]
+    },
+    {
+      "publication_name": "Region Jönköpings län",
+      "publication_website_uri": "https://www.rjl.se",
+      "category": "Government News: Jönköping",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rjl.se/nyheter/nyheter-och-pressmeddelanden/?rss=true",
+          "gated": false,
+          "category": "Government News: Jönköping"
+        }
+      ]
+    },
+    {
+      "publication_name": "Region Norrbotten",
+      "publication_website_uri": "https://www.norrbotten.se",
+      "category": "Government News: Norrbotten",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.norrbotten.se/sv/generella-sidor/rss/rss-nyheter/",
+          "gated": false,
+          "category": "Government News: Norrbotten"
+        }
+      ]
+    },
+    {
+      "publication_name": "Region Östergötland",
+      "publication_website_uri": "https://www.regionostergotland.se",
+      "category": "Government News: Östergötland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.regionostergotland.se/4.7e573da118432e3c95c564/12.7e573da118432e3c95c570.portlet?state=rss&sv.contenttype=text/xml;charset=UTF-8",
+          "gated": false,
+          "category": "Government News: Östergötland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Region Västernorrland (RVN)",
+      "publication_website_uri": "https://www.rvn.se",
+      "category": "Government News: Västernorrland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rvn.se/sv/v1/Verktyg/RSS-floden/Aktuellt-pa-RVN/",
+          "gated": false,
+          "category": "Government News: Västernorrland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Malmö stad",
+      "publication_website_uri": "https://malmo.se",
+      "category": "Government News: Malmö",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://malmo.se/rss/nyheter",
+          "gated": false,
+          "category": "Government News: Malmö"
+        }
+      ]
+    },
+    {
+      "publication_name": "Uppsala kommun",
+      "publication_website_uri": "https://www.uppsala.se",
+      "category": "Government News: Uppsala",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.uppsala.se/Feeds/RssFeed/News/?documentTypeId=98",
+          "gated": false,
+          "category": "Government News: Uppsala"
+        }
+      ]
+    },
+    {
+      "publication_name": "Örebro kommun",
+      "publication_website_uri": "https://www.orebro.se",
+      "category": "Government News: Örebro",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.orebro.se/rss/nyheter",
+          "gated": false,
+          "category": "Government News: Örebro"
+        }
+      ]
+    },
+    {
+      "publication_name": "Helsingborgs stad",
+      "publication_website_uri": "https://helsingborg.se",
+      "category": "Government News: Helsingborg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://helsingborg.se/nyheter/feed/",
+          "gated": false,
+          "category": "Government News: Helsingborg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Blekinge",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Blekinge",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/blekinge/nyheter-rss---blekinge/",
+          "gated": false,
+          "category": "Police Reports: Blekinge"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Dalarna",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Dalarna",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/dalarna/nyheter-rss---dalarna/",
+          "gated": false,
+          "category": "Police Reports: Dalarna"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Gävleborg",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Gävleborg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/gavleborg/nyheter-rss---gavleborg/",
+          "gated": false,
+          "category": "Police Reports: Gävleborg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Gotland",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Gotland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/gotland/nyheter-rss---gotland/",
+          "gated": false,
+          "category": "Police Reports: Gotland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Halland",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Halland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/halland/nyheter-rss---halland/",
+          "gated": false,
+          "category": "Police Reports: Halland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Jämtland",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Jämtland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/jamtland/nyheter-rss---jamtland/",
+          "gated": false,
+          "category": "Police Reports: Jämtland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Jönköpings län",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Jönköping",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/jonkopings-lan/nyheter-rss---jonkopings-lan/",
+          "gated": false,
+          "category": "Police Reports: Jönköping"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Kalmar län",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Kalmar",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/kalmar-lan/nyheter-rss---kalmar-lan/",
+          "gated": false,
+          "category": "Police Reports: Kalmar"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Kronoberg",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Kronoberg",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/kronoberg/nyheter-rss---kronoberg/",
+          "gated": false,
+          "category": "Police Reports: Kronoberg"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Norrbotten",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Norrbotten",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/norrbotten/nyheter-rss---norrbotten/",
+          "gated": false,
+          "category": "Police Reports: Norrbotten"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Örebro län",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Örebro",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/orebro-lan/nyheter-rss---orebro-lan/",
+          "gated": false,
+          "category": "Police Reports: Örebro"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Östergötland",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Östergötland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/ostergotland/nyheter-rss---ostergotland/",
+          "gated": false,
+          "category": "Police Reports: Östergötland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Skåne",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Skåne",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/skane/nyheter-rss---skane/",
+          "gated": false,
+          "category": "Police Reports: Skåne"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Södermanland",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Södermanland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/sodermanland/nyheter-rss---sodermanland/",
+          "gated": false,
+          "category": "Police Reports: Södermanland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Stockholms län",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Stockholm",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/stockholms-lan/nyheter-rss---stockholms-lan/",
+          "gated": false,
+          "category": "Police Reports: Stockholm"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Uppsala län",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Uppsala",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/uppsala-lan/nyheter-rss---uppsala-lan/",
+          "gated": false,
+          "category": "Police Reports: Uppsala"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Värmland",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Värmland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/varmland/nyheter-rss---varmland/",
+          "gated": false,
+          "category": "Police Reports: Värmland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Västerbotten",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Västerbotten",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/vasterbotten/nyheter-rss---vasterbotten/",
+          "gated": false,
+          "category": "Police Reports: Västerbotten"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Västernorrland",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Västernorrland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/vasternorrland/nyheter-rss---vasternorrland/",
+          "gated": false,
+          "category": "Police Reports: Västernorrland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Västmanland",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Västmanland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/vastmanland/nyheter-rss---vastmanland/",
+          "gated": false,
+          "category": "Police Reports: Västmanland"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polisen (Swedish Police Authority) — Västra Götaland",
+      "publication_website_uri": "https://polisen.se",
+      "category": "Police Reports: Västra Götaland",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://polisen.se/aktuellt/rss/vastra-gotaland/nyheter-rss---vastra-gotaland/",
+          "gated": false,
+          "category": "Police Reports: Västra Götaland"
         }
       ]
     }
