@@ -27133,6 +27133,419 @@
           "category": "News"
         }
       ]
+    },
+    {
+      "publication_name": "Statistics Poland (Główny Urząd Statystyczny, GUS)",
+      "publication_website_uri": "https://stat.gov.pl",
+      "category": "Official Statistics",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://stat.gov.pl/rss/pl/5438/8.xml",
+          "gated": true,
+          "category": "Official Statistics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Polish Financial Supervision Authority (KNF)",
+      "publication_website_uri": "https://www.knf.gov.pl",
+      "category": "Financial Regulator",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.knf.gov.pl/api/rss",
+          "gated": true,
+          "category": "Financial Regulator"
+        }
+      ]
+    },
+    {
+      "publication_name": "Office of Competition and Consumer Protection (UOKiK)",
+      "publication_website_uri": "https://uokik.gov.pl",
+      "category": "Competition Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://uokik.gov.pl/feed",
+          "gated": true,
+          "category": "Competition Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Energy Regulatory Office (URE)",
+      "publication_website_uri": "https://www.ure.gov.pl",
+      "category": "Energy Regulatory Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ure.gov.pl/dokumenty/rss/9-rss-424.rss",
+          "gated": true,
+          "category": "Energy Regulatory Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Institute of National Remembrance (IPN)",
+      "publication_website_uri": "https://ipn.gov.pl",
+      "category": "National Remembrance Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://ipn.gov.pl/dokumenty/rss/1-rss-48.rss",
+          "gated": true,
+          "category": "National Remembrance Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "National Institute of Public Health NIH – National Research Institute (PZH-PIB)",
+      "publication_website_uri": "https://www.pzh.gov.pl",
+      "category": "Public Health Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pzh.gov.pl/feed/",
+          "gated": true,
+          "category": "Public Health Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "CERT Polska (CSIRT NASK)",
+      "publication_website_uri": "https://cert.pl",
+      "category": "Cyber Security Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cert.pl/rss.xml",
+          "gated": false,
+          "category": "Cyber Security Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Institute of Meteorology and Water Management – National Research Institute (IMGW-PIB)",
+      "publication_website_uri": "https://imgw.pl",
+      "category": "Weather Service",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://imgw.pl/feed/",
+          "gated": false,
+          "category": "Weather Service"
+        }
+      ]
+    },
+    {
+      "publication_name": "Supreme Audit Office (NIK)",
+      "publication_website_uri": "https://www.nik.gov.pl",
+      "category": "Audit Authority",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nik.gov.pl/rss/id,1.html",
+          "gated": true,
+          "category": "Audit Authority"
+        }
+      ]
+    },
+    {
+      "publication_name": "Sejm of the Republic of Poland",
+      "publication_website_uri": "https://www.sejm.gov.pl",
+      "category": "Parliament",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.sejm.gov.pl/rss.nsf/feed.xsp?symbol=NEWS",
+          "gated": true,
+          "category": "Parliament"
+        }
+      ]
+    },
+    {
+      "publication_name": "Marshal's Office of the Dolnośląskie Voivodeship",
+      "publication_website_uri": "https://dolnyslask.pl",
+      "category": "Government News: Dolnośląskie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dolnyslask.pl/feed/",
+          "gated": false,
+          "category": "Government News: Dolnośląskie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Marshal's Office of the Lubelskie Voivodeship",
+      "publication_website_uri": "https://www.lubelskie.pl",
+      "category": "Government News: Lubelskie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.lubelskie.pl/feed/",
+          "gated": false,
+          "category": "Government News: Lubelskie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Marshal's Office of the Opolskie Voivodeship",
+      "publication_website_uri": "https://www.opolskie.pl",
+      "category": "Government News: Opolskie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.opolskie.pl/feed/",
+          "gated": false,
+          "category": "Government News: Opolskie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Marshal's Office of the Świętokrzyskie Voivodeship",
+      "publication_website_uri": "https://www.swietokrzyskie.pro",
+      "category": "Government News: Świętokrzyskie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.swietokrzyskie.pro/feed/",
+          "gated": false,
+          "category": "Government News: Świętokrzyskie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Marshal's Office of the Wielkopolskie Voivodeship (UMWW)",
+      "publication_website_uri": "https://www.umww.pl",
+      "category": "Government News: Wielkopolskie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.umww.pl/rss_aktualnosci_zarzadu.xml",
+          "gated": false,
+          "category": "Government News: Wielkopolskie"
+        },
+        {
+          "uri": "https://www.umww.pl/rss_aktualnosci_sejmiku.xml",
+          "gated": false,
+          "category": "Government News: Wielkopolskie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Marshal's Office of the Małopolskie Voivodeship",
+      "publication_website_uri": "https://www.malopolska.pl",
+      "category": "Government News: Małopolskie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.malopolska.pl/rss.xml",
+          "gated": false,
+          "category": "Government News: Małopolskie"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Wrocław",
+      "publication_website_uri": "https://www.wroclaw.pl",
+      "category": "Government News: Wrocław",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.wroclaw.pl/dla-mieszkanca/rss/",
+          "gated": false,
+          "category": "Government News: Wrocław"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Białystok",
+      "publication_website_uri": "https://www.bialystok.pl",
+      "category": "Government News: Białystok",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bialystok.pl/rss/index/feed/id.2",
+          "gated": false,
+          "category": "Government News: Białystok"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Kraków",
+      "publication_website_uri": "https://www.krakow.pl",
+      "category": "Government News: Kraków",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.krakow.pl/feeds/rss/komunikaty/26",
+          "gated": false,
+          "category": "Government News: Kraków"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Łódź",
+      "publication_website_uri": "https://uml.lodz.pl",
+      "category": "Government News: Łódź",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://uml.lodz.pl/aktualnosci/rss?type=9818",
+          "gated": false,
+          "category": "Government News: Łódź"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Warsaw (Urząd m.st. Warszawy)",
+      "publication_website_uri": "https://um.warszawa.pl",
+      "category": "Government News: Warszawa",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://um.warszawa.pl/?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_JwsJMGF7Ujhm&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=getRSS&p_p_cacheability=cacheLevelPage",
+          "gated": true,
+          "category": "Government News: Warszawa"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Poznań",
+      "publication_website_uri": "https://www.poznan.pl",
+      "category": "Government News: Poznań",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.poznan.pl/mim/feeds/rss.xml?name=wiadmag",
+          "gated": false,
+          "category": "Government News: Poznań"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Bydgoszcz",
+      "publication_website_uri": "https://www.bydgoszcz.pl",
+      "category": "Government News: Bydgoszcz",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.bydgoszcz.pl/rss",
+          "gated": false,
+          "category": "Government News: Bydgoszcz"
+        }
+      ]
+    },
+    {
+      "publication_name": "City of Gdynia",
+      "publication_website_uri": "https://gdynia.pl",
+      "category": "Government News: Gdynia",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://gdynia.pl/rss",
+          "gated": false,
+          "category": "Government News: Gdynia"
+        }
+      ]
+    },
+    {
+      "publication_name": "Policja (Polish Police, national)",
+      "publication_website_uri": "https://www.policja.pl",
+      "category": "Police Reports",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.policja.pl/dokumenty/rss/1-rss-1.rss",
+          "gated": false,
+          "category": "Police Reports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Komenda Wojewódzka Policji w Radomiu (Mazowieckie Regional Police)",
+      "publication_website_uri": "https://mazowiecka.policja.gov.pl",
+      "category": "Police Reports: Mazowieckie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mazowiecka.policja.gov.pl/dokumenty/rss/271-rss-o-1488.rss",
+          "gated": true,
+          "category": "Police Reports: Mazowieckie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Komenda Wojewódzka Policji w Katowicach (Śląskie Regional Police)",
+      "publication_website_uri": "https://slaska.policja.gov.pl",
+      "category": "Police Reports: Śląskie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://slaska.policja.gov.pl/dokumenty/rss/35-rss-5530.rss",
+          "gated": true,
+          "category": "Police Reports: Śląskie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Komenda Wojewódzka Policji w Krakowie (Małopolskie Regional Police)",
+      "publication_website_uri": "https://malopolska.policja.gov.pl",
+      "category": "Police Reports: Małopolskie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://malopolska.policja.gov.pl/dokumenty/rss/386-rss-157.rss",
+          "gated": true,
+          "category": "Police Reports: Małopolskie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Komenda Wojewódzka Policji we Wrocławiu (Dolnośląskie Regional Police)",
+      "publication_website_uri": "https://dolnoslaska.policja.gov.pl",
+      "category": "Police Reports: Dolnośląskie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://dolnoslaska.policja.gov.pl/dokumenty/rss/411-rss-o-2401.rss",
+          "gated": true,
+          "category": "Police Reports: Dolnośląskie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Komenda Wojewódzka Policji w Bydgoszczy (Kujawsko-Pomorskie Regional Police)",
+      "publication_website_uri": "https://kujawsko-pomorska.policja.gov.pl",
+      "category": "Police Reports: Kujawsko-Pomorskie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://kujawsko-pomorska.policja.gov.pl/dokumenty/rss/136-rss-4759.rss",
+          "gated": true,
+          "category": "Police Reports: Kujawsko-Pomorskie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Komenda Wojewódzka Policji w Rzeszowie (Podkarpackie Regional Police)",
+      "publication_website_uri": "https://podkarpacka.policja.gov.pl",
+      "category": "Police Reports: Podkarpackie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://podkarpacka.policja.gov.pl/dokumenty/rss/303-rss-o-1540.rss",
+          "gated": true,
+          "category": "Police Reports: Podkarpackie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Komenda Wojewódzka Policji w Białymstoku (Podlaskie Regional Police)",
+      "publication_website_uri": "https://podlaska.policja.gov.pl",
+      "category": "Police Reports: Podlaskie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://podlaska.policja.gov.pl/dokumenty/rss/74-rss-1610.rss",
+          "gated": true,
+          "category": "Police Reports: Podlaskie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Komenda Wojewódzka Policji w Gdańsku (Pomorskie Regional Police)",
+      "publication_website_uri": "https://pomorska.policja.gov.pl",
+      "category": "Police Reports: Pomorskie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://pomorska.policja.gov.pl/dokumenty/rss/366-rss-1014.rss",
+          "gated": true,
+          "category": "Police Reports: Pomorskie"
+        }
+      ]
+    },
+    {
+      "publication_name": "Komenda Wojewódzka Policji w Olsztynie (Warmińsko-Mazurskie Regional Police)",
+      "publication_website_uri": "https://warminsko-mazurska.policja.gov.pl",
+      "category": "Police Reports: Warmińsko-Mazurskie",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://warminsko-mazurska.policja.gov.pl/dokumenty/rss/32-rss-1.rss",
+          "gated": true,
+          "category": "Police Reports: Warmińsko-Mazurskie"
+        }
+      ]
     }
   ],
   "PRI": [
