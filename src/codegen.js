@@ -280,11 +280,20 @@ async function generateMarkdown() {
           return uriEntry;
         });
 
-      activePublications.push({
+      // Allowlist: anything not named here never reaches the seed file, and so
+      // never reaches Mongo. `publication_type` / `categories` are the structured
+      // taxonomy (closed vocabularies, see mera-server publication-taxonomy.ts).
+      const pubEntry = {
         publication_name: pub.publication_name,
         publication_website_uri: pub.publication_website_uri,
         publication_rss_feed_uris: activeUris
-      });
+      };
+      if (pub.publication_type) pubEntry.publication_type = pub.publication_type;
+      if (Array.isArray(pub.categories) && pub.categories.length > 0) {
+        pubEntry.categories = pub.categories;
+      }
+
+      activePublications.push(pubEntry);
     });
 
     activeFeedsJson[countryCode] = activePublications;
