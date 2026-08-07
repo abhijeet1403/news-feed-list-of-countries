@@ -390,9 +390,7 @@
         {
           "uri": "https://vloranews.al/feed/",
           "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "sq",
-          "language_name": "Albanian"
+          "validation_status": "valid"
         }
       ],
       "publication_type": "digital_native",
@@ -666,9 +664,7 @@
           "uri": "https://www.elbilad.net/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "fr",
-          "language_name": "French"
+          "category": "News"
         }
       ],
       "publication_type": "newspaper",
@@ -1146,9 +1142,7 @@
         {
           "uri": "https://jornalf8.net/feed",
           "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "pt",
-          "language_name": "Portuguese"
+          "validation_status": "valid"
         }
       ],
       "publication_type": "newspaper",
@@ -1659,7 +1653,9 @@
         {
           "uri": "https://www.batimes.com.ar/feed",
           "is_valid": true,
-          "validation_status": "valid"
+          "validation_status": "valid",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "newspaper",
@@ -1890,9 +1886,7 @@
           "uri": "https://chaco.gob.ar/ultimas-noticias/rss-noticias",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Government News: Chaco",
-          "language_code": "es",
-          "language_name": "Spanish"
+          "category": "Government News: Chaco"
         }
       ],
       "publication_type": "government",
@@ -2148,9 +2142,7 @@
         {
           "uri": "https://24ora.com/feed/",
           "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "en",
-          "language_name": "English"
+          "validation_status": "valid"
         }
       ],
       "publication_type": "newspaper",
@@ -3048,7 +3040,9 @@
         {
           "uri": "http://www.vienna.at/rss/om:vienna:bezirk:1200",
           "is_valid": true,
-          "validation_status": "valid"
+          "validation_status": "valid",
+          "language_code": "de",
+          "language_name": "German"
         }
       ],
       "publication_type": "digital_native",
@@ -3736,10 +3730,9 @@
           "language_name": "Russian"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -3755,10 +3748,9 @@
           "language_name": "Azerbaijani"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -3860,7 +3852,9 @@
           "uri": "https://ournews.bs/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "digital_native",
@@ -4127,7 +4121,9 @@
           "uri": "https://www.dailyinqilab.com/rss/rss.xml",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "sv",
+          "language_name": "Swedish"
         }
       ],
       "publication_type": "newspaper",
@@ -4161,9 +4157,7 @@
           "uri": "https://www.dhakapost.com/rss/rss.xml",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "sv",
-          "language_name": "Swedish"
+          "category": "News"
         }
       ],
       "publication_type": "newspaper",
@@ -5246,7 +5240,9 @@
           "uri": "https://visages-du-benin.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "fr",
+          "language_name": "French"
         }
       ],
       "publication_type": "digital_native",
@@ -5712,7 +5708,9 @@
         {
           "uri": "https://www.saba-news.com/feed/",
           "is_valid": true,
-          "validation_status": "valid"
+          "validation_status": "valid",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "newspaper",
@@ -5832,8 +5830,8 @@
           "uri": "https://n1info.ba/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "language_code": "bs",
-          "language_name": "Bosnian"
+          "language_code": "hr",
+          "language_name": "Croatian"
         }
       ],
       "publication_type": "digital_native",
@@ -5867,7 +5865,9 @@
           "uri": "https://www.fokus.ba/rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "bs",
+          "language_name": "Bosnian"
         }
       ],
       "publication_type": "digital_native",
@@ -5917,9 +5917,7 @@
           "uri": "https://fena.ba/rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "hr",
-          "language_name": "Croatian"
+          "category": "News"
         }
       ],
       "publication_type": "wire_agency",
@@ -6321,9 +6319,7 @@
         {
           "uri": "https://oglobo.globo.com/rss/oglobo",
           "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "pt",
-          "language_name": "Portuguese"
+          "validation_status": "valid"
         }
       ],
       "publication_type": "newspaper",
@@ -6810,9 +6806,7 @@
           "uri": "https://www.meioemensagem.com.br/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "pt",
-          "language_name": "Portuguese"
+          "category": "News"
         }
       ],
       "publication_type": "magazine",
@@ -7690,10 +7684,9 @@
           "validation_status": "valid"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -7925,7 +7918,9 @@
           "uri": "https://www.novinar.bg/rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "bg",
+          "language_name": "Bulgarian"
         }
       ],
       "publication_type": "newspaper",
@@ -8381,7 +8376,9 @@
         {
           "uri": "https://ouagainfo.com/feed",
           "is_valid": true,
-          "validation_status": "valid"
+          "validation_status": "valid",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "digital_native",
@@ -8660,9 +8657,7 @@
           "uri": "https://www.yaga-burundi.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "fr",
-          "language_name": "French"
+          "category": "News"
         }
       ],
       "publication_type": "digital_native",
@@ -8783,7 +8778,9 @@
           "uri": "https://phnompenhpost.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "newspaper",
@@ -9128,10 +9125,9 @@
           "category": "News (English)"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -9603,9 +9599,7 @@
         {
           "uri": "https://ottawasun.com/feed/",
           "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "en",
-          "language_name": "English"
+          "validation_status": "valid"
         }
       ],
       "publication_type": "newspaper",
@@ -9964,7 +9958,9 @@
           "uri": "https://www.saultstar.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News"
+          "category": "Regional News",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "newspaper",
@@ -10143,9 +10139,7 @@
           "uri": "https://ricochet.media/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "News"
         }
       ],
       "publication_type": "digital_native",
@@ -10499,9 +10493,7 @@
           "is_valid": true,
           "validation_status": "valid",
           "category": "Government News",
-          "gated": true,
-          "language_code": "en",
-          "language_name": "English"
+          "gated": true
         }
       ],
       "publication_type": "government",
@@ -10935,9 +10927,7 @@
           "is_valid": true,
           "validation_status": "valid",
           "category": "Government News",
-          "gated": true,
-          "language_code": "en",
-          "language_name": "English"
+          "gated": true
         }
       ],
       "publication_type": "government",
@@ -11024,9 +11014,7 @@
           "is_valid": true,
           "validation_status": "valid",
           "category": "Government News",
-          "gated": true,
-          "language_code": "en",
-          "language_name": "English"
+          "gated": true
         }
       ],
       "publication_type": "government",
@@ -11040,10 +11028,12 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=parkscanada&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Parks%20Canada",
-          "is_valid": false,
-          "validation_status": "invalid",
+          "is_valid": true,
+          "validation_status": "valid",
           "category": "Government News",
-          "gated": true
+          "gated": true,
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "government",
@@ -11129,7 +11119,9 @@
           "is_valid": true,
           "validation_status": "valid",
           "category": "Government News",
-          "gated": true
+          "gated": true,
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "government",
@@ -11160,10 +11152,12 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentoftransport&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Transport%20Canada",
-          "is_valid": false,
-          "validation_status": "invalid",
+          "is_valid": true,
+          "validation_status": "valid",
           "category": "Government News",
-          "gated": true
+          "gated": true,
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "government",
@@ -11194,10 +11188,12 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=veteransaffairscanada&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Veterans%20Affairs%20Canada",
-          "is_valid": false,
-          "validation_status": "invalid",
+          "is_valid": true,
+          "validation_status": "valid",
           "category": "Government News",
-          "gated": true
+          "gated": true,
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "government",
@@ -11296,7 +11292,9 @@
           "uri": "https://www.cyber.gc.ca/webservice/en/rss/alerts",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Cyber Security Authority"
+          "category": "Cyber Security Authority",
+          "language_code": "no",
+          "language_name": "Norwegian"
         }
       ],
       "publication_type": "regulator",
@@ -12050,7 +12048,9 @@
           "uri": "https://www.lepaystchad.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "fr",
+          "language_name": "French"
         }
       ],
       "publication_type": "newspaper",
@@ -12499,7 +12499,9 @@
           "uri": "https://www.fne.gob.cl/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Competition Authority"
+          "category": "Competition Authority",
+          "language_code": "es",
+          "language_name": "Spanish"
         }
       ],
       "publication_type": "regulator",
@@ -12534,9 +12536,7 @@
           "uri": "https://www.municipalidaddevalparaiso.cl/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Government News: Valparaíso",
-          "language_code": "es",
-          "language_name": "Spanish"
+          "category": "Government News: Valparaíso"
         }
       ],
       "publication_type": "government",
@@ -12874,7 +12874,9 @@
           "uri": "https://www.radiosantafe.com/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "es",
+          "language_name": "Spanish"
         }
       ],
       "publication_type": "radio",
@@ -13373,9 +13375,7 @@
         {
           "uri": "https://www.aip.ci/feed/",
           "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "fr",
-          "language_name": "French"
+          "validation_status": "valid"
         }
       ],
       "publication_type": "wire_agency",
@@ -13390,7 +13390,9 @@
         {
           "uri": "https://www.aip.ci/category/region-gbeke-hambol/bouake/feed/",
           "is_valid": true,
-          "validation_status": "valid"
+          "validation_status": "valid",
+          "language_code": "fr",
+          "language_name": "French"
         }
       ],
       "publication_type": "wire_agency",
@@ -13422,7 +13424,9 @@
         {
           "uri": "https://www.aip.ci/category/region-poro-bagoue-tchologo/korhogo/feed/",
           "is_valid": true,
-          "validation_status": "valid"
+          "validation_status": "valid",
+          "language_code": "fr",
+          "language_name": "French"
         }
       ],
       "publication_type": "wire_agency",
@@ -14493,7 +14497,9 @@
           "uri": "https://www.ipscuba.net/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "es",
+          "language_name": "Spanish"
         }
       ],
       "publication_type": "wire_agency",
@@ -14563,7 +14569,9 @@
           "uri": "https://www.escambray.cu/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: Sancti Spiritus"
+          "category": "Regional News: Sancti Spiritus",
+          "language_code": "es",
+          "language_name": "Spanish"
         }
       ],
       "publication_type": "newspaper",
@@ -15766,9 +15774,7 @@
           "uri": "https://capsud.net/feed/rss/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News (French)",
-          "language_code": "fr",
-          "language_name": "French"
+          "category": "News (French)"
         }
       ],
       "publication_type": "digital_native",
@@ -15852,7 +15858,9 @@
           "uri": "https://politiquerdc.net/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News (French)"
+          "category": "News (French)",
+          "language_code": "fr",
+          "language_name": "French"
         }
       ],
       "publication_type": "digital_native",
@@ -16362,7 +16370,9 @@
           "uri": "https://tv2bornholm.dk/rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: Bornholm"
+          "category": "Regional News: Bornholm",
+          "language_code": "da",
+          "language_name": "Danish"
         }
       ],
       "publication_type": "tv",
@@ -16987,9 +16997,7 @@
         {
           "uri": "https://www.futbolecuador.com/stories/rss",
           "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "es",
-          "language_name": "Spanish"
+          "validation_status": "valid"
         }
       ],
       "publication_type": "digital_native",
@@ -17129,7 +17137,9 @@
           "uri": "https://www.youm7.com/rss/SectionRss?SectionID=297",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "ar",
+          "language_name": "Arabic"
         }
       ],
       "publication_type": "newspaper",
@@ -17457,9 +17467,7 @@
           "uri": "https://www.progres.net.eg/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News (French)",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "News (French)"
         }
       ],
       "publication_type": "newspaper",
@@ -17632,7 +17640,9 @@
         {
           "uri": "https://diariorombe.es/feed/",
           "is_valid": true,
-          "validation_status": "valid"
+          "validation_status": "valid",
+          "language_code": "es",
+          "language_name": "Spanish"
         }
       ],
       "publication_type": "newspaper",
@@ -17735,10 +17745,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -18449,9 +18458,7 @@
           "uri": "https://addisfortune.news/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Business",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "Business"
         }
       ],
       "publication_type": "digital_native",
@@ -18482,9 +18489,11 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://ethiopianmonitor.com/feed/",
-          "is_valid": false,
-          "validation_status": "invalid",
-          "category": "News"
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "News",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "digital_native",
@@ -18518,9 +18527,7 @@
           "uri": "https://capitalethiopia.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "News"
         }
       ],
       "publication_type": "newspaper",
@@ -19261,7 +19268,9 @@
           "uri": "https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/P2JabALc50Es/rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Government News"
+          "category": "Government News",
+          "language_code": "fi",
+          "language_name": "Finnish"
         }
       ],
       "publication_type": "government",
@@ -19404,7 +19413,9 @@
           "uri": "https://intermin.fi/en/frontpage/-/asset_publisher/LbD9icQxZZUa/rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Government News"
+          "category": "Government News",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "government",
@@ -19420,7 +19431,9 @@
           "uri": "https://mmm.fi/en/frontpage/-/asset_publisher/gBxZaCBMnvmM/rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Government News"
+          "category": "Government News",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "government",
@@ -19594,7 +19607,9 @@
         {
           "uri": "https://dwh.lequipe.fr/api/edito/rss?path=/",
           "is_valid": true,
-          "validation_status": "valid"
+          "validation_status": "valid",
+          "language_code": "fr",
+          "language_name": "French"
         }
       ],
       "publication_type": "newspaper",
@@ -20595,9 +20610,11 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.euronews.com/rss",
-          "is_valid": false,
-          "validation_status": "invalid",
-          "category": "News"
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "News",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "tv",
@@ -20634,9 +20651,7 @@
           "uri": "https://www.guyaweb.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "fr",
-          "language_name": "French"
+          "category": "News"
         }
       ],
       "publication_type": "newspaper",
@@ -20788,9 +20803,7 @@
           "uri": "https://www.gabonreview.com/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "fr",
-          "language_name": "French"
+          "category": "News"
         }
       ],
       "publication_type": "digital_native",
@@ -23154,9 +23167,11 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.serres.gr/feed/",
-          "is_valid": false,
-          "validation_status": "invalid",
-          "category": "Government News: Serres"
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Government News: Serres",
+          "language_code": "el",
+          "language_name": "Greek"
         }
       ],
       "publication_type": "government",
@@ -23354,9 +23369,7 @@
           "is_valid": true,
           "validation_status": "valid",
           "category": "Government News: Peloponnese",
-          "gated": true,
-          "language_code": "el",
-          "language_name": "Greek"
+          "gated": true
         }
       ],
       "publication_type": "government",
@@ -23726,9 +23739,7 @@
           "uri": "https://www.mvariety.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc",
           "is_valid": true,
           "validation_status": "valid",
-          "gated": true,
-          "language_code": "en",
-          "language_name": "English"
+          "gated": true
         }
       ],
       "publication_type": "newspaper",
@@ -24150,7 +24161,9 @@
           "uri": "https://focusguinee.info/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "fr",
+          "language_name": "French"
         }
       ],
       "publication_type": "digital_native",
@@ -24961,9 +24974,7 @@
         {
           "uri": "http://startupbeat.hkej.com/?feed=rss2",
           "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "en",
-          "language_name": "English"
+          "validation_status": "valid"
         }
       ],
       "publication_type": "newspaper",
@@ -25165,7 +25176,9 @@
           "uri": "https://magyarnemzet.hu/publicapi/hu/rss/magyar_nemzet/articles",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "hu",
+          "language_name": "Hungarian"
         }
       ],
       "publication_type": "newspaper",
@@ -25978,7 +25991,9 @@
           "uri": "https://vb.is/rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Business"
+          "category": "Business",
+          "language_code": "is",
+          "language_name": "Icelandic"
         }
       ],
       "publication_type": "newspaper",
@@ -27491,7 +27506,9 @@
           "uri": "https://www.indiatoday.in/rss/1206550",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Sport"
+          "category": "Sport",
+          "language_code": "en",
+          "language_name": "English"
         },
         {
           "uri": "https://www.indiatoday.in/rss/1206503",
@@ -28131,8 +28148,9 @@
           "language_name": "English"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
+        "government",
         "business"
       ]
     },
@@ -29020,7 +29038,9 @@
           "uri": "https://nagamesekhobor.com/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News (Nagamese)"
+          "category": "News (Nagamese)",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "newspaper",
@@ -30328,7 +30348,9 @@
           "uri": "https://globalkashmir.net/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: Jammu & Kashmir"
+          "category": "Regional News: Jammu & Kashmir",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "digital_native",
@@ -30381,7 +30403,9 @@
           "uri": "https://pragativadi.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News (Odia)"
+          "category": "News (Odia)",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "newspaper",
@@ -31369,9 +31393,7 @@
           "uri": "https://www.cnnindonesia.com/nasional/rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "id",
-          "language_name": "Indonesian"
+          "category": "News"
         }
       ],
       "publication_type": "tv",
@@ -31652,7 +31674,9 @@
           "uri": "https://www.rmol.id/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "id",
+          "language_name": "Indonesian"
         }
       ],
       "publication_type": "digital_native",
@@ -31810,9 +31834,7 @@
           "uri": "https://www.antaranews.com/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "id",
-          "language_name": "Indonesian"
+          "category": "News"
         }
       ],
       "publication_type": "wire_agency",
@@ -31845,7 +31867,9 @@
           "uri": "https://www.wartaekonomi.co.id/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "id",
+          "language_name": "Indonesian"
         }
       ],
       "publication_type": "digital_native",
@@ -31878,9 +31902,7 @@
           "uri": "https://www.antaranews.com/rss/terkini.xml",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News (Indonesian)",
-          "language_code": "id",
-          "language_name": "Indonesian"
+          "category": "News (Indonesian)"
         }
       ],
       "publication_type": "wire_agency",
@@ -31896,7 +31918,9 @@
           "uri": "https://news.detik.com/rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News (Indonesian)"
+          "category": "News (Indonesian)",
+          "language_code": "id",
+          "language_name": "Indonesian"
         },
         {
           "uri": "https://finance.detik.com/rss",
@@ -32441,7 +32465,9 @@
           "uri": "https://klikpositif.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: West Sumatra"
+          "category": "Regional News: West Sumatra",
+          "language_code": "id",
+          "language_name": "Indonesian"
         }
       ],
       "publication_type": "digital_native",
@@ -32831,9 +32857,7 @@
           "uri": "https://www.iraqinews.com/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "News"
         }
       ],
       "publication_type": "digital_native",
@@ -32901,9 +32925,7 @@
         {
           "uri": "http://www.irishcentral.com/templates/section_feed_content_abstract.rss?section=/news/politics",
           "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "en",
-          "language_name": "English"
+          "validation_status": "valid"
         }
       ],
       "publication_type": "digital_native",
@@ -33549,10 +33571,9 @@
           "language_name": "English"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -33568,10 +33589,9 @@
           "language_name": "English"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -33587,10 +33607,9 @@
           "language_name": "Persian"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -33606,10 +33625,9 @@
           "language_name": "Persian"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -34275,7 +34293,9 @@
         {
           "uri": "http://rss.adnkronos.com/RSS_PrimaPagina.xml",
           "is_valid": true,
-          "validation_status": "valid"
+          "validation_status": "valid",
+          "language_code": "it",
+          "language_name": "Italian"
         }
       ],
       "publication_type": "wire_agency",
@@ -35885,7 +35905,9 @@
           "is_valid": true,
           "validation_status": "valid",
           "category": "Weather Service",
-          "gated": true
+          "gated": true,
+          "language_code": "zh",
+          "language_name": "Chinese"
         }
       ],
       "publication_type": "government",
@@ -35995,9 +36017,7 @@
           "uri": "https://www.pref.iwate.jp/news.rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Government News: Iwate",
-          "language_code": "ja",
-          "language_name": "Japanese"
+          "category": "Government News: Iwate"
         }
       ],
       "publication_type": "government",
@@ -36701,7 +36721,9 @@
           "uri": "https://www.city.fukuoka.lg.jp/data/open/rss/RSS_7237.xml",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Government News: Fukuoka City"
+          "category": "Government News: Fukuoka City",
+          "language_code": "ja",
+          "language_name": "Japanese"
         }
       ],
       "publication_type": "government",
@@ -36773,7 +36795,9 @@
         {
           "uri": "http://www.jordanzad.com/rss.php?type=main",
           "is_valid": true,
-          "validation_status": "valid"
+          "validation_status": "valid",
+          "language_code": "ar",
+          "language_name": "Arabic"
         }
       ],
       "publication_type": "newspaper",
@@ -37212,10 +37236,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -38198,7 +38221,9 @@
         {
           "uri": "https://www.vientianetimeslao.la/feed/",
           "is_valid": true,
-          "validation_status": "valid"
+          "validation_status": "valid",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "newspaper",
@@ -38213,7 +38238,9 @@
         {
           "uri": "https://laotiantimes.com/feed/",
           "is_valid": true,
-          "validation_status": "valid"
+          "validation_status": "valid",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "newspaper",
@@ -38907,9 +38934,7 @@
           "uri": "https://www.jelgava.lv/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Government News: Jelgava",
-          "language_code": "lv",
-          "language_name": "Latvian"
+          "category": "Government News: Jelgava"
         }
       ],
       "publication_type": "government",
@@ -39020,10 +39045,9 @@
           "language_name": "English"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -39148,10 +39172,9 @@
           "gated": true
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     }
   ],
@@ -39455,10 +39478,9 @@
           "language_name": "arabic"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -39503,7 +39525,9 @@
           "uri": "https://sada.ly/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News (Arabic)"
+          "category": "News (Arabic)",
+          "language_code": "ar",
+          "language_name": "Arabic"
         }
       ],
       "publication_type": "digital_native",
@@ -39821,7 +39845,9 @@
           "uri": "https://gargzdai.lt/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: Gargzdai"
+          "category": "Regional News: Gargzdai",
+          "language_code": "lt",
+          "language_name": "Lithuanian"
         }
       ],
       "publication_type": "digital_native",
@@ -40939,9 +40965,7 @@
         {
           "uri": "https://www.waou.com.mo/feed/",
           "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "zh",
-          "language_name": "Chinese"
+          "validation_status": "valid"
         }
       ],
       "publication_type": "wire_agency",
@@ -41021,7 +41045,9 @@
           "uri": "https://midi-madagasikara.mg/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "fr",
+          "language_name": "French"
         }
       ],
       "publication_type": "newspaper",
@@ -42021,7 +42047,9 @@
           "uri": "https://saheltribune.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "fr",
+          "language_name": "French"
         }
       ],
       "publication_type": "newspaper",
@@ -43998,8 +44026,8 @@
           "uri": "https://www.vijesti.me/rss",
           "is_valid": true,
           "validation_status": "valid",
-          "language_code": "bs",
-          "language_name": "Bosnian"
+          "language_code": "hr",
+          "language_name": "Croatian"
         }
       ],
       "publication_type": "newspaper",
@@ -44429,9 +44457,11 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.assabah.ma/feed/",
-          "is_valid": false,
-          "validation_status": "invalid",
-          "category": "News"
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "News",
+          "language_code": "ar",
+          "language_name": "Arabic"
         }
       ],
       "publication_type": "newspaper",
@@ -44982,7 +45012,9 @@
           "uri": "https://www.challenge.ma/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News (French)"
+          "category": "News (French)",
+          "language_code": "fr",
+          "language_name": "French"
         }
       ],
       "publication_type": "magazine",
@@ -45323,7 +45355,9 @@
         {
           "uri": "https://mznews.co.mz/feed/",
           "is_valid": true,
-          "validation_status": "valid"
+          "validation_status": "valid",
+          "language_code": "pt",
+          "language_name": "Portuguese"
         }
       ],
       "publication_type": "newspaper",
@@ -45407,7 +45441,9 @@
           "uri": "https://ikweli.co.mz/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: Nampula"
+          "category": "Regional News: Nampula",
+          "language_code": "pt",
+          "language_name": "Portuguese"
         }
       ],
       "publication_type": "newspaper",
@@ -45443,9 +45479,7 @@
           "uri": "https://www.wamphulafax.co.mz/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: Nampula",
-          "language_code": "pt",
-          "language_name": "Portuguese"
+          "category": "Regional News: Nampula"
         }
       ],
       "publication_type": "newspaper",
@@ -45536,11 +45570,9 @@
           "category": "Regional News: Shan State"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "regional_news",
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -46919,9 +46951,11 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://cms.dordrecht.nl/rss.jsp?objectid=610edfc6-53c9-4c23-963f-2109d27fc886",
-          "is_valid": false,
-          "validation_status": "invalid",
-          "category": "Government News: Dordrecht"
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Government News: Dordrecht",
+          "language_code": "nl",
+          "language_name": "Dutch"
         }
       ],
       "publication_type": "government",
@@ -48027,9 +48061,7 @@
           "uri": "https://www.1news.co.nz/arc/outboundfeeds/rss/?outputType=xml",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "News"
         }
       ],
       "publication_type": "tv",
@@ -48082,9 +48114,7 @@
           "uri": "https://www.thepost.co.nz/rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: Wellington",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "Regional News: Wellington"
         }
       ],
       "publication_type": "newspaper",
@@ -48874,9 +48904,7 @@
           "uri": "https://pmnewsnigeria.com/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: Lagos",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "Regional News: Lagos"
         }
       ],
       "publication_type": "digital_native",
@@ -48946,7 +48974,9 @@
           "uri": "https://www.vanguardngr.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "newspaper",
@@ -48962,7 +48992,9 @@
           "uri": "https://www.thisday.com.ng/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "newspaper",
@@ -49155,9 +49187,7 @@
           "uri": "https://arewa.ng/hausa/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News (Hausa)",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "News (Hausa)"
         }
       ],
       "publication_type": "digital_native",
@@ -49209,9 +49239,7 @@
           "uri": "https://igberetvnews.com/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: Imo/Anambra",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "Regional News: Imo/Anambra"
         }
       ],
       "publication_type": "tv",
@@ -49646,10 +49674,9 @@
           "language_name": "English"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -50186,10 +50213,12 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.power.gov.ng/feed/",
-          "is_valid": false,
-          "validation_status": "invalid",
+          "is_valid": true,
+          "validation_status": "valid",
           "category": "Government News",
-          "gated": true
+          "gated": true,
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "government",
@@ -51371,9 +51400,7 @@
         {
           "uri": "https://www.urdupoint.com/rss/urdupoint.rss",
           "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "ur",
-          "language_name": "Urdu"
+          "validation_status": "valid"
         }
       ],
       "publication_type": "digital_native",
@@ -52816,9 +52843,7 @@
         {
           "uri": "https://losandes.com.pe/feed/",
           "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "es",
-          "language_name": "Spanish"
+          "validation_status": "valid"
         }
       ],
       "publication_type": "newspaper",
@@ -52996,9 +53021,7 @@
           "uri": "https://lahora.pe/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: Piura",
-          "language_code": "es",
-          "language_name": "Spanish"
+          "category": "Regional News: Piura"
         }
       ],
       "publication_type": "newspaper",
@@ -53317,9 +53340,9 @@
           "language_name": "English"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "magazine",
       "categories": [
-        "government"
+        "cars"
       ]
     },
     {
@@ -53383,9 +53406,7 @@
           "uri": "https://remate.ph/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "News"
         }
       ],
       "publication_type": "digital_native",
@@ -53873,7 +53894,9 @@
           "uri": "https://laoag.bomboradyo.com/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News (Ilocano)"
+          "category": "News (Ilocano)",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "radio",
@@ -55306,9 +55329,7 @@
           "is_valid": true,
           "validation_status": "valid",
           "category": "Police Reports: Podlaskie",
-          "gated": true,
-          "language_code": "pl",
-          "language_name": "Polish"
+          "gated": true
         }
       ],
       "publication_type": "government",
@@ -55740,7 +55761,9 @@
         {
           "uri": "http://noticel.com/feed",
           "is_valid": true,
-          "validation_status": "valid"
+          "validation_status": "valid",
+          "language_code": "es",
+          "language_name": "Spanish"
         }
       ],
       "publication_type": "newspaper",
@@ -56749,7 +56772,9 @@
           "uri": "https://nineoclock.ro/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "newspaper",
@@ -56821,7 +56846,9 @@
           "uri": "https://www.b1tv.ro/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "ro",
+          "language_name": "Romanian"
         }
       ],
       "publication_type": "tv",
@@ -56950,7 +56977,9 @@
           "uri": "https://gov.ro/ro/rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Government News"
+          "category": "Government News",
+          "language_code": "ro",
+          "language_name": "Romanian"
         }
       ],
       "publication_type": "government",
@@ -57524,11 +57553,9 @@
           "language_name": "Russian"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "regional_news",
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -57850,11 +57877,9 @@
           "language_name": "Russian"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "regional_news",
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -59127,9 +59152,7 @@
         {
           "uri": "http://www.novosti.rs/rss/rss-vesti",
           "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "hr",
-          "language_name": "Croatian"
+          "validation_status": "valid"
         }
       ],
       "publication_type": "newspaper",
@@ -59214,8 +59237,8 @@
           "is_valid": true,
           "validation_status": "valid",
           "category": "News",
-          "language_code": "hr",
-          "language_name": "Croatian"
+          "language_code": "bs",
+          "language_name": "Bosnian"
         }
       ],
       "publication_type": "newspaper",
@@ -59289,9 +59312,7 @@
           "is_valid": true,
           "validation_status": "valid",
           "category": "Government News",
-          "gated": true,
-          "language_code": "en",
-          "language_name": "English"
+          "gated": true
         }
       ],
       "publication_type": "government",
@@ -59399,9 +59420,7 @@
           "is_valid": true,
           "validation_status": "valid",
           "category": "Competition Authority",
-          "gated": true,
-          "language_code": "sr",
-          "language_name": "Serbian"
+          "gated": true
         }
       ],
       "publication_type": "regulator",
@@ -59437,9 +59456,7 @@
           "is_valid": true,
           "validation_status": "valid",
           "category": "Government News: Kragujevac",
-          "gated": true,
-          "language_code": "sr",
-          "language_name": "Serbian"
+          "gated": true
         }
       ],
       "publication_type": "government",
@@ -60493,7 +60510,9 @@
           "uri": "https://www.nova24tv.si/rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "sl",
+          "language_name": "Slovenian"
         }
       ],
       "publication_type": "tv",
@@ -61081,9 +61100,7 @@
           "uri": "https://somalilandstandard.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: Somaliland",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "Regional News: Somaliland"
         }
       ],
       "publication_type": "newspaper",
@@ -61831,9 +61848,7 @@
           "uri": "https://kznnamuhlanews.co.za/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: KwaZulu-Natal",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "Regional News: KwaZulu-Natal"
         }
       ],
       "publication_type": "newspaper",
@@ -62444,10 +62459,9 @@
           "language_name": "English"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -62739,9 +62753,7 @@
           "uri": "https://www.mafra.go.kr/bbs/home/793/rssList.do?row=50",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Government News",
-          "language_code": "ko",
-          "language_name": "Korean"
+          "category": "Government News"
         }
       ],
       "publication_type": "government",
@@ -63003,9 +63015,7 @@
         {
           "uri": "https://www.antena3.com/noticias/rss/4013050.xml",
           "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "es",
-          "language_name": "Spanish"
+          "validation_status": "valid"
         }
       ],
       "publication_type": "tv",
@@ -64154,7 +64164,9 @@
           "uri": "https://island.lk/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "newspaper",
@@ -64170,7 +64182,9 @@
           "uri": "https://www.ft.lk/rss/top-story/26",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Business"
+          "category": "Business",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "newspaper",
@@ -64667,10 +64681,9 @@
           "language_name": "Arabic"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     }
   ],
@@ -64814,9 +64827,7 @@
           "uri": "https://alsudaninews.com/?feed=rss2",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News (Arabic)",
-          "language_code": "ar",
-          "language_name": "Arabic"
+          "category": "News (Arabic)"
         }
       ],
       "publication_type": "digital_native",
@@ -64902,9 +64913,7 @@
           "uri": "https://darfur24.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: Darfur",
-          "language_code": "ar",
-          "language_name": "Arabic"
+          "category": "Regional News: Darfur"
         }
       ],
       "publication_type": "digital_native",
@@ -66959,10 +66968,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -67040,10 +67048,9 @@
           "language_name": "English"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -67161,10 +67168,9 @@
           "language_name": "Chinese"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -67298,7 +67304,9 @@
           "is_valid": true,
           "validation_status": "valid",
           "category": "Government News",
-          "gated": true
+          "gated": true,
+          "language_code": "zh",
+          "language_name": "Chinese"
         }
       ],
       "publication_type": "government",
@@ -67367,9 +67375,11 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.edu.tw/Rss_News.aspx?n=9E7AC85F1954DDA8",
-          "is_valid": false,
-          "validation_status": "invalid",
-          "category": "Government News"
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Government News",
+          "language_code": "zh",
+          "language_name": "Chinese"
         }
       ],
       "publication_type": "government",
@@ -67517,10 +67527,9 @@
           "language_name": "Russian"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -68015,9 +68024,7 @@
           "uri": "https://nonthaburi.prd.go.th/th/rss/page/content/id/1/cid/9",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Government News: Nonthaburi",
-          "language_code": "th",
-          "language_name": "Thai"
+          "category": "Government News: Nonthaburi"
         }
       ],
       "publication_type": "government",
@@ -68201,10 +68208,9 @@
           "language_name": "Macedonian"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -68637,9 +68643,7 @@
           "uri": "https://togotimes.info/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "fr",
-          "language_name": "French"
+          "category": "News"
         }
       ],
       "publication_type": "digital_native",
@@ -68865,9 +68869,7 @@
           "uri": "https://azpnews.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "News"
         }
       ],
       "publication_type": "digital_native",
@@ -69981,7 +69983,9 @@
           "uri": "https://softpower.ug/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "digital_native",
@@ -70069,7 +70073,9 @@
           "uri": "https://businessfocus.co.ug/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Business"
+          "category": "Business",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "digital_native",
@@ -70121,9 +70127,7 @@
           "uri": "https://campusbee.ug/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Education",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "Education"
         }
       ],
       "publication_type": "digital_native",
@@ -70211,7 +70215,9 @@
           "uri": "https://www.ugstandard.com/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "newspaper",
@@ -70227,7 +70233,9 @@
           "uri": "https://www.redpepper.co.ug/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "newspaper",
@@ -70314,7 +70322,9 @@
           "uri": "https://thecooperator.news/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "digital_native",
@@ -70383,11 +70393,9 @@
           "category": "Regional News: Northern Uganda (Acholi/Lango)"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "regional_news",
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -74340,7 +74348,9 @@
           "uri": "https://thechanzo.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "digital_native",
@@ -74425,9 +74435,7 @@
           "uri": "https://mzalendo.co.tz/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News (Swahili)",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "News (Swahili)"
         }
       ],
       "publication_type": "digital_native",
@@ -74495,9 +74503,7 @@
           "uri": "https://teknolojia.co.tz/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Technology (Swahili)",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "Technology (Swahili)"
         }
       ],
       "publication_type": "digital_native",
@@ -74789,9 +74795,7 @@
         {
           "uri": "https://www.huffpost.com/section/world-news/feed",
           "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "en",
-          "language_name": "English"
+          "validation_status": "valid"
         }
       ],
       "publication_type": "digital_native",
@@ -75214,8 +75218,7 @@
           "is_valid": true,
           "validation_status": "valid",
           "category": "Regional News: New York",
-          "gated": true,
-          "language_code": "en_us"
+          "gated": true
         }
       ],
       "publication_type": "tv",
@@ -76215,9 +76218,11 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://el-observador.com/feed/",
-          "is_valid": false,
-          "validation_status": "invalid",
-          "category": "Regional News: San Jose"
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Regional News: San Jose",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "newspaper",
@@ -76740,10 +76745,12 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://governor.wa.gov/rss.xml",
-          "is_valid": false,
-          "validation_status": "invalid",
+          "is_valid": true,
+          "validation_status": "valid",
           "category": "Government News: Washington",
-          "gated": true
+          "gated": true,
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "government",
@@ -76795,7 +76802,9 @@
           "is_valid": true,
           "validation_status": "valid",
           "category": "Government News: Nebraska",
-          "gated": true
+          "gated": true,
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "government",
@@ -76971,9 +76980,7 @@
           "is_valid": true,
           "validation_status": "valid",
           "category": "Government News: Boston",
-          "gated": true,
-          "language_code": "en",
-          "language_name": "English"
+          "gated": true
         }
       ],
       "publication_type": "government",
@@ -77669,7 +77676,9 @@
           "uri": "https://gripped.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Sports & Outdoors"
+          "category": "Sports & Outdoors",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "magazine",
@@ -77742,9 +77751,7 @@
           "uri": "https://cricketmedia.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Kids & Parenting",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "Kids & Parenting"
         }
       ],
       "publication_type": "magazine",
@@ -78114,7 +78121,9 @@
           "uri": "https://www.si.com/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Sports"
+          "category": "Sports",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "magazine",
@@ -78332,9 +78341,7 @@
           "uri": "https://www.usmagazine.com/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Entertainment",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "Entertainment"
         }
       ],
       "publication_type": "magazine",
@@ -78715,9 +78722,7 @@
           "uri": "https://www.grocerycouponguide.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Lifestyle",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "Lifestyle"
         }
       ],
       "publication_type": "digital_native",
@@ -79249,9 +79254,11 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.windowscentral.com/feeds.xml",
-          "is_valid": false,
-          "validation_status": "invalid",
-          "category": "Technology"
+          "is_valid": true,
+          "validation_status": "valid",
+          "category": "Technology",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "digital_native",
@@ -79523,10 +79530,9 @@
           "language_name": "Uzbek"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -79573,9 +79579,7 @@
           "uri": "https://nuz.uz/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "ru",
-          "language_name": "Russian"
+          "category": "News"
         }
       ],
       "publication_type": "digital_native",
@@ -79593,9 +79597,7 @@
           "uri": "https://www.dailypost.vu/search/?f=rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "News"
         }
       ],
       "publication_type": "newspaper",
@@ -79643,9 +79645,7 @@
           "uri": "https://vbr.vu/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Business",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "Business"
         }
       ],
       "publication_type": "digital_native",
@@ -79680,7 +79680,9 @@
           "uri": "https://lapatilla.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News"
+          "category": "News",
+          "language_code": "es",
+          "language_name": "Spanish"
         }
       ],
       "publication_type": "digital_native",
@@ -79910,9 +79912,7 @@
           "uri": "https://www.eltiempo.com.ve/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: Anzoategui",
-          "language_code": "es",
-          "language_name": "Spanish"
+          "category": "Regional News: Anzoategui"
         }
       ],
       "publication_type": "newspaper",
@@ -80097,10 +80097,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -80114,10 +80113,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -80366,19 +80364,25 @@
           "uri": "https://cadn.com.vn/rss/cong-an-nhan-dan-5.rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: Da Nang"
+          "category": "Regional News: Da Nang",
+          "language_code": "vi",
+          "language_name": "Vietnamese"
         },
         {
           "uri": "https://cadn.com.vn/rss/kinh-te-12.rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: Da Nang"
+          "category": "Regional News: Da Nang",
+          "language_code": "vi",
+          "language_name": "Vietnamese"
         },
         {
           "uri": "https://cadn.com.vn/rss/phap-luat-6.rss",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Regional News: Da Nang"
+          "category": "Regional News: Da Nang",
+          "language_code": "vi",
+          "language_name": "Vietnamese"
         }
       ],
       "publication_type": "government",
@@ -80714,10 +80718,9 @@
           "language_name": "English"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -80747,9 +80750,7 @@
         {
           "uri": "http://tumfweko.com/feed/",
           "is_valid": true,
-          "validation_status": "valid",
-          "language_code": "en",
-          "language_name": "English"
+          "validation_status": "valid"
         }
       ],
       "publication_type": "digital_native",
@@ -80783,9 +80784,7 @@
           "uri": "https://newsdiggers.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "News"
         }
       ],
       "publication_type": "newspaper",
@@ -80835,9 +80834,7 @@
           "uri": "https://dailynationzambia.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "News (English)",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "News (English)"
         }
       ],
       "publication_type": "newspaper",
@@ -81286,10 +81283,9 @@
           "language_name": "English"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "digital_native",
       "categories": [
-        "science_tech",
-        "government"
+        "science_tech"
       ]
     },
     {
@@ -81323,10 +81319,9 @@
           "language_name": "English"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "digital_native",
       "categories": [
-        "science_tech",
-        "government"
+        "science_tech"
       ]
     },
     {
@@ -81689,9 +81684,7 @@
           "uri": "https://www.macstories.net/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Apple",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "Apple"
         }
       ],
       "publication_type": "digital_native",
@@ -82990,7 +82983,9 @@
           "uri": "https://www.financialsamurai.com/feed/",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Personal finance"
+          "category": "Personal finance",
+          "language_code": "en",
+          "language_name": "English"
         }
       ],
       "publication_type": "digital_native",
@@ -83248,9 +83243,7 @@
           "uri": "https://flowingdata.com/feed",
           "is_valid": true,
           "validation_status": "valid",
-          "category": "Science",
-          "language_code": "en",
-          "language_name": "English"
+          "category": "Science"
         }
       ],
       "publication_type": "digital_native",

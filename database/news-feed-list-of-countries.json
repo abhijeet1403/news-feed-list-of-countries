@@ -2475,10 +2475,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -2492,10 +2491,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -9786,10 +9784,9 @@
           "category": "News (English)"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -14567,10 +14564,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -21776,10 +21772,9 @@
           "category": "Android"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "digital_native",
       "categories": [
-        "science_tech",
-        "government"
+        "science_tech"
       ]
     },
     {
@@ -21805,10 +21800,9 @@
           "category": "Android"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "digital_native",
       "categories": [
-        "science_tech",
-        "government"
+        "science_tech"
       ]
     },
     {
@@ -28856,8 +28850,9 @@
           "gated": true
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
+        "government",
         "business"
       ]
     },
@@ -32276,10 +32271,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -32293,10 +32287,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -32310,10 +32303,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -32327,10 +32319,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -36095,10 +36086,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -37164,10 +37154,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -37757,10 +37746,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -42063,10 +42051,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -42689,11 +42676,9 @@
           "category": "Regional News: Shan State"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "regional_news",
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -44975,10 +44960,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -50008,9 +49992,9 @@
           "uri": "https://www.topgear.com.ph/feed/rss1"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "magazine",
       "categories": [
-        "government"
+        "cars"
       ]
     },
     {
@@ -52454,10 +52438,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     }
   ],
@@ -53426,11 +53409,9 @@
           "category": "Regional News: Nizhny Novgorod"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "regional_news",
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -53721,11 +53702,9 @@
           "category": "Regional News: Sakha (Yakutia)"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "regional_news",
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -57095,10 +57074,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -57165,10 +57143,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -59066,11 +59043,9 @@
           "category": "Regional News: Northern Uganda (Acholi/Lango)"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "regional_news",
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -63902,10 +63877,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -64373,10 +64347,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -64390,10 +64363,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -64979,10 +64951,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -67773,10 +67744,9 @@
           "gated": false
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -69696,10 +69666,9 @@
           "gated": true
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     }
   ],
@@ -70111,10 +70080,9 @@
           "gated": true
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -72965,10 +72933,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
@@ -73885,10 +73852,9 @@
           "category": "News"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "wire_agency",
       "categories": [
-        "general_news",
-        "government"
+        "general_news"
       ]
     },
     {
