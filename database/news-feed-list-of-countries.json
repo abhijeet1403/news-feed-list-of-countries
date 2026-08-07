@@ -1372,7 +1372,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -1389,7 +1389,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -1406,7 +1406,7 @@
           "category": "Data Protection Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -1422,9 +1422,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -1690,6 +1691,73 @@
           "uri": "https://www.who.com.au/feed/",
           "gated": false,
           "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "publication_name": "360info",
+      "publication_website_uri": "https://360info.org",
+      "category": "News",
+      "publication_type": "digital_native",
+      "categories": [
+        "general_news",
+        "news_politics"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://360info.org/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pedestrian.tv",
+      "publication_website_uri": "https://www.pedestrian.tv",
+      "category": "Entertainment",
+      "publication_type": "digital_native",
+      "categories": [
+        "entertainment",
+        "lifestyle"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.pedestrian.tv/feed",
+          "gated": false,
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "publication_name": "Newcastle Herald",
+      "publication_website_uri": "https://www.newcastleherald.com.au",
+      "category": "Regional News: Newcastle",
+      "publication_type": "newspaper",
+      "categories": [
+        "regional_news",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.newcastleherald.com.au/rss.xml",
+          "gated": false,
+          "category": "Regional News: Newcastle"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Guardian - AU",
+      "publication_website_uri": "https://www.theguardian.com",
+      "category": "News",
+      "publication_type": "newspaper",
+      "categories": [
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.theguardian.com/au/rss",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -2189,7 +2257,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -2205,7 +2273,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -2925,7 +2993,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -2958,9 +3026,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     }
   ],
@@ -3764,7 +3833,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -3781,7 +3850,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -5780,7 +5849,7 @@
           "category": "Medicines Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "health"
@@ -5813,7 +5882,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -5863,7 +5932,7 @@
           "category": "Energy Regulator Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -5879,7 +5948,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -7062,9 +7131,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -7078,7 +7148,7 @@
           "category": "Grain Trade Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -7158,7 +7228,7 @@
           "category": "Nuclear Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -7174,7 +7244,7 @@
           "category": "Broadcasting and Telecommunications Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -7238,7 +7308,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -7784,7 +7854,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -7801,7 +7871,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -7818,7 +7888,7 @@
           "category": "Data Protection Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -7834,7 +7904,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -7850,7 +7920,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -8532,7 +8602,7 @@
           "category": "Data Protection Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -8565,7 +8635,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -8582,9 +8652,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -8598,7 +8669,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -8614,7 +8685,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -8631,7 +8702,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -9167,7 +9238,7 @@
           "category": "Telecommunications Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -9247,9 +9318,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -9263,7 +9335,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -11571,7 +11643,7 @@
           "category": "Data Protection Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -11587,7 +11659,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -11603,7 +11675,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -11653,7 +11725,7 @@
           "category": "Medicines Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "health"
@@ -11670,9 +11742,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -12284,7 +12357,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -12301,7 +12374,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -12352,7 +12425,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -12368,7 +12441,7 @@
           "category": "Data Protection Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -12417,7 +12490,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -13227,7 +13300,7 @@
           "category": "Medicines Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "health"
@@ -13244,7 +13317,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -15268,7 +15341,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -15285,7 +15358,7 @@
           "category": "Medicines Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "health"
@@ -15340,7 +15413,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -15356,7 +15429,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -15987,7 +16060,7 @@
           "category": "Data Protection Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -16047,7 +16120,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -16063,7 +16136,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -16080,7 +16153,7 @@
           "category": "Medicines Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "health"
@@ -17513,7 +17586,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -17529,7 +17602,7 @@
           "category": "Data Protection Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -17545,9 +17618,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -17594,7 +17668,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -17611,7 +17685,7 @@
           "category": "Telecommunications Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -17851,6 +17925,39 @@
       "publication_rss_feed_uris": [
         {
           "uri": "https://www.parismatch.com/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Euronews",
+      "publication_website_uri": "https://www.euronews.com",
+      "category": "News",
+      "publication_type": "tv",
+      "categories": [
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.euronews.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Radio France Internationale",
+      "publication_website_uri": "https://www.rfi.fr",
+      "category": "News",
+      "publication_type": "radio",
+      "categories": [
+        "news_politics",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rfi.fr/fr/rss",
           "gated": false,
           "category": "News"
         }
@@ -18516,7 +18623,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -18533,7 +18640,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -18599,7 +18706,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -19242,7 +19349,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -19259,9 +19366,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -19372,7 +19480,7 @@
           "category": "Education Standards Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -19484,7 +19592,7 @@
           "category": "Medicines Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "health"
@@ -20283,25 +20391,6 @@
       ]
     },
     {
-      "publication_name": "The Week Junior Science+Nature",
-      "publication_website_uri": "https://www.theweekjunior.co.uk",
-      "category": "Science and Nature",
-      "publication_type": "magazine",
-      "categories": [
-        "kids_parenting",
-        "science_tech",
-        "hobbies",
-        "outdoors"
-      ],
-      "publication_rss_feed_uris": [
-        {
-          "uri": "https://www.theweekjunior.co.uk/rss",
-          "gated": false,
-          "category": "Science and Nature"
-        }
-      ]
-    },
-    {
       "publication_name": "The World of Cross Stitching",
       "publication_website_uri": "https://www.worldofcrossstitching.com",
       "category": "Hobbies",
@@ -20431,6 +20520,355 @@
           "uri": "https://www.womensfitness.co.uk/feed/",
           "gated": false,
           "category": "Health"
+        }
+      ]
+    },
+    {
+      "publication_name": "Belfast Live",
+      "publication_website_uri": "https://www.belfastlive.co.uk",
+      "category": "Regional News: Belfast",
+      "publication_type": "newspaper",
+      "categories": [
+        "regional_news",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.belfastlive.co.uk/rss.xml",
+          "gated": false,
+          "category": "Regional News: Belfast"
+        }
+      ]
+    },
+    {
+      "publication_name": "Birmingham Post",
+      "publication_website_uri": "https://www.birminghampost.co.uk",
+      "category": "Regional News: Birmingham",
+      "publication_type": "newspaper",
+      "categories": [
+        "regional_news",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.birminghampost.co.uk/rss.xml",
+          "gated": false,
+          "category": "Regional News: Birmingham"
+        }
+      ]
+    },
+    {
+      "publication_name": "Bristol Post",
+      "publication_website_uri": "https://bristolpost.co.uk",
+      "category": "Regional News: Bristol",
+      "publication_type": "newspaper",
+      "categories": [
+        "regional_news",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bristolpost.co.uk/rss.xml",
+          "gated": false,
+          "category": "Regional News: Bristol"
+        }
+      ]
+    },
+    {
+      "publication_name": "Chronicle Live",
+      "publication_website_uri": "https://chroniclelive.co.uk",
+      "category": "Regional News: Newcastle",
+      "publication_type": "newspaper",
+      "categories": [
+        "regional_news",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://chroniclelive.co.uk/rss.xml",
+          "gated": false,
+          "category": "Regional News: Newcastle"
+        }
+      ]
+    },
+    {
+      "publication_name": "Creative Bloq",
+      "publication_website_uri": "https://creativebloq.com",
+      "category": "Technology",
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://creativebloq.com/feed",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cycling Weekly",
+      "publication_website_uri": "https://www.cyclingweekly.com",
+      "category": "Sports",
+      "publication_type": "magazine",
+      "categories": [
+        "sports"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cyclingweekly.com/feeds.xml",
+          "gated": false,
+          "category": "Sports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Fit & Well",
+      "publication_website_uri": "https://www.fitandwell.com",
+      "category": "Health",
+      "publication_type": "magazine",
+      "categories": [
+        "health"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fitandwell.com/feeds.xml",
+          "gated": false,
+          "category": "Health"
+        }
+      ]
+    },
+    {
+      "publication_name": "Evening Standard",
+      "publication_website_uri": "https://www.standard.co.uk",
+      "category": "News",
+      "publication_type": "newspaper",
+      "categories": [
+        "general_news",
+        "regional_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.standard.co.uk/rss",
+          "gated": false,
+          "category": "Regional News: London"
+        }
+      ]
+    },
+    {
+      "publication_name": "Edinburgh Live",
+      "publication_website_uri": "https://www.edinburghlive.co.uk",
+      "category": "News",
+      "publication_type": "newspaper",
+      "categories": [
+        "regional_news",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.edinburghlive.co.uk/rss.xml",
+          "gated": false,
+          "category": "Regional News: Edinburgh"
+        }
+      ]
+    },
+    {
+      "publication_name": "Glasgow Live",
+      "publication_website_uri": "https://www.glasgowlive.co.uk",
+      "category": "Regional News: Glasgow",
+      "publication_type": "newspaper",
+      "categories": [
+        "regional_news",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.glasgowlive.co.uk/rss.xml",
+          "gated": false,
+          "category": "Regional News: Glasgow"
+        }
+      ]
+    },
+    {
+      "publication_name": "indy100",
+      "publication_website_uri": "https://www.indy100.com",
+      "category": "Entertainment",
+      "publication_type": "digital_native",
+      "categories": [
+        "entertainment",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.indy100.com/rss",
+          "gated": false,
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "publication_name": "International Business Times UK",
+      "publication_website_uri": "https://www.ibtimes.co.uk",
+      "category": "Business",
+      "publication_type": "digital_native",
+      "categories": [
+        "business",
+        "news_politics"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ibtimes.co.uk/rss",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "IT Pro",
+      "publication_website_uri": "https://www.itpro.com",
+      "category": "News",
+      "publication_type": "newspaper",
+      "categories": [
+        "science_tech",
+        "business"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://itpro.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Liverpool Echo",
+      "publication_website_uri": "https://www.liverpoolecho.co.uk",
+      "category": "Regional News: Liverpool",
+      "publication_type": "newspaper",
+      "categories": [
+        "regional_news",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://liverpoolecho.co.uk/rss.xml",
+          "gated": false,
+          "category": "Regional News: Liverpool"
+        }
+      ]
+    },
+    {
+      "publication_name": "MusicRadar",
+      "publication_website_uri": "https://www.musicradar.com",
+      "category": "Music",
+      "publication_type": "magazine",
+      "categories": [
+        "entertainment",
+        "hobbies"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.musicradar.com/feeds.xml",
+          "gated": false,
+          "category": "Music"
+        }
+      ]
+    },
+    {
+      "publication_name": "Nottingham Post",
+      "publication_website_uri": "https://www.nottinghampost.com",
+      "category": "Regional News: Nottingham",
+      "publication_type": "newspaper",
+      "categories": [
+        "regional_news",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.nottinghampost.com/rss.xml",
+          "gated": false,
+          "category": "Regional News: Nottingham"
+        }
+      ]
+    },
+    {
+      "publication_name": "T3",
+      "publication_website_uri": "https://www.t3.com",
+      "category": "Technology",
+      "publication_type": "magazine",
+      "categories": [
+        "science_tech"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.t3.com/feeds.xml",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
+    },
+    {
+      "publication_name": "TechRadar",
+      "publication_website_uri": "https://www.techradar.com",
+      "category": "Technology",
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.techradar.com/feeds.xml",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Guardian - UK",
+      "publication_website_uri": "https://www.theguardian.com",
+      "category": "News",
+      "publication_type": "newspaper",
+      "categories": [
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.theguardian.com/international/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Independent UK",
+      "publication_website_uri": "https://www.independent.co.uk",
+      "category": "News",
+      "publication_type": "newspaper",
+      "categories": [
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.independent.co.uk/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Total Film",
+      "publication_website_uri": "https://www.totalfilm.com",
+      "category": "Entertainment",
+      "publication_type": "magazine",
+      "categories": [
+        "entertainment"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gamesradar.com/feeds.xml",
+          "gated": false,
+          "category": "Entertainment"
         }
       ]
     }
@@ -23391,6 +23829,38 @@
           "category": "Style & Beauty"
         }
       ]
+    },
+    {
+      "publication_name": "Bored Panda",
+      "publication_website_uri": "https://boredpanda.com",
+      "category": "Entertainment",
+      "publication_type": "digital_native",
+      "categories": [
+        "entertainment"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://boredpanda.com/feed",
+          "gated": false,
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "publication_name": "GamesRadar",
+      "publication_website_uri": "https://www.gamesradar.com",
+      "category": "Entertainment",
+      "publication_type": "digital_native",
+      "categories": [
+        "entertainment"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.gamesradar.com/rss.xml",
+          "gated": false,
+          "category": "Entertainment"
+        }
+      ]
     }
   ],
   "GMB": [
@@ -23774,7 +24244,7 @@
           "category": "Medicines Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "health"
@@ -23935,7 +24405,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -24808,7 +25278,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -24825,7 +25295,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -24842,7 +25312,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -24858,7 +25328,7 @@
           "category": "Data Protection Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -24891,9 +25361,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -25349,7 +25820,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -25365,7 +25836,7 @@
           "category": "Data Protection Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -31118,7 +31589,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -31202,6 +31673,23 @@
       "publication_type": "government",
       "categories": [
         "government"
+      ]
+    },
+    {
+      "publication_name": "Top News",
+      "publication_website_uri": "https://www.topnews.in",
+      "category": "Business",
+      "publication_type": "digital_native",
+      "categories": [
+        "business",
+        "news_politics"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.topnews.in/rss.xml",
+          "gated": false,
+          "category": "Business"
+        }
       ]
     }
   ],
@@ -31599,7 +32087,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -31631,9 +32119,26 @@
           "category": "Other Regulator/Agency"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
+      ]
+    },
+    {
+      "publication_name": "Dublin Live",
+      "publication_website_uri": "https://www.dublinlive.ie",
+      "category": "News",
+      "publication_type": "newspaper",
+      "categories": [
+        "regional_news",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dublinlive.ie/rss.xml",
+          "gated": false,
+          "category": "Regional News: Dublin"
+        }
       ]
     }
   ],
@@ -32491,7 +32996,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -32558,9 +33063,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -32574,7 +33080,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -33399,7 +33905,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -33416,7 +33922,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -33433,7 +33939,7 @@
           "category": "Data Protection Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -33449,7 +33955,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -33536,7 +34042,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -34485,7 +34991,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -34502,7 +35008,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -34552,7 +35058,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -36040,7 +36546,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -36057,7 +36563,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -36074,7 +36580,7 @@
           "category": "Data Protection Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -36804,9 +37310,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -36820,7 +37327,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -38888,7 +39395,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -38905,7 +39412,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -38922,7 +39429,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -39447,7 +39954,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -40265,9 +40772,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -40297,7 +40805,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -41407,7 +41915,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -42082,7 +42590,7 @@
           "category": "Data Protection Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -42098,7 +42606,7 @@
           "category": "Other Regulator/Agency"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -45066,9 +45574,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -45708,7 +46217,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -45725,7 +46234,7 @@
           "category": "Data Protection Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -45746,7 +46255,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -45810,7 +46319,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -47333,7 +47842,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -47350,7 +47859,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -47389,7 +47898,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -47421,9 +47930,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -47437,7 +47947,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -48217,7 +48727,7 @@
           "category": "Data Protection Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -48233,9 +48743,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -48855,6 +49366,22 @@
       "publication_type": "tv",
       "categories": [
         "general_news"
+      ]
+    },
+    {
+      "publication_name": "The Fashion Central",
+      "publication_website_uri": "https://www.fashioncentral.pk",
+      "category": "Fashion",
+      "publication_type": "digital_native",
+      "categories": [
+        "style_beauty"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.fashioncentral.pk/feed/",
+          "gated": false,
+          "category": "Fashion"
+        }
       ]
     }
   ],
@@ -50220,7 +50747,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -50254,9 +50781,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -50744,7 +51272,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -50761,7 +51289,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -50778,7 +51306,7 @@
           "category": "Energy Regulatory Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -50827,7 +51355,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -52496,9 +53024,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -52512,7 +53041,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -52529,7 +53058,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -54685,7 +55214,7 @@
           "category": "Data Protection Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -54701,7 +55230,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -55078,7 +55607,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -55095,7 +55624,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -55129,7 +55658,7 @@
           "category": "Medicines Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "health"
@@ -55475,7 +56004,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -55846,7 +56375,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -55863,7 +56392,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -55897,7 +56426,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -55913,7 +56442,7 @@
           "category": "Data Protection Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -55929,9 +56458,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -57184,9 +57714,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     },
     {
@@ -57200,7 +57731,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -60844,7 +61375,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -60861,7 +61392,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -60878,7 +61409,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -60911,7 +61442,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -60960,7 +61491,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -61041,7 +61572,7 @@
           "category": "Medicines Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "health"
@@ -62578,6 +63109,738 @@
           "uri": "https://www.womenshealthmag.com/rss/all.xml",
           "gated": false,
           "category": "Health"
+        }
+      ]
+    },
+    {
+      "publication_name": "AVNetwork",
+      "publication_website_uri": "https://www.avnetwork.com",
+      "category": "Technology",
+      "publication_type": "magazine",
+      "categories": [
+        "science_tech"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.avnetwork.com/rss.xml",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
+    },
+    {
+      "publication_name": "Axios",
+      "publication_website_uri": "https://www.axios.com",
+      "category": "News",
+      "publication_type": "digital_native",
+      "categories": [
+        "general_news",
+        "news_politics"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://api.axios.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Beating Broke",
+      "publication_website_uri": "https://www.beatingbroke.com",
+      "category": "Lifestyle",
+      "publication_type": "digital_native",
+      "categories": [
+        "lifestyle",
+        "business"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.beatingbroke.com/feed/",
+          "gated": false,
+          "category": "Lifestyle"
+        }
+      ]
+    },
+    {
+      "publication_name": "Blogging Away Debt",
+      "publication_website_uri": "https://bloggingawaydebt.com",
+      "category": "Business",
+      "publication_type": "digital_native",
+      "categories": [
+        "business"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://bloggingawaydebt.com/feed",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "Budget and the Bees",
+      "publication_website_uri": "https://budgetandthebees.com",
+      "category": "Business",
+      "publication_type": "digital_native",
+      "categories": [
+        "business"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://budgetandthebees.com/feed",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "Capital & Main",
+      "publication_website_uri": "https://capitalandmain.com",
+      "category": "News",
+      "publication_type": "digital_native",
+      "categories": [
+        "news_politics",
+        "business"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://capitalandmain.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cinemablend",
+      "publication_website_uri": "https://cinemablend.com",
+      "category": "Entertainment",
+      "publication_type": "digital_native",
+      "categories": [
+        "entertainment"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cinemablend.com/rss.xml",
+          "gated": false,
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "publication_name": "Clever Dude",
+      "publication_website_uri": "https://cleverdude.com",
+      "category": "Business",
+      "publication_type": "digital_native",
+      "categories": [
+        "business"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cleverdude.com/feed",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "Destructoid",
+      "publication_website_uri": "https://www.destructoid.com",
+      "category": "Entertainment",
+      "publication_type": "digital_native",
+      "categories": [
+        "entertainment"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.destructoid.com/feed/",
+          "gated": true,
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "publication_name": "Dinks Finance",
+      "publication_website_uri": "https://www.dinksfinance.com",
+      "category": "Business",
+      "publication_type": "digital_native",
+      "categories": [
+        "business"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dinksfinance.com/feed",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "Dot Esports",
+      "publication_website_uri": "https://www.dotesports.com",
+      "category": "Entertainment",
+      "publication_type": "digital_native",
+      "categories": [
+        "entertainment"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.dotesports.com/feed",
+          "gated": true,
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "publication_name": "Foreign Affairs",
+      "publication_website_uri": "https://www.foreignaffairs.com",
+      "category": "News",
+      "publication_type": "magazine",
+      "categories": [
+        "general_news",
+        "opinion"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.foreignaffairs.com/rss.xml",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Frugal Gardening",
+      "publication_website_uri": "https://frugalgardening.com",
+      "category": "Home & Garden",
+      "publication_type": "digital_native",
+      "categories": [
+        "home_garden",
+        "lifestyle"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.frugalgardening.com/feed",
+          "gated": false,
+          "category": "Home & Garden"
+        }
+      ]
+    },
+    {
+      "publication_name": "Grocery Coupon Guide",
+      "publication_website_uri": "https://www.grocerycouponguide.com",
+      "category": "Lifestyle",
+      "publication_type": "digital_native",
+      "categories": [
+        "lifestyle",
+        "other"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.grocerycouponguide.com/feed/",
+          "gated": false,
+          "category": "Lifestyle"
+        }
+      ]
+    },
+    {
+      "publication_name": "InsideEVs",
+      "publication_website_uri": "https://insideevs.com",
+      "category": "Cars",
+      "publication_type": "digital_native",
+      "categories": [
+        "cars",
+        "science_tech"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://insideevs.com/feed",
+          "gated": false,
+          "category": "Cars"
+        }
+      ]
+    },
+    {
+      "publication_name": "International Business Times",
+      "publication_website_uri": "https://www.ibtimes.com",
+      "category": "Business",
+      "publication_type": "digital_native",
+      "categories": [
+        "business",
+        "news_politics"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.ibtimes.com/rss",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "Inverse",
+      "publication_website_uri": "https://www.inverse.com",
+      "category": "News",
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://inverse.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Latin Times",
+      "publication_website_uri": "https://www.latintimes.com",
+      "category": "News",
+      "publication_type": "digital_native",
+      "categories": [
+        "news_politics",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://latintimes.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "LiveScience",
+      "publication_website_uri": "https://www.livescience.com",
+      "category": "News",
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://livescience.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Marie Claire",
+      "publication_website_uri": "https://www.marieclaire.com",
+      "category": "News",
+      "publication_type": "magazine",
+      "categories": [
+        "womens_lifestyle",
+        "style_beauty"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://marieclaire.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "MarketBeat",
+      "publication_website_uri": "https://www.marketbeat.com",
+      "category": "News",
+      "publication_type": "digital_native",
+      "categories": [
+        "business",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://marketbeat.com/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Medical Daily",
+      "publication_website_uri": "https://www.medicaldaily.com",
+      "category": "News",
+      "publication_type": "digital_native",
+      "categories": [
+        "health",
+        "science_tech"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://medicaldaily.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Mic",
+      "publication_website_uri": "https://www.mic.com",
+      "category": "News",
+      "publication_type": "digital_native",
+      "categories": [
+        "news_politics",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://mic.com/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Newlyweds on a Budget",
+      "publication_website_uri": "https://www.newlywedsonabudget.com",
+      "category": "Lifestyle",
+      "publication_type": "digital_native",
+      "categories": [
+        "lifestyle",
+        "home_garden"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.newlywedsonabudget.com/feed",
+          "gated": false,
+          "category": "Lifestyle"
+        }
+      ]
+    },
+    {
+      "publication_name": "RideApart",
+      "publication_website_uri": "https://www.rideapart.com",
+      "category": "Automotive",
+      "publication_type": "digital_native",
+      "categories": [
+        "cars",
+        "lifestyle"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.rideapart.com/rss/news/all/",
+          "gated": false,
+          "category": "Automotive"
+        }
+      ]
+    },
+    {
+      "publication_name": "Roll Call",
+      "publication_website_uri": "https://rollcall.com",
+      "category": "Politics",
+      "publication_type": "newspaper",
+      "categories": [
+        "news_politics"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://rollcall.com/feed/",
+          "gated": false,
+          "category": "Politics"
+        }
+      ]
+    },
+    {
+      "publication_name": "Salon",
+      "publication_website_uri": "https://www.salon.com",
+      "category": "News",
+      "publication_type": "digital_native",
+      "categories": [
+        "general_news",
+        "opinion",
+        "entertainment"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.salon.com/feed",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Space",
+      "publication_website_uri": "https://www.space.com",
+      "category": "Science",
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.space.com/feeds.xml",
+          "gated": false,
+          "category": "Science"
+        }
+      ]
+    },
+    {
+      "publication_name": "Plunged in Debt",
+      "publication_website_uri": "https://www.plungedindebt.com",
+      "category": "Business",
+      "publication_type": "digital_native",
+      "categories": [
+        "business"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://plungedindebt.com/feed/",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "Pro Game Guides",
+      "publication_website_uri": "https://progameguides.com",
+      "category": "Gaming",
+      "publication_type": "digital_native",
+      "categories": [
+        "entertainment",
+        "hobbies"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://progameguides.com/feed/",
+          "gated": true,
+          "category": "Gaming"
+        }
+      ]
+    },
+    {
+      "publication_name": "SuperWest Sports",
+      "publication_website_uri": "https://www.superwestsports.com",
+      "category": "Sports",
+      "publication_type": "digital_native",
+      "categories": [
+        "sports"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://superwestsports.com/feed/",
+          "gated": false,
+          "category": "Sports"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tech&Learning",
+      "publication_website_uri": "https://www.techlearning.com",
+      "category": "Technology",
+      "publication_type": "magazine",
+      "categories": [
+        "science_tech",
+        "education"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.techlearning.com/feeds.xml",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Guardian - US",
+      "publication_website_uri": "https://www.theguardian.com",
+      "category": "News",
+      "publication_type": "newspaper",
+      "categories": [
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.theguardian.com/us-news/rss",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Mary Sue",
+      "publication_website_uri": "https://www.themarysue.com",
+      "category": "Entertainment",
+      "publication_type": "digital_native",
+      "categories": [
+        "entertainment",
+        "news_politics"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.themarysue.com/feed/",
+          "gated": true,
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "publication_name": "The Texas Tribune",
+      "publication_website_uri": "https://www.texastribune.org",
+      "category": "News",
+      "publication_type": "digital_native",
+      "categories": [
+        "news_politics",
+        "general_news"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.texastribune.org/feed/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "Thousandaire",
+      "publication_website_uri": "https://www.thousandaire.com",
+      "category": "Business",
+      "publication_type": "digital_native",
+      "categories": [
+        "business",
+        "lifestyle"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.thousandaire.com/feed/",
+          "gated": false,
+          "category": "Business"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tom's Guide",
+      "publication_website_uri": "https://www.tomsguide.com",
+      "category": "Technology",
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tomsguide.com/rss/",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
+    },
+    {
+      "publication_name": "Tom's Hardware",
+      "publication_website_uri": "https://www.tomshardware.com",
+      "category": "Technology",
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tomshardware.com/feeds.xml",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
+    },
+    {
+      "publication_name": "TV Technology",
+      "publication_website_uri": "https://www.tvtechnology.com",
+      "category": "Technology",
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech",
+        "entertainment"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.tvtechnology.com/feeds.xml",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
+    },
+    {
+      "publication_name": "USAFacts",
+      "publication_website_uri": "https://usafacts.org",
+      "category": "News",
+      "publication_type": "other",
+      "categories": [
+        "general_news",
+        "government"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://usafacts.org/rss/",
+          "gated": false,
+          "category": "News"
+        }
+      ]
+    },
+    {
+      "publication_name": "We Got This Covered",
+      "publication_website_uri": "https://wegotthiscovered.com",
+      "category": "Entertainment",
+      "publication_type": "digital_native",
+      "categories": [
+        "entertainment"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://wegotthiscovered.com/feed/",
+          "gated": true,
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "publication_name": "What To Watch",
+      "publication_website_uri": "https://www.whattowatch.com",
+      "category": "Entertainment",
+      "publication_type": "digital_native",
+      "categories": [
+        "entertainment"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.whattowatch.com/feeds.xml",
+          "gated": false,
+          "category": "Entertainment"
+        }
+      ]
+    },
+    {
+      "publication_name": "Windows Central",
+      "publication_website_uri": "https://www.windowscentral.com",
+      "category": "Technology",
+      "publication_type": "digital_native",
+      "categories": [
+        "science_tech",
+        "business"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.windowscentral.com/feeds.xml",
+          "gated": false,
+          "category": "Technology"
+        }
+      ]
+    },
+    {
+      "publication_name": "Zenger",
+      "publication_website_uri": "https://zenger.news",
+      "category": "News",
+      "publication_type": "wire_agency",
+      "categories": [
+        "general_news",
+        "news_politics"
+      ],
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://zenger.news/feed/",
+          "gated": false,
+          "category": "News"
         }
       ]
     }
@@ -64579,7 +65842,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -64629,7 +65892,7 @@
           "category": "Energy Regulatory Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
@@ -70689,9 +71952,10 @@
           "category": "Food Safety Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
-        "government"
+        "government",
+        "health"
       ]
     }
   ],
@@ -72825,7 +74089,7 @@
           "category": "Financial Regulator"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -72859,7 +74123,7 @@
           "category": "Competition Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government",
         "business"
@@ -72876,7 +74140,7 @@
           "category": "Cyber Security Authority"
         }
       ],
-      "publication_type": "government",
+      "publication_type": "regulator",
       "categories": [
         "government"
       ]
