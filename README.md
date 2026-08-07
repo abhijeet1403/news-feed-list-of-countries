@@ -293,7 +293,7 @@
 - ✅ [Revista Monitor](https://monitor.al) - [Feed](https://monitor.al/feed) - English
 - ✅ [ShkodraWeb](https://www.shkodraweb.com) - [Feed](https://www.shkodraweb.com/feed/) - English
 - ❌ [RTSH Shkodra](https://www.rtsh-shkodra.live) - [Feed](https://www.rtsh-shkodra.live/feed/)
-- ✅ [Shkodra Sport](https://www.shkodrasport.com) - [Feed](https://www.shkodrasport.com/feed/) - English
+- ❌ [Shkodra Sport](https://www.shkodrasport.com) - [Feed](https://www.shkodrasport.com/feed/)
 - ✅ [Euronews Albania](https://euronews.al) - [Feed](https://euronews.al/feed/) - Albanian
 - ✅ [Gazeta Si](https://gazetasi.al) - [Feed](https://gazetasi.al/feed/) - Albanian
 - ✅ [Citizens Channel](https://citizens.al) - [Feed](https://citizens.al/feed/) - English
@@ -308,7 +308,7 @@
 - ✅ [El Bilad](https://www.elbilad.net) News - [Feed](https://www.elbilad.net/feed) - French
 - ❌ [Le Quotidien d'Oran](https://www.lequotidien-oran.dz) Regional News: Oran - [Feed](https://lequotidien-oran.dz/rss.xml)
 - ✅ [Le Matin d'Algérie](https://lematindalgerie.com) News - [Feed](https://lematindalgerie.com/feed/) - French
-- ❌ [Le Jour d'Algérie](https://www.lejourdalgerie.com) News - [Feed](https://www.lejourdalgerie.com/feed/)
+- ✅ [Le Jour d'Algérie](https://www.lejourdalgerie.com) News - [Feed](https://www.lejourdalgerie.com/feed/) - French
 - ✅ [ObservAlgérie](https://observalgerie.com) News - [Feed](https://observalgerie.com/feed/) - French
 - ✅ [Algérie Patriotique](https://www.algeriepatriotique.com) News - [Feed](https://algeriepatriotique.com/feed/) - French
 - ✅ [Maghreb Émergent](https://maghrebemergent.news) Business - [Feed](https://maghrebemergent.news/fr/feed/) - French
@@ -453,10 +453,14 @@
 - ✅ [ELLE Australia](https://www.elle.com.au) Style & Beauty - [Feed](https://www.elle.com.au/feed/) - English
 - ✅ [Gourmet Traveller](https://www.gourmettraveller.com.au) Food & Travel - [Feed](https://www.gourmettraveller.com.au/feed/) - English
 - ✅ [Home Beautiful](https://www.homebeautiful.com.au) Home & Design - [Feed](https://www.homebeautiful.com.au/feed/) - English
-- ❌ [marie claire Australia](https://www.marieclaire.com.au) Style & Beauty - [Feed](https://www.marieclaire.com.au/feed)
+- ✅ [marie claire Australia](https://www.marieclaire.com.au) Style & Beauty - [Feed](https://www.marieclaire.com.au/feed) - English
 - ✅ [New Idea](https://www.newidea.com.au) Lifestyle - [Feed](https://www.newidea.com.au/feed/) - English
 - ✅ [The West Australian](https://thewest.com.au) Regional News: Perth - [Feed](https://thewest.com.au/feed/) - English
 - ✅ [Who](https://www.who.com.au) Entertainment - [Feed](https://www.who.com.au/feed/) - English
+- ❌ [360info](https://360info.org) News - [Feed](https://360info.org/feed/)
+- ✅ [Pedestrian.tv](https://www.pedestrian.tv) Entertainment - [Feed](https://www.pedestrian.tv/feed) - English
+- ✅ [Newcastle Herald](https://www.newcastleherald.com.au) Regional News: Newcastle - [Feed](https://www.newcastleherald.com.au/rss.xml) - English
+- ✅ [The Guardian - AU](https://www.theguardian.com) News - [Feed](https://www.theguardian.com/au/rss) - English
 
 ## Austria
 
@@ -467,7 +471,7 @@
 - ❌ [Vorarlberg Online](http://vol.at/) - [Feed](http://www.vol.at/rss/tp:vol:vorarlberg)
 - ✅ [Tiroler Tageszeitung](http://tt.com/) - [Feed](http://www.tt.com/rss/news.xml) - German
 - ✅ [LAOLA1.at](http://laola1.at/) - [Feed](https://www.laola1.at/templates/generated/1/xml/rss/newsRSS.xml) - German
-- ✅ [Vienna.at](http://vienna.at/) - [Feed](http://www.vienna.at/rss/om:vienna:bezirk:1200) - German
+- ❌ [Vienna.at](http://vienna.at/) - [Feed](http://www.vienna.at/rss/om:vienna:bezirk:1200)
 - ❌ [ORF](https://orf.at) News - [Feed](https://rss.orf.at/news.xml)
 - ✅ [Der Standard](https://www.derstandard.at) News - [Feed](https://www.derstandard.at/rss) - German
 - ✅ [Wiener Zeitung](https://www.wienerzeitung.at) News - [Feed](https://www.wienerzeitung.at/rss.xml) - German
@@ -518,7 +522,7 @@
 - ✅ [Bahamas local](http://bahamaslocal.com/) - [Feed](http://bahamaspress.com/category/news/feed/) - English
 - ✅ [The Tribune](https://www.tribune242.com/) News - [Feed](https://www.tribune242.com/rss/headlines/) - English
 - ✅ [Eye Witness News](https://ewnews.com/) News - [Feed](https://ewnews.com/feed/) - English
-- ✅ [Our News](https://ournews.bs/) News - [Feed](https://ournews.bs/feed/) - English
+- ❌ [Our News](https://ournews.bs/) News - [Feed](https://ournews.bs/feed/)
 - ✅ [ZNS Bahamas](https://znsbahamas.com/) News - [Feed](https://znsbahamas.com/feed/) - English
 
 ## Bahrain
@@ -535,7 +539,7 @@
 
 ## Bangladesh
 
-- ✅ [Jagonews24.com](https://www.jagonews24.com/) - [Feed](https://www.jagonews24.com/rss/rss.xml) - Swedish
+- ✅ [Jagonews24.com](https://www.jagonews24.com/) - [Feed](https://www.jagonews24.com/rss/rss.xml)
 - ✅ [প্রথম আলো](https://www.prothomalo.com/) - [Feed](https://www.prothomalo.com/feed/) - Bangla
 - ❌ [The Daily Star](https://www.thedailystar.net) News - [Feed](https://www.thedailystar.net/rss.xml)
 - ❌ [The Financial Express](https://thefinancialexpress.com.bd) Business - [Feed](https://today.thefinancialexpress.com.bd/feed)
@@ -546,17 +550,17 @@
 - ✅ [Daily Bangladesh](https://www.daily-bangladesh.com) News - [Feed](https://www.daily-bangladesh.com/rss/rss.xml)
 - ✅ [Channel i Online](https://www.channelionline.com) News - [Feed](https://www.channelionline.com/feed/) - Bangla
 - ✅ [BD24Live](https://www.bd24live.com) News - [Feed](https://www.bd24live.com/feed) - English
-- ✅ [Somoy News](https://www.somoynews.tv) News - [Feed](https://www.somoynews.tv/rss.xml) - Swedish
+- ✅ [Somoy News](https://www.somoynews.tv) News - [Feed](https://www.somoynews.tv/rss.xml)
 - ✅ [Dainik Azadi (দৈনিক আজাদী)](https://dainikazadi.net) Regional News: Chittagong - [Feed](https://dainikazadi.net/feed/) - English
 - ✅ [Dainik Purbokone (দৈনিক পূর্বকোণ)](https://dainikpurbokone.net) Regional News: Chittagong - [Feed](https://dainikpurbokone.net/feed/) - English
 - ❌ [Sylhet Today 24](https://www.sylhettoday24.com) Regional News: Sylhet - [Feed](https://www.sylhettoday24.com/feed/)
 - ✅ [Dainik Sylhet (দৈনিক সিলেট)](https://dainiksylhet.com) Regional News: Sylhet - [Feed](https://dainiksylhet.com/feed/) - English
-- ❌ [Sonali Sangbad (সোনালী সংবাদ)](https://sonalisangbad.com) Regional News: Rajshahi - [Feed](https://sonalisangbad.com/feed/)
+- ✅ [Sonali Sangbad (সোনালী সংবাদ)](https://sonalisangbad.com) Regional News: Rajshahi - [Feed](https://sonalisangbad.com/feed/) - English
 - ✅ [Khulna Gazette](https://khulnagazette.com) Regional News: Khulna - [Feed](https://khulnagazette.com/feed/) - English
 
 ## Barbados
 
-- ✅ [Nation News](http://www.nationnews.com/) - [Feed](http://www.nationnews.com/feed/rss) - English
+- ❌ [Nation News](http://www.nationnews.com/) - [Feed](http://www.nationnews.com/feed/rss)
 - ✅ [Voice of Barbados](http://vob929.ocmnet.net/) - [Feed](http://www.theguardian.com/world/barbados/rss) - English
 - ✅ [Barbados Today](http://barbadostoday.bb/) - [Feed](http://www.barbadostoday.bb/feed/) - English
 - ✅ [Caribbean Broadcasting Corporation (CBC Barbados)](https://www.cbc.bb) News - [Feed](https://www.cbc.bb/feed/) - English
@@ -621,7 +625,7 @@
 - ✅ [24 Heures au Benin](https://www.24haubenin.info/) News - [Feed](https://www.24haubenin.info/spip.php?page=backend) - French
 - ❌ [L'Integration](https://l-integration.com/) News - [Feed](https://l-integration.com/feed/)
 - ❌ [Benin Site](https://beninsite.net/) News - [Feed](https://beninsite.net/feed/)
-- ✅ [Visages du Benin](https://visages-du-benin.com/) News - [Feed](https://visages-du-benin.com/feed/) - French
+- ❌ [Visages du Benin](https://visages-du-benin.com/) News - [Feed](https://visages-du-benin.com/feed/)
 - ✅ [L'Economiste du Benin](https://leconomistebenin.com/) Business - [Feed](https://leconomistebenin.com/?feed=rss2) - French
 
 ## Bermuda
@@ -671,7 +675,7 @@
 - ✅ [Dnevni avaz](https://avaz.ba/) - [Feed](https://avaz.ba/rss) - Bosnian
 - ✅ [Istraga](https://istraga.ba/) - [Feed](https://istraga.ba/rss) - Bosnian
 - ✅ [Klix.ba](https://www.klix.ba/) - [Feed](https://www.klix.ba/rss) - Bosnian
-- ✅ [N1 BiH](https://n1info.ba/) - [Feed](https://n1info.ba/feed/) - Croatian
+- ✅ [N1 BiH](https://n1info.ba/) - [Feed](https://n1info.ba/feed/) - Bosnian
 - ✅ [Vijesti](https://www.vijesti.ba) News - [Feed](https://www.vijesti.ba/rss) - Croatian
 - ❌ [Fokus](https://www.fokus.ba) News - [Feed](https://www.fokus.ba/rss)
 - ✅ [24sata](https://24sata.info) News - [Feed](https://24sata.info/rss) - Bosnian
@@ -696,7 +700,7 @@
 
 ## Botswana
 
-- ✅ [The Voice](https://thevoicebw.com/) - [Feed](https://thevoicebw.com/feed) - English
+- ❌ [The Voice](https://thevoicebw.com/) - [Feed](https://thevoicebw.com/feed)
 - ❌ [Sunday Standard](https://www.sundaystandard.info/) - [Feed](https://www.sundaystandard.info/feed)
 - ✅ [The Botswana Gazette](https://www.thegazette.news/) - [Feed](https://www.thegazette.news/feed) - English
 - ❌ [Botswana Unplugged](https://botswanaunplugged.com/) - [Feed](https://botswanaunplugged.com/feed)
@@ -777,7 +781,7 @@
 - ✅ [Senado Federal (Agência Senado)](https://www12.senado.leg.br) Parliament - [Feed](https://www12.senado.leg.br/noticias/rss.xml) - Portuguese
 - ✅ [Agência SP (Governo do Estado de São Paulo)](https://www.agenciasp.sp.gov.br) Government News: São Paulo - [Feed](https://www.agenciasp.sp.gov.br/feed) - Portuguese
 - ❌ [Agência Goiás de Notícias (Governo do Estado de Goiás)](https://agencia.go.gov.br) Government News: Goiás - [Feed](https://agencia.go.gov.br/feed)
-- ❌ [Prefeitura Municipal de Salvador](https://www.salvador.ba.gov.br) Government News: Salvador - [Feed](https://www.salvador.ba.gov.br/feed)
+- ✅ [Prefeitura Municipal de Salvador](https://www.salvador.ba.gov.br) Government News: Salvador - [Feed](https://www.salvador.ba.gov.br/feed) - Portuguese
 - ✅ [Prefeitura Municipal de Manaus](https://www.manaus.am.gov.br) Government News: Manaus - [Feed](https://www.manaus.am.gov.br/feed) - Portuguese
 
 ## Brunei Darussalam
@@ -802,7 +806,7 @@
 - ❌ [E-Vestnik](https://www.e-vestnik.bg) News - [Feed](https://www.e-vestnik.bg/rss)
 - ✅ [Pravda](https://www.pravda.bg) News - [Feed](https://www.pravda.bg/rss) - Bulgarian
 - ❌ [Glas.bg](https://www.glas.bg) News - [Feed](https://www.glas.bg/rss)
-- ✅ [Novinar.bg](https://www.novinar.bg) News - [Feed](https://www.novinar.bg/rss) - Bulgarian
+- ❌ [Novinar.bg](https://www.novinar.bg) News - [Feed](https://www.novinar.bg/rss)
 - ✅ [BNews](https://www.bnews.bg) News - [Feed](https://www.bnews.bg/rss) - Bulgarian
 - ❌ [RBB](https://rbb.bg) News - [Feed](https://rbb.bg/rss)
 - ✅ [Actualno](https://www.actualno.com) News - [Feed](https://www.actualno.com/rss) - Bulgarian
@@ -828,7 +832,7 @@
 
 - ✅ [Aujourd'hui au Faso](https://aujourd8.net) - [Feed](https://aujourd8.net/feed) - French
 - ✅ [Burkina24](https://burkina24.com) - [Feed](https://burkina24.com/feed) - French
-- ✅ [Journal du Faso](https://journaldufaso.com) - [Feed](https://journaldufaso.com/feed) - French
+- ❌ [Journal du Faso](https://journaldufaso.com) - [Feed](https://journaldufaso.com/feed)
 - ✅ [Le Pays](https://lepays.bf) - [Feed](https://lepays.bf/feed) - French
 - ❌ [L'Express du Faso](https://lexpressdufaso-bf.com) - [Feed](https://lexpressdufaso-bf.com/feed)
 - ✅ [Pravda Burkina Faso](https://news-pravda.com) - [Feed](https://news-pravda.com/rss.xml) - English
@@ -840,7 +844,7 @@
 - ✅ [Sidwaya](https://www.sidwaya.info) News (French) - [Feed](https://www.sidwaya.info/feed/) - French
 - ✅ [Agence d'Information du Burkina (AIB)](https://www.aib.media) News (French) - [Feed](https://www.aib.media/feed/) - French
 - ✅ [Wakat Sera](https://www.wakatsera.com) News (French) - [Feed](https://www.wakatsera.com/feed/) - French
-- ❌ [NetAfrique](https://netafrique.net) News (French) - [Feed](https://netafrique.net/feed/)
+- ✅ [NetAfrique](https://netafrique.net) News (French) - [Feed](https://netafrique.net/feed/) - French
 - ✅ [Radiodiffusion Television du Burkina (RTB)](https://www.rtb.bf) News (French) - [Feed](https://www.rtb.bf/feed/) - French
 - ✅ [Minute.bf](https://www.minute.bf) News (French) - [Feed](https://minute.bf/feed/) - French
 - ✅ [Libreinfo.net](https://libreinfo.net) News (French) - [Feed](https://www.libreinfo.net/feed/) - French
@@ -855,13 +859,13 @@
 - ✅ [Burundi Eco](https://burundi-eco.com) Business - [Feed](https://burundi-eco.com/feed/) - French
 - ❌ [Agence Burundaise de Presse (ABP)](https://abpinfo.bi) News - [Feed](https://abpinfo.bi/feed/)
 - ✅ [Le Renouveau du Burundi](https://lerenouveau.bi) News - [Feed](https://lerenouveau.bi/feed/) - French
-- ❌ [Jimbere Magazine](https://www.jimberemag.org) News - [Feed](https://www.jimberemag.org/feed/)
+- ✅ [Jimbere Magazine](https://www.jimberemag.org) News - [Feed](https://www.jimberemag.org/feed/) - French
 - ❌ [Burundi Agnews](https://burundi-agnews.org) News - [Feed](https://burundi-agnews.org/feed/)
 
 ## Cambodia
 
 - ✅ [RFI Khmer](http://khmer.rfi.fr/) - [Feed](http://www.khmer.rfi.fr/cambodia/rss) - Khmer
-- ✅ [The Phnom Penh Post](https://phnompenhpost.com) News - [Feed](https://phnompenhpost.com/feed/) - English
+- ❌ [The Phnom Penh Post](https://phnompenhpost.com) News - [Feed](https://phnompenhpost.com/feed/)
 - ✅ [CamboJA News](https://cambojanews.com) News - [Feed](https://cambojanews.com/feed/) - English
 - ✅ [VOD Khmer](https://vodkhmer.news) News - [Feed](https://vodkhmer.news/feed/) - English
 - ❌ [The Cambodia Daily](https://english.cambodiadaily.com) News - [Feed](https://english.cambodiadaily.com/feed/)
@@ -881,7 +885,7 @@
 - ✅ [Journal du Cameroun](https://www.journalducameroun.com/) News - [Feed](https://en.journalducameroun.com/feed/) - English
 - ✅ [Actu Cameroun](https://actucameroun.com/) News - [Feed](https://actucameroun.com/feed/) - French
 - ✅ [Cameroon-Info.net](https://www.camerooninfo.net/) News - [Feed](https://www.camerooninfo.net/feed) - French
-- ❌ [Mimi Mefo Info](https://mimimefoinfos.com/) News - [Feed](https://mimimefoinfos.com/feed/)
+- ✅ [Mimi Mefo Info](https://mimimefoinfos.com/) News - [Feed](https://mimimefoinfos.com/feed/) - English
 - ✅ [237 Actu](https://237actu.com/) News - [Feed](https://237actu.com/feed/) - French
 - ❌ [DataCameroon](https://datacameroon.com/) News - [Feed](https://datacameroon.com/feed/)
 - ❌ [Cameroon News Agency](https://cameroonnewsagency.com/) News (English) - [Feed](https://cameroonnewsagency.com/feed/)
@@ -934,12 +938,12 @@
 - ✅ [The Kingston Whig-Standard](https://www.thewhig.com/) News - [Feed](https://www.thewhig.com/feed/) - English
 - ✅ [London Free Press](https://www.lfpress.com/) News - [Feed](https://www.lfpress.com/feed/) - English
 - ✅ [Brandon Sun](https://www.brandonsun.com/) Regional News - [Feed](https://www.brandonsun.com/feed) - English
-- ❌ [Sudbury Star](https://www.sudburystar.com/) Regional News - [Feed](https://www.sudburystar.com/feed/)
-- ✅ [Sault Ste. Marie Star](https://www.saultstar.com/) Regional News - [Feed](https://www.saultstar.com/feed/) - English
+- ✅ [Sudbury Star](https://www.sudburystar.com/) Regional News - [Feed](https://www.sudburystar.com/feed/) - English
+- ❌ [Sault Ste. Marie Star](https://www.saultstar.com/) Regional News - [Feed](https://www.saultstar.com/feed/)
 - ✅ [Belleville Intelligencer](https://www.intelligencer.ca/) News - [Feed](https://www.intelligencer.ca/feed/) - English
 - ✅ [Brockville Recorder & Times](https://www.recorder.ca/) News - [Feed](https://www.recorder.ca/feed/) - English
 - ✅ [Medicine Hat News](https://www.medicinehatnews.com/) News - [Feed](https://www.medicinehatnews.com/feed/) - English
-- ❌ [Le Soleil](https://www.lesoleil.com/) News - [Feed](https://www.lesoleil.com/arc/outboundfeeds/rss/?outputType=xml)
+- ✅ [Le Soleil](https://www.lesoleil.com/) News - [Feed](https://www.lesoleil.com/arc/outboundfeeds/rss/?outputType=xml) - French
 - ✅ [Sherbrooke Record](https://www.sherbrookerecord.com/) News - [Feed](https://www.sherbrookerecord.com/feed/) - English
 - ✅ [Le Nouvelliste](https://www.lenouvelliste.ca/) News - [Feed](https://www.lenouvelliste.ca/arc/outboundfeeds/rss/?outputType=xml) - French
 - ❌ [Canadaland](https://www.canadaland.com/) News - [Feed](https://www.canadaland.com/feed/)
@@ -981,7 +985,7 @@
 - ❌ [Department of Finance Canada](https://www.canada.ca) Government News - [Feed](https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentfinance&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Department%20of%20Finance%20Canada)
 - ❌ [Department of Justice Canada](https://www.canada.ca) Government News - [Feed](https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentjustice&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Department%20of%20Justice%20Canada)
 - ❌ [Employment and Social Development Canada](https://www.canada.ca) Government News - [Feed](https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofemploymentandsocialdevelopment&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Employment%20and%20Social%20Development%20Canada)
-- ❌ [Environment and Climate Change Canada](https://www.canada.ca) Government News - [Feed](https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentoftheenvironment&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Environment%20and%20Climate%20Change%20Canada)
+- ✅ [Environment and Climate Change Canada](https://www.canada.ca) Government News - [Feed](https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentoftheenvironment&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Environment%20and%20Climate%20Change%20Canada) - English
 - ❌ [Federal Economic Development Agency for Southern Ontario](https://www.canada.ca) Government News - [Feed](https://api.io.canada.ca/io-server/gc/news/en/v2?dept=economicdevelopmentsouthernontario&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Federal%20Economic%20Development%20Agency%20for%20Southern%20Ontario)
 - ❌ [Impact Assessment Agency of Canada](https://www.canada.ca) Government News - [Feed](https://api.io.canada.ca/io-server/gc/news/en/v2?dept=impactassessmentagency&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Impact%20Assessment%20Agency%20of%20Canada)
 - ❌ [Indigenous Services Canada](https://www.canada.ca) Government News - [Feed](https://api.io.canada.ca/io-server/gc/news/en/v2?dept=indigenousservicescanada&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Indigenous%20Services%20Canada)
@@ -1030,7 +1034,7 @@
 - ✅ [Royal Canadian Mounted Police](https://rcmp.ca) Police Reports - [Feed](https://rcmp.ca/en/feed-flux/news-nouvelles) - English
 - ❌ [Transportation Safety Board of Canada](https://www.tsb.gc.ca) Transportation Safety Authority - [Feed](https://www.tsb.gc.ca/eng/fils-feeds/TSB-Media.xml)
 - ✅ [Cape Breton Post](https://www.saltwire.com/category/cape-breton/) News - [Feed](https://www.saltwire.com/category/cape-breton/feed.xml) - English
-- ✅ [Cottage Life](https://www.cottagelife.com) Home & Travel - [Feed](https://www.cottagelife.com/feed/) - English
+- ❌ [Cottage Life](https://www.cottagelife.com) Home & Travel - [Feed](https://www.cottagelife.com/feed/)
 - ❌ [Hoops HQ](https://hoopsHQ.com) Sports - [Feed](https://hoopsHQ.com/feed)
 - ❌ [L'actualité](https://www.lactualite.com) News - [Feed](https://www.lactualite.com/feed)
 - ✅ [The Globe and Mail](https://www.theglobeandmail.com) News & Politics - [Feed](https://www.theglobeandmail.com/arc/outboundfeeds/rss/?outputType=xml) - English
@@ -1041,7 +1045,7 @@
 
 - ✅ [Expresso das Ilhas](https://expressodasilhas.cv) - [Feed](https://expressodasilhas.cv/rss) - Portuguese
 - ✅ [A Nação](https://www.anacao.cv) - [Feed](https://www.anacao.cv/feed/) - Portuguese
-- ✅ [Notícias do Norte](https://noticiasdonorte.publ.cv) - [Feed](https://noticiasdonorte.publ.cv/feed/) - Portuguese
+- ❌ [Notícias do Norte](https://noticiasdonorte.publ.cv) - [Feed](https://noticiasdonorte.publ.cv/feed/)
 - ❌ [Mindel Insite](https://mindelinsite.com) - [Feed](https://mindelinsite.com/feed/)
 - ✅ [OPAÍS](https://opais.cv) News (Portuguese, Cape Verdean Creole) - [Feed](https://opais.cv/feed/) - Portuguese
 - ✅ [Tiver](https://tiver.cv) News (Portuguese, Cape Verdean Creole) - [Feed](https://tiver.cv/feed/) - Portuguese
@@ -1095,7 +1099,7 @@
 - ✅ [JUNJI (Junta Nacional de Jardines Infantiles)](https://junji.cl) Government News - [Feed](https://junji.cl/feed/) - Spanish
 - ❌ [SERVEL (Servicio Electoral de Chile)](https://www.servel.cl) Elections Authority - [Feed](https://www.servel.cl/feed)
 - ❌ [ACHIPIA (Agencia Chilena para la Inocuidad y Calidad Alimentaria)](https://www.achipia.gob.cl) Food Safety Authority - [Feed](https://www.achipia.gob.cl/feed)
-- ✅ [FNE (Fiscalía Nacional Económica)](https://www.fne.gob.cl) Competition Authority - [Feed](https://www.fne.gob.cl/feed) - Spanish
+- ❌ [FNE (Fiscalía Nacional Económica)](https://www.fne.gob.cl) Competition Authority - [Feed](https://www.fne.gob.cl/feed)
 - ✅ [Gobierno Regional Metropolitano de Santiago](https://www.gobiernosantiago.cl) Government News: Región Metropolitana de Santiago - [Feed](https://www.gobiernosantiago.cl/feed/) - Spanish
 - ✅ [Municipalidad de Valparaíso](https://www.municipalidaddevalparaiso.cl) Government News: Valparaíso - [Feed](https://www.municipalidaddevalparaiso.cl/feed) - Spanish
 - ❌ [Municipalidad de Concepción](https://www.concepcion.cl) Government News: Concepción - [Feed](https://www.concepcion.cl/feed)
@@ -1119,10 +1123,10 @@
 - ❌ [Futbolred.com](http://futbolred.com/) - [Feed](http://www.futbolred.com/feeds/home)
 - ✅ [Diario del Huila](https://diariodelhuila.com) Regional News: Huila - [Feed](https://diariodelhuila.com/feed) - Spanish
 - ✅ [La Nación](https://www.lanacion.com.co) Regional News: Huila - [Feed](https://www.lanacion.com.co/feed) - Spanish
-- ✅ [Diario del Sur](https://www.diariodelsur.com.co) Regional News: Nariño - [Feed](https://www.diariodelsur.com.co/feed) - Spanish
+- ❌ [Diario del Sur](https://www.diariodelsur.com.co) Regional News: Nariño - [Feed](https://www.diariodelsur.com.co/feed)
 - ✅ [Diario del Norte](https://diariodelnorte.net) Regional News: La Guajira - [Feed](https://diariodelnorte.net/feed) - Spanish
 - ✅ [El Frente](https://www.elfrente.com.co) Regional News: Santander - [Feed](https://www.elfrente.com.co/feed) - Spanish
-- ✅ [Diario del Cauca](https://diariodelcauca.com.co) Regional News: Cauca - [Feed](https://diariodelcauca.com.co/feed) - Spanish
+- ❌ [Diario del Cauca](https://diariodelcauca.com.co) Regional News: Cauca - [Feed](https://diariodelcauca.com.co/feed)
 - ✅ [Colombia.com](https://www.colombia.com) News - [Feed](https://www.colombia.com/feed) - Spanish
 - ✅ [La República](https://www.larepublica.co) News - [Feed](https://www.larepublica.co/rss) - Spanish
 - ❌ [Radio Santafé](https://www.radiosantafe.com) News - [Feed](https://www.radiosantafe.com/feed)
@@ -1166,11 +1170,11 @@
 
 ## Cote d'Ivoire
 
-- ❌ [AIP - Agence Ivoirienne de Presse](https://www.aip.ci) - [Feed](https://www.aip.ci/feed/)
+- ✅ [AIP - Agence Ivoirienne de Presse](https://www.aip.ci) - [Feed](https://www.aip.ci/feed/) - French
 - ❌ [AIP - Agence Ivoirienne de Presse (Bouaké)](https://www.aip.ci/category/region-gbeke-hambol/bouake/) - [Feed](https://www.aip.ci/category/region-gbeke-hambol/bouake/feed/)
 - ❌ [AIP - Agence Ivoirienne de Presse (San-Pédro)](https://www.aip.ci/category/region-san-pedro-gbokle/san-pedro/) - [Feed](https://www.aip.ci/category/region-san-pedro-gbokle/san-pedro/feed/)
 - ❌ [AIP - Agence Ivoirienne de Presse (Korhogo)](https://www.aip.ci/category/region-poro-bagoue-tchologo/korhogo/) - [Feed](https://www.aip.ci/category/region-poro-bagoue-tchologo/korhogo/feed/)
-- ❌ [AIP - Agence Ivoirienne de Presse (Daloa)](https://www.aip.ci/category/region-haut-sassandra/daloa/) - [Feed](https://www.aip.ci/category/region-haut-sassandra/daloa/feed/)
+- ✅ [AIP - Agence Ivoirienne de Presse (Daloa)](https://www.aip.ci/category/region-haut-sassandra/daloa/) - [Feed](https://www.aip.ci/category/region-haut-sassandra/daloa/feed/) - French
 - ✅ [Linfodrome](https://www.linfodrome.com) - [Feed](https://www.linfodrome.com/rss) - French
 - ✅ [Connectionivoirienne](https://connectionivoirienne.net) - [Feed](https://connectionivoirienne.net/feed/) - French
 - ✅ [Ivorian.Net](https://www.ivorian.net) - [Feed](https://ivorian.se/feed/) - French
@@ -1241,7 +1245,7 @@
 - ✅ [Cafe Fuerte](https://cafefuerte.com) News - [Feed](https://cafefuerte.com/feed) - Spanish
 - ✅ [OnCuba News](https://oncubanews.com) News - [Feed](https://oncubanews.com/feed) - Spanish
 - ✅ [Havana Times](https://havanatimes.org) News - [Feed](https://havanatimes.org/feed) - English
-- ✅ [Escambray](https://www.escambray.cu) Regional News: Sancti Spiritus - [Feed](https://www.escambray.cu/feed) - Spanish
+- ❌ [Escambray](https://www.escambray.cu) Regional News: Sancti Spiritus - [Feed](https://www.escambray.cu/feed)
 
 ## Curaçao
 
@@ -1301,7 +1305,7 @@
 - ❌ [Senate of the Parliament of the Czech Republic (Senát PČR)](https://www.senat.cz/) Parliament - [Feed](https://www.senat.cz/zpravodajstvi/zpravy_rss.php)
 - ✅ [Central Bohemian Region (Středočeský kraj)](https://www.stredoceskykraj.cz/) Government News: Středočeský kraj - [Feed](https://www.stredoceskykraj.cz/web/urad/stredocesky-kraj/-/asset_publisher/ykru/rss) - Czech
 - ✅ [South Bohemian Region (Jihočeský kraj)](https://www.kraj-jihocesky.cz/) Government News: Jihočeský kraj - [Feed](https://www.kraj-jihocesky.cz/rss.xml) - Czech
-- ❌ [Ústí nad Labem Region (Ústecký kraj)](https://www.kr-ustecky.cz/) Government News: Ústecký kraj - [Feed](https://www.kr-ustecky.cz/rss/)
+- ✅ [Ústí nad Labem Region (Ústecký kraj)](https://www.kr-ustecky.cz/) Government News: Ústecký kraj - [Feed](https://www.kr-ustecky.cz/rss/) - Czech
 - ✅ [Vysočina Region (Kraj Vysočina)](https://www.kr-vysocina.cz/) Government News: Kraj Vysočina - [Feed](https://www.kr-vysocina.cz/rss/?5) - Czech
 - ✅ [Zlín Region (Zlínský kraj)](https://www.zlinskykraj.cz/) Government News: Zlínský kraj - [Feed](https://zlinskykraj.cz/api/rss) - Czech
 - ✅ [City of Plzeň (Statutární město Plzeň)](https://plzen-mesto.cz/) Government News: Plzeň - [Feed](https://plzen-mesto.cz/rss/o-meste/aktuality/aktuality-z-mesta/) - cz
@@ -1313,7 +1317,7 @@
 - ❌ [Mama Radio (AFEM Sud-Kivu)](https://mamaradio.info) Regional News: Sud-Kivu - [Feed](https://mamaradio.info/feed/)
 - ❌ [Radio Okapi](https://www.radiookapi.net) News - [Feed](https://www.radiookapi.net/rss.xml)
 - ✅ [MediaCongo Press](https://www.congo-press.com) News - [Feed](https://www.congo-press.com/feed/) - French
-- ❌ [Actualite.CD](https://actualite.cd/) News - [Feed](https://actualite.cd/feed/)
+- ✅ [Actualite.CD](https://actualite.cd/) News - [Feed](https://actualite.cd/feed/) - French
 - ✅ [Radio Okapi](https://www.radiookapi.net/) News - [Feed](https://feeds.feedburner.com/radiookapi/actu) - French
 - ✅ [Agence Congolaise de Presse (ACP)](https://acpcongo.com/) News - [Feed](https://acpcongo.com/feed/) - English
 - ✅ [Radio Television Nationale Congolaise](https://rtnc.cd/) News - [Feed](https://rtnc.cd/feed/) - French
@@ -1331,7 +1335,7 @@
 - ❌ [Congo Autrement](https://congo-autrement.com/) News (French) - [Feed](https://congo-autrement.com/feed/)
 - ❌ [Afriquactu](https://afriquactu.net/) News (French) - [Feed](https://afriquactu.net/feed/)
 - ✅ [Journal de Kinshasa](https://journaldekinshasa.com/) News (French) - [Feed](https://journaldekinshasa.com/feed/) - French
-- ❌ [Radio Okapi (Journal lingala)](https://www.radiookapi.net/journal-lingala) News (Lingala) - [Feed](https://www.radiookapi.net/taxonomy/term/60/feed)
+- ✅ [Radio Okapi (Journal lingala)](https://www.radiookapi.net/journal-lingala) News (Lingala) - [Feed](https://www.radiookapi.net/taxonomy/term/60/feed) - French
 - ✅ [Radio Okapi](https://www.radiookapi.net/journal-swahili) News (Swahili) - [Feed](https://www.radiookapi.net/taxonomy/term/63/feed) - French
 
 ## Denmark
@@ -1359,7 +1363,7 @@
 - ✅ [TV 2 Nord](https://www.tv2nord.dk) Regional News: North Jutland - [Feed](https://www.tv2nord.dk/rss) - Danish
 - ❌ [TV 2 Øst](https://www.tv2east.dk) Regional News: Zealand - [Feed](https://www.tv2east.dk/rss)
 - ✅ [TV 2 Østjylland](https://www.tv2ostjylland.dk) Regional News: East Jutland - [Feed](https://www.tv2ostjylland.dk/rss) - Danish
-- ✅ [TV 2 Bornholm](https://tv2bornholm.dk) Regional News: Bornholm - [Feed](https://tv2bornholm.dk/rss) - Danish
+- ❌ [TV 2 Bornholm](https://tv2bornholm.dk) Regional News: Bornholm - [Feed](https://tv2bornholm.dk/rss)
 - ❌ [Statens Serum Institut (SSI)](https://www.ssi.dk) Public Health Authority - [Feed](https://www.ssi.dk/nyheder/rss/)
 - ✅ [Lægemiddelstyrelsen (Danish Medicines Agency)](https://laegemiddelstyrelsen.dk) Medicines Authority - [Feed](https://laegemiddelstyrelsen.dk/da/Feeds/rss-feed/) - Danish
 - ❌ [Styrelsen for Samfundssikkerhed (formerly CFCS / Center for Cybersikkerhed)](https://samsik.dk) Cyber Security Authority - [Feed](https://samsik.dk/feed/)
@@ -1375,7 +1379,7 @@
 
 - ✅ [Dominica News](http://dominicanewsonline.com/) - [Feed](http://dominicanewsonline.com/news/feed/) - English
 - ✅ [DBS Radio](https://dbcradio.net) News - [Feed](https://dbcradio.net/feed/) - English
-- ❌ [Nature Isle News](https://natureisle.news) News - [Feed](https://natureisle.news/feed/)
+- ✅ [Nature Isle News](https://natureisle.news) News - [Feed](https://natureisle.news/feed/) - English
 - ✅ [Emonews](https://emonewsdm.com) News - [Feed](https://emonewsdm.com/feed/) - English
 - ❌ [Dominica News](https://www.dominicanews.dm) News - [Feed](https://www.dominicanews.dm/rss.xml)
 
@@ -1418,7 +1422,7 @@
 - ❌ [Daily News Egypt](https://dailynewsegypt.com/) News - [Feed](https://dailynewsegypt.com/feed/)
 - ✅ [Veto](https://www.vetogate.com/) News - [Feed](https://www.vetogate.com/rss) - Arabic
 - ✅ [Sada El Balad](https://www.elbalad.news/) News - [Feed](https://www.elbalad.news/rss.aspx) - Arabic
-- ✅ [Youm7](https://www.youm7.com/) News - [Feed](https://www.youm7.com/rss/SectionRss?SectionID=297) - Arabic
+- ❌ [Youm7](https://www.youm7.com/) News - [Feed](https://www.youm7.com/rss/SectionRss?SectionID=297)
 - ✅ [Masrawy](https://www.masrawy.com/) News - [Feed](https://www.masrawy.com/rss/feed/202/%D8%B9%D8%B1%D8%A8-%D9%88%D8%B9%D8%A7%D9%84%D9%85) - Arabic
 - ✅ [Masrawy](https://www.masrawy.com/) News - [Feed](https://www.masrawy.com/rss/feed/206/%D8%A5%D9%82%D8%AA%D8%B5%D8%A7%D8%AF) - Arabic
 - ❌ [بوابة الصعيد نيوز (Al-Saeed News)](https://www.alsaeednews.com/) Regional News: Upper Egypt - [Feed](https://www.alsaeednews.com/feed/)
@@ -1518,7 +1522,7 @@
 - ❌ [Oromia Broadcasting Network (OBN)](https://obn.com.et) Regional News: Oromia - [Feed](https://obn.com.et/feed/)
 - ❌ [Ethiopian Monitor](https://ethiopianmonitor.com) News - [Feed](https://ethiopianmonitor.com/feed/)
 - ✅ [Addis Admass](https://www.addisadmassnews.com/) News (Amharic) - [Feed](https://addisadmassnews.com/index.php?option=com_k2&view=itemlist&format=feed&type=rss) - English
-- ❌ [Capital Ethiopia](https://capitalethiopia.com/) News - [Feed](https://capitalethiopia.com/feed/)
+- ✅ [Capital Ethiopia](https://capitalethiopia.com/) News - [Feed](https://capitalethiopia.com/feed/) - English
 - ❌ [Goolgule](https://www.goolgule.com/) News - [Feed](https://www.goolgule.com/feed/)
 - ❌ [Ethiopian Tribune](https://ethiopiantribune.com/) News - [Feed](https://ethiopiantribune.com/feed/)
 - ❌ [Ethiopia Insight](https://ethiopia-insight.com/) News - [Feed](https://ethiopia-insight.com/feed/)
@@ -1573,7 +1577,7 @@
 - ✅ [Valtioneuvosto (Central Government - Main Feed)](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/LOmkEPY4nk2s/rss) - English
 - ✅ [Valtioneuvosto (Central Government - Feed 2)](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/00Qguh1GvAiJ/rss) - English
 - ✅ [Valtioneuvosto (Central Government - Feed 3)](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/lKJx41DPuWCC/rss) - Finnish
-- ✅ [Valtioneuvosto (Central Government - Feed 4)](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/P2JabALc50Es/rss) - Finnish
+- ❌ [Valtioneuvosto (Central Government - Feed 4)](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/P2JabALc50Es/rss)
 - ✅ [Valtioneuvosto (Central Government - Feed 5)](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/fpYJYjw2EcOG/rss) - Finnish
 - ✅ [Valtioneuvosto (Central Government - Feed 6)](https://valtioneuvosto.fi) Government News - [Feed](https://valtioneuvosto.fi/en/staattiset-feedit-en/-/asset_publisher/CSnDFjXvoBx4/rss) - Finnish
 - ✅ [Ilmatieteen laitos (Finnish Meteorological Institute)](https://www.ilmatieteenlaitos.fi) Weather Service - [Feed](https://www.ilmatieteenlaitos.fi/api/news/tiedote/rss) - Finnish
@@ -1581,8 +1585,8 @@
 - ✅ [Työ- ja elinkeinoministeriö (Ministry of Economic Affairs and Employment)](https://tem.fi) Government News - [Feed](https://tem.fi/en/frontpage/-/asset_publisher/KxL4CyYBq98S/rss) - English
 - ✅ [Oikeusministeriö (Ministry of Justice)](https://oikeusministerio.fi) Government News - [Feed](https://oikeusministerio.fi/en/frontpage/-/asset_publisher/arn55lSn4D8k/rss) - English
 - ✅ [Sosiaali- ja terveysministeriö (Ministry of Social Affairs and Health)](https://stm.fi) Government News - [Feed](https://stm.fi/en/frontpage/-/asset_publisher/djBwQGJKJaH3/rss) - English
-- ✅ [Sisäasianministeriö (Ministry of the Interior)](https://intermin.fi) Government News - [Feed](https://intermin.fi/en/frontpage/-/asset_publisher/LbD9icQxZZUa/rss) - English
-- ✅ [Maa- ja metsätalousministeriö (Ministry of Agriculture and Forestry)](https://mmm.fi) Government News - [Feed](https://mmm.fi/en/frontpage/-/asset_publisher/gBxZaCBMnvmM/rss) - English
+- ❌ [Sisäasianministeriö (Ministry of the Interior)](https://intermin.fi) Government News - [Feed](https://intermin.fi/en/frontpage/-/asset_publisher/LbD9icQxZZUa/rss)
+- ❌ [Maa- ja metsätalousministeriö (Ministry of Agriculture and Forestry)](https://mmm.fi) Government News - [Feed](https://mmm.fi/en/frontpage/-/asset_publisher/gBxZaCBMnvmM/rss)
 
 ## France
 
@@ -1627,7 +1631,7 @@
 - ❌ [Paris-Normandie](https://www.paris-normandie.fr) Regional News: Normandy - [Feed](https://www.paris-normandie.fr/rss.xml)
 - ❌ [Présidence de la République (Élysée)](https://www.elysee.fr) Government News - [Feed](https://www.elysee.fr/feed)
 - ✅ [Ministère de l'Agriculture, de l'Agro-alimentaire et de la Souveraineté alimentaire](https://agriculture.gouv.fr) Government News - [Feed](https://agriculture.gouv.fr/rss.xml) - French
-- ✅ [Ministère de l'Agriculture, de l'Agro-alimentaire et de la Souveraineté alimentaire](https://agriculture.gouv.fr) Government News - [Feed](https://agriculture.gouv.fr/rss_presse.xml) - French
+- ❌ [Ministère de l'Agriculture, de l'Agro-alimentaire et de la Souveraineté alimentaire](https://agriculture.gouv.fr) Government News - [Feed](https://agriculture.gouv.fr/rss_presse.xml)
 - ✅ [Ministère du Travail et de l'Emploi](https://travail-emploi.gouv.fr) Government News - [Feed](https://travail-emploi.gouv.fr/rss.xml) - French
 - ❌ [Ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique](https://www.economie.gouv.fr) Government News - [Feed](https://www.economie.gouv.fr/rss/toutesactualites)
 - ❌ [Ministère de la Transition écologique](https://www.ecologie.gouv.fr) Government News - [Feed](https://ecologie.gouv.fr/rss-actualites.xml)
@@ -1639,7 +1643,7 @@
 - ✅ [Haute Autorité de Santé (HAS)](https://www.has-sante.fr) Public Health Authority - [Feed](https://www.has-sante.fr/feed/Rss2.jsp?id=p_3081656) - French
 - ❌ [AMF (Autorité des marchés financiers)](https://www.amf-france.org) Financial Regulator - [Feed](https://www.amf-france.org/fr/flux-rss/display/21)
 - ✅ [ARCEP (Autorité de régulation des communications électroniques, des postes et de la distribution de la presse)](https://www.arcep.fr) Telecommunications Authority - [Feed](https://www.arcep.fr/actualites/suivre-actualite-regulation-arcep/fil-dinfos/rss.xml) - French
-- ❌ [Cour des comptes](https://www.ccomptes.fr) Public Audit Authority - [Feed](https://www.ccomptes.fr/fr/rss/general)
+- ✅ [Cour des comptes](https://www.ccomptes.fr) Public Audit Authority - [Feed](https://www.ccomptes.fr/fr/rss/general) - French
 - ❌ [Sénat](https://www.senat.fr) Parliament - [Feed](https://www.senat.fr/rss/presse.xml)
 - ✅ [Assemblée nationale](https://www.assemblee-nationale.fr) Parliament - [Feed](http://www.assemblee-nationale.fr/dyn/rss/communiques-de-presse.xml) - French
 - ✅ [Région Grand Est](https://www.grandest.fr) Government News: Grand Est - [Feed](https://www.grandest.fr/feed/) - French
@@ -1654,6 +1658,8 @@
 - ✅ [Ville de Montpellier](https://www.montpellier.fr) Government News: Montpellier - [Feed](https://www.montpellier.fr/rss.xml) - French
 - ✅ [Ville de Bordeaux](https://www.bordeaux.fr) Government News: Bordeaux - [Feed](https://www.bordeaux.fr/rss.xml) - French
 - ✅ [Paris Match](https://www.parismatch.com) News - [Feed](https://www.parismatch.com/rss.xml) - French
+- ❌ [Euronews](https://www.euronews.com) News - [Feed](https://www.euronews.com/rss)
+- ✅ [Radio France Internationale](https://www.rfi.fr) News - [Feed](https://www.rfi.fr/fr/rss) - French
 
 ## French Guiana
 
@@ -1743,7 +1749,7 @@
 - ✅ [State Government of Baden-Württemberg](https://www.baden-wuerttemberg.de) Government News: Baden-Württemberg - [Feed](https://www.baden-wuerttemberg.de/de/service/rss/xml/rss-alle-meldungen) - German
 - ✅ [Bavarian State Government (Bayerische Staatsregierung)](https://www.bayern.de) Government News: Bayern - [Feed](https://www.bayern.de/rss/pm_alle.php) - German
 - ✅ [Berlin Senate Chancellery (Senatskanzlei Berlin)](https://www.berlin.de) Government News: Berlin - [Feed](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/index.php/rss) - German
-- ✅ [State Government of Hesse (Hessische Landesregierung)](https://www.hessen.de) Government News: Hessen - [Feed](https://www.hessen.de/newsletter-feed) - German
+- ❌ [State Government of Hesse (Hessische Landesregierung)](https://www.hessen.de) Government News: Hessen - [Feed](https://www.hessen.de/newsletter-feed)
 - ✅ [State Government of Lower Saxony (Niedersächsische Landesregierung)](https://www.niedersachsen.de) Government News: Niedersachsen - [Feed](https://www.niedersachsen.de/rss/) - German
 - ✅ [Saxon State Government (Medienservice Sachsen)](https://medienservice.sachsen.de) Government News: Sachsen - [Feed](https://medienservice.sachsen.de/medien/feeds/rss) - German
 - ❌ [State Government of Saxony-Anhalt](https://www.sachsen-anhalt.de) Government News: Sachsen-Anhalt - [Feed](https://www.sachsen-anhalt.de/bs/pressemitteilungen/rss-feeds?tx_tsarssinclude_rss%5Baction%5D=feed&tx_tsarssinclude_rss%5Bcontroller%5D=Rss&tx_tsarssinclude_rss%5Buid%5D=74&type=9988&cHash=2cfcd7bfc44fae4c0e312f58f2a6cf60)
@@ -1783,7 +1789,7 @@
 - ✅ [The Ghanaian Chronicle](https://thechronicle.com.gh) News - [Feed](https://thechronicle.com.gh/feed/) - English
 - ❌ [Public Agenda](https://www.publicagenda.news) News - [Feed](https://www.publicagenda.news/feed/)
 - ✅ [Yen.com.gh](https://yen.com.gh) News - [Feed](https://yen.com.gh/rss/all.rss) - English
-- ❌ [Happy Ghana](https://www.happyghana.com) News - [Feed](https://www.happyghana.com/feed/)
+- ✅ [Happy Ghana](https://www.happyghana.com) News - [Feed](https://www.happyghana.com/feed/) - English
 - ✅ [Atinka Online](https://atinkaonline.com) News - [Feed](https://atinkaonline.com/feed/) - English
 - ✅ [Ghana News Online](https://ghananewsonline.com.gh) News - [Feed](https://ghananewsonline.com.gh/feed/) - English
 - ✅ [GhPage](https://www.ghpage.com) News - [Feed](https://www.ghpage.com/feed/) - English
@@ -1880,7 +1886,7 @@
 ## Guatemala
 
 - ✅ [Plaza Publica](http://plazapublica.com.gt/) - [Feed](http://www.plazapublica.com.gt/rss) - Spanish
-- ✅ [Prensa Libre](https://www.prensalibre.com) News - [Feed](https://www.prensalibre.com/feed/) - Spanish
+- ❌ [Prensa Libre](https://www.prensalibre.com) News - [Feed](https://www.prensalibre.com/feed/)
 - ✅ [La Hora](https://lahora.gt) News - [Feed](https://lahora.gt/feed/) - Spanish
 - ✅ [Publinews Guatemala](https://www.publinews.gt) News - [Feed](https://www.publinews.gt/arc/outboundfeeds/rss/?outputType=xml) - Spanish
 - ✅ [Republica GT](https://republica.gt) News - [Feed](https://republica.gt/feed/) - Spanish
@@ -1905,7 +1911,7 @@
 - ✅ [Vision Guinée](https://www.visionguinee.info/) News - [Feed](https://www.visionguinee.info/feed/) - French
 - ❌ [Aminata](https://aminata.com/) News - [Feed](https://aminata.com/feed/)
 - ✅ [Mosaïque Guinée](https://mosaiqueguinee.com/) News - [Feed](https://mosaiqueguinee.com/feed/) - French
-- ✅ [Focus Guinée](https://focusguinee.info/) News - [Feed](https://focusguinee.info/feed/) - French
+- ❌ [Focus Guinée](https://focusguinee.info/) News - [Feed](https://focusguinee.info/feed/)
 - ❌ [Vérité224](https://www.verite224.com/) News - [Feed](https://www.verite224.com/feed)
 - ✅ [Guinée7](https://guinee7.com/) News - [Feed](https://guinee7.com/feed) - French
 - ✅ [Africa Guinée](https://www.africaguinee.com/) News - [Feed](https://www.africaguinee.com/feed) - French
@@ -1987,7 +1993,7 @@
 - ✅ [Velvet](http://velvet.hu/) - [Feed](http://velvet.hu/24ora/rss/) - Hungarian
 - ✅ [Sport Geza](http://sportgeza.hu/) - [Feed](http://sportgeza.hu/24ora/rss/) - Hungarian
 - ✅ [Nepszava](http://nepszava.hu/) - [Feed](http://nepszava.hu/rss/) - Hungarian
-- ✅ [Magyar Nemzet](https://magyarnemzet.hu/) News - [Feed](https://magyarnemzet.hu/publicapi/hu/rss/magyar_nemzet/articles) - Hungarian
+- ❌ [Magyar Nemzet](https://magyarnemzet.hu/) News - [Feed](https://magyarnemzet.hu/publicapi/hu/rss/magyar_nemzet/articles)
 - ✅ [Telex](https://telex.hu/) News - [Feed](https://telex.hu/rss) - Hungarian
 - ✅ [24.hu](https://24.hu/) News - [Feed](https://24.hu/feed/) - Hungarian
 - ✅ [444.hu](https://444.hu/) News - [Feed](https://444.hu/feed) - Hungarian
@@ -2006,7 +2012,7 @@
 - ✅ [Baranya County Police Headquarters (Baranya Megyei Rendőr-főkapitányság)](https://www.police.hu) Police Reports: Baranya - [Feed](https://www.police.hu/hu/rss/Baranya%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g) - Hungarian
 - ❌ [Borsod-Abaúj-Zemplén County Police Headquarters (Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság)](https://www.police.hu) Police Reports: Borsod-Abaúj-Zemplén - [Feed](https://www.police.hu/hu/rss/Borsod-Aba%C3%BAj-Zempl%C3%A9n%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g)
 - ✅ [Budapest Police Headquarters (Budapesti Rendőr-főkapitányság)](https://www.police.hu) Police Reports: Budapest - [Feed](https://www.police.hu/hu/rss/Budapesti%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g) - Hungarian
-- ❌ [Csongrád County Police Headquarters (Csongrád Megyei Rendőr-főkapitányság)](https://www.police.hu) Police Reports: Csongrád - [Feed](https://www.police.hu/hu/rss/Csongr%C3%A1d%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g)
+- ✅ [Csongrád County Police Headquarters (Csongrád Megyei Rendőr-főkapitányság)](https://www.police.hu) Police Reports: Csongrád - [Feed](https://www.police.hu/hu/rss/Csongr%C3%A1d%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g) - Hungarian
 - ✅ [Fejér County Police Headquarters (Fejér Megyei Rendőr-főkapitányság)](https://www.police.hu) Police Reports: Fejér - [Feed](https://www.police.hu/hu/rss/Fej%C3%A9r%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g) - Hungarian
 - ✅ [Győr-Moson-Sopron County Police Headquarters (Győr-Moson-Sopron Megyei Rendőr-főkapitányság)](https://www.police.hu) Police Reports: Győr-Moson-Sopron - [Feed](https://www.police.hu/hu/rss/Gy%C5%91r-Moson-Sopron%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g) - Hungarian
 - ❌ [Hajdú-Bihar County Police Headquarters (Hajdú-Bihar Megyei Rendőr-főkapitányság)](https://www.police.hu) Police Reports: Hajdú-Bihar - [Feed](https://www.police.hu/hu/rss/Hajd%C3%BA-Bihar%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g)
@@ -2019,7 +2025,7 @@
 - ✅ [Szabolcs-Szatmár-Bereg County Police Headquarters (Szabolcs-Szatmár-Bereg Megyei Rendőr-főkapitányság)](https://www.police.hu) Police Reports: Szabolcs-Szatmár-Bereg - [Feed](https://www.police.hu/hu/rss/Szabolcs-Szatm%C3%A1r-Bereg%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g) - Hungarian
 - ✅ [Tolna County Police Headquarters (Tolna Megyei Rendőr-főkapitányság)](https://www.police.hu) Police Reports: Tolna - [Feed](https://www.police.hu/hu/rss/Tolna%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g) - Hungarian
 - ❌ [Vas County Police Headquarters (Vas Megyei Rendőr-főkapitányság)](https://www.police.hu) Police Reports: Vas - [Feed](https://www.police.hu/hu/rss/Vas%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g)
-- ❌ [Veszprém County Police Headquarters (Veszprém Megyei Rendőr-főkapitányság)](https://www.police.hu) Police Reports: Veszprém - [Feed](https://www.police.hu/hu/rss/Veszpr%C3%A9m%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g)
+- ✅ [Veszprém County Police Headquarters (Veszprém Megyei Rendőr-főkapitányság)](https://www.police.hu) Police Reports: Veszprém - [Feed](https://www.police.hu/hu/rss/Veszpr%C3%A9m%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g) - Hungarian
 - ✅ [Zala County Police Headquarters (Zala Megyei Rendőr-főkapitányság)](https://www.police.hu) Police Reports: Zala - [Feed](https://www.police.hu/hu/rss/Zala%20Megyei%20Rend%C5%91r-f%C5%91kapit%C3%A1nys%C3%A1g) - Hungarian
 - ✅ [HungaroMet Hungarian Meteorological Service (OMSZ)](https://www.met.hu) Weather Service - [Feed](https://www.met.hu/methu/rss/rss.php?categoryid=1) - Hungarian
 - ❌ [Honvédelem.hu (Ministry of Defence military news portal, domain owned by the Honvédelmi Minisztérium, operated by HM Zrínyi Nonprofit Kft.)](https://honvedelem.hu) Government News - [Feed](https://honvedelem.hu/rss)
@@ -2037,7 +2043,7 @@
 - ✅ [Heimildin](https://heimildin.is) News - [Feed](https://heimildin.is/rss/) - Icelandic
 - ✅ [The Reykjavík Grapevine](https://grapevine.is) News - [Feed](https://grapevine.is/feed/) - English
 - ✅ [Mannlíf](https://www.mannlif.is) News - [Feed](https://www.mannlif.is/rss) - Icelandic
-- ✅ [Viðskiptablaðið](https://vb.is) Business - [Feed](https://vb.is/rss) - Icelandic
+- ❌ [Viðskiptablaðið](https://vb.is) Business - [Feed](https://vb.is/rss)
 - ✅ [Bændablaðið](https://www.bbl.is) News - [Feed](https://www.bbl.is/rss) - Icelandic
 - ✅ [Government Offices of Iceland (Stjórnarráðið) - All Ministries](https://www.stjornarradid.is) Government News - [Feed](https://www.stjornarradid.is/extensions/news/rss/Frettir-fra-ollum-raduneytum.rss) - Icelandic
 - ✅ [Prime Minister's Office (Forsætisráðuneytið)](https://www.stjornarradid.is/raduneyti/forsaetisraduneytid/) Government News - [Feed](https://www.stjornarradid.is/extensions/news/rss/Forsaetisraduneyti.rss) - Icelandic
@@ -2169,7 +2175,7 @@
 - ✅ [India Today](https://www.indiatoday.in/) Cover Story - [Feed](https://www.indiatoday.in/rss/1206509) - English
 - ✅ [India Today](https://www.indiatoday.in/) States - [Feed](https://www.indiatoday.in/rss/1206500) - English
 - ✅ [India Today](https://www.indiatoday.in/) World - [Feed](https://www.indiatoday.in/rss/1206577) - English
-- ✅ [India Today](https://www.indiatoday.in/) Sport - [Feed](https://www.indiatoday.in/rss/1206550) - English
+- ❌ [India Today](https://www.indiatoday.in/) Sport - [Feed](https://www.indiatoday.in/rss/1206550)
 - ✅ [India Today](https://www.indiatoday.in/) Offtrack - [Feed](https://www.indiatoday.in/rss/1206503) - English
 - ✅ [India Today](https://www.indiatoday.in/) Society and The Arts - [Feed](https://www.indiatoday.in/rss/1206504)
 - ✅ [India Today](https://www.indiatoday.in/) Your Week - [Feed](https://www.indiatoday.in/rss/1206506) - English
@@ -2178,7 +2184,7 @@
 - ✅ [Dainik Bhaskar](https://www.bhaskar.com/) Opinion - [Feed](https://www.bhaskar.com/rss-v1--category-1944.xml) - Hindi
 - ✅ [Dainik Bhaskar](https://www.bhaskar.com/) - [Feed](https://www.bhaskar.com/rss-feed/1061/) - Hindi
 - ✅ [Dainik Bhaskar](https://www.bhaskar.com/entertainment/bollywood/) Bollywood - [Feed](https://www.bhaskar.com/rss-v1--category-11215.xml) - Hindi
-- ❌ [Dainik Bhaskar](https://www.bhaskar.com/tech-auto/auto/) Auto - [Feed](https://www.bhaskar.com/rss-v1--category-10711.xml)
+- ✅ [Dainik Bhaskar](https://www.bhaskar.com/tech-auto/auto/) Auto - [Feed](https://www.bhaskar.com/rss-v1--category-10711.xml) - Hindi
 - ✅ [Dainik Bhaskar](https://www.bhaskar.com/career/) Jobs & Education - [Feed](https://www.bhaskar.com/rss-v1--category-11945.xml) - Hindi
 - ✅ [Dainik Bhaskar](https://www.bhaskar.com/women/) Women - [Feed](https://www.bhaskar.com/rss-v1--category-1532.xml) - Hindi
 - ✅ [Dainik Bhaskar](https://www.bhaskar.com/tech-auto/) Tech - Auto - [Feed](https://www.bhaskar.com/rss-v1--category-5707.xml) - Hindi
@@ -2262,7 +2268,7 @@
 - ✅ [The Times of Bengal](https://www.thetimesofbengal.com) News (Bengali) - [Feed](https://thetimesofbengal.com/feed) - English
 - ❌ [News24 Bengali](https://news24-bengali.com) News (Bengali) - [Feed](https://news24-bengali.com/feed)
 - ✅ [Dainik Statesman](https://www.dainikstatesmannews.com) News (Bengali) - [Feed](https://dainikstatesmannews.com/feed) - English
-- ❌ [Kolkata24x7](https://kolkata24x7.in) Regional News: Kolkata - [Feed](https://kolkata24x7.in/feed)
+- ✅ [Kolkata24x7](https://kolkata24x7.in) Regional News: Kolkata - [Feed](https://kolkata24x7.in/feed) - English
 - ✅ [Way2Barak](https://way2barak.com) Regional News: Barak Valley - [Feed](https://way2barak.com/feed) - English
 - ✅ [Barak Bulletin](https://barakbulletin.com) Regional News: Barak Valley - [Feed](https://barakbulletin.com/feed) - English
 - ✅ [Ajker Patrika](https://www.ajkerpatrika.com) News (Bengali) - [Feed](https://www.ajkerpatrika.com/feed) - Bangla
@@ -2289,10 +2295,10 @@
 - ✅ [Samyukta Karnataka](https://samyuktakarnataka.in) News (Kannada) - [Feed](https://samyuktakarnataka.in/feed/) - English
 - ✅ [Vishwavani](https://vishwavani.news) News (Kannada) - [Feed](https://vishwavani.news/feed/) - Kannada
 - ✅ [TV9 Kannada](https://tv9kannada.com) News (Kannada) - [Feed](https://tv9kannada.com/feed) - Kannada
-- ❌ [Asianet Suvarna News](https://kannada.asianetnews.com) News (Kannada) - [Feed](https://kannada.asianetnews.com/rss)
+- ✅ [Asianet Suvarna News](https://kannada.asianetnews.com) News (Kannada) - [Feed](https://kannada.asianetnews.com/rss)
 - ✅ [Sanjevani](https://sanjevani.com) News (Kannada) - [Feed](https://sanjevani.com/feed/) - English
 - ✅ [Ee Sanje](https://eesanje.com) News (Kannada) - [Feed](https://eesanje.com/feed/) - English
-- ✅ [Kannada Dunia](https://kannadadunia.com) News (Kannada) - [Feed](https://kannadadunia.com/feed/) - English
+- ❌ [Kannada Dunia](https://kannadadunia.com) News (Kannada) - [Feed](https://kannadadunia.com/feed/)
 - ✅ [Janam TV](https://janamtv.com) News (Malayalam) - [Feed](https://janamtv.com/feed/) - Malayalam
 - ✅ [Janmabhumi](https://janmabhumi.in) News (Malayalam) - [Feed](https://janmabhumi.in/feed/) - English
 - ❌ [News24 Malayalam](https://news24malayalam.com) News (Malayalam) - [Feed](https://news24malayalam.com/feed/)
@@ -2318,7 +2324,7 @@
 - ✅ [Mint](https://livemint.com) News (English) - [Feed](https://livemint.com/rss/news) - English
 - ✅ [The New Indian Express](https://newindianexpress.com) News (English) - [Feed](https://newindianexpress.com/feed) - English
 - ✅ [ThePrint](https://theprint.in) News (English) - [Feed](https://theprint.in/category/india/feed/) - English
-- ❌ [Garhwal Post](https://garhwalpost.in) Regional News: Uttarakhand - [Feed](https://garhwalpost.in/feed/)
+- ✅ [Garhwal Post](https://garhwalpost.in) Regional News: Uttarakhand - [Feed](https://garhwalpost.in/feed/) - English
 - ✅ [Khabar Uttarakhand](https://khabaruttarakhand.com) News (Hindi) - [Feed](https://khabaruttarakhand.com/feed/) - English
 - ✅ [Pahal Samachar](https://pahadsamachar.com) News (Hindi) - [Feed](https://pahadsamachar.com/feed/) - English
 - ✅ [Khabar Pahad](https://khabarpahad.com) News (Hindi) - [Feed](https://khabarpahad.com/feed/) - English
@@ -2328,10 +2334,10 @@
 - ✅ [The Chenab Times](https://thechenabtimes.com) Regional News: Jammu & Kashmir - [Feed](https://thechenabtimes.com/feed/) - English
 - ✅ [Kashmir Reader](https://kashmirreader.com) Regional News: Jammu & Kashmir - [Feed](https://kashmirreader.com/feed/) - English
 - ✅ [Kashmir Uzma](https://kashmiruzma.news) News (Urdu) - [Feed](https://kashmiruzma.news/feed/) - English
-- ✅ [Global Kashmir](https://globalkashmir.net) Regional News: Jammu & Kashmir - [Feed](https://globalkashmir.net/feed/) - English
+- ❌ [Global Kashmir](https://globalkashmir.net) Regional News: Jammu & Kashmir - [Feed](https://globalkashmir.net/feed/)
 - ✅ [Kashmir Life](https://kashmirlife.net) Regional News: Jammu & Kashmir - [Feed](https://kashmirlife.net/feed/) - English
 - ❌ [Kashmir News Service](https://knskashmir.com) Regional News: Jammu & Kashmir - [Feed](https://knskashmir.com/rss.xml)
-- ✅ [Pragativadi](https://pragativadi.com) News (Odia) - [Feed](https://pragativadi.com/feed/) - English
+- ❌ [Pragativadi](https://pragativadi.com) News (Odia) - [Feed](https://pragativadi.com/feed/)
 - ✅ [Odisha Bhaskar](https://odishabhaskar.com) News (Odia) - [Feed](https://odishabhaskar.com/feed/) - English
 - ✅ [Nitidin](https://www.nitidinepaper.com) News (Odia) - [Feed](https://www.nitidinepaper.com/rss)
 - ✅ [Odisha Sambad](https://odishasambad.in) News (Odia) - [Feed](https://odishasambad.in/feed/) - English
@@ -2362,7 +2368,7 @@
 - ✅ [Visalaandhra](https://visalaandhra.com) Regional News: Andhra Pradesh - [Feed](https://visalaandhra.com/feed/) - English
 - ✅ [Namasthe Telangana](https://www.ntnews.com) Regional News: Telangana - [Feed](https://www.ntnews.com/feed) - Telugu
 - ✅ [Nava Telangana](https://navatelangana.com) Regional News: Telangana - [Feed](https://navatelangana.com/feed/) - English
-- ✅ [Janam Sakshi](https://janamsakshi.org) News (Telugu) - [Feed](https://janamsakshi.org/feed/) - English
+- ❌ [Janam Sakshi](https://janamsakshi.org) News (Telugu) - [Feed](https://janamsakshi.org/feed/)
 - ✅ [V6 Velugu](https://v6velugu.com) News (Telugu) - [Feed](https://v6velugu.com/feed/) - English
 - ✅ [Telugu Times](https://www.telugutimes.net) News (Telugu) - [Feed](https://www.telugutimes.net/feed) - English
 - ❌ [Raj News](https://rajnewsonline.com) News (Telugu) - [Feed](https://rajnewsonline.com/feed/)
@@ -2378,15 +2384,16 @@
 - ❌ [Baseerat Online](https://baseeratonline.com) News (Urdu) - [Feed](https://baseeratonline.com/feed)
 - ❌ [Roznama Khabrein](https://roznamakhabrein.com) Regional News: Delhi - [Feed](https://roznamakhabrein.com/feed)
 - ✅ [Qaumi Awaz](https://qaumiawaz.com) News (Urdu) - [Feed](https://qaumiawaz.com/feed) - Urdu
-- ✅ [Mumbai Urdu News](https://mumbaiurdunews.com) Regional News: Maharashtra - [Feed](https://mumbaiurdunews.com/rss) - Malay
+- ❌ [Mumbai Urdu News](https://mumbaiurdunews.com) Regional News: Maharashtra - [Feed](https://mumbaiurdunews.com/rss)
 - ❌ [Reserve Bank of India (RBI)](https://rbi.org.in) Financial Regulator - [Feed](https://rbi.org.in/pressreleases_rss.xml)
 - ❌ [Reserve Bank of India (RBI)](https://rbi.org.in) Financial Regulator - [Feed](https://rbi.org.in/notifications_rss.xml)
 - ❌ [Reserve Bank of India (RBI)](https://rbi.org.in) Financial Regulator - [Feed](https://rbi.org.in/speeches_rss.xml)
-- ❌ [Telecom Regulatory Authority of India (TRAI)](https://www.trai.gov.in) Telecom Regulatory Authority - [Feed](https://www.trai.gov.in/rss.xml)
+- ✅ [Telecom Regulatory Authority of India (TRAI)](https://www.trai.gov.in) Telecom Regulatory Authority - [Feed](https://www.trai.gov.in/rss.xml) - English
 - ❌ [Ministry of Home Affairs](https://mha.gov.in) Government News - [Feed](https://mha.gov.in/rss.xml)
 - ❌ [Ministry of Culture](https://culture.gov.in) Government News - [Feed](https://culture.gov.in/rss.xml)
 - ❌ [Ministry of Heavy Industries](https://heavyindustries.gov.in) Government News - [Feed](https://heavyindustries.gov.in/rss.xml)
 - ❌ [Jal Jeevan Mission (Department of Drinking Water and Sanitation)](https://jaljeevanmission.gov.in) Government News - [Feed](https://jaljeevanmission.gov.in/rss.xml)
+- ✅ [Top News](https://www.topnews.in) Business - [Feed](https://www.topnews.in/rss.xml) - English
 
 ## Indonesia
 
@@ -2423,7 +2430,7 @@
 - ✅ [Warta Ekonomi](https://www.wartaekonomi.co.id) News - [Feed](https://www.wartaekonomi.co.id/feed)
 - ❌ [Panjebar Semangat](https://panjebarsemangat.id) News (Javanese) - [Feed](https://panjebarsemangat.id/feed/)
 - ✅ [Antara](https://www.antaranews.com/) News (Indonesian) - [Feed](https://www.antaranews.com/rss/terkini.xml) - Indonesian
-- ✅ [Detik](https://www.detik.com/) News (Indonesian) - [Feed](https://news.detik.com/rss) - Indonesian
+- ✅ [Detik](https://www.detik.com/) News (Indonesian) - [Feed](https://news.detik.com/rss)
 - ✅ [Detik](https://www.detik.com/) News (Indonesian) - [Feed](https://finance.detik.com/rss) - Indonesian
 - ✅ [Tempo](https://www.tempo.co/) News (Indonesian) - [Feed](https://rss.tempo.co/nasional) - Indonesian
 - ✅ [Okezone](https://www.okezone.com/) News (Indonesian) - [Feed](https://sindikasi.okezone.com/index.php/rss/0/RSS2.0) - Indonesian
@@ -2451,9 +2458,9 @@
 - ✅ [Tribun Sultra](https://sultra.tribunnews.com/) Regional News: Sulawesi Tenggara - [Feed](https://sultra.tribunnews.com/rss) - Indonesian
 - ✅ [Tribun Gorontalo](https://gorontalo.tribunnews.com/) Regional News: Gorontalo - [Feed](https://gorontalo.tribunnews.com/rss) - Indonesian
 - ✅ [Tribun Sulbar](https://sulbar.tribunnews.com/) Regional News: Sulawesi Barat - [Feed](https://sulbar.tribunnews.com/rss) - Indonesian
-- ❌ [Minangkabau News](https://minangkabaunews.com) Regional News: West Sumatra - [Feed](https://minangkabaunews.com/rss)
+- ✅ [Minangkabau News](https://minangkabaunews.com) Regional News: West Sumatra - [Feed](https://minangkabaunews.com/rss) - English
 - ✅ [Langgam.id](https://langgam.id) Regional News: West Sumatra - [Feed](https://langgam.id/feed/) - Indonesian
-- ✅ [KlikPositif](https://klikpositif.com) Regional News: West Sumatra - [Feed](https://klikpositif.com/feed/) - Indonesian
+- ❌ [KlikPositif](https://klikpositif.com) Regional News: West Sumatra - [Feed](https://klikpositif.com/feed/)
 - ✅ [Rakyat Sumbar](https://rakyatsumbar.id) Regional News: West Sumatra - [Feed](https://rakyatsumbar.id/feed/) - Indonesian
 - ✅ [Riau Online](https://www.riauonline.co.id) Regional News: Riau - [Feed](https://www.riauonline.co.id/rss) - Indonesian
 - ❌ [HalloRiau](https://www.halloriau.com) Regional News: Riau - [Feed](https://www.halloriau.com/rss.xml)
@@ -2515,6 +2522,7 @@
 - ✅ [Environmental Protection Agency (EPA)](https://www.epa.ie) Other Regulator/Agency - [Feed](https://www.epa.ie/resources/rss/index-90481.xml) - English
 - ❌ [Environmental Protection Agency (EPA)](https://www.epa.ie) Other Regulator/Agency - [Feed](https://www.epa.ie/resources/rss/index-90488.xml)
 - ❌ [Environmental Protection Agency (EPA)](https://www.epa.ie) Other Regulator/Agency - [Feed](https://www.epa.ie/resources/rss/index-90495.xml)
+- ✅ [Dublin Live](https://www.dublinlive.ie) Regional News: Dublin - [Feed](https://www.dublinlive.ie/rss.xml) - English
 
 ## Islamic Republic of Iran
 
@@ -2557,7 +2565,7 @@
 ## Israel
 
 - ✅ [Ynet](http://ynet.co.il/) - [Feed](http://www.ynet.co.il/Integration/StoryRss3082.xml) - Hebrew
-- ❌ [Mako](http://mako.co.il/) - [Feed](http://rcs.mako.co.il/rss/MainSliderRss.xml)
+- ✅ [Mako](http://mako.co.il/) - [Feed](http://rcs.mako.co.il/rss/MainSliderRss.xml) - Hebrew
 - ✅ [Globes](http://globes.co.il/) - [Feed](http://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585) - Hebrew
 - ✅ [Jerusalem Post](http://jpost.com/) - [Feed](http://www.jpost.com/RSS/RssFeedsFrontPage.aspx) - English
 - ✅ [Times of Israel](https://www.timesofisrael.com) News - [Feed](https://www.timesofisrael.com/feed/) - English
@@ -2579,7 +2587,7 @@
 - ✅ [The Local](https://feeds.thelocal.com/) - [Feed](https://feeds.thelocal.com/rss/it) - English
 - ✅ [Libero Quotidiano](https://www.liberoquotidiano.it/) - [Feed](https://www.liberoquotidiano.it/rss.xml) - Italian
 - ✅ [Il Mattino Web](https://www.ilmattino.it/) - [Feed](https://www.ilmattino.it/?sez=XML&args&p=search&args[box]=Home&limit=20&layout=rss) - Italian
-- ✅ [Adnkronos - ultimoratop](http://rss.adnkronos.com/) - [Feed](http://rss.adnkronos.com/RSS_PrimaPagina.xml) - Italian
+- ❌ [Adnkronos - ultimoratop](http://rss.adnkronos.com/) - [Feed](http://rss.adnkronos.com/RSS_PrimaPagina.xml)
 - ✅ [Milan News](https://www.milannews.it/) - [Feed](https://www.milannews.it/rss/) - Italian
 - ✅ [Internazionale](https://www.internazionale.it/) - [Feed](https://www.internazionale.it/sitemaps/rss.xml) - Italian
 - ✅ [Panorama](https://www.panorama.it/) - [Feed](https://www.panorama.it/feeds/feed.rss) - Italian
@@ -2679,7 +2687,7 @@
 - ✅ [Bank of Japan (BOJ)](https://www.boj.or.jp) Financial Regulator - [Feed](https://www.boj.or.jp/rss/whatsnew.xml) - Japanese
 - ✅ [Bank of Japan (BOJ)](https://www.boj.or.jp) Financial Regulator - [Feed](https://www.boj.or.jp/rss/statistics.xml) - Japanese
 - ✅ [Financial Services Agency (FSA)](https://www.fsa.go.jp) Financial Regulator - [Feed](https://www.fsa.go.jp/fsaNewsListAll_rss2.xml) - Japanese
-- ✅ [Japan Meteorological Agency (JMA)](https://www.jma.go.jp) Weather Service - [Feed](https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml) - Chinese
+- ✅ [Japan Meteorological Agency (JMA)](https://www.jma.go.jp) Weather Service - [Feed](https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml)
 - ❌ [Consumer Affairs Agency (CAA)](https://www.caa.go.jp) Consumer Protection Authority - [Feed](https://www.caa.go.jp/news.rss)
 - ❌ [JPCERT Coordination Center (JPCERT/CC)](https://www.jpcert.or.jp) Cyber Security Authority - [Feed](https://www.jpcert.or.jp/rss/jpcert.rdf)
 - ❌ [Fire and Disaster Management Agency (FDMA)](https://www.fdma.go.jp) Disaster Management Authority - [Feed](https://www.fdma.go.jp/pressrelease/houdou/index.xml)
@@ -2729,7 +2737,7 @@
 - ✅ [City of Osaka](https://www.city.osaka.lg.jp) Government News: Osaka City - [Feed](https://www.city.osaka.lg.jp/main/rss/rss.xml) - Japanese
 - ✅ [City of Kyoto](https://www.city.kyoto.lg.jp) Government News: Kyoto City - [Feed](https://www.city.kyoto.lg.jp/main/rss/rss.xml) - Japanese
 - ❌ [City of Sapporo](https://www.city.sapporo.jp) Government News: Sapporo - [Feed](https://www.city.sapporo.jp/new/shinchaku.xml)
-- ✅ [City of Fukuoka](https://www.city.fukuoka.lg.jp) Government News: Fukuoka City - [Feed](https://www.city.fukuoka.lg.jp/data/open/rss/RSS_7237.xml) - Japanese
+- ❌ [City of Fukuoka](https://www.city.fukuoka.lg.jp) Government News: Fukuoka City - [Feed](https://www.city.fukuoka.lg.jp/data/open/rss/RSS_7237.xml)
 - ✅ [Metropolitan Police Department (Keishicho, Tokyo)](https://www.keishicho.metro.tokyo.lg.jp) Police Reports: Tokyo - [Feed](https://www.keishicho.metro.tokyo.lg.jp/rss_news.xml) - Japanese
 - ❌ [Kanagawa Prefectural Police](https://www.police.pref.kanagawa.jp) Police Reports: Kanagawa - [Feed](https://www.police.pref.kanagawa.jp/rss.xml)
 
@@ -2772,7 +2780,7 @@
 - ❌ [Tuko](https://www.tuko.co.ke/) News - [Feed](https://kiswahili.tuko.co.ke/rss/all.rss)
 - ✅ [Kenyans.co.ke](https://www.kenyans.co.ke/) News - [Feed](https://www.kenyans.co.ke/feeds/news) - English
 - ❌ [Kenya News Agency](https://www.kenyanews.go.ke/) News - [Feed](https://www.kenyanews.go.ke/feed/)
-- ✅ [KBC](https://www.kbc.co.ke/) News - [Feed](https://www.kbc.co.ke/feed/) - English
+- ❌ [KBC](https://www.kbc.co.ke/) News - [Feed](https://www.kbc.co.ke/feed/)
 - ✅ [K24 Digital](https://k24.digital/) News - [Feed](https://k24.digital/feed/) - English
 - ✅ [Capital FM Kenya](https://www.capitalfm.co.ke/) News - [Feed](https://www.capitalfm.co.ke/news/feed/) - English
 - ✅ [The East African](https://www.theeastafrican.co.ke/) News - [Feed](https://www.theeastafrican.co.ke/service/rss/tea/1289142/feed.rss) - English
@@ -2789,10 +2797,10 @@
 - ✅ [Nairobi News](https://nairobinews.co.ke/) Regional News: Nairobi - [Feed](https://nairobinews.co.ke/feed/) - English
 - ✅ [KDRTV](https://www.kdrtv.co.ke/) News (English) - [Feed](https://www.kdrtv.co.ke/feed/) - English
 - ✅ [Gotta News](https://gotta.news/) News (English) - [Feed](https://gotta.news/feed/) - English
-- ✅ [KBC Swahili (Radio Taifa)](https://swahili.kbc.co.ke) News (Swahili) - [Feed](https://swahili.kbc.co.ke/feed/) - English
-- ✅ [KBC Swahili (Radio Taifa)](https://swahili.kbc.co.ke) News (Swahili) - [Feed](https://swahili.kbc.co.ke/category/habari/feed/) - English
-- ✅ [KBC Swahili (Radio Taifa)](https://swahili.kbc.co.ke) News (Swahili) - [Feed](https://swahili.kbc.co.ke/category/habari_kuu/feed/) - English
-- ✅ [KBC Swahili (Radio Taifa)](https://swahili.kbc.co.ke) News (Swahili) - [Feed](https://swahili.kbc.co.ke/category/michezo/feed/) - English
+- ❌ [KBC Swahili (Radio Taifa)](https://swahili.kbc.co.ke) News (Swahili) - [Feed](https://swahili.kbc.co.ke/feed/)
+- ❌ [KBC Swahili (Radio Taifa)](https://swahili.kbc.co.ke) News (Swahili) - [Feed](https://swahili.kbc.co.ke/category/habari/feed/)
+- ❌ [KBC Swahili (Radio Taifa)](https://swahili.kbc.co.ke) News (Swahili) - [Feed](https://swahili.kbc.co.ke/category/habari_kuu/feed/)
+- ❌ [KBC Swahili (Radio Taifa)](https://swahili.kbc.co.ke) News (Swahili) - [Feed](https://swahili.kbc.co.ke/category/michezo/feed/)
 - ❌ [Baraka FM](https://barakafm.co.ke) Regional News: Mombasa - [Feed](https://barakafm.co.ke/feed/)
 - ❌ [Kass Digital](https://kassdigital.co.ke/) News (Kikuyu, Luo, Kalenjin) - [Feed](https://kassdigital.co.ke/feed/)
 - ❌ [The National Treasury (Kenya)](https://www.treasury.go.ke) Government News - [Feed](https://www.treasury.go.ke/rss.xml)
@@ -2845,7 +2853,7 @@
 
 ## Lao People's Democratic Republic
 
-- ✅ [Vientiane Times Lao](https://www.vientianetimeslao.la) - [Feed](https://www.vientianetimeslao.la/feed/) - English
+- ❌ [Vientiane Times Lao](https://www.vientianetimeslao.la) - [Feed](https://www.vientianetimeslao.la/feed/)
 - ❌ [The Laotian Times](https://laotiantimes.com) - [Feed](https://laotiantimes.com/feed/)
 - ❌ [Lao Economic Daily](https://laoedaily.com.la) - [Feed](https://laoedaily.com.la/?feed=rss2)
 - ✅ [Lao Seri (ຂ່າວລາວເສຣີ)](https://lao-info.net) - [Feed](https://lao-info.net/feed/) - English
@@ -2941,7 +2949,7 @@
 - ✅ [Libya Akhbar (Libya Now)](https://www.libyaakhbar.com) News - [Feed](https://www.libyaakhbar.com/feed) - Arabic
 - ✅ [Libyan News Agency (LANA)](https://lana.gov.ly) News - [Feed](https://lana.gov.ly/rss/ar/) - arabic
 - ✅ [Ean Libya](https://www.eanlibya.com) News (Arabic) - [Feed](https://www.eanlibya.com/feed) - Arabic
-- ✅ [Al Saaa 24](https://www.alsaaa24.com) News (Arabic) - [Feed](https://www.alsaaa24.com/feed) - Arabic
+- ❌ [Al Saaa 24](https://www.alsaaa24.com) News (Arabic) - [Feed](https://www.alsaaa24.com/feed)
 - ❌ [Sada](https://sada.ly) News (Arabic) - [Feed](https://sada.ly/feed)
 - ✅ [Libya 24](https://libya24.tv) News (Arabic) - [Feed](https://libya24.tv/feed/) - Arabic
 - ✅ [Address Libya](https://addresslibya.com) News (Arabic) - [Feed](https://addresslibya.com/feed) - Arabic
@@ -2966,9 +2974,9 @@
 - ✅ [Grokiskis Online](https://grokiskis.lt) Regional News: Grokiskis - [Feed](https://grokiskis.lt/feed) - Lithuanian
 - ✅ [Kmintys](https://kmintys.lt) News - [Feed](https://kmintys.lt/feed) - Lithuanian
 - ✅ [Nyksciai News](https://nyksciai.lt) Regional News: Nyksciai - [Feed](https://nyksciai.lt/feed) - Lithuanian
-- ✅ [Gargzdai](https://gargzdai.lt) Regional News: Gargzdai - [Feed](https://gargzdai.lt/feed) - Lithuanian
+- ❌ [Gargzdai](https://gargzdai.lt) Regional News: Gargzdai - [Feed](https://gargzdai.lt/feed)
 - ✅ [Anyksta](https://www.anyksta.lt) Regional News: Anyksta - [Feed](https://www.anyksta.lt/feed) - Lithuanian
-- ✅ [Government of the Republic of Lithuania (Lietuvos Respublikos Vyriausybė)](https://lrv.lt) Government News - [Feed](https://lrv.lt/lt/naujienos/rss) - Lithuanian
+- ❌ [Government of the Republic of Lithuania (Lietuvos Respublikos Vyriausybė)](https://lrv.lt) Government News - [Feed](https://lrv.lt/lt/naujienos/rss)
 - ❌ [Government of the Republic of Lithuania (Lietuvos Respublikos Vyriausybė)](https://lrv.lt) Government News - [Feed](https://lrv.lt/en/news/rss)
 - ❌ [Ministry of Finance of Lithuania (Finansų ministerija)](https://finmin.lrv.lt) Government News - [Feed](https://finmin.lrv.lt/lt/naujienos/rss)
 - ❌ [Ministry of Finance of Lithuania (Finansų ministerija)](https://finmin.lrv.lt) Government News - [Feed](https://finmin.lrv.lt/en/news/rss)
@@ -3010,7 +3018,7 @@
 - ❌ [Woxx](https://www.woxx.lu) News - [Feed](https://www.woxx.lu/feed/)
 - ✅ [Les Frontaliers](https://lesfrontaliers.lu) News - [Feed](https://lesfrontaliers.lu/feed/) - French
 - ❌ [Revue](https://www.revue.lu) News - [Feed](https://www.revue.lu/feed/)
-- ✅ [Forbes Luxembourg](https://www.forbes.lu) Business - [Feed](https://www.forbes.lu/feed/) - English
+- ❌ [Forbes Luxembourg](https://www.forbes.lu) Business - [Feed](https://www.forbes.lu/feed/)
 - ✅ [Le gouvernement luxembourgeois (Government Portal)](https://gouvernement.lu) Government News - [Feed](https://gouvernement.lu/fr/actualites/toutes_actualites.rss) - French
 - ❌ [Ministère de la Digitalisation](https://digital.gouvernement.lu) Government News - [Feed](https://digital.gouvernement.lu/fr/actualites.rss)
 - ❌ [Ministère de la Santé et de la Sécurité sociale](https://m3s.gouvernement.lu) Government News - [Feed](https://m3s.gouvernement.lu/fr/actualites.rss)
@@ -3057,7 +3065,7 @@
 
 - ❌ [Madagascar Tribune](http://madagascar-tribune.com/) - [Feed](http://www.madagascar-tribune.com/spip.php?page=backend)
 - ✅ [L'Express de Madagascar](https://www.lexpress.mg) News - [Feed](https://www.lexpress.mg/feeds/posts/default?alt=rss) - French
-- ✅ [Midi Madagasikara](https://midi-madagasikara.mg) News - [Feed](https://midi-madagasikara.mg/feed/) - French
+- ❌ [Midi Madagasikara](https://midi-madagasikara.mg) News - [Feed](https://midi-madagasikara.mg/feed/)
 - ✅ [2424.mg](https://2424.mg) News - [Feed](https://2424.mg/feed/) - French
 - ✅ [La Gazette de la Grande Ile](https://lgdi-madagascar.com) News - [Feed](https://lgdi-madagascar.com/feed/) - French
 - ❌ [Madagascar Tribune](https://www.madagascar-tribune.com) News (French) - [Feed](https://www.madagascar-tribune.com/spip.php?page=backend)
@@ -3126,7 +3134,7 @@
 - ✅ [Maliko News](https://malikonews.com) News - [Feed](https://malikonews.com/feed/) - French
 - ✅ [AMAP (Agence Malienne de Presse et de Publicité)](https://amap.ml) News - [Feed](https://amap.ml/feed/) - French
 - ✅ [Studio Tamani](https://www.studiotamani.org) News - [Feed](https://www.studiotamani.org/feed/) - French
-- ✅ [Sahel Tribune](https://saheltribune.com) News - [Feed](https://saheltribune.com/feed/) - French
+- ❌ [Sahel Tribune](https://saheltribune.com) News - [Feed](https://saheltribune.com/feed/)
 - ✅ [Journal du Mali](https://journaldumali.com/) News - [Feed](https://journaldumali.com/feed/) - French
 - ✅ [Sahelien](https://sahelien.com/) News - [Feed](https://sahelien.com/feed/) - French
 - ❌ [Benbere](https://benbere.org/) News - [Feed](https://benbere.org/feed/)
@@ -3287,7 +3295,7 @@
 - ✅ [RTVNK](https://rtnk.me/) - [Feed](https://rtnk.me/feed/) - Serbian
 - ✅ [RadioDux](http://www.radiodux.me/) - [Feed](http://www.radiodux.me/rss.xml) - Croatian
 - ✅ [RadioTitograd](https://radiotitograd.me/) - [Feed](https://radiotitograd.me/feed/) - Bosnian
-- ❌ [Espona](https://espona.me/) - [Feed](https://espona.me/index.php?format=feed&type=atom)
+- ✅ [Espona](https://espona.me/) - [Feed](https://espona.me/index.php?format=feed&type=atom) - Bosnian
 - ✅ [Svetigora](https://svetigora.com/) - [Feed](https://svetigora.com/feed/) - Serbian
 - ✅ [BokaNews](https://bokanews.me/) - [Feed](https://bokanews.me/feed/) - Croatian
 - ✅ [VolimPodgoricu](https://volimpodgoricu.me/) - [Feed](https://volimpodgoricu.me/feed) - Bosnian
@@ -3314,7 +3322,7 @@
 - ✅ [Cawalisse Alyoum](https://cawalisse.com/) News - [Feed](https://cawalisse.com/feed/) - Arabic
 - ✅ [LeSiteInfo](https://www.lesiteinfo.com/) News - [Feed](https://www.lesiteinfo.com/feed) - French
 - ❌ [Medias24](https://www.medias24.com/) News - [Feed](https://www.medias24.com/feed/)
-- ❌ [Rue20](https://rue20.ma/) News - [Feed](https://rue20.ma/feed/)
+- ✅ [Rue20](https://rue20.ma/) News - [Feed](https://rue20.ma/feed/) - Arabic
 - ✅ [Le Monde Amazigh (Amadal Amazigh)](https://amadalamazigh.press.ma) News (Tamazight) - [Feed](https://amadalamazigh.press.ma/feed/) - Arabic
 - ❌ [AkalPress](https://akalpress.com) News (Tamazight) - [Feed](https://akalpress.com/feed/)
 - ✅ [AkalPress](https://akalpress.com) News (Tamazight) - [Feed](https://fr.akalpress.com/feed/) - French
@@ -3340,8 +3348,8 @@
 - ✅ [TelQuel](https://telquel.ma/) News (French) - [Feed](https://telquel.ma/feed) - French
 - ❌ [Médias24](https://medias24.com/) News (French) - [Feed](https://medias24.com/feed/)
 - ✅ [La Nouvelle Tribune](https://lnt.ma/) News (French) - [Feed](https://lnt.ma/feed/) - French
-- ❌ [La Vie éco](https://www.lavieeco.com/) News (French) - [Feed](https://www.lavieeco.com/feed/)
-- ✅ [Challenge](https://www.challenge.ma/) News (French) - [Feed](https://www.challenge.ma/feed/) - French
+- ✅ [La Vie éco](https://www.lavieeco.com/) News (French) - [Feed](https://www.lavieeco.com/feed/) - French
+- ❌ [Challenge](https://www.challenge.ma/) News (French) - [Feed](https://www.challenge.ma/feed/)
 - ✅ [Yabiladi](https://www.yabiladi.com/) News (French) - [Feed](https://www.yabiladi.com/rss/) - French
 - ✅ [Barlamane (français)](https://barlamane.com/fr) News (French) - [Feed](https://barlamane.com/fr/feed/) - French
 - ❌ [Haut-Commissariat au Plan (HCP / المندوبية السامية للتخطيط)](https://www.hcp.ma) Official Statistics - [Feed](https://www.hcp.ma/xml/syndication.rss)
@@ -3364,7 +3372,7 @@
 - ✅ [Jornal Notícias](https://jornalnoticias.co.mz) - [Feed](https://jornalnoticias.co.mz/feed/) - Portuguese
 - ✅ [Carta de Moçambique](https://cartamz.com) - [Feed](https://cartamz.com/feed/) - English
 - ✅ [O País](https://opais.co.mz) - [Feed](https://opais.co.mz/feed/) - Portuguese
-- ✅ [MZNews](https://mznews.co.mz) - [Feed](https://mznews.co.mz/feed/) - Portuguese
+- ❌ [MZNews](https://mznews.co.mz) - [Feed](https://mznews.co.mz/feed/)
 - ✅ [Canal de Moçambique](https://canal.co.mz) - [Feed](https://canal.co.mz/feed/) - English
 - ✅ [Agência de Informação de Moçambique (AIM)](https://aimnews.org) - [Feed](https://aimnews.org/feed/) - Portuguese
 - ❌ [Jornal Domingo](https://jornaldomingo.co.mz) News - [Feed](https://jornaldomingo.co.mz/feed/)
@@ -3391,7 +3399,7 @@
 - ✅ [Republikein](https://www.republikein.com.na) News - [Feed](https://www.republikein.com.na/rssFeed/160) - Afrikaans
 - ✅ [Allgemeine Zeitung](https://www.az.com.na) News - [Feed](https://www.az.com.na/rssFeed/4) - German
 - ✅ [Windhoek Observer](https://observer24.com.na) News - [Feed](https://observer24.com.na/feed/) - English
-- ❌ [Informanté](https://informante.web.na) News - [Feed](https://informante.web.na/?feed=rss2)
+- ✅ [Informanté](https://informante.web.na) News - [Feed](https://informante.web.na/?feed=rss2) - English
 - ✅ [The Brief](https://thebrief.com.na) Business - [Feed](https://thebrief.com.na/feed/) - English
 - ✅ [Namibia Economist](https://economist.com.na) Business - [Feed](https://economist.com.na/feed/) - English
 
@@ -3577,8 +3585,8 @@
 - ❌ [Niger Diaspora](http://nigerdiaspora.info/) - [Feed](http://nigerdiaspora.net/?type=rss&format=feed)
 - ✅ [Le Sahel](https://www.lesahel.org/) News - [Feed](https://www.lesahel.org/feed/) - French
 - ❌ [Air Info Agadez](https://airinfoagadez.com/) Regional News: Agadez - [Feed](https://airinfoagadez.com/feed/)
-- ✅ [Journal du Niger](https://www.journalduniger.com/) News - [Feed](https://www.journalduniger.com/feed/) - French
-- ❌ [Agence Nigérienne de Presse (ANP)](https://www.anp.ne/) News - [Feed](https://www.anp.ne/feed)
+- ❌ [Journal du Niger](https://www.journalduniger.com/) News - [Feed](https://www.journalduniger.com/feed/)
+- ✅ [Agence Nigérienne de Presse (ANP)](https://www.anp.ne/) News - [Feed](https://www.anp.ne/feed) - French
 - ❌ [Niger Inter](https://www.nigerinter.com/) News - [Feed](https://nigerinter.com/feed/)
 - ✅ [RFI Afrique (French)](https://www.rfi.fr/fr/afrique/) News - [Feed](https://www.rfi.fr/fr/afrique/rss) - French
 - ✅ [Agence Nigerienne de Presse](https://anp.ne) News (French) - [Feed](https://anp.ne/feed/) - French
@@ -3606,8 +3614,8 @@
 - ✅ [Abuja Inquirer](https://theabujainquirer.com/) Regional News: FCT - [Feed](https://theabujainquirer.com/rss) - English
 - ❌ [The Herald](https://www.theheraldnews.ng/) Regional News: Kwara - [Feed](https://www.theheraldnews.ng/feed)
 - ❌ [The Pointer](https://www.thepointersnewsonline.com/) Regional News: Delta - [Feed](https://www.thepointersnewsonline.com/feed)
-- ✅ [Vanguard Nigeria](https://www.vanguardngr.com) News - [Feed](https://www.vanguardngr.com/feed/) - English
-- ✅ [ThisDay](https://www.thisday.com.ng) News - [Feed](https://www.thisday.com.ng/feed/) - English
+- ❌ [Vanguard Nigeria](https://www.vanguardngr.com) News - [Feed](https://www.vanguardngr.com/feed/)
+- ❌ [ThisDay](https://www.thisday.com.ng) News - [Feed](https://www.thisday.com.ng/feed/)
 - ❌ [Channels Television](https://www.channelstv.com) News - [Feed](https://www.channelstv.com/feed/)
 - ✅ [The Cable](https://thecable.ng) News - [Feed](https://thecable.ng/feed/) - English
 - ✅ [Leadership](https://leadership.ng) News - [Feed](https://leadership.ng/feed/) - English
@@ -3655,14 +3663,14 @@
 - ✅ [Naija News](https://www.naijanews.com) News (English, Pidgin) - [Feed](https://www.naijanews.com/feed) - English
 - ❌ [Sahara Reporters](https://saharareporters.com) News (English, Pidgin) - [Feed](https://saharareporters.com/articles/rss-feed)
 - ✅ [Akoko Edo News](https://akokoedonewspaper.com.ng) Regional News: Edo - [Feed](https://akokoedonewspaper.com.ng/feed) - English
-- ❌ [New Nigerian Newspaper](https://www.newnigeriannewspapers.ng) News (English, Pidgin) - [Feed](https://www.newnigeriannewspapers.ng/feed)
+- ✅ [New Nigerian Newspaper](https://www.newnigeriannewspapers.ng) News (English, Pidgin) - [Feed](https://www.newnigeriannewspapers.ng/feed) - English
 - ❌ [Techpoint Africa](https://techpoint.africa) News (English, Pidgin) - [Feed](https://techpoint.africa/feed)
 - ✅ [All Nigeria Soccer](https://www.allnigeriasoccer.com) News (English, Pidgin) - [Feed](https://www.allnigeriasoccer.com/feed) - English
 - ✅ [Soccernet Nigeria](https://soccernet.ng) News (English, Pidgin) - [Feed](https://soccernet.ng/feed) - English
 - ✅ [Complete Sports](https://www.completesports.com) News (English, Pidgin) - [Feed](https://www.completesports.com/feed) - English
 - ✅ [OwnGoal Nigeria](https://owngoalnigeria.com) News (English, Pidgin) - [Feed](https://owngoalnigeria.com/feed) - English
 - ✅ [Nigeria Health Watch](https://nigeriahealthwatch.com) News (English, Pidgin) - [Feed](https://nigeriahealthwatch.com/feed) - English
-- ✅ [Iroyin Owuro](https://iroyinowuro.com.ng/) News (Yoruba) - [Feed](https://iroyinowuro.com.ng/feed/) - English
+- ❌ [Iroyin Owuro](https://iroyinowuro.com.ng/) News (Yoruba) - [Feed](https://iroyinowuro.com.ng/feed/)
 - ✅ [The Yoruba Times](https://theyorubatimes.com/) News (Yoruba) - [Feed](https://theyorubatimes.com/feed/) - English
 - ✅ [Yoruba FM](https://www.yorubafm.com/) News (Yoruba) - [Feed](https://www.yorubafm.com/feed/) - English
 - ✅ [Irohin Odua](https://www.irohinodua.org/) News (Yoruba) - [Feed](https://www.irohinodua.org/feed/) - English
@@ -3695,7 +3703,7 @@
 - ✅ [Yobe State Government](https://www.yobestate.gov.ng) Government News: Yobe - [Feed](https://www.yobestate.gov.ng/feed/) - English
 - ✅ [Kogi State Government](https://www.kogistate.gov.ng) Government News: Kogi - [Feed](https://www.kogistate.gov.ng/feed/) - English
 - ❌ [Adamawa State Government](https://www.adamawastate.gov.ng) Government News: Adamawa - [Feed](https://www.adamawastate.gov.ng/feed/)
-- ✅ [Enugu State Government](https://www.enugustate.gov.ng) Government News: Enugu - [Feed](https://www.enugustate.gov.ng/feed/) - English
+- ❌ [Enugu State Government](https://www.enugustate.gov.ng) Government News: Enugu - [Feed](https://www.enugustate.gov.ng/feed/)
 - ❌ [Ekiti State Government](https://www.ekitistate.gov.ng) Government News: Ekiti - [Feed](https://www.ekitistate.gov.ng/feed/)
 
 ## Niue
@@ -3797,6 +3805,7 @@
 - ✅ [Awami Awaz](https://awamiawaz.pk) News (Sindhi) - [Feed](https://awamiawaz.pk/feed/) - Urdu
 - ✅ [Pahenji Akhbar](https://pahenjiakhbar.com) News (Sindhi) - [Feed](https://pahenjiakhbar.com/feed/) - English
 - ❌ [Sindh TV News](https://sindhtvnews.tv) News (Sindhi) - [Feed](https://sindhtvnews.tv/feed/)
+- ❌ [The Fashion Central](https://www.fashioncentral.pk) Fashion - [Feed](https://www.fashioncentral.pk/feed/)
 
 ## Palau
 
@@ -3902,16 +3911,16 @@
 - ✅ [GMA News Online / News](https://data.gmanews.tv/) - [Feed](https://data.gmanews.tv/gno/rss/news/feed.xml) - English
 - ✅ [Top Gear: The Philippine authority on cars and the automotive industry](https://www.topgear.com.ph/) - [Feed](https://www.topgear.com.ph/feed/rss1) - English
 - ✅ [UNBOX PH](https://www.unbox.ph/) - [Feed](https://www.unbox.ph/feed/) - English
-- ❌ [Rappler](https://rappler.com) News - [Feed](https://rappler.com/feed)
+- ✅ [Rappler](https://rappler.com) News - [Feed](https://rappler.com/feed) - English
 - ✅ [SunStar](https://www.sunstar.com.ph) News - [Feed](https://www.sunstar.com.ph/feed) - English
-- ❌ [Remate](https://remate.ph) News - [Feed](https://remate.ph/feed)
+- ✅ [Remate](https://remate.ph) News - [Feed](https://remate.ph/feed) - English
 - ✅ [Philippine Daily Inquirer - Cebu Edition](https://cebudailynews.inquirer.net) Regional News: Cebu - [Feed](https://cebudailynews.inquirer.net/feed) - English
 - ✅ [Philippine Daily Inquirer](https://www.inquirer.net) News - [Feed](https://www.inquirer.net/feed) - English
 - ✅ [Philippine Daily Inquirer](https://www.inquirer.net) News - [Feed](https://www.inquirer.net/rss) - English
 - ✅ [Philippine Daily Inquirer - Sports](https://sports.inquirer.net) Sports - [Feed](https://sports.inquirer.net/feed) - English
 - ✅ [Philippine Daily Inquirer - Entertainment](https://entertainment.inquirer.net) Entertainment - [Feed](https://entertainment.inquirer.net/feed) - English
 - ❌ [Philippine Daily Inquirer - Technology](https://technology.inquirer.net) Technology - [Feed](https://technology.inquirer.net/feed)
-- ❌ [Newsline Philippines](https://newsline.ph) News - [Feed](https://newsline.ph/feed)
+- ✅ [Newsline Philippines](https://newsline.ph) News - [Feed](https://newsline.ph/feed) - English
 - ✅ [PTV News](https://ptvnews.ph) News - [Feed](https://ptvnews.ph/feed) - English
 - ❌ [Zamboanga](https://www.zamboanga.com) Regional News: Mindanao - [Feed](https://www.zamboanga.com/feed)
 - ✅ [Manila Times](https://www.manilatimes.net) News - [Feed](https://www.manilatimes.net/mns/feed) - English
@@ -3923,7 +3932,7 @@
 - ✅ [Konrad News](https://www.konradnews.com) News - [Feed](https://www.konradnews.com/feed) - Italian
 - ✅ [Banat (Philstar)](https://www.philstar.com/banat) News (Cebuano) - [Feed](https://www.philstar.com/rss/banat) - English
 - ❌ [Bombo Radyo Cebu](https://cebu.bomboradyo.com/) Regional News: Cebu - [Feed](https://cebu.bomboradyo.com/feed/)
-- ❌ [Bombo Radyo Davao](https://davao.bomboradyo.com/) Regional News: Davao - [Feed](https://davao.bomboradyo.com/feed/)
+- ✅ [Bombo Radyo Davao](https://davao.bomboradyo.com/) Regional News: Davao - [Feed](https://davao.bomboradyo.com/feed/) - English
 - ❌ [Bombo Radyo General Santos](https://gensan.bomboradyo.com/) Regional News: General Santos - [Feed](https://gensan.bomboradyo.com/feed/)
 - ❌ [Bombo Radyo Butuan](https://butuan.bomboradyo.com/) Regional News: Butuan - [Feed](https://butuan.bomboradyo.com/feed/)
 - ❌ [Bombo Radyo Iloilo](https://iloilo.bomboradyo.com) News (Hiligaynon) - [Feed](https://iloilo.bomboradyo.com/feed/)
@@ -3933,7 +3942,7 @@
 - ✅ [Digicast Negros](https://digicastnegros.com) News (Hiligaynon) - [Feed](https://digicastnegros.com/feed/) - English
 - ✅ [Panay News](https://www.panaynews.net) Regional News: Western Visayas - [Feed](https://www.panaynews.net/feed/) - English
 - ✅ [Daily Guardian](https://www.dailyguardian.com.ph) Regional News: Western Visayas - [Feed](https://www.dailyguardian.com.ph/feed/) - English
-- ✅ [Bombo Radyo Laoag](https://laoag.bomboradyo.com/) News (Ilocano) - [Feed](https://laoag.bomboradyo.com/feed) - English
+- ❌ [Bombo Radyo Laoag](https://laoag.bomboradyo.com/) News (Ilocano) - [Feed](https://laoag.bomboradyo.com/feed)
 - ❌ [Bombo Radyo Vigan](https://vigan.bomboradyo.com/) News (Ilocano) - [Feed](https://vigan.bomboradyo.com/feed)
 - ✅ [MindaNews](https://mindanews.com) Regional News: Mindanao - [Feed](https://mindanews.com/feed/) - English
 - ✅ [Mindanao Daily News](https://mindanaodailynews.com) Regional News: Mindanao - [Feed](https://mindanaodailynews.com/feed/) - English
@@ -4019,7 +4028,7 @@
 - ✅ [Komenda Wojewódzka Policji we Wrocławiu (Dolnośląskie Regional Police)](https://dolnoslaska.policja.gov.pl) Police Reports: Dolnośląskie - [Feed](https://dolnoslaska.policja.gov.pl/dokumenty/rss/411-rss-o-2401.rss) - Polish
 - ✅ [Komenda Wojewódzka Policji w Bydgoszczy (Kujawsko-Pomorskie Regional Police)](https://kujawsko-pomorska.policja.gov.pl) Police Reports: Kujawsko-Pomorskie - [Feed](https://kujawsko-pomorska.policja.gov.pl/dokumenty/rss/136-rss-4759.rss) - Polish
 - ✅ [Komenda Wojewódzka Policji w Rzeszowie (Podkarpackie Regional Police)](https://podkarpacka.policja.gov.pl) Police Reports: Podkarpackie - [Feed](https://podkarpacka.policja.gov.pl/dokumenty/rss/303-rss-o-1540.rss) - Polish
-- ❌ [Komenda Wojewódzka Policji w Białymstoku (Podlaskie Regional Police)](https://podlaska.policja.gov.pl) Police Reports: Podlaskie - [Feed](https://podlaska.policja.gov.pl/dokumenty/rss/74-rss-1610.rss)
+- ✅ [Komenda Wojewódzka Policji w Białymstoku (Podlaskie Regional Police)](https://podlaska.policja.gov.pl) Police Reports: Podlaskie - [Feed](https://podlaska.policja.gov.pl/dokumenty/rss/74-rss-1610.rss) - Polish
 - ❌ [Komenda Wojewódzka Policji w Gdańsku (Pomorskie Regional Police)](https://pomorska.policja.gov.pl) Police Reports: Pomorskie - [Feed](https://pomorska.policja.gov.pl/dokumenty/rss/366-rss-1014.rss)
 - ✅ [Komenda Wojewódzka Policji w Olsztynie (Warmińsko-Mazurskie Regional Police)](https://warminsko-mazurska.policja.gov.pl) Police Reports: Warmińsko-Mazurskie - [Feed](https://warminsko-mazurska.policja.gov.pl/dokumenty/rss/32-rss-1.rss) - Polish
 
@@ -4051,7 +4060,7 @@
 
 ## Puerto Rico
 
-- ✅ [NotiCel](http://noticel.com/) - [Feed](http://noticel.com/feed) - Spanish
+- ❌ [NotiCel](http://noticel.com/) - [Feed](http://noticel.com/feed)
 - ✅ [Noti Uno 630 AM](http://notiuno.com/) - [Feed](http://estrella51.blogspot.com/feeds/posts/default?alt=rss) - Spanish
 - ✅ [El Nuevo Dia](https://www.elnuevodia.com) News - [Feed](https://www.elnuevodia.com/arc/outboundfeeds/rss/?outputType=xml) - Spanish
 - ✅ [Primera Hora](https://www.primerahora.com) News - [Feed](https://www.primerahora.com/arc/outboundfeeds/rss/?outputType=xml) - Spanish
@@ -4081,7 +4090,7 @@
 - ✅ [Al Raya](https://www.raya.com/) News - [Feed](https://www.raya.com/rssFeed/1) - Swedish
 - ✅ [Al Raya](https://www.raya.com/) News - [Feed](https://www.raya.com/rssFeed/2) - Swedish
 - ✅ [Al Raya](https://www.raya.com/) News - [Feed](https://www.raya.com/rssFeed/3) - Swedish
-- ✅ [Al Raya](https://www.raya.com/) News - [Feed](https://www.raya.com/rssFeed/4) - Swedish
+- ✅ [Al Raya](https://www.raya.com/) News - [Feed](https://www.raya.com/rssFeed/4)
 - ❌ [Al Arab](https://alarab.qa/) News - [Feed](https://alarab.qa/category/الأخبار-العامة/feed)
 - ❌ [Al Arab](https://alarab.qa/) News - [Feed](https://alarab.qa/category/محليات/feed)
 - ❌ [Al Arab](https://alarab.qa/) News - [Feed](https://alarab.qa/category/اقتصاد/feed)
@@ -4128,21 +4137,21 @@
 - ✅ [Cronica Romana](https://cronicaromana.net) News - [Feed](https://cronicaromana.net/feed/) - Romanian
 - ✅ [Curier](https://curier.ro) News - [Feed](https://curier.ro/feed/) - Romanian
 - ✅ [Curier National](https://curierulnational.ro) News - [Feed](https://curierulnational.ro/feed/) - Romanian
-- ❌ [CVL Press](https://cvlpress.ro) Regional News: Centrala Muntenia - [Feed](https://cvlpress.ro/feed/)
+- ✅ [CVL Press](https://cvlpress.ro) Regional News: Centrala Muntenia - [Feed](https://cvlpress.ro/feed/) - Romanian
 - ✅ [Gazeta de Cluj](https://gazetadecluj.ro) Regional News: Cluj - [Feed](https://gazetadecluj.ro/feed) - Romanian
 - ✅ [Graiul Salajului](https://graiulsalajului.ro) Regional News: Salaj - [Feed](https://graiulsalajului.ro/feed/) - Romanian
-- ✅ [Nine O'Clock](https://nineoclock.ro) News - [Feed](https://nineoclock.ro/feed) - English
+- ❌ [Nine O'Clock](https://nineoclock.ro) News - [Feed](https://nineoclock.ro/feed)
 - ✅ [Obiectiv BR](https://obiectivbr.ro) Regional News: Bucharest - [Feed](https://obiectivbr.ro/feed/) - Romanian
 - ✅ [Apro Polis TV](https://www.apropotv.ro) News - [Feed](https://www.apropotv.ro/feed/) - Romanian
 - ✅ [Aradon Online](https://www.aradon.ro) Regional News: Arad - [Feed](https://www.aradon.ro/feed/) - English
-- ✅ [B1 TV](https://www.b1tv.ro) News - [Feed](https://www.b1tv.ro/feed/) - Romanian
+- ❌ [B1 TV](https://www.b1tv.ro) News - [Feed](https://www.b1tv.ro/feed/)
 - ✅ [Bacau.net](https://www.bacau.net) Regional News: Bacau - [Feed](https://www.bacau.net/feed/) - Romanian
 - ✅ [Bihor News](https://www.bihon.ro) Regional News: Bihor - [Feed](https://www.bihon.ro/feed/) - English
 - ✅ [BZC Press](https://www.bzc.ro) Regional News: Buzau - [Feed](https://www.bzc.ro/feed/) - Romanian
 - ✅ [Cotidianul](https://www.cotidianul.ro) News - [Feed](https://www.cotidianul.ro/feed/) - Romanian
 - ✅ [DC News](https://www.dcnews.ro) News - [Feed](https://www.dcnews.ro/feed/) - Romanian
 - ✅ [BZ Iasi](https://www.bzi.ro) Regional News: Iasi - [Feed](https://www.bzi.ro/feed/) - Romanian
-- ✅ [Government of Romania (Guvernul României)](https://gov.ro) Government News - [Feed](https://gov.ro/ro/rss) - Romanian
+- ❌ [Government of Romania (Guvernul României)](https://gov.ro) Government News - [Feed](https://gov.ro/ro/rss)
 - ✅ [Ministry of Internal Affairs (Ministerul Afacerilor Interne)](https://www.mai.gov.ro) Government News - [Feed](https://www.mai.gov.ro/feed/) - Romanian
 - ✅ [Ministry of Environment, Waters and Forests (Ministerul Mediului, Apelor și Pădurilor)](https://mmediu.ro) Government News - [Feed](https://mmediu.ro/feed/) - Romanian
 - ✅ [Ministry of Finance (Ministerul Finanțelor)](https://mfinante.gov.ro) Government News - [Feed](https://mfinante.gov.ro/ro/despre-minister?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_uwgr&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=getRSS&p_p_cacheability=cacheLevelPage) - Romanian
@@ -4227,7 +4236,7 @@
 ## Saint Lucia
 
 - ✅ [St. Lucia Times](https://stluciatimes.com) - [Feed](https://stluciatimes.com/feed/) - English
-- ❌ [The Voice of Saint Lucia](https://thevoiceslu.com) - [Feed](https://thevoiceslu.com/feed/)
+- ✅ [The Voice of Saint Lucia](https://thevoiceslu.com) - [Feed](https://thevoiceslu.com/feed/) - English
 - ❌ [St. Lucia News Online](https://www.stlucianewsonline.com) - [Feed](https://www.stlucianewsonline.com/feed/)
 - ❌ [DBS Television](https://dbstvstlucia.com) - [Feed](https://dbstvstlucia.com/feed/)
 - ❌ [Radio Caribbean International](https://rcistlucia.com) - [Feed](https://rcistlucia.com/feed/)
@@ -4293,10 +4302,10 @@
 - ❌ [Dakar Matin](https://dakarmatin.com/) News - [Feed](https://dakarmatin.com/feed/)
 - ✅ [ActuSen](https://actusen.sn/) News - [Feed](https://actusen.sn/feed/) - French
 - ❌ [Teranga News](https://teranganews.sn/) News - [Feed](https://teranganews.sn/feed/)
-- ❌ [Dakar Midi](https://dakarmidi.net/) News - [Feed](https://dakarmidi.net/feed/)
+- ✅ [Dakar Midi](https://dakarmidi.net/) News - [Feed](https://dakarmidi.net/feed/) - French
 - ❌ [Agence de Presse Sénégalaise](https://aps.sn/) News - [Feed](https://aps.sn/feed/)
 - ✅ [La Vie Sénégalaise](https://laviesenegalaise.com/) News - [Feed](https://laviesenegalaise.com/feed/) - French
-- ❌ [Social Net Link](https://www.socialnetlink.org/) News - [Feed](https://www.socialnetlink.org/feed/)
+- ✅ [Social Net Link](https://www.socialnetlink.org/) News - [Feed](https://www.socialnetlink.org/feed/) - French
 - ✅ [EnQuête+](https://www.enqueteplus.com/) News - [Feed](https://enqueteplus.com/rss.xml) - English
 - ✅ [Dakaractu](https://www.dakaractu.com) News (French) - [Feed](https://www.dakaractu.com/xml/syndication.rss) - French
 - ✅ [SeneNews](https://www.senenews.com) News (French) - [Feed](https://www.senenews.com/feed/) - French
@@ -4316,7 +4325,7 @@
 - ✅ [naslovi.net](http://naslovi.net/) - [Feed](http://www.naslovi.net/rss/politika/) - Serbian
 - ✅ [Danas](http://danas.rs/) - [Feed](http://www.danas.rs/rss/rss.asp?column_id=0) - Serbian
 - ✅ [Televizija N1](https://n1info.rs/) - [Feed](https://n1info.rs/feed/) - Bosnian
-- ✅ [Espreso](https://www.espreso.co.rs/) News - [Feed](https://www.espreso.co.rs/rss) - Bosnian
+- ✅ [Espreso](https://www.espreso.co.rs/) News - [Feed](https://www.espreso.co.rs/rss) - Croatian
 - ✅ [Government of the Republic of Serbia (Влада Републике Србије)](https://www.srbija.gov.rs) Government News - [Feed](https://www.srbija.gov.rs/rss/) - Serbian
 - ✅ [Ministry of Foreign Affairs (Министарство спољних послова)](https://www.mfa.gov.rs) Government News - [Feed](https://www.mfa.gov.rs/rss.xml) - Serbian
 - ✅ [Ministry of Defence (Министарство одбране)](https://www.mod.gov.rs) Government News - [Feed](https://www.mod.gov.rs/rss.php?cir) - Serbian
@@ -4328,7 +4337,7 @@
 - ✅ [Commissioner for Information of Public Importance and Personal Data Protection (Повереник за информације од јавног значаја и заштиту података о личности)](https://www.poverenik.rs) Data Protection Authority - [Feed](https://www.poverenik.rs/rss/?change_lang=cr) - Serbian
 - ✅ [Commission for Protection of Competition (Комисија за заштиту конкуренције)](https://www.kzk.gov.rs) Competition Authority - [Feed](https://www.kzk.gov.rs/rss/?change_lang=cr) - Serbian
 - ✅ [City of Niš (Град Ниш)](https://www.ni.rs) Government News: Niš - [Feed](https://www.ni.rs/feed/) - Serbian
-- ❌ [City of Kragujevac (Град Крагујевац)](https://kragujevac.ls.gov.rs) Government News: Kragujevac - [Feed](https://kragujevac.ls.gov.rs/rss/?change_lang=cr)
+- ✅ [City of Kragujevac (Град Крагујевац)](https://kragujevac.ls.gov.rs) Government News: Kragujevac - [Feed](https://kragujevac.ls.gov.rs/rss/?change_lang=cr) - Serbian
 
 ## Seychelles
 
@@ -4410,7 +4419,7 @@
 - ✅ [MMC RTV Slovenija](http://rtvslo.si/) - [Feed](http://www.rtvslo.si/feeds/01.xml) - Slovenian
 - ✅ [Delo](http://delo.si/) - [Feed](http://www.delo.si/rss/) - Slovenian
 - ✅ [Slovenske novice](http://slovenskenovice.si/) - [Feed](http://www.slovenskenovice.si/rss) - Slovenian
-- ✅ [Nova24TV](https://www.nova24tv.si) News - [Feed](https://www.nova24tv.si/rss) - Slovenian
+- ❌ [Nova24TV](https://www.nova24tv.si) News - [Feed](https://www.nova24tv.si/rss)
 - ✅ [24ur](https://www.24ur.com) News - [Feed](https://www.24ur.com/rss) - Sinhala
 - ✅ [Novice.si](https://www.novice.si) News - [Feed](https://www.novice.si/rss) - Slovenian
 - ✅ [Primorske novice](https://www.primorske.si) Regional News: Primorska - [Feed](https://www.primorske.si/rss.xml) - Slovenian
@@ -4453,7 +4462,7 @@
 - ✅ [Somali Dispatch](https://www.somalidispatch.com) News (English) - [Feed](https://www.somalidispatch.com/feed/) - English
 - ✅ [Goobjoog News (English)](https://goobjoog.com) News (English) - [Feed](https://goobjoog.com/english/feed/) - English
 - ✅ [WardheerNews](https://wardheernews.com) News (English) - [Feed](https://wardheernews.com/feed/) - English
-- ❌ [Somaliland Standard](https://somalilandstandard.com) Regional News: Somaliland - [Feed](https://somalilandstandard.com/feed/)
+- ✅ [Somaliland Standard](https://somalilandstandard.com) Regional News: Somaliland - [Feed](https://somalilandstandard.com/feed/) - English
 - ❌ [Somaliland Chronicle](https://somalilandchronicle.com) Regional News: Somaliland - [Feed](https://somalilandchronicle.com/feed/)
 - ✅ [Saxafi Media](https://saxafimedia.com) Regional News: Somaliland - [Feed](https://saxafimedia.com/feed/) - English
 - ✅ [Goobjoog News](https://goobjoog.com) News (Somali) - [Feed](https://goobjoog.com/feed/) - Somali
@@ -4518,7 +4527,7 @@
 - ❌ [Council for Geoscience](https://www.geoscience.org.za) Geological Authority - [Feed](https://www.geoscience.org.za/feed/)
 - ❌ [National Institute for Communicable Diseases (NICD)](https://www.nicd.ac.za) Public Health Authority - [Feed](https://www.nicd.ac.za/feed/)
 - ✅ [Eskom](https://www.eskom.co.za) Energy Regulatory Authority - [Feed](https://www.eskom.co.za/feed/) - English
-- ✅ [South African Government - Speeches](https://www.gov.za) Government News - [Feed](https://www.gov.za/speeches-feed) - English
+- ❌ [South African Government - Speeches](https://www.gov.za) Government News - [Feed](https://www.gov.za/speeches-feed)
 - ❌ [Department of Justice and Constitutional Development (South Africa)](https://www.justice.gov.za) Government News - [Feed](https://www.justice.gov.za/rssjustice.xml)
 - ✅ [Department of Transport (South Africa)](https://www.transport.gov.za) Government News - [Feed](https://www.transport.gov.za/?feed=rss2) - English
 - ✅ [South African Revenue Service (SARS)](https://www.sars.gov.za) Tax Authority - [Feed](https://www.sars.gov.za/feed/?post_type=latest_news) - English
@@ -4548,7 +4557,7 @@
 - ✅ [Ministry of Food and Drug Safety (MFDS)](https://www.mfds.go.kr) Food Safety Authority - [Feed](https://www.mfds.go.kr/www/rss/brd.do?brdId=ntc0021) - Korean
 - ✅ [Korea Internet & Security Agency (KISA) - Boho Nara](https://www.boho.or.kr) Cyber Security Authority - [Feed](https://www.boho.or.kr/kr/rss.do?bbsId=B0000133) - Korean
 - ❌ [Seoul Metropolitan Government](https://news.seoul.go.kr) Government News: Seoul - [Feed](https://news.seoul.go.kr/gov/rss)
-- ❌ [Ministry of the Interior and Safety (MOIS, 행정안전부)](https://www.mois.go.kr) Government News - [Feed](https://www.mois.go.kr/gpms/view/jsp/rss/rss.jsp?ctxCd=1012)
+- ✅ [Ministry of the Interior and Safety (MOIS, 행정안전부)](https://www.mois.go.kr) Government News - [Feed](https://www.mois.go.kr/gpms/view/jsp/rss/rss.jsp?ctxCd=1012) - Korean
 - ✅ [Ministry of the Interior and Safety (MOIS, 행정안전부)](https://www.mois.go.kr) Government News - [Feed](https://www.mois.go.kr/gpms/view/jsp/rss/rss.jsp?ctxCd=1001) - Korean
 - ❌ [Ministry of Employment and Labor (MOEL, 고용노동부)](https://www.moel.go.kr) Government News - [Feed](https://www.moel.go.kr/rss/notice.do)
 - ❌ [Ministry of Employment and Labor (MOEL, 고용노동부)](https://www.moel.go.kr) Government News - [Feed](https://www.moel.go.kr/rss/policy.do)
@@ -4595,7 +4604,7 @@
 - ✅ [Euro Weekly News Spain](https://www.euroweeklynews.com/) - [Feed](https://www.euroweeklynews.com/feed/) - English
 - ✅ [20 minutos](https://www.20minutos.es/) News - [Feed](https://www.20minutos.es/rss/) - Spanish
 - ❌ [Agencia EFE](https://www.agenciaefe.es/) News - [Feed](https://www.agenciaefe.es/rss/)
-- ❌ [Ara](https://www.ara.cat/) Regional News: Catalonia - [Feed](https://www.ara.cat/rss/)
+- ✅ [Ara](https://www.ara.cat/) Regional News: Catalonia - [Feed](https://www.ara.cat/rss/) - Spanish
 - ✅ [Berria](https://www.berria.eus/) Regional News: Basque Country - [Feed](https://www.berria.eus/uploads/feeds/feed_berria_eu.xml) - Basque
 - ✅ [Cadena 100](https://www.cadena100.es/) News - [Feed](https://www.cadena100.es/rss/home.xml) - Spanish
 - ✅ [COPE](https://www.cope.es/) News - [Feed](https://www.cope.es/api/es/news/rss.xml) - Spanish
@@ -4646,15 +4655,15 @@
 
 - ✅ [Lanka Hot News](http://www.lankahotnews.net/) - [Feed](http://www.lankahotnews.net/feeds/posts/default?alt=rss)
 - ✅ [Ada Derana](https://www.adaderana.lk) News - [Feed](https://www.adaderana.lk/rss.php) - English
-- ✅ [The Island](https://island.lk) News - [Feed](https://island.lk/feed/) - English
-- ✅ [Daily FT](https://www.ft.lk) Business - [Feed](https://www.ft.lk/rss/top-story/26) - English
+- ❌ [The Island](https://island.lk) News - [Feed](https://island.lk/feed/)
+- ❌ [Daily FT](https://www.ft.lk) Business - [Feed](https://www.ft.lk/rss/top-story/26)
 - ✅ [Lanka Business Online](https://www.lankabusinessonline.com) Business - [Feed](https://www.lankabusinessonline.com/feed/) - English
 - ✅ [Sri Lanka Mirror](https://srilankamirror.com) News - [Feed](https://srilankamirror.com/category/news/feed/) - English
 - ✅ [Lanka News Web](https://lankanewsweb.net) News - [Feed](https://lankanewsweb.net/feed/) - English
 - ❌ [The Nation](https://nation.lk) News - [Feed](https://nation.lk/online/rss.xml)
 - ✅ [Onlanka](https://www.onlanka.com) News - [Feed](https://www.onlanka.com/feed) - English
 - ❌ [Colombo Telegraph](https://www.colombotelegraph.com) News - [Feed](https://www.colombotelegraph.com/index.php/feed/)
-- ❌ [NewsWire](https://www.newswire.lk) News - [Feed](https://www.newswire.lk/feed/)
+- ✅ [NewsWire](https://www.newswire.lk) News - [Feed](https://www.newswire.lk/feed/) - English
 - ✅ [Sri Lanka Mirror](https://srilankamirror.com) News - [Feed](https://srilankamirror.com/feed/) - English
 - ✅ [Sri Lanka Brief](https://srilankabrief.org) News - [Feed](https://srilankabrief.org/feed/) - English
 - ❌ [Pulse](https://pulse.lk) Lifestyle - [Feed](https://pulse.lk/feed/)
@@ -4922,10 +4931,10 @@
 - ✅ [Nova Makedonija](https://novamakedonija.com.mk) News - [Feed](https://novamakedonija.com.mk/feed/) - Macedonian
 - ✅ [Kurir](https://kurir.mk) News - [Feed](https://kurir.mk/feed/) - Macedonian
 - ✅ [Fokus](https://fokus.mk) News - [Feed](https://fokus.mk/feed/) - Macedonian
-- ❌ [Faktor](https://faktor.mk) News - [Feed](https://faktor.mk/feed/)
+- ✅ [Faktor](https://faktor.mk) News - [Feed](https://faktor.mk/feed/) - Macedonian
 - ✅ [A1on](https://a1on.mk) News - [Feed](https://a1on.mk/feed/) - English
 - ✅ [Plusinfo](https://plusinfo.mk) News - [Feed](https://plusinfo.mk/feed/) - English
-- ✅ [360 Stepeni](https://360stepeni.mk) News - [Feed](https://360stepeni.mk/feed/) - Macedonian
+- ❌ [360 Stepeni](https://360stepeni.mk) News - [Feed](https://360stepeni.mk/feed/)
 - ✅ [Lokalno](https://lokalno.mk) News - [Feed](https://lokalno.mk/feed/) - Macedonian
 - ✅ [Portalb (Albanian)](https://portalb.mk) News - [Feed](https://portalb.mk/feed/) - English
 - ✅ [Koha (Albanian)](https://koha.mk) News - [Feed](https://koha.mk/feed/) - Albanian
@@ -5023,7 +5032,7 @@
 - ❌ [Ministry of Foreign Affairs (Dışişleri Bakanlığı)](https://www.mfa.gov.tr) Government News - [Feed](https://www.mfa.gov.tr/tr.rss.mfa?978045a8-225a-487d-8fd8-8d371874e8ec)
 - ✅ [Ministry of Culture and Tourism (Kültür ve Turizm Bakanlığı)](https://www.ktb.gov.tr) Government News - [Feed](https://www.ktb.gov.tr/rss?Tip=2&Anah=1) - Turkish
 - ❌ [Ministry of National Education (Millî Eğitim Bakanlığı)](https://www.meb.gov.tr) Government News - [Feed](https://basinmus.meb.gov.tr/meb_iys_dosyalar/xml/rss_duyurular.xml)
-- ❌ [Ministry of Environment, Urbanization and Climate Change (Çevre, Şehircilik ve İklim Değişikliği Bakanlığı)](https://www.csb.gov.tr) Government News - [Feed](https://www.csb.gov.tr/rss?Tip=2&Anah=1)
+- ✅ [Ministry of Environment, Urbanization and Climate Change (Çevre, Şehircilik ve İklim Değişikliği Bakanlığı)](https://www.csb.gov.tr) Government News - [Feed](https://www.csb.gov.tr/rss?Tip=2&Anah=1) - Turkish
 - ✅ [İzmir Metropolitan Municipality (İzmir Büyükşehir Belediyesi)](https://www.izmir.bel.tr) Government News: İzmir - [Feed](https://www.izmir.bel.tr/tr/Rss/Haberler) - Turkish
 
 ## Turkmenistan
@@ -5052,12 +5061,12 @@
 - ✅ [The Observer](https://observer.ug) News - [Feed](https://observer.ug/feed/) - English
 - ✅ [The Independent](https://www.independent.co.ug) News - [Feed](https://www.independent.co.ug/feed/) - English
 - ✅ [Watchdog Uganda](https://www.watchdoguganda.com) News - [Feed](https://www.watchdoguganda.com/feed) - English
-- ✅ [SoftPower News](https://softpower.ug) News - [Feed](https://softpower.ug/feed/) - English
+- ❌ [SoftPower News](https://softpower.ug) News - [Feed](https://softpower.ug/feed/)
 - ✅ [Eagle Online](https://eagle.co.ug) News - [Feed](https://eagle.co.ug/feed/) - English
 - ✅ [Red Pepper](https://redpepper.co.ug) News - [Feed](https://redpepper.co.ug/feed/) - English
 - ✅ [NTV Uganda](https://ntv.co.ug) News - [Feed](https://ntv.co.ug/feed) - English
 - ✅ [Uganda Radio Network](https://ugandaradionetwork.com) News - [Feed](https://ugandaradionetwork.com/s/feed/) - English
-- ✅ [Business Focus](https://businessfocus.co.ug) Business - [Feed](https://businessfocus.co.ug/feed/) - English
+- ❌ [Business Focus](https://businessfocus.co.ug) Business - [Feed](https://businessfocus.co.ug/feed/)
 - ✅ [Kawowo Sports](https://kawowo.com) Sports - [Feed](https://kawowo.com/feed/) - English
 - ✅ [Matooke Republic](https://matookerepublic.com) Entertainment - [Feed](https://matookerepublic.com/feed/) - English
 - ✅ [Campus Bee](https://campusbee.ug) Education - [Feed](https://campusbee.ug/feed/) - English
@@ -5071,7 +5080,7 @@
 - ✅ [Matooke Republic](https://www.matookerepublic.com/) News - [Feed](https://www.matookerepublic.com/feed) - English
 - ✅ [The Nile Post](https://thenilepost.com/) News - [Feed](https://thenilepost.com/feed) - English
 - ✅ [PC Tech Magazine](https://pctechmag.com/) Technology - [Feed](https://pctechmag.com/feed) - English
-- ✅ [The Cooperator](https://thecooperator.news/) News - [Feed](https://thecooperator.news/feed) - English
+- ❌ [The Cooperator](https://thecooperator.news/) News - [Feed](https://thecooperator.news/feed)
 - ❌ [Uganda Business News](https://ugbusiness.com/) Business - [Feed](https://ugbusiness.com/feed)
 - ❌ [CBS FM (Central Broadcasting Service)](https://cbsfm.ug) News (Luganda) - [Feed](https://cbsfm.ug/feed/)
 - ✅ [Radio Simba](https://www.radiosimba.ug) News (Luganda) - [Feed](https://www.radiosimba.ug/feed/) - English
@@ -5102,7 +5111,7 @@
 - ✅ [Dumskaya.net (Odesa)](https://www.dumskaya.net) Regional News: Odesa - [Feed](https://www.dumskaya.net/rss) - Russian
 - ✅ [Zhitomir-Online](https://zhitomir-online.com) Regional News: Zhitomir - [Feed](https://zhitomir-online.com/rss) - Ukrainian
 - ❌ [Zaxid.net](https://zaxid.net) Regional News: Western Ukraine - [Feed](https://zaxid.net/rss)
-- ✅ [Inform.zp (Zaporizhzhia)](https://inform.zp.ua) Regional News: Zaporizhzhia - [Feed](https://inform.zp.ua/rss) - Ukrainian
+- ❌ [Inform.zp (Zaporizhzhia)](https://inform.zp.ua) Regional News: Zaporizhzhia - [Feed](https://inform.zp.ua/rss)
 - ✅ [Kyiv.News](https://kyiv.news) Regional News: Kyiv - [Feed](https://kyiv.news/rss) - Ukrainian
 - ✅ [Cabinet of Ministers of Ukraine (Кабінет Міністрів України)](https://www.kmu.gov.ua) Government News - [Feed](https://www.kmu.gov.ua/api/rss) - Ukrainian
 - ✅ [Ministry of Energy of Ukraine (Міністерство енергетики України)](https://mev.gov.ua) Government News - [Feed](https://mev.gov.ua/rss.xml) - Ukrainian
@@ -5113,9 +5122,9 @@
 
 ## United Arab Emirates
 
-- ❌ [Dubai Chronicle](https://www.dubaichronicle.com) - [Feed](https://www.dubaichronicle.com/feed)
+- ✅ [Dubai Chronicle](https://www.dubaichronicle.com) - [Feed](https://www.dubaichronicle.com/feed) - English
 - ✅ [Al Jazeera](https://www.aljazeera.com) - [Feed](https://www.aljazeera.com/xml/rss/all.xml) - English
-- ❌ [Middle East Eye](http://www.middleeasteye.net) - [Feed](http://www.middleeasteye.net/rss)
+- ✅ [Middle East Eye](http://www.middleeasteye.net) - [Feed](http://www.middleeasteye.net/rss) - English
 - ✅ [BBC](https://www.bbc.co.uk) - [Feed](https://feeds.bbci.co.uk/news/world/middle_east/rss.xml) - English
 - ✅ [Gulf Times](http://www.gulf-times.com) - [Feed](http://www.gulf-times.com/rssFeed/9) - English
 - ✅ [Gulf Times](http://www.gulf-times.com) - [Feed](http://www.gulf-times.com/rssFeed/8) - English
@@ -5202,7 +5211,7 @@
 - ✅ [Foreign, Commonwealth & Development Office](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office) Government News - [Feed](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=foreign-commonwealth-development-office) - English
 - ✅ [HM Treasury](https://www.gov.uk/government/organisations/hm-treasury) Government News - [Feed](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=hm-treasury) - English
 - ❌ [Home Office](https://www.gov.uk/government/organisations/home-office) Government News - [Feed](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=home-office)
-- ❌ [Ministry of Defence](https://www.gov.uk/government/organisations/ministry-of-defence) Government News - [Feed](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=ministry-of-defence)
+- ✅ [Ministry of Defence](https://www.gov.uk/government/organisations/ministry-of-defence) Government News - [Feed](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=ministry-of-defence) - English
 - ❌ [Ministry of Housing, Communities and Local Government](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government) Government News - [Feed](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=ministry-of-housing-communities-local-government)
 - ❌ [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice) Government News - [Feed](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=ministry-of-justice)
 - ❌ [Northern Ireland Office](https://www.gov.uk/government/organisations/northern-ireland-office) Government News - [Feed](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=northern-ireland-office)
@@ -5224,7 +5233,7 @@
 - ❌ [HM Prison and Probation Service](https://www.gov.uk/government/organisations/hm-prison-and-probation-service) Government News - [Feed](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=hm-prison-and-probation-service)
 - ❌ [Planning Inspectorate](https://www.gov.uk/government/organisations/planning-inspectorate) Planning Authority - [Feed](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=planning-inspectorate)
 - ❌ [Maritime and Coastguard Agency](https://www.gov.uk/government/organisations/maritime-and-coastguard-agency) Maritime Safety Authority - [Feed](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=maritime-and-coastguard-agency)
-- ❌ [Medicines and Healthcare products Regulatory Agency (MHRA)](https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency) Medicines Authority - [Feed](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=medicines-and-healthcare-products-regulatory-agency)
+- ✅ [Medicines and Healthcare products Regulatory Agency (MHRA)](https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency) Medicines Authority - [Feed](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=medicines-and-healthcare-products-regulatory-agency) - English
 - ❌ [UK Health Security Agency (UKHSA)](https://www.gov.uk/government/organisations/uk-health-security-agency) Public Health Authority - [Feed](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=uk-health-security-agency)
 - ❌ [Air Accidents Investigation Branch (AAIB)](https://www.gov.uk/government/organisations/air-accidents-investigation-branch) Aviation Safety Authority - [Feed](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=air-accidents-investigation-branch)
 - ❌ [Marine Accident Investigation Branch (MAIB)](https://www.gov.uk/government/organisations/marine-accident-investigation-branch) Maritime Safety Authority - [Feed](https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=marine-accident-investigation-branch)
@@ -5273,7 +5282,6 @@
 - ❌ [The Telegraph](https://www.telegraph.co.uk) News - [Feed](https://www.telegraph.co.uk/rss/)
 - ✅ [The Week](https://www.theweek.co.uk) News - [Feed](https://www.theweek.co.uk/rss) - English
 - ❌ [The Week Junior Magazine (UK)](https://www.theweekjunior.co.uk) News - [Feed](https://www.theweekjunior.co.uk/rss)
-- ❌ [The Week Junior Science+Nature](https://www.theweekjunior.co.uk) Science and Nature - [Feed](https://www.theweekjunior.co.uk/rss)
 - ❌ [The World of Cross Stitching](https://www.worldofcrossstitching.com) Hobbies - [Feed](https://www.worldofcrossstitching.com/feed/)
 - ❌ [Top Santé](https://www.topsante.com) Health & Lifestyle - [Feed](https://www.topsante.com/feed/)
 - ✅ [Vanity Fair UK](https://www.vanityfair.co.uk) Entertainment - [Feed](https://www.vanityfair.co.uk/rss) - English
@@ -5282,10 +5290,31 @@
 - ✅ [Woman Magazine](https://www.womanmagazine.com) Lifestyle - [Feed](https://www.womanmagazine.com/feed/) - English
 - ✅ [woman&home](https://www.womanandhome.com) Lifestyle - [Feed](https://www.womanandhome.com/feeds.xml) - English
 - ❌ [Women's Fitness](https://www.womensfitness.co.uk) Health - [Feed](https://www.womensfitness.co.uk/feed/)
+- ✅ [Belfast Live](https://www.belfastlive.co.uk) Regional News: Belfast - [Feed](https://www.belfastlive.co.uk/rss.xml) - English
+- ✅ [Birmingham Post](https://www.birminghampost.co.uk) Regional News: Birmingham - [Feed](https://www.birminghampost.co.uk/rss.xml) - English
+- ✅ [Bristol Post](https://bristolpost.co.uk) Regional News: Bristol - [Feed](https://bristolpost.co.uk/rss.xml) - English
+- ✅ [Chronicle Live](https://chroniclelive.co.uk) Regional News: Newcastle - [Feed](https://chroniclelive.co.uk/rss.xml) - English
+- ✅ [Creative Bloq](https://creativebloq.com) Technology - [Feed](https://creativebloq.com/feed) - English
+- ✅ [Cycling Weekly](https://www.cyclingweekly.com) Sports - [Feed](https://www.cyclingweekly.com/feeds.xml) - English
+- ✅ [Fit & Well](https://www.fitandwell.com) Health - [Feed](https://www.fitandwell.com/feeds.xml) - English
+- ✅ [Evening Standard](https://www.standard.co.uk) Regional News: London - [Feed](https://www.standard.co.uk/rss) - English
+- ✅ [Edinburgh Live](https://www.edinburghlive.co.uk) Regional News: Edinburgh - [Feed](https://www.edinburghlive.co.uk/rss.xml) - English
+- ✅ [Glasgow Live](https://www.glasgowlive.co.uk) Regional News: Glasgow - [Feed](https://www.glasgowlive.co.uk/rss.xml) - English
+- ✅ [indy100](https://www.indy100.com) Entertainment - [Feed](https://www.indy100.com/rss) - English
+- ✅ [International Business Times UK](https://www.ibtimes.co.uk) Business - [Feed](https://www.ibtimes.co.uk/rss) - English
+- ✅ [IT Pro](https://www.itpro.com) News - [Feed](https://itpro.com/rss) - English
+- ✅ [Liverpool Echo](https://www.liverpoolecho.co.uk) Regional News: Liverpool - [Feed](https://liverpoolecho.co.uk/rss.xml) - English
+- ✅ [MusicRadar](https://www.musicradar.com) Music - [Feed](https://www.musicradar.com/feeds.xml) - English
+- ✅ [Nottingham Post](https://www.nottinghampost.com) Regional News: Nottingham - [Feed](https://www.nottinghampost.com/rss.xml) - English
+- ✅ [T3](https://www.t3.com) Technology - [Feed](https://www.t3.com/feeds.xml) - English
+- ✅ [TechRadar](https://www.techradar.com) Technology - [Feed](https://www.techradar.com/feeds.xml) - English
+- ✅ [The Guardian - UK](https://www.theguardian.com) News - [Feed](https://www.theguardian.com/international/rss) - English
+- ✅ [The Independent UK](https://www.independent.co.uk) News - [Feed](https://www.independent.co.uk/rss) - English
+- ✅ [Total Film](https://www.totalfilm.com) Entertainment - [Feed](https://www.gamesradar.com/feeds.xml) - English
 
 ## United Republic of Tanzania
 
-- ✅ [Daily News](https://dailynews.co.tz/) News - [Feed](https://dailynews.co.tz/feed/) - English
+- ❌ [Daily News](https://dailynews.co.tz/) News - [Feed](https://dailynews.co.tz/feed/)
 - ❌ [HabariLeo](https://www.habarileo.co.tz/) News - [Feed](https://www.habarileo.co.tz/feed)
 - ✅ [Global Publishers](https://globalpublishers.co.tz/) News - [Feed](https://globalpublishers.co.tz/feed/) - English
 - ✅ [Michuzi Blog](https://issamichuzi.blogspot.com/) News - [Feed](https://issamichuzi.blogspot.com/feeds/posts/default) - Swahili
@@ -5362,7 +5391,7 @@
 - ✅ [Vox](https://www.vox.com) News - [Feed](https://www.vox.com/rss/index.xml) - English
 - ✅ [The Intercept](https://theintercept.com) News - [Feed](https://theintercept.com/feed/?rss) - English
 - ✅ [The Hill](https://thehill.com) News - [Feed](https://thehill.com/feed) - English
-- ✅ [Newsweek](https://www.newsweek.com) News - [Feed](https://newsweek.com/rss) - English
+- ❌ [Newsweek](https://www.newsweek.com) News - [Feed](https://newsweek.com/rss)
 - ✅ [Mediaite](https://www.mediaite.com) News - [Feed](https://www.mediaite.com/feed/) - English
 - ✅ [Ars Technica](https://arstechnica.com) News - [Feed](https://arstechnica.com/feed/) - English
 - ✅ [National Review](https://www.nationalreview.com) News - [Feed](https://www.nationalreview.com/feed/) - English
@@ -5415,7 +5444,7 @@
 - ✅ [U.S. Department of Justice (DOJ)](https://www.justice.gov) Government News - [Feed](https://www.justice.gov/news/rss) - English
 - ❌ [U.S. Department of Labor (DOL)](https://www.dol.gov) Government News - [Feed](https://www.dol.gov/rss.xml)
 - ❌ [U.S. Department of Housing and Urban Development (HUD)](https://www.hud.gov) Government News - [Feed](https://www.hud.gov/rss.xml)
-- ❌ [U.S. Department of Education](https://www.ed.gov) Government News - [Feed](https://www2.ed.gov/rss.xml)
+- ✅ [U.S. Department of Education](https://www.ed.gov) Government News - [Feed](https://www2.ed.gov/rss.xml) - English
 - ❌ [Federal Deposit Insurance Corporation (FDIC)](https://www.fdic.gov) Financial Regulator - [Feed](https://www.fdic.gov/rss.xml)
 - ❌ [U.S. Securities and Exchange Commission (SEC)](https://www.sec.gov) Financial Regulator - [Feed](https://www.sec.gov/news/pressreleases.rss)
 - ❌ [Federal Reserve Board](https://www.federalreserve.gov) Financial Regulator - [Feed](https://www.federalreserve.gov/feeds/press_all.xml)
@@ -5496,13 +5525,13 @@
 - ✅ [Foreign Policy](https://foreignpolicy.com) News & Politics - [Feed](https://foreignpolicy.com/feed/) - English
 - ✅ [Golf.com](https://www.golf.com) Sports - [Feed](https://golf.com/feed/) - English
 - ✅ [GQ](https://www.gq.com) Lifestyle & Entertainment - [Feed](https://www.gq.com/feed/rss) - English
-- ✅ [Gripped](https://gripped.com) Sports & Outdoors - [Feed](https://gripped.com/feed/) - English
+- ❌ [Gripped](https://gripped.com) Sports & Outdoors - [Feed](https://gripped.com/feed/)
 - ✅ [Guitar World](https://www.guitarworld.com) Hobbies & Music - [Feed](https://www.guitarworld.com/feeds.xml) - English
 - ✅ [Homes & Gardens](https://www.homesandgardens.com) Home & Garden - [Feed](https://www.homesandgardens.com/rss) - English
 - ✅ [Kiplinger](https://www.kiplinger.com) Business - [Feed](https://www.kiplinger.com/feeds.xml) - English
 - ✅ [Ladybug Magazine](https://www.cricketmedia.com) Kids & Parenting - [Feed](https://cricketmedia.com/feed/) - English
-- ❌ [Macworld](https://www.macworld.com) Science & Tech - [Feed](https://www.macworld.com/feed)
-- ✅ [Marlin](https://www.marlinmag.com) Hobbies & Outdoors - [Feed](https://www.marlinmag.com/feed) - English
+- ✅ [Macworld](https://www.macworld.com) Science & Tech - [Feed](https://www.macworld.com/feed) - English
+- ❌ [Marlin](https://www.marlinmag.com) Hobbies & Outdoors - [Feed](https://www.marlinmag.com/feed)
 - ✅ [MassLive.com](https://www.masslive.com) Regional News: Massachusetts - [Feed](https://www.masslive.com/arc/outboundfeeds/rss/?outputType=xml) - English
 - ✅ [Maxim](https://www.maxim.com) Mens Lifestyle - [Feed](https://www.maxim.com/feed) - English
 - ✅ [MarketWatch](https://www.marketwatch.com) Business - [Feed](https://feeds.marketwatch.com/marketwatch/topstories/) - English
@@ -5520,7 +5549,7 @@
 - ✅ [PCWorld](https://www.pcworld.com) Technology - [Feed](https://www.pcworld.com/feed) - English
 - ✅ [Popular Woodworking](https://www.popularwoodworking.com) Hobbies - [Feed](https://www.popularwoodworking.com/feed) - English
 - ✅ [Puck](https://puck.news) News & Politics - [Feed](https://puck.news/feed/) - English
-- ✅ [Sports Illustrated](https://www.si.com) Sports - [Feed](https://www.si.com/feed) - English
+- ✅ [Sports Illustrated](https://www.si.com) Sports - [Feed](https://www.si.com/feed)
 - ✅ [Sunset](https://www.sunset.com) Home & Garden - [Feed](https://www.sunset.com/feed) - English
 - ❌ [Taste of Home](https://www.tasteofhome.com) Food - [Feed](https://www.tasteofhome.com/feed)
 - ❌ [Stereophile](https://www.stereophile.com) Hobbies - [Feed](https://www.stereophile.com/rss.xml)
@@ -5540,6 +5569,50 @@
 - ❌ [Woman's Day](https://www.womansday.com) Lifestyle - [Feed](https://www.womansday.com/rss/all.xml)
 - ✅ [Woman's World](https://www.womansworld.com) Lifestyle - [Feed](https://www.womansworld.com/feed/) - English
 - ✅ [Women's Health](https://www.womenshealthmag.com) Health - [Feed](https://www.womenshealthmag.com/rss/all.xml) - English
+- ✅ [AVNetwork](https://www.avnetwork.com) Technology - [Feed](https://www.avnetwork.com/rss.xml) - English
+- ✅ [Axios](https://www.axios.com) News - [Feed](https://api.axios.com/feed/) - English
+- ❌ [Beating Broke](https://www.beatingbroke.com) Lifestyle - [Feed](https://www.beatingbroke.com/feed/)
+- ❌ [Blogging Away Debt](https://bloggingawaydebt.com) Business - [Feed](https://bloggingawaydebt.com/feed)
+- ✅ [Budget and the Bees](https://budgetandthebees.com) Business - [Feed](https://budgetandthebees.com/feed) - English
+- ✅ [Capital & Main](https://capitalandmain.com) News - [Feed](https://capitalandmain.com/feed) - English
+- ✅ [Cinemablend](https://cinemablend.com) Entertainment - [Feed](https://cinemablend.com/rss.xml) - English
+- ✅ [Clever Dude](https://cleverdude.com) Business - [Feed](https://cleverdude.com/feed) - English
+- ✅ [Destructoid](https://www.destructoid.com) Entertainment - [Feed](https://www.destructoid.com/feed/) - English
+- ❌ [Dinks Finance](https://www.dinksfinance.com) Business - [Feed](https://www.dinksfinance.com/feed)
+- ✅ [Dot Esports](https://www.dotesports.com) Entertainment - [Feed](https://www.dotesports.com/feed) - English
+- ✅ [Foreign Affairs](https://www.foreignaffairs.com) News - [Feed](https://www.foreignaffairs.com/rss.xml) - English
+- ❌ [Frugal Gardening](https://frugalgardening.com) Home & Garden - [Feed](https://www.frugalgardening.com/feed)
+- ✅ [Grocery Coupon Guide](https://www.grocerycouponguide.com) Lifestyle - [Feed](https://www.grocerycouponguide.com/feed/) - English
+- ✅ [InsideEVs](https://insideevs.com) Cars - [Feed](https://insideevs.com/feed) - English
+- ✅ [International Business Times](https://www.ibtimes.com) Business - [Feed](https://www.ibtimes.com/rss) - English
+- ✅ [Inverse](https://www.inverse.com) News - [Feed](https://inverse.com/rss) - English
+- ✅ [Latin Times](https://www.latintimes.com) News - [Feed](https://latintimes.com/rss) - English
+- ✅ [LiveScience](https://www.livescience.com) News - [Feed](https://livescience.com/rss) - English
+- ✅ [Marie Claire](https://www.marieclaire.com) News - [Feed](https://marieclaire.com/rss) - English
+- ✅ [MarketBeat](https://www.marketbeat.com) News - [Feed](https://marketbeat.com/feed/) - English
+- ✅ [Medical Daily](https://www.medicaldaily.com) News - [Feed](https://medicaldaily.com/rss) - English
+- ✅ [Mic](https://www.mic.com) News - [Feed](https://mic.com/rss) - English
+- ❌ [Newlyweds on a Budget](https://www.newlywedsonabudget.com) Lifestyle - [Feed](https://www.newlywedsonabudget.com/feed)
+- ✅ [RideApart](https://www.rideapart.com) Automotive - [Feed](https://www.rideapart.com/rss/news/all/) - English
+- ✅ [Roll Call](https://rollcall.com) Politics - [Feed](https://rollcall.com/feed/) - English
+- ✅ [Salon](https://www.salon.com) News - [Feed](https://www.salon.com/feed) - English
+- ✅ [Space](https://www.space.com) Science - [Feed](https://www.space.com/feeds.xml) - English
+- ❌ [Plunged in Debt](https://www.plungedindebt.com) Business - [Feed](https://plungedindebt.com/feed/)
+- ✅ [Pro Game Guides](https://progameguides.com) Gaming - [Feed](https://progameguides.com/feed/) - English
+- ✅ [SuperWest Sports](https://www.superwestsports.com) Sports - [Feed](https://superwestsports.com/feed/) - English
+- ✅ [Tech&Learning](https://www.techlearning.com) Technology - [Feed](https://www.techlearning.com/feeds.xml) - English
+- ✅ [The Guardian - US](https://www.theguardian.com) News - [Feed](https://www.theguardian.com/us-news/rss) - English
+- ✅ [The Mary Sue](https://www.themarysue.com) Entertainment - [Feed](https://www.themarysue.com/feed/) - English
+- ✅ [The Texas Tribune](https://www.texastribune.org) News - [Feed](https://www.texastribune.org/feed/) - English
+- ❌ [Thousandaire](https://www.thousandaire.com) Business - [Feed](https://www.thousandaire.com/feed/)
+- ✅ [Tom's Guide](https://www.tomsguide.com) Technology - [Feed](https://www.tomsguide.com/rss/) - English
+- ✅ [Tom's Hardware](https://www.tomshardware.com) Technology - [Feed](https://www.tomshardware.com/feeds.xml) - English
+- ✅ [TV Technology](https://www.tvtechnology.com) Technology - [Feed](https://www.tvtechnology.com/feeds.xml) - English
+- ❌ [USAFacts](https://usafacts.org) News - [Feed](https://usafacts.org/rss/)
+- ✅ [We Got This Covered](https://wegotthiscovered.com) Entertainment - [Feed](https://wegotthiscovered.com/feed/) - English
+- ❌ [What To Watch](https://www.whattowatch.com) Entertainment - [Feed](https://www.whattowatch.com/feeds.xml)
+- ❌ [Windows Central](https://www.windowscentral.com) Technology - [Feed](https://www.windowscentral.com/feeds.xml)
+- ✅ [Zenger](https://zenger.news) News - [Feed](https://zenger.news/feed/) - English
 
 ## Uruguay
 
@@ -5557,7 +5630,7 @@
 ## Uzbekistan
 
 - ✅ [Gazeta.uz](http://gazeta.uz/) - [Feed](http://www.gazeta.uz/rss/) - Uzbek
-- ❌ [Kun.uz](https://kun.uz) News - [Feed](https://kun.uz/news/rss)
+- ✅ [Kun.uz](https://kun.uz) News - [Feed](https://kun.uz/news/rss) - Uzbek
 - ✅ [Podrobno.uz](https://podrobno.uz) News - [Feed](https://podrobno.uz/rss/) - Russian
 - ✅ [UzA (National News Agency of Uzbekistan)](https://uza.uz) News - [Feed](https://uza.uz/uz/rss) - Uzbek
 - ✅ [Zamin.uz](https://zamin.uz) News - [Feed](https://zamin.uz/rss) - Uzbek
@@ -5574,7 +5647,7 @@
 ## Venezuela
 
 - ✅ [El Nacional](http://el-nacional.com/) - [Feed](http://www.el-nacional.com/rss/) - Spanish
-- ✅ [La Patilla](https://lapatilla.com) News - [Feed](https://lapatilla.com/feed/) - Spanish
+- ❌ [La Patilla](https://lapatilla.com) News - [Feed](https://lapatilla.com/feed/)
 - ✅ [El Pitazo](https://elpitazo.net) News - [Feed](https://elpitazo.net/feed/) - Spanish
 - ✅ [Efecto Cocuyo](https://efectococuyo.com) News - [Feed](https://efectococuyo.com/feed/) - Spanish
 - ✅ [Runrun.es](https://runrun.es) News - [Feed](https://runrun.es/feed/) - Spanish
@@ -5721,12 +5794,12 @@
 - ✅ [Cult of Mac](https://www.cultofmac.com/) Apple - [Feed](https://www.cultofmac.com/feed) - English
 - ✅ [Daring Fireball](https://daringfireball.net/) Apple - [Feed](https://daringfireball.net/feeds/main) - English
 - ✅ [MacStories](https://www.macstories.net/) Apple - [Feed](https://www.macstories.net/feed) - English
-- ❌ [Macworld.com](https://www.macworld.com/) Apple - [Feed](https://www.macworld.com/index.rss)
+- ✅ [Macworld.com](https://www.macworld.com/) Apple - [Feed](https://www.macworld.com/index.rss) - English
 - ✅ [Architectural Digest](https://www.architecturaldigest.com/) Architecture - [Feed](https://www.architecturaldigest.com/feed/rss) - English
 - ✅ [Dezeen](https://www.dezeen.com/) Architecture - [Feed](https://www.dezeen.com/architecture/feed/) - English
 - ✅ [Dezeen](https://www.dezeen.com/) Interior design - [Feed](https://www.dezeen.com/interiors/feed/) - English
-- ❌ [Design Milk](https://design-milk.com/) Architecture - [Feed](https://design-milk.com/category/architecture/feed/)
-- ❌ [Design Milk](https://design-milk.com/) Interior design - [Feed](https://design-milk.com/category/interior-design/feed/)
+- ✅ [Design Milk](https://design-milk.com/) Architecture - [Feed](https://design-milk.com/category/architecture/feed/) - English
+- ✅ [Design Milk](https://design-milk.com/) Interior design - [Feed](https://design-milk.com/category/interior-design/feed/) - English
 - ✅ [The Architect’s Newspaper](https://archpaper.com/) Architecture - [Feed](https://archpaper.com/feed) - English
 - ✅ [designboom](https://www.designboom.com/) Architecture - [Feed](https://www.designboom.com/architecture/feed/) - English
 - ✅ [ELLE](https://www.elle.com/) Beauty - [Feed](https://www.elle.com/rss/beauty.xml/) - English
@@ -5852,13 +5925,15 @@
 - ✅ [Robb Report](https://www.robbreport.com) Lifestyle - [Feed](https://www.robbreport.com/feed) - English
 - ✅ [Rolling Stone](https://www.rollingstone.com) Entertainment - [Feed](https://www.rollingstone.com/feed) - English
 - ✅ [Vogue](https://www.vogue.com) Style & Beauty - [Feed](https://www.vogue.com/feed/rss) - English
+- ✅ [Bored Panda](https://boredpanda.com) Entertainment - [Feed](https://boredpanda.com/feed) - English
+- ✅ [GamesRadar](https://www.gamesradar.com) Entertainment - [Feed](https://www.gamesradar.com/rss.xml) - English
 
 ## Statistics
 
 ```
 Countries with valid feeds: 244
-Total publications parsed: 4865
-Valid feeds (✅): 3567
-Invalid/Outdated feeds (❌): 1298
-Success rate: 73.3%
+Total publications parsed: 4940
+Valid feeds (✅): 3616
+Invalid/Outdated feeds (❌): 1324
+Success rate: 73.2%
 ```
